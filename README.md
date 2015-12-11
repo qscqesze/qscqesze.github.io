@@ -4,7 +4,7 @@
 
 ##码农
 
-我是qscqesze，博客：[cnfeat.com](cnfeat.com)
+我是qscqesze，博客：[qscqesze](www.cnblogs.com/qscqesze)
 
 
 
