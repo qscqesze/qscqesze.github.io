@@ -1,6 +1,7 @@
 # Site settings
 title: QSC的博客
 SEOTitle: QSC的博客 | QSC Blog
+header-img: img/post-bg-rwd.jpg  	#显示在首页的背景图片
 email: qscqesze@qq.com
 description: "玉经琢磨多成器，剑拔沉埋便倚天"
 keyword: "QSC, QSC Blog, QSC的博客, qingjun, 卿俊"
@@ -17,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+# weibo_username:     
 zhihu_username:     qscqesze
 github_username:    qscqesze
-# facebook_username:  baiying.qiu.7
-# jianshu_username:   e71990ada2fd
-# twitter_username:   qiubaiying
+# facebook_username:  
+# jianshu_username:   
+# twitter_username:   
 
 
 
@@ -60,24 +61,24 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  enable: false    #是否开启Gitalk评论
+  # clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+  # clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  # repo: qiubaiying.github.io    #仓库名称
+  # owner: qiubaiying    #github用户名
+  # admin: qiubaiying
+  # distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: c8ae0862836fa18baaa62f01f3601408
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
