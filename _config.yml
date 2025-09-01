@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jun Qing / Software Engineer"
+title                    : "Jun Qing / 卿俊"
 title_separator          : "-"
-name                     : &name "Jun Qing"
+name                     : &name "Jun Qing 卿俊"
 description              : &description "personal description"
 url                      : https://qscqesze.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "qscqesze/qscqesze.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "avatar.png"
+  name             : "Jun Qing 卿俊"
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "Surprising Tech. Surprising World."
   location         : "Beijing, China"
-  employer         : "MiniMax"
-  uri              : # URL
+  employer         : "Surprising Tech. / MiniMax"
+  uri              : "https://qscqesze.github.io" # URL
   email            : "qscqesze@gmail.com" 
 
   # Academic websites
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -67,7 +67,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "qscqesze"# Username
+  steam            : 
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
