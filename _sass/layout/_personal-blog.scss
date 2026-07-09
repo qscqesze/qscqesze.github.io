@@ -125,12 +125,58 @@ a {
   font-size: 1.25rem;
 }
 
+.article-brief,
+.article-toc {
+  margin: 1.35rem 0 1.7rem;
+  padding: 0.95rem 1rem;
+  border-left: 3px solid var(--blog-accent);
+  background: color-mix(in srgb, var(--blog-surface) 76%, transparent);
+}
+
+.article-brief p,
+.article-brief ul,
+.article-toc p,
+.article-toc ul {
+  margin-bottom: 0;
+}
+
+.article-brief p,
+.article-toc p {
+  margin-top: 0;
+  color: var(--blog-muted);
+}
+
+.article-brief strong,
+.article-toc strong {
+  color: var(--blog-ink);
+  font-weight: 600;
+}
+
+.article-toc ul {
+  margin-top: 0.5rem;
+  padding-left: 1.15rem;
+}
+
+.article-toc li {
+  margin-bottom: 0.18rem;
+  color: var(--blog-muted);
+}
+
+.article-toc a {
+  color: var(--blog-muted);
+  text-decoration: none;
+}
+
+.article-toc a:hover {
+  color: var(--blog-accent);
+}
+
 .page__content p > img {
   display: block;
   width: auto;
   max-width: min(84%, 380px);
   max-height: 320px;
-  margin: 1.15rem auto 1.45rem;
+  margin: 1.15rem auto 0.5rem;
   border-radius: 8px;
   box-shadow: 0 6px 16px rgba(31, 35, 40, 0.08);
 }
@@ -140,7 +186,7 @@ a {
   height: auto !important;
   max-width: none !important;
   max-height: none !important;
-  margin: 1.05rem auto 1.35rem !important;
+  margin: 1.05rem auto 0.5rem !important;
   border-radius: 8px;
   box-shadow: 0 6px 16px rgba(31, 35, 40, 0.08);
 }
@@ -158,13 +204,34 @@ a {
   height: auto !important;
   max-width: none !important;
   max-height: none !important;
-  margin: 1.1rem auto 1.45rem !important;
+  margin: 1.1rem auto 0.5rem !important;
   border-radius: 8px;
   box-shadow: 0 6px 16px rgba(31, 35, 40, 0.08);
 }
 
 .page__content p > img.travel-photo--landscape {
   width: 420px !important;
+}
+
+.page__content .image-caption {
+  max-width: 420px;
+  margin: 0 auto 1.55rem;
+  color: var(--blog-muted);
+  font-size: 0.78rem !important;
+  line-height: 1.65;
+  text-align: center;
+}
+
+.page__content .image-caption img {
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.page__content .image-caption em {
+  display: block;
+  margin-top: 0.45rem;
+  font-style: normal;
 }
 
 .archive__subtitle {
@@ -257,7 +324,7 @@ a {
   .page__content p > img {
     max-width: min(82%, 320px);
     max-height: 300px;
-    margin: 1rem auto 1.3rem;
+    margin: 1rem auto 0.45rem;
   }
 
   .page__content p > img.tokyo-photo--portrait {
@@ -270,6 +337,16 @@ a {
 
   .page__content p > img.travel-photo--landscape {
     width: min(82vw, 300px) !important;
+  }
+
+  .article-brief,
+  .article-toc {
+    padding: 0.85rem 0.9rem;
+  }
+
+  .image-caption {
+    max-width: min(82vw, 300px);
+    margin-bottom: 1.35rem;
   }
 }
 
