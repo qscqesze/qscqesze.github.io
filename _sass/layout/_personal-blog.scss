@@ -33,7 +33,7 @@ a {
 .masthead {
   background: color-mix(in srgb, var(--blog-surface) 88%, transparent);
   backdrop-filter: blur(16px);
-  box-shadow: 0 1px 18px rgba(31, 35, 40, 0.06);
+  box-shadow: none;
 }
 
 .masthead::after {
@@ -173,20 +173,25 @@ a {
 
 .list__item {
   padding-right: 0;
+  margin: 0 0 1.15rem;
+}
+
+.list__item + .list__item {
+  margin-top: 1.15rem;
 }
 
 .archive__item {
-  padding: 1.4rem 1.5rem;
-  border: 1px solid var(--blog-border);
-  border-radius: 8px;
-  background: var(--blog-surface);
-  box-shadow: 0 12px 30px rgba(31, 35, 40, 0.05);
+  padding: 0 0 1.2rem;
+  border-bottom: 1px solid var(--blog-border);
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
 }
 
 .archive__item-title {
   margin-top: 0;
-  margin-bottom: 0.45rem;
-  font-size: 1.35rem;
+  margin-bottom: 0.28rem;
+  font-size: 1.28rem;
   line-height: 1.25;
 }
 
@@ -200,8 +205,19 @@ a {
 }
 
 .archive__item-excerpt {
+  margin-top: 0.45rem;
   color: var(--blog-muted);
   font-size: 0.95rem;
+}
+
+.archive__item .page__date {
+  margin: 0;
+  color: var(--blog-muted);
+  font-size: 0.82rem;
+}
+
+.archive__item .page__date strong {
+  font-weight: 500;
 }
 
 .page__footer {
@@ -235,7 +251,7 @@ a {
   }
 
   .archive__item {
-    padding: 1.15rem;
+    padding: 0 0 1.1rem;
   }
 
   .page__content p > img {

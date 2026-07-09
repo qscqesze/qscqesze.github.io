@@ -1,6 +1,6 @@
 ---
 title: "东京之旅"
-date: 2026-07-09
+date: 2026-07-09 16:20:00 +0800
 permalink: /posts/tokyo-journey/
 redirect_from:
   - /posts/tokyo-in-the-rain/
