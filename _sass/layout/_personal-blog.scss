@@ -153,6 +153,20 @@ a {
   width: 420px !important;
 }
 
+.page__content p > img.travel-photo {
+  display: block !important;
+  height: auto !important;
+  max-width: none !important;
+  max-height: none !important;
+  margin: 1.1rem auto 1.45rem !important;
+  border-radius: 8px;
+  box-shadow: 0 6px 16px rgba(31, 35, 40, 0.08);
+}
+
+.page__content p > img.travel-photo--landscape {
+  width: 420px !important;
+}
+
 .archive__subtitle {
   display: none;
 }
@@ -235,6 +249,10 @@ a {
   }
 
   .page__content p > img.tokyo-photo--landscape {
+    width: min(82vw, 300px) !important;
+  }
+
+  .page__content p > img.travel-photo--landscape {
     width: min(82vw, 300px) !important;
   }
 }
