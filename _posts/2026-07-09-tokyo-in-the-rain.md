@@ -18,7 +18,7 @@ related: false
 
 第一张照片拍在目黑川一带。它没有那种一眼就会让人喊出来的景观，甚至有点安静得过分：窄窄的河道，两边的树垂下来，雨水把墙面和藤蔓都压成深绿色。远处的楼露出一点，说明这里仍然是东京，不是什么被城市遗忘的郊外。
 
-![雨后的东京河道，两岸树影垂向水面](/images/tokyo-journey/01-rain-canal.jpg)
+![雨后的东京河道，两岸树影垂向水面](/images/tokyo-journey/01-rain-canal.jpg){: .tokyo-photo .tokyo-photo--portrait width="240" loading="lazy" }
 
 目黑川最有名的是春天，两岸樱花把河道压低，照片里常常是人潮和粉色的枝条。但我们看到的是雨季版本：没有拥挤，没有明信片式的热闹，只有水面被雨点敲出一圈圈细纹。中目黑、代官山、惠比寿离这里都不远，往外走一点就是小店、咖啡馆、住宅楼和下班的人。它不像“景点”，更像一个城市把自己的呼吸藏在了河边。
 
@@ -30,7 +30,7 @@ related: false
 
 第二张照片是在塔底拍的。天气不好，塔顶被雾盖住，红色钢梁从头顶斜着压下来。站在下面会很自然地仰头，仰久了脖子有点酸，镜头也会被雨气糊住。平时在远处看东京塔，它像一个城市符号；站到脚下，它更像一副巨大的骨架。
 
-![阴天里从塔底仰望东京塔](/images/tokyo-journey/02-tokyo-tower-under.jpg)
+![阴天里从塔底仰望东京塔](/images/tokyo-journey/02-tokyo-tower-under.jpg){: .tokyo-photo .tokyo-photo--portrait width="240" loading="lazy" }
 
 我喜欢在塔下看它。站在下面，会意识到所有看起来轻盈的高度，其实都来自一根根交叉、焊接、承重的结构。人也差不多。很多时候我们羡慕别人“站得高”，可支撑一个人往上走的，往往是那些不太好看的部分：重复、训练、压力、失败以后又补上的那根梁。
 
@@ -40,13 +40,13 @@ related: false
 
 第三张是我老婆撑伞走上东京塔附近楼梯的时候拍的。那段楼梯两侧是深色墙面，雨水把墙照得发亮，尽头露出被雾裹住的东京塔。她站在画面中间，透明伞把雨隔开一点，裙摆和楼梯都被压在暗处，整张照片像从城市内部往外看。
 
-![撑伞走向雨中的东京塔](/images/tokyo-journey/03-tokyo-tower-stairs.jpg)
+![撑伞走向雨中的东京塔](/images/tokyo-journey/03-tokyo-tower-stairs.jpg){: .tokyo-photo .tokyo-photo--portrait width="240" loading="lazy" }
 
 ## GINZA ONODERA：一顿饭里的手艺
 
 这张是在 GINZA ONODERA 的寿司吧台拍的。旅行里想安排一顿稍微认真一点的饭，想近距离看看一件事被反复练习以后，会变成什么样子。
 
-![料理台前的师傅正在准备食材](/images/tokyo-journey/04-sushi-counter.jpg)
+![料理台前的师傅正在准备食材](/images/tokyo-journey/04-sushi-counter.jpg){: .tokyo-photo .tokyo-photo--portrait width="240" loading="lazy" }
 
 银座本身就很适合这种场景。地面上是百货、老店、奢侈品和整齐的街道，很多餐厅则藏在楼里。走进去以后，外面的雨声和车流声都被关在门外，只剩下吧台、木纹、灯光和师傅手里的刀。
 
@@ -58,7 +58,7 @@ related: false
 
 第五张图是在东京迪士尼海洋的 American Waterfront，也就是“美国海滨”区域。这里做的是一个早期 20 世纪美国港口的想象：水岸、铁桥、旧建筑、码头、长椅、栏杆，还有远处那种像纽约港口一样的立面。东京迪士尼海洋 2001 年开园，整个园区被设计成几个不同的“主题港口”，所以它比普通游乐园更像一座被搭出来的旅行城市。
 
-![灰天下的东京水岸和长椅](/images/tokyo-journey/05-harbor-rain.jpg)
+![灰天下的东京水岸和长椅](/images/tokyo-journey/05-harbor-rain.jpg){: .tokyo-photo .tokyo-photo--landscape width="420" loading="lazy" }
 
 照片里这片水岸看起来很安静。地面湿着，长椅空着，栏杆上有水珠，对岸建筑颜色被阴天压低。附近有 S.S. Columbia 那艘大船，有 Toy Story Mania! 那片更热闹的街区，也有 Cape Cod 那种小镇式的安静。它们都不是真正的美国历史现场，但它们把“港口”这件事做得足够完整：你会愿意在这里停下来，像真的刚经过一段远航。
 
@@ -70,7 +70,7 @@ related: false
 
 第六张图是在东京迪士尼海洋的 Lost River Delta，也就是“失落河三角洲”区域。这里的设定是 1930 年代中美洲丛林里的古文明遗迹：探险队、木桥、河道、绳索、石造神庙，全都围绕“发现未知”这件事展开。照片里的金字塔式建筑，就是这片区域最有辨识度的中心。
 
-![雨后放晴的傍晚天空](/images/tokyo-journey/06-evening-sky.jpg)
+![雨后放晴的傍晚天空](/images/tokyo-journey/06-evening-sky.jpg){: .tokyo-photo .tokyo-photo--portrait width="240" loading="lazy" }
 
 这里有 Indiana Jones Adventure: Temple of the Crystal Skull，也有 Raging Spirits。前者像坐进一场黑暗里的探险电影，后者更直接，是短而刺激的过山车。现实里的中美洲文明当然远比主题乐园里的符号复杂得多，DisneySea 做的不是考古复原，它做的是把“探险”这套想象拆成道路、建筑、声音和等待时的细节。
 
