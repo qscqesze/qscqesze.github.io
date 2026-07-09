@@ -128,11 +128,11 @@ a {
 .page__content p > img {
   display: block;
   width: auto;
-  max-width: min(100%, 560px);
-  max-height: 560px;
-  margin: 1.6rem auto 1.9rem;
+  max-width: min(92%, 460px);
+  max-height: 420px;
+  margin: 1.35rem auto 1.65rem;
   border-radius: 8px;
-  box-shadow: 0 10px 24px rgba(31, 35, 40, 0.10);
+  box-shadow: 0 8px 18px rgba(31, 35, 40, 0.09);
 }
 
 .archive__subtitle {
@@ -207,9 +207,9 @@ a {
   }
 
   .page__content p > img {
-    width: 100%;
-    max-height: none;
-  margin: 1.35rem auto 1.6rem;
+    max-width: min(86%, 360px);
+    max-height: 380px;
+    margin: 1.15rem auto 1.45rem;
   }
 }
 
