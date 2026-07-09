@@ -111,6 +111,55 @@ a {
   color: var(--blog-ink);
 }
 
+.page__content div.highlighter-rouge,
+.page__content figure.highlight {
+  margin: 1.35rem 0;
+  padding: 0;
+  border: 1px solid var(--blog-border);
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--blog-surface) 72%, #eef1f5);
+  box-shadow: none;
+  font-size: 0.9rem;
+  overflow: hidden;
+}
+
+.page__content div.highlighter-rouge::before,
+.page__content figure.highlight::before {
+  display: none;
+}
+
+.page__content .highlight {
+  margin: 0;
+}
+
+.page__content .highlight pre,
+.page__content pre.highlight,
+.page__content pre {
+  max-width: 100%;
+  margin: 0;
+  padding: 1rem;
+  overflow-x: auto;
+  font-size: 0.86rem;
+  line-height: 1.65;
+  white-space: pre;
+}
+
+.page__content code {
+  border-radius: 4px;
+}
+
+.page__content mjx-container[display="true"] {
+  margin: 1.35rem 0 !important;
+  padding: 0.2rem 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.page__content mjx-container[display="true"] > svg,
+.page__content mjx-container[display="true"] > mjx-math {
+  max-width: none;
+}
+
 .page__content p,
 .page__content li,
 .page__content dl {
