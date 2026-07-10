@@ -230,6 +230,8 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  legacy:
+    output: true
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -257,6 +259,19 @@ defaults:
       comments: true
       share: true
       related: true
+  # 从其他博客迁移的旧文（不参与首页和 RSS 的文章分页）
+  - scope:
+      path: ""
+      type: legacy
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: false
+      related: false
+      tags:
+        - 旧文
   # _pages
   - scope:
       path: ""
@@ -309,8 +324,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
+paginate: 3 # 首页每页显示的原创文章数
+paginate_path: /page:num/
 timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
