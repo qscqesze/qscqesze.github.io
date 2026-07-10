@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">FlashAttention-3 的异步流水线</title>
+  <desc id="desc">生产者 warp 使用 TMA 搬数据，消费者 warp 让一个 warpgroup 做矩阵乘时另一个执行 softmax。</desc>
+  <rect width="1200" height="560" rx="24" fill="#f8fafc"/>
+  <style>.h{font:700 28px system-ui,sans-serif;fill:#172033}.t{font:700 20px system-ui,sans-serif;fill:#172033}.s{font:16px system-ui,sans-serif;fill:#526071}.w{font:700 16px system-ui,sans-serif;fill:#fff}</style>
+  <text x="56" y="60" class="h">v3：像餐厅后厨一样，搬运、矩阵乘、Softmax 同时进行</text>
+  <g transform="translate(56 94)">
+    <rect width="1088" height="104" rx="18" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
+    <text x="24" y="34" class="t">生产者 warpgroup</text>
+    <rect x="225" y="20" width="185" height="64" rx="11" fill="#0ea5e9"/><text x="317" y="47" text-anchor="middle" class="w">TMA 搬 Kⱼ、Vⱼ</text><text x="317" y="69" text-anchor="middle" class="w" opacity=".8">HBM → SMEM</text>
+    <path d="M430 52h130" stroke="#64748b" stroke-width="4" marker-end="url(#a)"/>
+    <rect x="580" y="20" width="390" height="64" rx="11" fill="#dbeafe" stroke="#60a5fa"/><text x="775" y="60" text-anchor="middle" class="t">环形缓冲区：下一块提前就位</text>
+  </g>
+  <g transform="translate(56 232)">
+    <rect width="1088" height="254" rx="18" fill="#faf5ff" stroke="#c084fc" stroke-width="2"/>
+    <text x="24" y="38" class="t">消费者 warpgroup：Ping-Pong 排班</text>
+    <text x="36" y="86" class="s">时间 →</text>
+    <g transform="translate(130 58)">
+      <text x="0" y="45" class="s">组 A</text>
+      <rect x="70" y="15" width="220" height="54" rx="9" fill="#7c3aed"/><text x="180" y="48" text-anchor="middle" class="w">WGMMA：QKᵀ</text>
+      <rect x="300" y="15" width="220" height="54" rx="9" fill="#f59e0b"/><text x="410" y="48" text-anchor="middle" class="w">Softmax</text>
+      <rect x="530" y="15" width="220" height="54" rx="9" fill="#7c3aed"/><text x="640" y="48" text-anchor="middle" class="w">WGMMA：PV</text>
+      <text x="0" y="123" class="s">组 B</text>
+      <rect x="70" y="93" width="220" height="54" rx="9" fill="#f59e0b"/><text x="180" y="126" text-anchor="middle" class="w">Softmax</text>
+      <rect x="300" y="93" width="220" height="54" rx="9" fill="#7c3aed"/><text x="410" y="126" text-anchor="middle" class="w">WGMMA：QKᵀ</text>
+      <rect x="530" y="93" width="220" height="54" rx="9" fill="#f59e0b"/><text x="640" y="126" text-anchor="middle" class="w">Softmax</text>
+      <path d="M70 169h750" stroke="#a78bfa" stroke-width="2" stroke-dasharray="7 6"/>
+      <text x="445" y="199" text-anchor="middle" class="s">矩阵乘走 Tensor Core，指数运算走特殊函数单元，尽量互相遮住等待时间</text>
+    </g>
+  </g>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0l10 5-10 5z" fill="#64748b"/></marker></defs>
+</svg>

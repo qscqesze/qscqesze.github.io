@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 580" role="img" aria-labelledby="title desc">
+  <title id="title">FlashAttention-2 的并行与 Warp 分工</title>
+  <desc id="desc">v2 沿序列维度分配更多线程块，并把 Q 分给不同 warp 以减少共享内存通信。</desc>
+  <rect width="1200" height="580" rx="24" fill="#f8fafc"/>
+  <style>.h{font:700 28px system-ui,sans-serif;fill:#172033}.t{font:700 20px system-ui,sans-serif;fill:#172033}.s{font:16px system-ui,sans-serif;fill:#526071}.w{font:700 16px system-ui,sans-serif;fill:#fff}</style>
+  <text x="54" y="60" class="h">v2 做了两级“重新排班”</text>
+  <g transform="translate(55 96)">
+    <rect width="1090" height="178" rx="20" fill="#eff6ff" stroke="#60a5fa" stroke-width="2"/>
+    <text x="28" y="38" class="t">线程块之间：不只按 batch × head 分，还沿序列分</text>
+    <g transform="translate(30 66)">
+      <rect width="175" height="72" rx="12" fill="#dbeafe" stroke="#60a5fa"/><text x="87" y="31" text-anchor="middle" class="s">v1：一个 head</text><text x="87" y="55" text-anchor="middle" class="s">一个大任务</text>
+      <path d="M198 36h75" stroke="#64748b" stroke-width="3" marker-end="url(#a)"/>
+      <g transform="translate(292)">
+        <rect width="132" height="72" rx="10" fill="#0ea5e9"/><rect x="145" width="132" height="72" rx="10" fill="#0284c7"/><rect x="290" width="132" height="72" rx="10" fill="#0369a1"/><rect x="435" width="132" height="72" rx="10" fill="#075985"/>
+        <text x="66" y="43" text-anchor="middle" class="w">Q 块 1</text><text x="211" y="43" text-anchor="middle" class="w">Q 块 2</text><text x="356" y="43" text-anchor="middle" class="w">Q 块 3</text><text x="501" y="43" text-anchor="middle" class="w">Q 块 4</text>
+      </g>
+      <text x="970" y="30" text-anchor="middle" class="s">长序列、小 batch 时</text><text x="970" y="56" text-anchor="middle" class="s">更多 SM 有活干</text>
+    </g>
+  </g>
+  <g transform="translate(55 304)">
+    <rect width="1090" height="218" rx="20" fill="#ecfdf5" stroke="#34d399" stroke-width="2"/>
+    <text x="28" y="38" class="t">线程块内部：从“切 K/V 后汇总”改成“切 Q，各算各的”</text>
+    <g transform="translate(30 68)">
+      <text x="0" y="20" class="s">v1</text>
+      <rect x="60" width="112" height="54" rx="9" fill="#fb7185"/><rect x="182" width="112" height="54" rx="9" fill="#f43f5e"/><rect x="304" width="112" height="54" rx="9" fill="#e11d48"/>
+      <text x="116" y="34" text-anchor="middle" class="w">K/V 片 1</text><text x="238" y="34" text-anchor="middle" class="w">K/V 片 2</text><text x="360" y="34" text-anchor="middle" class="w">K/V 片 3</text>
+      <path d="M430 27h80" stroke="#e11d48" stroke-width="3" marker-end="url(#a)"/>
+      <text x="670" y="20" class="s">中间结果要写 shared memory、同步、再相加</text>
+    </g>
+    <g transform="translate(30 138)">
+      <text x="0" y="20" class="s">v2</text>
+      <rect x="60" width="112" height="54" rx="9" fill="#34d399"/><rect x="182" width="112" height="54" rx="9" fill="#10b981"/><rect x="304" width="112" height="54" rx="9" fill="#059669"/>
+      <text x="116" y="34" text-anchor="middle" class="w">Q 行 1</text><text x="238" y="34" text-anchor="middle" class="w">Q 行 2</text><text x="360" y="34" text-anchor="middle" class="w">Q 行 3</text>
+      <path d="M430 27h80" stroke="#059669" stroke-width="3" marker-end="url(#a)"/>
+      <text x="670" y="20" class="s">每个 warp 得到自己的输出片，无需跨 warp 归约</text>
+    </g>
+  </g>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0l10 5-10 5z" fill="#64748b"/></marker></defs>
+</svg>

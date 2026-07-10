@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">GPU 内存层级</title>
+  <desc id="desc">HBM 容量大但离计算单元较远，片上共享内存和寄存器容量小但速度快。</desc>
+  <defs><linearGradient id="g1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#dbeafe"/><stop offset="1" stop-color="#bfdbfe"/></linearGradient><linearGradient id="g2"><stop offset="0" stop-color="#dcfce7"/><stop offset="1" stop-color="#a7f3d0"/></linearGradient></defs>
+  <rect width="1200" height="560" rx="24" fill="#f8fafc"/>
+  <style>.h{font:700 30px system-ui,sans-serif;fill:#172033}.t{font:700 23px system-ui,sans-serif;fill:#172033}.s{font:17px system-ui,sans-serif;fill:#526071}.n{font:700 17px system-ui,sans-serif;fill:#0369a1}</style>
+  <text x="58" y="62" class="h">GPU 像一间厨房：仓库很大，案板很小</text>
+  <rect x="70" y="110" width="430" height="330" rx="26" fill="url(#g1)" stroke="#60a5fa" stroke-width="3"/>
+  <text x="285" y="160" text-anchor="middle" class="t">HBM / 全局显存</text>
+  <text x="285" y="193" text-anchor="middle" class="s">几十 GB，所有 SM 都能访问</text>
+  <g fill="#eff6ff" stroke="#93c5fd" stroke-width="2">
+    <rect x="105" y="230" width="160" height="72" rx="10"/><rect x="305" y="230" width="160" height="72" rx="10"/>
+    <rect x="105" y="326" width="160" height="72" rx="10"/><rect x="305" y="326" width="160" height="72" rx="10"/>
+  </g>
+  <text x="185" y="274" text-anchor="middle" class="s">Q / K / V</text><text x="385" y="274" text-anchor="middle" class="s">模型参数</text>
+  <text x="185" y="370" text-anchor="middle" class="s">中间结果</text><text x="385" y="370" text-anchor="middle" class="s">最终输出</text>
+  <rect x="700" y="160" width="410" height="220" rx="26" fill="url(#g2)" stroke="#34d399" stroke-width="3"/>
+  <text x="905" y="211" text-anchor="middle" class="t">每个 SM 的片上空间</text>
+  <rect x="742" y="244" width="205" height="92" rx="12" fill="#ecfdf5" stroke="#34d399" stroke-width="2"/>
+  <text x="844" y="280" text-anchor="middle" class="s">Shared Memory</text><text x="844" y="309" text-anchor="middle" class="n">KB 级，可编程</text>
+  <rect x="971" y="244" width="102" height="92" rx="12" fill="#f0fdf4" stroke="#34d399" stroke-width="2"/>
+  <text x="1022" y="280" text-anchor="middle" class="s">寄存器</text><text x="1022" y="309" text-anchor="middle" class="n">最快</text>
+  <path d="M500 232C585 174 620 174 700 221" fill="none" stroke="#f97316" stroke-width="5" marker-end="url(#a)"/>
+  <path d="M700 321C619 369 582 370 500 328" fill="none" stroke="#f97316" stroke-width="5" marker-end="url(#a)"/>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0l10 5-10 5z" fill="#f97316"/></marker></defs>
+  <text x="600" y="143" text-anchor="middle" class="n" fill="#c2410c">搬进去</text><text x="600" y="423" text-anchor="middle" class="n" fill="#c2410c">写回来</text>
+  <text x="600" y="506" text-anchor="middle" class="t">FlashAttention 的第一原则：让每次搬进来的数据多算一会儿</text>
+</svg>
