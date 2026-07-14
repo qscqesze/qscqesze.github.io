@@ -17,7 +17,7 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="page{% if page.collection == 'posts' or page.collection == 'legacy' %} page--article{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
@@ -25,20 +25,21 @@ layout: default
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
-        <header>
+        <header{% if page.collection == 'posts' or page.collection == 'legacy' %} class="article-header"{% endif %}>
           {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
           {% if page.collection == 'posts' or page.collection == 'legacy' %}
+            {% if page.collection == 'posts' and page.excerpt %}<p class="page__dek">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>{% endif %}
             <p class="page__meta page__meta--post">
-              <span class="page__meta-item page__author" itemprop="author" itemscope itemtype="https://schema.org/Person"><i class="fa fa-user" aria-hidden="true"></i> <a href="{{ base_path }}/about/" rel="author" itemprop="url"><span itemprop="name">{{ site.author.name | default: site.name }}</span></a></span>
+              <span class="page__meta-item page__author" itemprop="author" itemscope itemtype="https://schema.org/Person">作者 <a href="{{ base_path }}/about/" rel="author" itemprop="url"><span itemprop="name">{{ site.author.name | default: site.name }}</span></a></span>
               {% if page.modified %}
-                <span class="page__meta-item"><i class="fa fa-calendar" aria-hidden="true"></i> 更新于 <time datetime="{{ page.modified | date_to_xmlschema }}">{{ page.modified | date: "%Y年%m月%d日" }}</time></span>
+                <span class="page__meta-item">更新于 <time datetime="{{ page.modified | date_to_xmlschema }}">{{ page.modified | date: "%Y年%m月%d日" }}</time></span>
               {% elsif page.date %}
-                <span class="page__meta-item"><i class="fa fa-calendar" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y年%m月%d日" }}</time></span>
+                <span class="page__meta-item"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y年%m月%d日" }}</time></span>
               {% endif %}
               {% if page.read_time %}
-                <span class="page__meta-item"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</span>
+                <span class="page__meta-item">{% include read-time.html %}</span>
               {% endif %}
-              <span class="page__meta-item page__views"><i class="fa fa-eye" aria-hidden="true"></i> <span id="busuanzi_page_pv">—</span> 次浏览</span>
+              <span class="page__meta-item page__views"><span id="busuanzi_page_pv">—</span> 次浏览</span>
             </p>
           {% elsif page.read_time %}
             <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
