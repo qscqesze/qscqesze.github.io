@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">qscqesze：把复杂系统讲清楚</title>
+  <desc id="desc">qscqesze 博客的默认社交分享图</desc>
+  <rect width="1200" height="630" fill="#f7f8fb"/>
+  <circle cx="1090" cy="92" r="170" fill="#b84a3a" opacity="0.10"/>
+  <circle cx="1130" cy="560" r="250" fill="#20242a" opacity="0.045"/>
+  <rect x="86" y="84" width="64" height="8" rx="4" fill="#b84a3a"/>
+  <text x="86" y="172" fill="#66707c" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="34" font-weight="600" letter-spacing="1">qscqesze</text>
+  <text x="86" y="292" fill="#20242a" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="72" font-weight="700">把复杂系统讲清楚</text>
+  <text x="90" y="386" fill="#66707c" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="32">AI 系统 · 独立游戏 · 旅行与历史观察</text>
+  <line x1="88" y1="472" x2="1112" y2="472" stroke="#e3e7ed" stroke-width="2"/>
+  <text x="88" y="536" fill="#b84a3a" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="25">qscqesze.github.io</text>
+</svg>

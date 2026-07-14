@@ -88,7 +88,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "og-default.png" # filename of teaser fallback image placed in /images/
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
@@ -152,21 +152,24 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "og-default.png"
+og_image_alt             : "qscqesze：把复杂系统讲清楚"
+og_description           : "AI 系统、独立游戏，以及旅行与历史观察。"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "qscqesze"
+  links:
+    - "https://github.com/qscqesze"
+    - "https://surprising.studio"
 
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "google-analytics-4"
   google:
-    tracking_id          :
+    tracking_id          : # 填入 GA4 Measurement ID，例如 G-XXXXXXXXXX
 
 
 # Reading Files

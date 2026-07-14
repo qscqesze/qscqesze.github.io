@@ -1,0 +1,23 @@
+---
+layout: archive
+permalink: /indie-games/
+title: "独立游戏"
+excerpt: "记录独立游戏的设计、开发与复盘，以及 SurprisingStudio 的项目进展。"
+author_profile: false
+---
+
+{% include base_path %}
+
+<p class="archive__intro">记录游戏规则、交互设计、开发过程和上线后的复盘。项目由 <a href="https://surprising.studio">SurprisingStudio</a> 制作。</p>
+
+{% assign current_game_posts = site.posts | where: "indie_game", true %}
+{% assign legacy_game_posts = site.legacy | where: "indie_game", true %}
+{% assign indie_game_posts = current_game_posts | concat: legacy_game_posts | sort: "date" | reverse %}
+
+{% if indie_game_posts.size > 0 %}
+  {% for post in indie_game_posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+  <p class="archive__empty">开发记录正在整理中。</p>
+{% endif %}

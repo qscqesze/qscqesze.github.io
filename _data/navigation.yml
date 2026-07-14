@@ -2,6 +2,9 @@ main:
   - title: "文章"
     url: /
 
+  - title: "独立游戏"
+    url: /indie-games/
+
   - title: "旧文"
     url: /tags/#旧文
 
