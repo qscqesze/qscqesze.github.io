@@ -348,6 +348,16 @@ a {
   vertical-align: top;
 }
 
+.page__content table.economic-data-table {
+  font-size: 0.86rem;
+}
+
+.page__content table.economic-data-table th,
+.page__content table.economic-data-table td {
+  padding: 0.62rem 0.55rem;
+  vertical-align: top;
+}
+
 @media (max-width: 640px) {
   .page__content .technical-figure {
     width: calc(100% + 1rem);
@@ -355,6 +365,12 @@ a {
   }
 
   .page__content table.flash-version-table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .page__content table.economic-data-table {
     display: block;
     overflow-x: auto;
     white-space: nowrap;
