@@ -1,17 +1,10 @@
 {% if post.read_time %}
-  {% assign words = post.content | strip_html | number_of_words %}
+  {% assign reading_content = post.content %}
 {% elsif page.read_time %}
-  {% assign words = page.content | strip_html | number_of_words %}
+  {% assign reading_content = page.content %}
 {% endif %}
 
-{% if site.words_per_minute %}
-  {% if words < 180 %}
-	  {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
-	{% elsif words < 360 %}
-	  1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
-	{% else %}
-	  {{ words | divided_by:site.words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
-	{% endif %}
-{% else %}
-  {{ site.data.ui-text[site.locale].undefined_wpm | "Undefined parameter words_per_minute at _config.yml" }}
-{% endif %}
+{% assign reading_characters = reading_content | strip_html | strip_newlines | size %}
+{% assign reading_minutes = reading_characters | plus: 449 | divided_by: 450 %}
+{% if reading_minutes < 1 %}{% assign reading_minutes = 1 %}{% endif %}
+<span class="reading-time" data-reading-time>约 {{ reading_minutes }} 分钟阅读</span>

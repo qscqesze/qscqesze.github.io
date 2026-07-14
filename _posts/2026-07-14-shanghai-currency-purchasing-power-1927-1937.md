@@ -7,6 +7,7 @@ comments: true
 share: false
 related: false
 read_time: true
+math: true
 ---
 
 ## 摘要

@@ -2,23 +2,6 @@
    Various functions that we want to use within the template
    ========================================================================== */
 
-// Determine the expected state of the theme toggle, which can be "dark", "light", or
-// "system". Default is "system".
-let determineThemeSetting = () => {
-  let themeSetting = localStorage.getItem("theme");
-  return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
-};
-
-// Determine the computed theme, which can be "dark" or "light". If the theme setting is
-// "system", the computed theme is determined based on the user's system preference.
-let determineComputedTheme = () => {
-  let themeSetting = determineThemeSetting();
-  if (themeSetting != "system") {
-    return themeSetting;
-  }
-  return (userPref && userPref("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
-};
-
 // detect OS/browser preference
 const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
 
@@ -48,40 +31,6 @@ var toggleTheme = () => {
 };
 
 /* ==========================================================================
-   Plotly integration script so that Markdown codeblocks will be rendered
-   ========================================================================== */
-
-// Read the Plotly data from the code block, hide it, and render the chart as new node. This allows for the 
-// JSON data to be retrieve when the theme is switched. The listener should only be added if the data is 
-// actually present on the page.
-import { plotlyDarkLayout, plotlyLightLayout } from './theme.js';
-let plotlyElements = document.querySelectorAll("pre>code.language-plotly");
-if (plotlyElements.length > 0) {
-  document.addEventListener("readystatechange", () => {
-    if (document.readyState === "complete") {
-      plotlyElements.forEach((elem) => {
-        // Parse the Plotly JSON data and hide it
-        var jsonData = JSON.parse(elem.textContent);
-        elem.parentElement.classList.add("hidden");
-
-        // Add the Plotly node
-        let chartElement = document.createElement("div");
-        elem.parentElement.after(chartElement);
-
-        // Set the theme for the plot and render it
-        const theme = (determineComputedTheme() === "dark") ? plotlyDarkLayout : plotlyLightLayout;
-        if (jsonData.layout) {
-          jsonData.layout.template = (jsonData.layout.template) ? { ...theme, ...jsonData.layout.template } : theme;
-        } else {
-          jsonData.layout = { template: theme };
-        }
-        Plotly.react(chartElement, jsonData.data, jsonData.layout);
-      });
-    }
-  });
-}
-
-/* ==========================================================================
    Actions that should occur when the page has been fully loaded
    ========================================================================== */
 
@@ -101,6 +50,86 @@ $(document).ready(function () {
 
   // Enable the theme toggle
   $('#theme-toggle').on('click', toggleTheme);
+
+  // Calculate mixed Chinese/Latin reading time from the rendered article text.
+  const readingContent = document.querySelector('.page__content');
+  const readingTime = document.querySelector('.reading-time[data-reading-time]');
+  if (readingContent && readingTime) {
+    const readableCopy = readingContent.cloneNode(true);
+    readableCopy.querySelectorAll('pre, code, nav, script, style, mjx-container').forEach((element) => element.remove());
+    const readableText = readableCopy.textContent.replace(/\s+/g, ' ').trim();
+    const cjkPattern = /[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]/g;
+    const cjkCharacters = (readableText.match(cjkPattern) || []).length;
+    const latinText = readableText.replace(cjkPattern, ' ');
+    const latinWords = latinText.match(/[A-Za-z0-9]+(?:['’-][A-Za-z0-9]+)*/g) || [];
+    const readingMinutes = Math.max(1, Math.ceil(cjkCharacters / 450 + latinWords.length / 220));
+    readingTime.textContent = `约 ${readingMinutes} 分钟阅读`;
+  }
+
+  // Add unobtrusive permalink controls to article section headings.
+  document.querySelectorAll('.page__content h2[id], .page__content h3[id]').forEach((heading) => {
+    if (heading.querySelector('.heading-permalink')) return;
+    const permalink = document.createElement('a');
+    permalink.className = 'heading-permalink';
+    permalink.href = `#${heading.id}`;
+    permalink.setAttribute('aria-label', `链接到“${heading.textContent.trim()}”`);
+    permalink.title = '此节链接';
+    permalink.textContent = '#';
+    heading.append(permalink);
+  });
+
+  // Add copy buttons only to source-code blocks, leaving rendered diagrams alone.
+  document.querySelectorAll('.page__content pre').forEach((pre) => {
+    const code = pre.querySelector('code');
+    if (!code || code.matches('.language-mermaid, .language-plotly')) return;
+
+    let container = pre.closest('div.highlighter-rouge, figure.highlight');
+    if (!container) {
+      container = document.createElement('div');
+      container.className = 'code-block';
+      pre.replaceWith(container);
+      container.append(pre);
+    }
+
+    if (container.querySelector('.code-copy-button')) return;
+    container.classList.add('has-copy-button');
+
+    const copyButton = document.createElement('button');
+    copyButton.className = 'code-copy-button';
+    copyButton.type = 'button';
+    copyButton.textContent = '复制';
+    copyButton.setAttribute('aria-label', '复制代码');
+
+    copyButton.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(code.textContent);
+        copyButton.textContent = '已复制';
+        copyButton.classList.add('is-copied');
+      } catch (error) {
+        copyButton.textContent = '复制失败';
+      }
+
+      window.setTimeout(() => {
+        copyButton.textContent = '复制';
+        copyButton.classList.remove('is-copied');
+      }, 1600);
+    });
+
+    container.append(copyButton);
+  });
+
+  // Reveal the back-to-top control only after the reader has moved into the article.
+  const backToTop = document.querySelector('.back-to-top');
+  if (backToTop) {
+    const updateBackToTop = () => backToTop.classList.toggle('is-visible', window.scrollY > 720);
+    window.addEventListener('scroll', updateBackToTop, { passive: true });
+    updateBackToTop();
+
+    backToTop.addEventListener('click', () => {
+      backToTop.classList.remove('is-visible');
+      window.scrollTo(0, 0);
+    });
+  }
 
   // Enable the sticky footer
   var bumpIt = function () {

@@ -2,11 +2,12 @@
 
 <a href="/sitemap/">Sitemap</a>
 
-{% if page.id %}
+{% if page.collection == 'posts' or page.collection == 'legacy' %}
 <!-- Per-article page views. Counts are keyed by the current article URL. -->
 <script defer src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js"></script>
 {% endif %}
 
+{% if page.math %}
 <!-- Support for MathJax -->
 <script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script>
@@ -23,15 +24,37 @@
   };
 </script>
 <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
+{% endif %}
 
+{% if page.plotly %}
 <!-- Support for Plotly -->
 <script defer src='https://cdnjs.cloudflare.com/ajax/libs/plotly.js/3.0.1/plotly.min.js'></script>
+<script type="module">
+  import { plotlyDarkLayout, plotlyLightLayout } from '/assets/js/theme.js';
 
+  window.addEventListener('load', () => {
+    const theme = document.documentElement.hasAttribute('data-theme') ? plotlyDarkLayout : plotlyLightLayout;
+    document.querySelectorAll('pre > code.language-plotly').forEach((element) => {
+      const jsonData = JSON.parse(element.textContent);
+      element.parentElement.classList.add('hidden');
+      const chartElement = document.createElement('div');
+      element.parentElement.after(chartElement);
+      jsonData.layout = jsonData.layout || {};
+      jsonData.layout.template = jsonData.layout.template ? { ...theme, ...jsonData.layout.template } : theme;
+      Plotly.react(chartElement, jsonData.data, jsonData.layout);
+    });
+  });
+</script>
+{% endif %}
+
+{% if page.mermaid %}
 <!-- Support for Mermaid -->
 <script type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-    mermaid.initialize({startOnLoad:true, theme:'default'});
+    const mermaidTheme = document.documentElement.hasAttribute('data-theme') ? 'dark' : 'default';
+    mermaid.initialize({startOnLoad:true, theme:mermaidTheme});
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
+{% endif %}
 
 <!-- end custom footer snippets -->

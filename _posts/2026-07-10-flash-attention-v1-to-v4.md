@@ -7,6 +7,8 @@ comments: true
 share: false
 related: false
 read_time: true
+math: true
+mermaid: true
 header:
   teaser: /images/flash-attention/hero.svg
 ---
