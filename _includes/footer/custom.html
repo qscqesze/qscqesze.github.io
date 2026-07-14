@@ -2,6 +2,11 @@
 
 <a href="/sitemap/">Sitemap</a>
 
+{% if page.id %}
+<!-- Per-article page views. Counts are keyed by the current article URL. -->
+<script defer src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js"></script>
+{% endif %}
+
 <!-- Support for MathJax -->
 <script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script>

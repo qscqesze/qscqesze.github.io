@@ -107,6 +107,16 @@ a {
   font-size: 0.82rem;
 }
 
+.page__meta--post {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+}
+
+.page__views {
+  white-space: nowrap;
+}
+
 .page__content {
   color: var(--blog-ink);
 }
@@ -503,7 +513,7 @@ a {
   margin-bottom: 1rem;
   font-size: 1.05rem;
   letter-spacing: 0;
-  color: #27333a;
+  color: var(--blog-ink);
 }
 
 .giscus,

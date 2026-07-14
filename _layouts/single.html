@@ -27,8 +27,15 @@ layout: default
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
           {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
-          {% if page.read_time %}
-            <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+          {% if page.read_time or page.id %}
+            <p class="page__meta page__meta--post">
+              {% if page.read_time %}
+                <span><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</span>
+              {% endif %}
+              {% if page.id %}
+                <span class="page__views"><i class="fa fa-eye" aria-hidden="true"></i> <span id="busuanzi_page_pv">—</span> 次浏览</span>
+              {% endif %}
+            </p>
           {% endif %}
         {% if page.modified %}
           <p class="page__date"><strong>{{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date_to_xmlschema }}">{{ page.modified | date: "%Y年%m月%d日 %H:%M" }}</time></p>
