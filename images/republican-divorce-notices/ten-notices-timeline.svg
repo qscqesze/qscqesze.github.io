@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="980" viewBox="0 0 1400 980" role="img" aria-labelledby="title desc">
+  <title id="title">十则民国离婚启事时间轴</title>
+  <desc id="desc">列出1922至1948年十则经报刊出处核对的离婚或脱离关系启事及其关键词。</desc>
+  <rect width="1400" height="980" fill="#f7f3ea"/>
+  <text x="700" y="64" text-anchor="middle" font-family="Noto Serif SC, Songti SC, serif" font-size="36" font-weight="700" fill="#2b2721">十则真实启事：从“自由离婚”到“各不相涉”</text>
+  <text x="700" y="102" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="18" fill="#6b6258">原文或节录均附报名、日期与核对线索；两则《青报》启事姓名未被档案报道转录</text>
+  <line x1="700" y1="145" x2="700" y2="920" stroke="#9b392d" stroke-width="4"/>
+
+  <g font-family="Noto Sans SC, PingFang SC, sans-serif">
+    <circle cx="700" cy="180" r="10" fill="#9b392d"/><rect x="70" y="145" width="560" height="76" rx="8" fill="#fffdf8" stroke="#d5c6b2"/><text x="95" y="176" font-size="20" font-weight="700" fill="#2b2721">1922 · 徐志摩、张幼仪</text><text x="95" y="205" font-size="17" fill="#5a5149">《新浙江》：“彼此尊重人格，自由离婚”</text>
+    <circle cx="700" cy="260" r="10" fill="#9b392d"/><rect x="770" y="225" width="560" height="76" rx="8" fill="#fffdf8" stroke="#d5c6b2"/><text x="795" y="256" font-size="20" font-weight="700" fill="#2b2721">1927 · 蒋中正《家事启事》</text><text x="795" y="285" font-size="17" fill="#5a5149">上海《民国日报》：“元配毛氏与中正正式离婚”</text>
+    <circle cx="700" cy="340" r="10" fill="#9b392d"/><rect x="70" y="305" width="560" height="76" rx="8" fill="#fffdf8" stroke="#d5c6b2"/><text x="95" y="336" font-size="20" font-weight="700" fill="#2b2721">1936 · 盛绶臣、张若虞</text><text x="95" y="365" font-size="17" fill="#5a5149">上海《新闻报》：“意见不洽，难堪偕老”</text>
+    <circle cx="700" cy="420" r="10" fill="#9b392d"/><rect x="770" y="385" width="560" height="76" rx="8" fill="#fffdf8" stroke="#d5c6b2"/><text x="795" y="416" font-size="20" font-weight="700" fill="#2b2721">1938 · 徐悲鸿、蒋碧薇（一）</text><text x="795" y="445" font-size="17" fill="#5a5149">桂林《广西日报》：“久已脱离同居关系”</text>
+    <circle cx="700" cy="500" r="10" fill="#9b392d"/><rect x="70" y="465" width="560" height="76" rx="8" fill="#fffdf8" stroke="#d5c6b2"/><text x="95" y="496" font-size="20" font-weight="700" fill="#2b2721">1940 · 王映霞</text><text x="95" y="525" font-size="17" fill="#5a5149">《星岛日报》等：“浪漫腐化，不堪同居”</text>
+    <circle cx="700" cy="580" r="10" fill="#9b392d"/><rect x="770" y="545" width="560" height="76" rx="8" fill="#fffdf8" stroke="#d5c6b2"/><text x="795" y="576" font-size="20" font-weight="700" fill="#2b2721">1940 · 郁达夫</text><text x="795" y="605" font-size="17" fill="#5a5149">香港《星岛日报》：“生活行动完全与达夫不涉”</text>
+    <circle cx="700" cy="660" r="10" fill="#9b392d"/><rect x="70" y="625" width="560" height="76" rx="8" fill="#fffdf8" stroke="#d5c6b2"/><text x="95" y="656" font-size="20" font-weight="700" fill="#2b2721">1944 · 徐悲鸿、蒋碧薇（二）</text><text x="95" y="685" font-size="17" fill="#5a5149">贵阳《中央日报》：“意志不合……毫不相涉”</text>
+    <circle cx="700" cy="740" r="10" fill="#9b392d"/><rect x="770" y="705" width="560" height="76" rx="8" fill="#fffdf8" stroke="#d5c6b2"/><text x="795" y="736" font-size="20" font-weight="700" fill="#2b2721">1947 · 辛承论、辛王氏</text><text x="795" y="765" font-size="17" fill="#5a5149">青岛《民言报》：“无条件协议离婚”</text>
+    <circle cx="700" cy="820" r="10" fill="#9b392d"/><rect x="70" y="785" width="560" height="76" rx="8" fill="#fffdf8" stroke="#d5c6b2"/><text x="95" y="816" font-size="20" font-weight="700" fill="#2b2721">1948 · 《青报》启事甲</text><text x="95" y="845" font-size="17" fill="#5a5149">“意见不合……嗣后男婚女嫁各不相干”</text>
+    <circle cx="700" cy="900" r="10" fill="#9b392d"/><rect x="770" y="865" width="560" height="76" rx="8" fill="#fffdf8" stroke="#d5c6b2"/><text x="795" y="896" font-size="20" font-weight="700" fill="#2b2721">1948 · 《青报》启事乙</text><text x="795" y="925" font-size="17" fill="#5a5149">与甲同版、同文、不同署名：程式化最直观的证据</text>
+  </g>
+</svg>

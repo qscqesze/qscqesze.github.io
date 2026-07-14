@@ -423,6 +423,28 @@ a {
   vertical-align: top;
 }
 
+.page__content table.notice-evidence-table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  font-size: 0.78rem;
+}
+
+.page__content table.notice-evidence-table th,
+.page__content table.notice-evidence-table td {
+  min-width: 7.5rem;
+  padding: 0.58rem 0.5rem;
+  vertical-align: top;
+}
+
+.page__content table.notice-evidence-table th:first-child,
+.page__content table.notice-evidence-table td:first-child,
+.page__content table.notice-evidence-table th:last-child,
+.page__content table.notice-evidence-table td:last-child {
+  min-width: 3.25rem;
+  text-align: center;
+}
+
 @media (max-width: 640px) {
   .page__content .technical-figure {
     width: calc(100% + 1rem);
