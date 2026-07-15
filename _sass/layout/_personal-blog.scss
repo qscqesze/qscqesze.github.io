@@ -374,6 +374,37 @@ a {
   text-align: center;
 }
 
+.page__content .fields-medal-image-pair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem;
+}
+
+.page__content .fields-medal-image-pair img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.page__content table.award-comparison-table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  font-size: 0.78rem;
+}
+
+.page__content table.award-comparison-table th,
+.page__content table.award-comparison-table td {
+  min-width: 7.5rem;
+  padding: 0.58rem 0.5rem;
+  vertical-align: top;
+}
+
+.page__content table.award-comparison-table th:first-child,
+.page__content table.award-comparison-table td:first-child {
+  min-width: 6rem;
+  white-space: nowrap;
+}
+
 .page__content .concept-card {
   margin: 1.4rem 0;
   padding: 1rem 1.05rem;
@@ -449,6 +480,10 @@ a {
   .page__content .technical-figure {
     width: calc(100% + 1rem);
     margin-left: -0.5rem;
+  }
+
+  .page__content .fields-medal-image-pair {
+    gap: 0.45rem;
   }
 
   .page__content table.flash-version-table {
