@@ -1,6 +1,6 @@
 ---
 title: "大模型是怎样一步步“想”出答案的？"
-date: 2026-07-16 17:30:00 +0800
+date: 2026-07-16 17:20:00 +0800
 permalink: /posts/how-llm-transformer-inference-works/
 excerpt: "从一句提示词进入服务器，到屏幕上出现第一个字：面向普通读者详解 Tokenizer、Embedding、自注意力、Transformer、KV Cache、Prefill、Decode 与推理模型。"
 comments: true
