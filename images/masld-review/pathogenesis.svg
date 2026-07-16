@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1040" viewBox="0 0 1600 1040" role="img" aria-labelledby="title desc">
+  <title id="title">MASLD 与 MASH 的多重打击发病机制</title>
+  <desc id="desc">从能量过剩、脂肪组织胰岛素抵抗、遗传易感和肠肝轴，到肝脂肪蓄积、脂毒性、炎症和纤维化的机制图。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffaf4"/><stop offset="1" stop-color="#f2f7f5"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b65440"/><stop offset="1" stop-color="#7d342f"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="#647874"/></marker>
+    <marker id="arrowRed" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="#a94f43"/></marker>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#223f38" flood-opacity=".12"/></filter>
+    <style>
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif}
+      .title{font-size:42px;font-weight:760;fill:#243734}.subtitle{font-size:20px;fill:#5b6f69}
+      .boxTitle{font-size:23px;font-weight:720;fill:#263c37}.boxText{font-size:17px;fill:#536762}
+      .coreTitle{font-size:29px;font-weight:760;fill:#fff}.coreText{font-size:17px;fill:#fff4eb}
+      .step{font-size:22px;font-weight:730;fill:#2d403c}.stepText{font-size:16px;fill:#5b6c68}.small{font-size:15px;fill:#657772}
+    </style>
+  </defs>
+  <rect width="1600" height="1040" rx="30" fill="url(#bg)"/>
+  <text x="80" y="74" class="sans title">从代谢失衡到纤维化：不是“油附在肝上”，而是系统性代谢病</text>
+  <text x="80" y="112" class="sans subtitle">多个驱动同时作用于肝细胞、免疫细胞与星状细胞；三酰甘油储存部分是缓冲，真正致伤的是脂毒性与应激反应。</text>
+
+  <g filter="url(#shadow)" class="sans">
+    <g transform="translate(75 170)"><rect width="270" height="155" rx="22" fill="#fff" stroke="#e1d5c5" stroke-width="2"/><text x="135" y="42" text-anchor="middle" class="boxTitle">能量与膳食驱动</text><text x="135" y="76" text-anchor="middle" class="boxText">过量能量、精制碳水／果糖</text><text x="135" y="104" text-anchor="middle" class="boxText">饱和脂肪、超加工食品</text><text x="135" y="132" text-anchor="middle" class="boxText">活动不足与肌肉质量下降</text></g>
+    <g transform="translate(370 170)"><rect width="270" height="155" rx="22" fill="#fff" stroke="#d5dfd8" stroke-width="2"/><text x="135" y="42" text-anchor="middle" class="boxTitle">脂肪组织功能障碍</text><text x="135" y="76" text-anchor="middle" class="boxText">胰岛素抑制脂解失败</text><text x="135" y="104" text-anchor="middle" class="boxText">游离脂肪酸通量增加</text><text x="135" y="132" text-anchor="middle" class="boxText">脂联素下降、低度炎症</text></g>
+    <g transform="translate(665 170)"><rect width="270" height="155" rx="22" fill="#fff" stroke="#d7d9e4" stroke-width="2"/><text x="135" y="42" text-anchor="middle" class="boxTitle">遗传与表观遗传</text><text x="135" y="76" text-anchor="middle" class="boxText">PNPLA3、TM6SF2、MBOAT7</text><text x="135" y="104" text-anchor="middle" class="boxText">HSD17B13 等改变易感性</text><text x="135" y="132" text-anchor="middle" class="boxText">解释部分“瘦型 MASLD”</text></g>
+    <g transform="translate(960 170)"><rect width="270" height="155" rx="22" fill="#fff" stroke="#d5dfdf" stroke-width="2"/><text x="135" y="42" text-anchor="middle" class="boxTitle">肠—肝轴与内分泌</text><text x="135" y="76" text-anchor="middle" class="boxText">屏障、胆汁酸与微生物代谢物</text><text x="135" y="104" text-anchor="middle" class="boxText">胰岛素／胰高血糖素失衡</text><text x="135" y="132" text-anchor="middle" class="boxText">甲状腺、OSA、PCOS 等</text></g>
+    <g transform="translate(1255 170)"><rect width="270" height="155" rx="22" fill="#fff" stroke="#e4d1d1" stroke-width="2"/><text x="135" y="42" text-anchor="middle" class="boxTitle">协同肝损伤</text><text x="135" y="76" text-anchor="middle" class="boxText">酒精、吸烟、部分药物</text><text x="135" y="104" text-anchor="middle" class="boxText">病毒性肝炎及其他病因</text><text x="135" y="132" text-anchor="middle" class="boxText">可与 MASLD 同时存在</text></g>
+  </g>
+
+  <g stroke="#647874" stroke-width="4" fill="none" marker-end="url(#arrow)">
+    <path d="M210 325 C230 390 450 397 600 430"/><path d="M505 325 C525 370 640 382 700 430"/>
+    <path d="M800 325 V425"/><path d="M1095 325 C1075 370 960 382 900 430"/><path d="M1390 325 C1370 390 1150 397 1000 430"/>
+  </g>
+
+  <g filter="url(#shadow)" class="sans">
+    <rect x="440" y="430" width="720" height="260" rx="45" fill="url(#core)"/>
+    <text x="800" y="478" text-anchor="middle" class="coreTitle">肝细胞脂质稳态失衡</text>
+    <g transform="translate(510 510)">
+      <circle cx="80" cy="66" r="57" fill="#f5d16a" opacity=".95"/>
+      <circle cx="162" cy="45" r="31" fill="#f2bf45"/>
+      <circle cx="183" cy="104" r="46" fill="#e8ae35"/>
+      <text x="130" y="157" text-anchor="middle" class="coreText">三酰甘油脂滴蓄积</text>
+    </g>
+    <g transform="translate(755 510)">
+      <path d="M25 22 C52 3 91 17 98 47 C106 80 75 105 43 99 C12 93 0 43 25 22Z" fill="#d79378" stroke="#f7c6a8" stroke-width="4"/>
+      <path d="M52 8 C63 28 55 42 41 57 C29 70 37 93 61 103" fill="none" stroke="#783939" stroke-width="5"/>
+      <text x="60" y="157" text-anchor="middle" class="coreText">线粒体／内质网应激</text>
+    </g>
+    <g transform="translate(960 510)">
+      <path d="M30 85 L53 30 L76 84 L112 26 L136 93" fill="none" stroke="#ffd0b5" stroke-width="8" stroke-linecap="round"/>
+      <circle cx="34" cy="96" r="10" fill="#ffb9a3"/><circle cx="79" cy="97" r="10" fill="#ffb9a3"/><circle cx="136" cy="103" r="10" fill="#ffb9a3"/>
+      <text x="84" y="157" text-anchor="middle" class="coreText">ROS、脂质过氧化与 DAMPs</text>
+    </g>
+  </g>
+
+  <path d="M800 690 V718" stroke="#a94f43" stroke-width="6" marker-end="url(#arrowRed)"/>
+
+  <g class="sans" filter="url(#shadow)">
+    <g transform="translate(70 745)"><rect width="290" height="195" rx="24" fill="#fff8df" stroke="#e4c96d" stroke-width="2"/><circle cx="45" cy="43" r="24" fill="#d9a937"/><text x="45" y="51" text-anchor="middle" fill="#fff" font-size="21" font-weight="800">1</text><text x="80" y="51" class="step">脂肪变（MASL）</text><text x="28" y="94" class="stepText">通常无症状；ALT 可正常。</text><text x="28" y="122" class="stepText">脂滴是能量过载的表型，</text><text x="28" y="150" class="stepText">尚不等于不可逆细胞损伤。</text></g>
+    <g transform="translate(390 745)"><rect width="290" height="195" rx="24" fill="#fff0e8" stroke="#dfac91" stroke-width="2"/><circle cx="45" cy="43" r="24" fill="#c46643"/><text x="45" y="51" text-anchor="middle" fill="#fff" font-size="21" font-weight="800">2</text><text x="80" y="51" class="step">脂毒性／细胞死亡</text><text x="28" y="94" class="stepText">游离胆固醇、神经酰胺等</text><text x="28" y="122" class="stepText">脂质种类与亚细胞定位，</text><text x="28" y="150" class="stepText">比总三酰甘油量更致病。</text></g>
+    <g transform="translate(710 745)"><rect width="290" height="195" rx="24" fill="#f9eceb" stroke="#d5a1a1" stroke-width="2"/><circle cx="45" cy="43" r="24" fill="#a84e4b"/><text x="45" y="51" text-anchor="middle" fill="#fff" font-size="21" font-weight="800">3</text><text x="80" y="51" class="step">炎症（MASH）</text><text x="28" y="94" class="stepText">Kupffer 细胞与募集免疫细胞</text><text x="28" y="122" class="stepText">感知损伤，放大炎症、</text><text x="28" y="150" class="stepText">气球样变与肝细胞死亡。</text></g>
+    <g transform="translate(1030 745)"><rect width="290" height="195" rx="24" fill="#f2edf2" stroke="#c8b3c7" stroke-width="2"/><circle cx="45" cy="43" r="24" fill="#7e5573"/><text x="45" y="51" text-anchor="middle" fill="#fff" font-size="21" font-weight="800">4</text><text x="80" y="51" class="step">纤维生成</text><text x="28" y="94" class="stepText">肝星状细胞活化，胶原与</text><text x="28" y="122" class="stepText">细胞外基质沉积，形成</text><text x="28" y="150" class="stepText">窦周、门周及桥接纤维化。</text></g>
+    <g transform="translate(1350 745)"><rect width="180" height="195" rx="24" fill="#ece8ea" stroke="#b6a9af" stroke-width="2"/><circle cx="38" cy="43" r="24" fill="#57434d"/><text x="38" y="51" text-anchor="middle" fill="#fff" font-size="21" font-weight="800">5</text><text x="72" y="51" class="step">临床结局</text><text x="26" y="94" class="stepText">F4 肝硬化</text><text x="26" y="122" class="stepText">失代偿／HCC</text><text x="26" y="150" class="stepText">移植与死亡</text></g>
+  </g>
+
+  <g stroke="#a94f43" stroke-width="4" fill="none" marker-end="url(#arrowRed)"><path d="M360 843 H385"/><path d="M680 843 H705"/><path d="M1000 843 H1025"/><path d="M1320 843 H1345"/></g>
+  <text x="80" y="992" class="sans small">关键修饰因素：2 型糖尿病、内脏型肥胖、年龄、绝经后状态、遗传易感、酒精与吸烟可加快进展；病程存在明显异质性。</text>
+  <text x="1520" y="992" text-anchor="end" class="sans small">机制整合图，箭头表示主要因果方向而非唯一通路</text>
+</svg>

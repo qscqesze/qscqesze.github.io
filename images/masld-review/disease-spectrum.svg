@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
+  <title id="title">MASLD 从脂肪变到肝硬化的疾病谱</title>
+  <desc id="desc">展示单纯脂肪变、MASH、纤维化、肝硬化与并发症之间的关系，并强调早期可逆和进展并非必然。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffaf3"/>
+      <stop offset="1" stop-color="#f5f8f7"/>
+    </linearGradient>
+    <linearGradient id="liverGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8f342d"/>
+      <stop offset="1" stop-color="#b95845"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0 0 L12 6 L0 12 Z" fill="#667b78"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0 0 L12 6 L0 12 Z" fill="#4f866f"/>
+    </marker>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#30423e" flood-opacity="0.13"/>
+    </filter>
+    <style>
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif}
+      .title{font-size:42px;font-weight:750;fill:#243734}
+      .subtitle{font-size:21px;fill:#5d6e6a}
+      .stage{font-size:25px;font-weight:700;fill:#253a36}
+      .en{font-size:17px;font-weight:600;fill:#5e706c}
+      .body{font-size:18px;fill:#465b56}
+      .small{font-size:16px;fill:#5f716d}
+      .pill{font-size:16px;font-weight:700;fill:#fff}
+    </style>
+  </defs>
+  <rect width="1600" height="760" rx="30" fill="url(#bg)"/>
+  <text x="80" y="78" class="sans title">脂肪肝是一条疾病谱，不是一个固定终点</text>
+  <text x="80" y="116" class="sans subtitle">病理活动与纤维化可以进展，也可能在去除代谢与酒精驱动后稳定或回退；个体速度差异很大。</text>
+
+  <path d="M285 357 H415 M605 357 H735 M925 357 H1055 M1245 357 H1375" stroke="#667b78" stroke-width="6" marker-end="url(#arrow)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="194" width="215" height="326" rx="25" fill="#fff" stroke="#d8e2df" stroke-width="2"/>
+    <rect x="415" y="194" width="190" height="326" rx="25" fill="#fff7e5" stroke="#ead8a8" stroke-width="2"/>
+    <rect x="735" y="194" width="190" height="326" rx="25" fill="#fff0e9" stroke="#e5bdab" stroke-width="2"/>
+    <rect x="1055" y="194" width="190" height="326" rx="25" fill="#f5edf0" stroke="#d2b3bf" stroke-width="2"/>
+    <rect x="1375" y="194" width="155" height="326" rx="25" fill="#ede8ea" stroke="#bfaeb4" stroke-width="2"/>
+  </g>
+
+  <g class="sans">
+    <g transform="translate(95 224)">
+      <path d="M20 62 C32 10 111 1 155 19 C184 31 190 64 172 89 C157 111 125 117 97 109 C73 103 51 121 30 110 C8 98 9 79 20 62Z" fill="url(#liverGrad)"/>
+      <circle cx="132" cy="62" r="8" fill="#f7d9b6" opacity="0.45"/>
+      <text x="82" y="151" text-anchor="middle" class="stage">正常肝</text>
+      <text x="82" y="179" text-anchor="middle" class="en">肝脂肪 &lt;5%</text>
+      <text x="82" y="222" text-anchor="middle" class="body">脂质摄取、合成、</text>
+      <text x="82" y="249" text-anchor="middle" class="body">氧化与输出平衡</text>
+    </g>
+
+    <g transform="translate(438 220)">
+      <rect x="24" y="1" width="142" height="33" rx="16" fill="#c99534"/>
+      <text x="95" y="24" text-anchor="middle" class="pill">MASL／单纯脂肪变</text>
+      <g fill="#e6b94e" opacity="0.9">
+        <circle cx="56" cy="83" r="24"/><circle cx="103" cy="70" r="15"/><circle cx="132" cy="97" r="28"/><circle cx="80" cy="118" r="18"/>
+      </g>
+      <text x="95" y="162" text-anchor="middle" class="stage">脂肪变</text>
+      <text x="95" y="190" text-anchor="middle" class="en">≥5% 肝细胞脂肪变</text>
+      <text x="95" y="232" text-anchor="middle" class="body">无典型气球样变</text>
+      <text x="95" y="259" text-anchor="middle" class="body">纤维化可有可无</text>
+    </g>
+
+    <g transform="translate(758 220)">
+      <rect x="34" y="1" width="122" height="33" rx="16" fill="#c66843"/>
+      <text x="95" y="24" text-anchor="middle" class="pill">MASH</text>
+      <g fill="#e5b34b"><circle cx="50" cy="87" r="20"/><circle cx="122" cy="75" r="25"/><circle cx="91" cy="113" r="22"/></g>
+      <g fill="#b33c35"><circle cx="43" cy="126" r="6"/><circle cx="134" cy="121" r="7"/><circle cx="87" cy="63" r="5"/></g>
+      <ellipse cx="91" cy="92" rx="28" ry="34" fill="none" stroke="#8c4e4b" stroke-width="5" stroke-dasharray="7 5"/>
+      <text x="95" y="162" text-anchor="middle" class="stage">脂肪性肝炎</text>
+      <text x="95" y="190" text-anchor="middle" class="en">脂肪变＋小叶炎症</text>
+      <text x="95" y="217" text-anchor="middle" class="body">＋肝细胞气球样变</text>
+      <text x="95" y="259" text-anchor="middle" class="body">可伴 F0–F3 纤维化</text>
+    </g>
+
+    <g transform="translate(1078 220)">
+      <rect x="25" y="1" width="140" height="33" rx="16" fill="#8f5268"/>
+      <text x="95" y="24" text-anchor="middle" class="pill">F1 → F2 → F3</text>
+      <g fill="none" stroke="#859ab2" stroke-width="6" opacity="0.95">
+        <path d="M25 75 C58 42 81 124 111 76 S157 61 166 108"/>
+        <path d="M21 119 C55 93 85 152 112 114 S148 103 168 139"/>
+        <path d="M45 48 C70 65 68 119 57 147"/>
+      </g>
+      <text x="95" y="162" text-anchor="middle" class="stage">显著／进展期纤维化</text>
+      <text x="95" y="190" text-anchor="middle" class="en">F2：临床风险开始上升</text>
+      <text x="95" y="217" text-anchor="middle" class="body">F3：桥接纤维化</text>
+      <text x="95" y="259" text-anchor="middle" class="body">预后的核心决定因素</text>
+    </g>
+
+    <g transform="translate(1382 220)">
+      <rect x="18" y="1" width="119" height="33" rx="16" fill="#624754"/>
+      <text x="77" y="24" text-anchor="middle" class="pill">F4</text>
+      <g fill="#985147" stroke="#6f3b3b" stroke-width="3">
+        <circle cx="43" cy="74" r="26"/><circle cx="92" cy="70" r="31"/><circle cx="64" cy="113" r="34"/><circle cx="117" cy="115" r="23"/>
+      </g>
+      <text x="77" y="162" text-anchor="middle" class="stage">肝硬化</text>
+      <text x="77" y="198" text-anchor="middle" class="body">门脉高压</text>
+      <text x="77" y="225" text-anchor="middle" class="body">肝失代偿</text>
+      <text x="77" y="252" text-anchor="middle" class="body">HCC／移植／死亡</text>
+    </g>
+  </g>
+
+  <path d="M830 523 C790 570 555 570 510 523" stroke="#4f866f" stroke-width="4" stroke-dasharray="10 9" fill="none" marker-end="url(#arrowGreen)"/>
+  <path d="M510 523 C460 578 235 578 178 523" stroke="#4f866f" stroke-width="4" stroke-dasharray="10 9" fill="none" marker-end="url(#arrowGreen)"/>
+  <text x="505" y="568" text-anchor="middle" class="sans small" fill="#4f866f">去除驱动因素后，早期可稳定或回退</text>
+
+  <rect x="80" y="588" width="1440" height="104" rx="20" fill="#eaf2ef"/>
+  <text x="110" y="630" class="sans body" font-weight="700" fill="#2f564a">临床解释：</text>
+  <text x="235" y="630" class="sans body">“脂肪多”不等同于“肝损伤重”。应把风险分层重点放在 F2–F4 纤维化、2 型糖尿病、持续炎症和合并酒精暴露。</text>
+  <text x="110" y="666" class="sans small">晚期肝硬化时肝内脂肪可能反而减少（“burned-out MASH”），因此没有明显脂肪变不能排除既往代谢性病因。</text>
+  <text x="1520" y="728" text-anchor="end" class="sans small">示意图：不代表每位患者都会依次进展</text>
+</svg>
