@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">一个现代 Transformer 块的内部结构</title>
+  <desc id="desc">输入依次经过归一化、自注意力、残差相加、归一化、前馈网络和残差相加，再输出到下一层。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6f9ff"/><stop offset="1" stop-color="#edf4ff"/></linearGradient>
+    <linearGradient id="attn" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4f7cff"/><stop offset="1" stop-color="#7b61ff"/></linearGradient>
+    <linearGradient id="ffn" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#14b89f"/><stop offset="1" stop-color="#47c878"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="9" stdDeviation="12" flood-color="#52627d" flood-opacity="0.18"/></filter>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#52637c"/></marker>
+    <style>
+      .cn{font-family:"PingFang SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif}
+      .title{font-size:48px;font-weight:750;fill:#172338}
+      .sub{font-size:22px;fill:#60708a}
+      .box-title{font-size:27px;font-weight:700;fill:white}
+      .box-sub{font-size:17px;fill:#eaf0ff}
+      .dark-title{font-size:25px;font-weight:700;fill:#1c2a40}
+      .dark-sub{font-size:17px;fill:#63728a}
+      .note{font-size:19px;fill:#4f617c}
+    </style>
+  </defs>
+  <rect width="1400" height="900" fill="url(#bg)"/>
+  <g class="cn">
+    <text x="72" y="78" class="title">Transformer 的一层：交流，再消化</text>
+    <text x="74" y="116" class="sub">现代 decoder-only 模型的常见预归一化结构（不同模型会有变体）</text>
+
+    <rect x="395" y="164" width="610" height="650" rx="42" fill="#ffffff" stroke="#cbd7eb" stroke-width="3" filter="url(#shadow)"/>
+    <text x="700" y="274" class="note" text-anchor="middle">TRANSFORMER BLOCK · 重复 N 次</text>
+
+    <g>
+      <rect x="584" y="742" width="232" height="55" rx="16" fill="#e8eef8" stroke="#b8c6dc"/>
+      <text x="700" y="777" class="dark-title" text-anchor="middle">输入向量 x</text>
+      <line x1="700" y1="742" x2="700" y2="699" stroke="#52637c" stroke-width="4" marker-end="url(#arrow)"/>
+    </g>
+
+    <g filter="url(#shadow)">
+      <rect x="555" y="625" width="290" height="74" rx="20" fill="#edf1f8" stroke="#aebbd0" stroke-width="2"/>
+      <text x="700" y="658" class="dark-title" text-anchor="middle">Norm</text>
+      <text x="700" y="682" class="dark-sub" text-anchor="middle">控制数值尺度</text>
+    </g>
+    <line x1="700" y1="625" x2="700" y2="583" stroke="#52637c" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <g filter="url(#shadow)">
+      <rect x="502" y="490" width="396" height="93" rx="24" fill="url(#attn)"/>
+      <text x="700" y="530" class="box-title" text-anchor="middle">因果多头自注意力</text>
+      <text x="700" y="558" class="box-sub" text-anchor="middle">让 token 按相关性读取之前的信息</text>
+    </g>
+    <line x1="700" y1="490" x2="700" y2="451" stroke="#52637c" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <circle cx="700" cy="425" r="27" fill="#fff" stroke="#596d8b" stroke-width="3"/>
+    <text x="700" y="434" class="dark-title" text-anchor="middle">＋</text>
+    <path d="M 584 770 C 455 770, 454 425, 662 425" fill="none" stroke="#8aa0be" stroke-width="4" stroke-dasharray="9 9" marker-end="url(#arrow)"/>
+    <text x="432" y="593" class="note" text-anchor="end">残差捷径：保留原信息</text>
+    <line x1="700" y1="398" x2="700" y2="360" stroke="#52637c" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <g filter="url(#shadow)">
+      <rect x="555" y="286" width="290" height="74" rx="20" fill="#edf1f8" stroke="#aebbd0" stroke-width="2"/>
+      <text x="700" y="319" class="dark-title" text-anchor="middle">Norm</text>
+      <text x="700" y="343" class="dark-sub" text-anchor="middle">再次稳定表示</text>
+    </g>
+    <line x1="700" y1="286" x2="700" y2="247" stroke="#52637c" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <g filter="url(#shadow)">
+      <rect x="502" y="154" width="396" height="93" rx="24" fill="url(#ffn)"/>
+      <text x="700" y="194" class="box-title" text-anchor="middle">前馈网络 FFN / 专家网络</text>
+      <text x="700" y="222" class="box-sub" text-anchor="middle">对每个位置做非线性深加工</text>
+    </g>
+    <line x1="898" y1="200" x2="920" y2="200" stroke="#52637c" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <circle cx="955" cy="200" r="27" fill="#fff" stroke="#596d8b" stroke-width="3"/>
+    <text x="955" y="209" class="dark-title" text-anchor="middle">＋</text>
+    <path d="M 735 425 C 985 425, 985 238, 976 222" fill="none" stroke="#8aa0be" stroke-width="4" stroke-dasharray="9 9" marker-end="url(#arrow)"/>
+    <path d="M982 200 L1022 200" stroke="#52637c" stroke-width="4" marker-end="url(#arrow)"/>
+    <rect x="1032" y="173" width="290" height="55" rx="16" fill="#172b46"/>
+    <text x="1177" y="209" class="box-title" text-anchor="middle">输出到下一层</text>
+
+    <g>
+      <rect x="55" y="220" width="275" height="130" rx="24" fill="#fff" stroke="#cbd7eb" stroke-width="2"/>
+      <circle cx="95" cy="260" r="20" fill="#667cff"/><text x="95" y="268" fill="#fff" font-size="22" font-weight="700" text-anchor="middle">1</text>
+      <text x="130" y="268" class="dark-title">注意力：开会</text>
+      <text x="86" y="309" class="note">不同 token 交换上下文信息</text>
+
+      <rect x="1070" y="480" width="275" height="130" rx="24" fill="#fff" stroke="#cbd7eb" stroke-width="2"/>
+      <circle cx="1110" cy="520" r="20" fill="#20b798"/><text x="1110" y="528" fill="#fff" font-size="22" font-weight="700" text-anchor="middle">2</text>
+      <text x="1145" y="528" class="dark-title">FFN：消化</text>
+      <text x="1100" y="569" class="note">每个位置单独变换自己的表示</text>
+
+      <rect x="55" y="650" width="275" height="130" rx="24" fill="#fff" stroke="#cbd7eb" stroke-width="2"/>
+      <circle cx="95" cy="690" r="20" fill="#8a70cb"/><text x="95" y="698" fill="#fff" font-size="22" font-weight="700" text-anchor="middle">3</text>
+      <text x="130" y="698" class="dark-title">残差：保留原稿</text>
+      <text x="86" y="739" class="note">每层是在旧表示上增补修改</text>
+    </g>
+
+    <text x="700" y="865" class="sub" text-anchor="middle">简化公式：a = x + Attention(Norm(x))　　y = a + FFN(Norm(a))</text>
+  </g>
+</svg>

@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Q、K、V 自注意力机制示意</title>
+  <desc id="desc">用图书馆检索比喻解释 Query、Key 和 Value，并展示当前词根据注意力权重汇总历史信息。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffaf2"/><stop offset="1" stop-color="#f3f7ff"/></linearGradient>
+    <linearGradient id="q" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff7b54"/><stop offset="1" stop-color="#ffb45b"/></linearGradient>
+    <linearGradient id="v" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4b76e8"/><stop offset="1" stop-color="#7a63d8"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="9" stdDeviation="12" flood-color="#705f4e" flood-opacity="0.14"/></filter>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#61718b"/></marker>
+    <style>
+      .cn{font-family:"PingFang SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif}
+      .title{font-size:48px;font-weight:750;fill:#202942}
+      .sub{font-size:22px;fill:#66728b}
+      .head{font-size:28px;font-weight:700;fill:#202942}
+      .body{font-size:19px;fill:#526078}
+      .small{font-size:17px;fill:#6e7890}
+      .white{fill:#fff;font-size:24px;font-weight:700}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <g class="cn">
+    <text x="76" y="82" class="title">注意力：让每个 token 找到此刻最有用的信息</text>
+    <text x="78" y="122" class="sub">Q 像检索问题，K 像书目索引，V 像真正要取出的内容</text>
+
+    <g filter="url(#shadow)">
+      <rect x="75" y="180" width="430" height="610" rx="34" fill="#ffffff" stroke="#ead8c4" stroke-width="2"/>
+      <rect x="555" y="180" width="970" height="610" rx="34" fill="#ffffff" stroke="#d4dfef" stroke-width="2"/>
+    </g>
+
+    <g>
+      <text x="115" y="235" class="head">图书馆类比</text>
+      <rect x="113" y="268" width="352" height="112" rx="24" fill="url(#q)"/>
+      <circle cx="160" cy="324" r="28" fill="#fff" opacity="0.25"/>
+      <text x="160" y="333" class="white" text-anchor="middle">Q</text>
+      <text x="210" y="312" class="white">Query · 查询</text>
+      <text x="210" y="344" class="small" fill="#fff">“我现在需要什么线索？”</text>
+
+      <rect x="113" y="411" width="352" height="112" rx="24" fill="#25ad92"/>
+      <circle cx="160" cy="467" r="28" fill="#fff" opacity="0.25"/>
+      <text x="160" y="476" class="white" text-anchor="middle">K</text>
+      <text x="210" y="455" class="white">Key · 索引</text>
+      <text x="210" y="487" class="small" fill="#fff">“我可以被怎样找到？”</text>
+
+      <rect x="113" y="554" width="352" height="112" rx="24" fill="url(#v)"/>
+      <circle cx="160" cy="610" r="28" fill="#fff" opacity="0.25"/>
+      <text x="160" y="619" class="white" text-anchor="middle">V</text>
+      <text x="210" y="598" class="white">Value · 内容</text>
+      <text x="210" y="630" class="small" fill="#fff">“被关注后，我提供什么？”</text>
+
+      <text x="113" y="716" class="body">先用 Q 与所有 K 算匹配分，</text>
+      <text x="113" y="748" class="body">再按匹配权重汇总相应的 V。</text>
+    </g>
+
+    <g>
+      <text x="600" y="235" class="head">句子示例：“小王把书交给小李，因为他明天要考试。”</text>
+      <text x="600" y="271" class="body">当模型更新“他”的表示时，不同历史 token 会贡献不同权重（仅为教学示意）</text>
+
+      <g transform="translate(620,332)">
+        <rect x="0" y="0" width="112" height="68" rx="17" fill="#eaf0ff" stroke="#aebfe6"/><text x="56" y="43" class="head" text-anchor="middle">小王</text>
+        <rect x="132" y="0" width="92" height="68" rx="17" fill="#f1f4fa" stroke="#c9d2e2"/><text x="178" y="43" class="head" text-anchor="middle">把</text>
+        <rect x="244" y="0" width="92" height="68" rx="17" fill="#f1f4fa" stroke="#c9d2e2"/><text x="290" y="43" class="head" text-anchor="middle">书</text>
+        <rect x="356" y="0" width="92" height="68" rx="17" fill="#f1f4fa" stroke="#c9d2e2"/><text x="402" y="43" class="head" text-anchor="middle">交给</text>
+        <rect x="468" y="0" width="112" height="68" rx="17" fill="#dff8ef" stroke="#79cdb8"/><text x="524" y="43" class="head" text-anchor="middle">小李</text>
+        <rect x="600" y="0" width="92" height="68" rx="17" fill="#f1f4fa" stroke="#c9d2e2"/><text x="646" y="43" class="head" text-anchor="middle">因为</text>
+        <rect x="712" y="0" width="92" height="68" rx="17" fill="url(#q)"/><text x="758" y="43" class="white" text-anchor="middle">他</text>
+      </g>
+
+      <g fill="none" stroke-linecap="round">
+        <path d="M1378 400 C1320 468, 700 463, 676 425" stroke="#6b7ee6" stroke-width="7" opacity="0.28"/>
+        <path d="M1378 400 C1310 500, 1146 500, 1144 425" stroke="#20b391" stroke-width="18" opacity="0.48"/>
+        <path d="M1378 400 C1340 460, 1266 463, 1266 425" stroke="#8896aa" stroke-width="5" opacity="0.3"/>
+      </g>
+
+      <g transform="translate(642,525)">
+        <text x="0" y="0" class="head">匹配分</text>
+        <text x="158" y="0" class="small">QKᵀ ÷ √d</text>
+        <rect x="0" y="35" width="720" height="58" rx="15" fill="#edf1f7"/>
+        <rect x="0" y="35" width="122" height="58" rx="15" fill="#91a6df"/>
+        <rect x="122" y="35" width="48" height="58" fill="#cbd3e2"/>
+        <rect x="170" y="35" width="66" height="58" fill="#bcc7da"/>
+        <rect x="236" y="35" width="105" height="58" fill="#a5b5d4"/>
+        <rect x="341" y="35" width="284" height="58" fill="#45c4a5"/>
+        <rect x="625" y="35" width="95" height="58" rx="0 15 15 0" fill="#b2bfd3"/>
+        <text x="61" y="72" class="small" text-anchor="middle" fill="#fff">小王 12%</text>
+        <text x="483" y="72" class="small" text-anchor="middle" fill="#103b32">小李 54%</text>
+        <text x="759" y="72" class="small">softmax → 权重</text>
+      </g>
+
+      <line x1="1003" y1="648" x2="1003" y2="690" stroke="#61718b" stroke-width="4" marker-end="url(#arrow)"/>
+      <rect x="703" y="704" width="600" height="62" rx="19" fill="#253755"/>
+      <text x="1003" y="744" class="white" text-anchor="middle">新表示 = 所有 Value 的加权汇总</text>
+    </g>
+
+    <rect x="245" y="823" width="1110" height="50" rx="18" fill="#fff" stroke="#d9dfeb"/>
+    <text x="800" y="856" class="head" text-anchor="middle">Attention(Q, K, V) = softmax(QKᵀ / √d + Mask) · V</text>
+  </g>
+</svg>
