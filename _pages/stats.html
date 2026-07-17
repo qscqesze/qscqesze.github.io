@@ -1,0 +1,55 @@
+---
+layout: single
+permalink: /stats/
+title: "全球访问统计"
+excerpt: "查看博客的全球独立访客数量和国家分布。"
+author_profile: false
+comments: false
+share: false
+related: false
+visitor_globe: true
+---
+
+<div class="visitor-stats" data-visitor-stats>
+  <p class="visitor-stats__intro">每一次访问，都是世界某个角落与这里发生的一次连接。转动地球，可以查看各个国家和地区的独立访客数量。</p>
+
+  <div class="visitor-stats__summary" aria-live="polite">
+    <section class="visitor-stat-card">
+      <span class="visitor-stat-card__label">全球独立访客</span>
+      <strong class="visitor-stat-card__value" data-stat-total>—</strong>
+    </section>
+    <section class="visitor-stat-card">
+      <span class="visitor-stat-card__label">已点亮国家和地区</span>
+      <strong class="visitor-stat-card__value" data-stat-countries>—</strong>
+    </section>
+    <section class="visitor-stat-card">
+      <span class="visitor-stat-card__label">累计访问</span>
+      <strong class="visitor-stat-card__value" data-stat-visits>—</strong>
+    </section>
+  </div>
+
+  <div class="visitor-stats__visuals">
+    <section class="visitor-globe-card">
+      <div class="visitor-globe-card__header">
+        <div>
+          <h2>访客地球</h2>
+          <p>拖动旋转，滚轮或双指缩放；将指针停在国家上查看人数。</p>
+        </div>
+        <span class="visitor-globe-card__status" data-stats-status>正在连接世界…</span>
+      </div>
+      <div class="visitor-globe" data-visitor-globe role="img" aria-label="显示各国独立访客数量的交互式地球仪"></div>
+    </section>
+
+    <aside class="visitor-country-card" aria-labelledby="visitor-country-title">
+      <div class="visitor-country-card__header">
+        <h2 id="visitor-country-title">访客来源</h2>
+        <span data-stats-updated></span>
+      </div>
+      <ol class="visitor-country-list" data-country-list>
+        <li class="visitor-country-list__empty">正在读取访问数据…</li>
+      </ol>
+    </aside>
+  </div>
+
+  <p class="visitor-stats__privacy"><i class="fa fa-shield" aria-hidden="true"></i> 统计以浏览器为单位识别独立访客；国家由网络边缘节点判断。本站不保存 IP 地址或精确位置，同一个人在不同设备或浏览器中可能被分别计数。</p>
+</div>

@@ -677,3 +677,308 @@ a {
     transition: none;
   }
 }
+
+/* Guestbook */
+
+.guestbook-intro {
+  margin: 0.75rem 0 2.4rem;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid var(--blog-border);
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--blog-surface) 82%, transparent);
+}
+
+.guestbook-intro > :last-child {
+  margin-bottom: 0;
+}
+
+.guestbook-note {
+  color: var(--blog-muted);
+  font-size: 0.86rem !important;
+}
+
+.guestbook-note i {
+  margin-right: 0.35rem;
+}
+
+/* Global visitor statistics */
+
+.visitor-stats {
+  width: min(1040px, calc(100vw - 2.5rem));
+  margin-top: 0.75rem;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.visitor-stats__intro {
+  max-width: 700px;
+  margin-bottom: 1.5rem;
+  color: var(--blog-muted);
+}
+
+.visitor-stats__summary {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.85rem;
+  margin-bottom: 0.85rem;
+}
+
+.visitor-stat-card,
+.visitor-globe-card,
+.visitor-country-card {
+  border: 1px solid var(--blog-border);
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--blog-surface) 92%, transparent);
+  box-shadow: 0 12px 34px rgba(31, 35, 40, 0.06);
+}
+
+.visitor-stat-card {
+  padding: 1rem 1.05rem;
+}
+
+.visitor-stat-card__label {
+  display: block;
+  color: var(--blog-muted);
+  font-size: 0.78rem;
+}
+
+.visitor-stat-card__value {
+  display: block;
+  margin-top: 0.22rem;
+  color: var(--blog-ink);
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-variant-numeric: tabular-nums;
+  line-height: 1.15;
+}
+
+.visitor-stats__visuals {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 0.85rem;
+  align-items: stretch;
+}
+
+.visitor-globe-card,
+.visitor-country-card {
+  overflow: hidden;
+}
+
+.visitor-globe-card__header,
+.visitor-country-card__header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 1.05rem 0;
+}
+
+.visitor-globe-card__header h2,
+.visitor-country-card__header h2 {
+  margin: 0;
+  color: var(--blog-ink);
+  font-size: 1rem;
+}
+
+.visitor-globe-card__header p {
+  margin: 0.25rem 0 0;
+  color: var(--blog-muted);
+  font-size: 0.76rem;
+  line-height: 1.5;
+}
+
+.visitor-globe-card__status {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 0.38rem;
+  margin-top: 0.08rem;
+  color: var(--blog-muted);
+  font-size: 0.72rem;
+  white-space: nowrap;
+}
+
+.visitor-globe-card__status::before {
+  width: 0.48rem;
+  height: 0.48rem;
+  border-radius: 50%;
+  background: #d4a54b;
+  content: "";
+}
+
+.visitor-globe-card__status[data-state="ready"]::before {
+  background: #4ca879;
+  box-shadow: 0 0 0 4px rgba(76, 168, 121, 0.12);
+}
+
+.visitor-globe-card__status[data-state="error"]::before {
+  background: var(--blog-accent);
+}
+
+.visitor-globe {
+  position: relative;
+  width: 100%;
+  height: clamp(430px, 55vw, 590px);
+  cursor: grab;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 50% 48%, color-mix(in srgb, var(--blog-accent) 9%, transparent), transparent 36%),
+    linear-gradient(180deg, transparent, color-mix(in srgb, var(--blog-bg) 56%, transparent));
+}
+
+.visitor-globe:active {
+  cursor: grabbing;
+}
+
+.visitor-globe canvas {
+  display: block;
+  outline: none;
+}
+
+.visitor-globe--empty {
+  display: grid;
+  place-items: center;
+  color: var(--blog-muted);
+  cursor: default;
+  font-size: 0.9rem;
+}
+
+.visitor-country-card__header {
+  align-items: center;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid var(--blog-border);
+}
+
+.visitor-country-card__header span {
+  color: var(--blog-muted);
+  font-size: 0.68rem;
+  white-space: nowrap;
+}
+
+.visitor-country-list {
+  max-height: 590px;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  list-style: none;
+}
+
+.visitor-country-list__item {
+  display: grid;
+  grid-template-columns: 2rem minmax(0, 1fr) auto;
+  gap: 0.55rem;
+  align-items: center;
+  margin: 0;
+  padding: 0.72rem 1rem;
+  border-bottom: 1px solid color-mix(in srgb, var(--blog-border) 72%, transparent);
+  font-size: 0.82rem !important;
+}
+
+.visitor-country-list__rank {
+  color: var(--blog-muted);
+  font-size: 0.68rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.visitor-country-list__name {
+  min-width: 0;
+  overflow: hidden;
+  color: var(--blog-ink);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.visitor-country-list__count {
+  color: var(--blog-accent);
+  font-size: 0.78rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.visitor-country-list__empty {
+  margin: 0;
+  padding: 1.4rem 1rem;
+  color: var(--blog-muted);
+  font-size: 0.8rem !important;
+  line-height: 1.65;
+  list-style: none;
+}
+
+.visitor-stats__privacy {
+  margin: 0.95rem 0 0;
+  color: var(--blog-muted);
+  font-size: 0.72rem !important;
+  line-height: 1.6;
+}
+
+.visitor-stats__privacy i {
+  margin-right: 0.24rem;
+}
+
+.visitor-globe-tooltip {
+  min-width: 8.5rem;
+  padding: 0.62rem 0.72rem;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 8px;
+  background: rgba(20, 23, 27, 0.9);
+  color: #f6f7f8;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.22);
+  font-family: $sans-serif;
+  font-size: 0.76rem;
+  line-height: 1.4;
+  backdrop-filter: blur(10px);
+}
+
+.visitor-globe-tooltip span,
+.visitor-globe-tooltip strong {
+  display: block;
+}
+
+.visitor-globe-tooltip strong {
+  margin-top: 0.18rem;
+  color: #f09a87;
+  font-size: 0.86rem;
+}
+
+@media (max-width: 820px) {
+  .visitor-stats__visuals {
+    grid-template-columns: 1fr;
+  }
+
+  .visitor-country-list {
+    max-height: 360px;
+  }
+}
+
+@media (max-width: 600px) {
+  .visitor-stats {
+    width: calc(100vw - 2rem);
+  }
+
+  .visitor-stats__summary {
+    grid-template-columns: 1fr;
+    gap: 0.55rem;
+  }
+
+  .visitor-stat-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .visitor-stat-card__value {
+    margin-top: 0;
+    font-size: 1.45rem;
+  }
+
+  .visitor-globe-card__header {
+    display: block;
+  }
+
+  .visitor-globe-card__status {
+    margin-top: 0.6rem;
+  }
+
+  .visitor-globe {
+    height: min(115vw, 470px);
+  }
+}

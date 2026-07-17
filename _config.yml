@@ -171,6 +171,11 @@ analytics:
   google:
     tracking_id          : # 填入 GA4 Measurement ID，例如 G-XXXXXXXXXX
 
+# Privacy-friendly global visitor statistics served by the companion Worker in
+# stats-worker/. Keep the public endpoint without a trailing slash.
+visitor_stats:
+  endpoint               : "https://qscqesze-visitor-stats.qscqesze.workers.dev"
+
 
 # Reading Files
 include:
@@ -204,6 +209,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - stats-worker
 keep_files:
   - .git
   - .svn

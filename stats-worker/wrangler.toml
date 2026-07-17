@@ -1,0 +1,14 @@
+name = "qscqesze-visitor-stats"
+main = "src/index.js"
+compatibility_date = "2026-07-17"
+workers_dev = true
+preview_urls = false
+
+[vars]
+ALLOWED_ORIGINS = "https://qscqesze.github.io,http://localhost:4000,http://127.0.0.1:4000"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "qscqesze-visitor-stats"
+database_id = "12be3ed0-7a36-4a55-aaa4-a7317431189f"
+migrations_dir = "migrations"

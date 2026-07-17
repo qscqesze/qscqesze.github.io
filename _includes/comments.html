@@ -14,7 +14,7 @@
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section class="g-comments" data-href="{{ base_path }}{{ page.url }}" data-first_party_property="BLOGGER" data-view_type="FILTERED_POSTMOD">Loading Google+ Comments ...</section>
   {% when "giscus" %}
-    <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: comments_label }}</h4>
+    <h4 class="page__comments-title">{{ page.comments_title | default: site.data.ui-text[site.locale].comments_title | default: comments_label }}</h4>
     {% include /comments-providers/giscus.html %}
   {% when "staticman" %}
     <section id="comments">
