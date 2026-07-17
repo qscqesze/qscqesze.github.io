@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1080" viewBox="0 0 1600 1080" role="img" aria-labelledby="title desc">
+  <title id="title">从原始网页到有效训练 token 的数据质量管线</title>
+  <desc id="desc">展示文本抽取、来源治理、去重、质量过滤、混合、调度和去污染如何把原始数据池转换为有效训练数据。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffaf4"/><stop offset="1" stop-color="#eff6f4"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#173e38" flood-opacity=".12"/></filter>
+    <marker id="arrow" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto"><path d="M0 0 L11 5.5 L0 11 Z" fill="#647b76"/></marker>
+    <style>
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif}.title{font-size:42px;font-weight:760;fill:#203633}.subtitle{font-size:20px;fill:#5c6d69}.stepNo{font-size:20px;font-weight:800;fill:#fff}.stepTitle{font-size:20px;font-weight:730;fill:#253d38}.stepText{font-size:15px;fill:#576b66}.section{font-size:22px;font-weight:740;fill:#27423c}.dimTitle{font-size:18px;font-weight:730;fill:#2b433e}.dimText{font-size:14px;fill:#5c6d68}.big{font-size:28px;font-weight:760;fill:#fff}.coreText{font-size:17px;fill:#e5f1ee}.small{font-size:15px;fill:#647570}
+    </style>
+  </defs>
+  <rect width="1600" height="1080" rx="30" fill="url(#bg)"/>
+  <text x="78" y="72" class="sans title">“好数据”不是一个过滤分数，而是一条可审计、可实验的生产管线</text>
+  <text x="80" y="110" class="sans subtitle">原始池很大不代表可训练数据多；最终价值取决于独特信息、覆盖、目标效用、来源治理与评测隔离。</text>
+
+  <g class="sans" filter="url(#shadow)">
+    <g transform="translate(65 174)"><rect width="205" height="186" rx="22" fill="#fff" stroke="#d7dfdc" stroke-width="2"/><circle cx="35" cy="35" r="22" fill="#66827c"/><text x="35" y="42" text-anchor="middle" class="stepNo">0</text><text x="25" y="82" class="stepTitle">原始数据池</text><text x="25" y="112" class="stepText">HTML、PDF、代码、书籍</text><text x="25" y="138" class="stepText">多语言、日志、合成数据</text><text x="25" y="164" class="stepText">规模可达数十至数百 T</text></g>
+    <g transform="translate(310 174)"><rect width="205" height="186" rx="22" fill="#fff" stroke="#d7dfdc" stroke-width="2"/><circle cx="35" cy="35" r="22" fill="#66827c"/><text x="35" y="42" text-anchor="middle" class="stepNo">1</text><text x="25" y="82" class="stepTitle">抽取与规范化</text><text x="25" y="112" class="stepText">正文抽取、编码修复</text><text x="25" y="138" class="stepText">模板／导航／广告移除</text><text x="25" y="164" class="stepText">文档边界与元数据保留</text></g>
+    <g transform="translate(555 174)"><rect width="205" height="186" rx="22" fill="#fff8e9" stroke="#e3ce95" stroke-width="2"/><circle cx="35" cy="35" r="22" fill="#c28c38"/><text x="35" y="42" text-anchor="middle" class="stepNo">2</text><text x="25" y="82" class="stepTitle">来源与治理</text><text x="25" y="112" class="stepText">许可、作者、时间、域名</text><text x="25" y="138" class="stepText">PII、恶意内容与安全</text><text x="25" y="164" class="stepText">人类／合成来源标记</text></g>
+    <g transform="translate(800 174)"><rect width="205" height="186" rx="22" fill="#fff8e9" stroke="#e3ce95" stroke-width="2"/><circle cx="35" cy="35" r="22" fill="#c28c38"/><text x="35" y="42" text-anchor="middle" class="stepNo">3</text><text x="25" y="82" class="stepTitle">去重与聚类</text><text x="25" y="112" class="stepText">精确、段落、近重复</text><text x="25" y="138" class="stepText">模板簇与跨快照重复</text><text x="25" y="164" class="stepText">保留长尾而非盲删</text></g>
+    <g transform="translate(1045 174)"><rect width="205" height="186" rx="22" fill="#fff0ea" stroke="#deb9a9" stroke-width="2"/><circle cx="35" cy="35" r="22" fill="#b65e49"/><text x="35" y="42" text-anchor="middle" class="stepNo">4</text><text x="25" y="82" class="stepTitle">质量／效用评分</text><text x="25" y="112" class="stepText">规则 + 分类器 + 小模型</text><text x="25" y="138" class="stepText">教育性、事实性、结构</text><text x="25" y="164" class="stepText">阈值必须做消融实验</text></g>
+    <g transform="translate(1290 174)"><rect width="245" height="186" rx="22" fill="#f4eef4" stroke="#cbb8c9" stroke-width="2"/><circle cx="35" cy="35" r="22" fill="#74566f"/><text x="35" y="42" text-anchor="middle" class="stepNo">5</text><text x="25" y="82" class="stepTitle">混合、调度与去污染</text><text x="25" y="112" class="stepText">域／语言／能力比例</text><text x="25" y="138" class="stepText">阶段课程与重复预算</text><text x="25" y="164" class="stepText">隔离测试集和时间切片</text></g>
+  </g>
+  <g stroke="#647b76" stroke-width="4" fill="none" marker-end="url(#arrow)"><path d="M270 267 H301"/><path d="M515 267 H546"/><path d="M760 267 H791"/><path d="M1005 267 H1036"/><path d="M1250 267 H1281"/></g>
+
+  <g class="sans" filter="url(#shadow)">
+    <rect x="240" y="420" width="1120" height="142" rx="32" fill="#214d4a"/>
+    <text x="800" y="468" text-anchor="middle" class="big">D_unique → D_seen → D_effective</text>
+    <text x="800" y="504" text-anchor="middle" class="coreText">唯一 token 解决“有多少不同观测”；训练曝光 token 解决“模型看了多少”；有效 token 解决“这些观测对目标能力贡献多少”。</text>
+    <text x="800" y="533" text-anchor="middle" class="coreText">三者不能混用。不同 tokenizer、语言和文档长度还会让公开模型的 token 数不可直接横比。</text>
+  </g>
+
+  <text x="80" y="638" class="sans section">高质量数据的八个可操作维度</text>
+  <g class="sans" filter="url(#shadow)">
+    <g transform="translate(70 676)"><rect width="340" height="126" rx="20" fill="#fff" stroke="#d5dfdc" stroke-width="2"/><text x="22" y="39" class="dimTitle">1｜可解析与连贯</text><text x="22" y="69" class="dimText">正文完整、上下文自洽、文档边界正确</text><text x="22" y="94" class="dimText">低模板噪声，不等于“低困惑度越好”</text></g>
+    <g transform="translate(443 676)"><rect width="340" height="126" rx="20" fill="#fff" stroke="#d5dfdc" stroke-width="2"/><text x="22" y="39" class="dimTitle">2｜正确与可验证</text><text x="22" y="69" class="dimText">事实、数学、代码与引用能够交叉核验</text><text x="22" y="94" class="dimText">代码最好可编译／测试，推理最好可验算</text></g>
+    <g transform="translate(816 676)"><rect width="340" height="126" rx="20" fill="#fff" stroke="#d5dfdc" stroke-width="2"/><text x="22" y="39" class="dimTitle">3｜信息密度与非冗余</text><text x="22" y="69" class="dimText">单位 token 含有独特、可迁移的学习信号</text><text x="22" y="94" class="dimText">去掉复制，不抹除必要的概念重复</text></g>
+    <g transform="translate(1189 676)"><rect width="340" height="126" rx="20" fill="#fff" stroke="#d5dfdc" stroke-width="2"/><text x="22" y="39" class="dimTitle">4｜覆盖与长尾</text><text x="22" y="69" class="dimText">语言、领域、风格、难度和稀有概念均衡</text><text x="22" y="94" class="dimText">平均质量高但模式单一仍会损害泛化</text></g>
+    <g transform="translate(70 832)"><rect width="340" height="126" rx="20" fill="#fff" stroke="#d5dfdc" stroke-width="2"/><text x="22" y="39" class="dimTitle">5｜目标相关性</text><text x="22" y="69" class="dimText">对目标能力有用，而非抽象的“像百科”</text><text x="22" y="94" class="dimText">通用模型还需防止过度目标化</text></g>
+    <g transform="translate(443 832)"><rect width="340" height="126" rx="20" fill="#fff" stroke="#d5dfdc" stroke-width="2"/><text x="22" y="39" class="dimTitle">6｜训练阶段适配</text><text x="22" y="69" class="dimText">预训练重覆盖，mid-training 重技能密度</text><text x="22" y="94" class="dimText">SFT／偏好数据重答案与标注可靠性</text></g>
+    <g transform="translate(816 832)"><rect width="340" height="126" rx="20" fill="#fff" stroke="#d5dfdc" stroke-width="2"/><text x="22" y="39" class="dimTitle">7｜来源、权利与隐私</text><text x="22" y="69" class="dimText">可追溯许可、删除机制、PII 和敏感内容治理</text><text x="22" y="94" class="dimText">合规不是性能指标，却是可持续性的前提</text></g>
+    <g transform="translate(1189 832)"><rect width="340" height="126" rx="20" fill="#fff" stroke="#d5dfdc" stroke-width="2"/><text x="22" y="39" class="dimTitle">8｜评测隔离与新鲜度</text><text x="22" y="69" class="dimText">基准去污染、时间切片、版本与哈希可审计</text><text x="22" y="94" class="dimText">不把记忆泄漏误判为泛化能力</text></g>
+  </g>
+  <text x="80" y="1023" class="sans small">关键原则：不要只报告“保留率”；应报告每一步的文档／token 变化、阈值、来源分布、重复率、污染率，以及固定算力下的模型消融结果。</text>
+</svg>
