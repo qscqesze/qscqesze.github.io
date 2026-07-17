@@ -23,6 +23,7 @@ function normaliseCountry(value) {
   if (typeof value !== "string") return "XX";
   const country = value.toUpperCase();
   if (country === "T1" || !/^[A-Z]{2}$/.test(country)) return "XX";
+  if (country === "TW") return "CN";
   return country;
 }
 
@@ -125,12 +126,12 @@ async function readStats(env, origin) {
 
   const countryRows = await env.DB.prepare(`
     SELECT
-      country AS code,
-      COUNT(*) AS visitors,
+      CASE WHEN country = 'TW' THEN 'CN' ELSE country END AS code,
+      COUNT(DISTINCT visitor_hash) AS visitors,
       COALESCE(SUM(visits), 0) AS visits
     FROM visitor_countries
-    GROUP BY country
-    ORDER BY visitors DESC, visits DESC, country ASC
+    GROUP BY CASE WHEN country = 'TW' THEN 'CN' ELSE country END
+    ORDER BY visitors DESC, visits DESC, code ASC
   `).all();
 
   return json({

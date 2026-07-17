@@ -30,13 +30,16 @@ class FakeStatement {
   async all() {
     const countries = new Map();
     for (const value of this.database.countries.values()) {
-      const current = countries.get(value.country) || { code: value.country, visitors: 0, visits: 0 };
-      current.visitors += 1;
+      const code = normaliseCountry(value.country);
+      const current = countries.get(code) || { code, visitorHashes: new Set(), visits: 0 };
+      current.visitorHashes.add(value.visitorHash);
       current.visits += value.visits;
-      countries.set(value.country, current);
+      countries.set(code, current);
     }
     return {
-      results: Array.from(countries.values()).sort((left, right) => right.visitors - left.visitors || right.visits - left.visits || left.code.localeCompare(right.code))
+      results: Array.from(countries.values())
+        .map((country) => ({ code: country.code, visitors: country.visitorHashes.size, visits: country.visits }))
+        .sort((left, right) => right.visitors - left.visitors || right.visits - left.visits || left.code.localeCompare(right.code))
     };
   }
 }
@@ -94,10 +97,27 @@ test("normalises public inputs", async () => {
   assert.equal(normaliseVisitorId("18ef5bcf-d72d-447d-a61a-283e8ff12435"), "18ef5bcf-d72d-447d-a61a-283e8ff12435");
   assert.equal(normaliseVisitorId("short"), "");
   assert.equal(normaliseCountry("cn"), "CN");
+  assert.equal(normaliseCountry("TW"), "CN");
   assert.equal(normaliseCountry("T1"), "XX");
   assert.equal(isBot("Googlebot/2.1"), true);
   assert.equal(isBot("Mozilla/5.0"), false);
   assert.equal((await hashVisitor("visitor", "salt")).length, 64);
+});
+
+test("merges Taiwan visits into China", async () => {
+  const env = environment();
+  const mainlandVisitor = "18ef5bcf-d72d-447d-a61a-283e8ff12435";
+  const taiwanVisitor = "7de35e44-7244-4416-a4ac-aa3b19acd492";
+
+  await worker.fetch(request("/api/visit", { method: "POST", body: JSON.stringify({ visitorId: mainlandVisitor }), country: "CN" }), env);
+  await worker.fetch(request("/api/visit", { method: "POST", body: JSON.stringify({ visitorId: taiwanVisitor }), country: "TW" }), env);
+
+  const response = await worker.fetch(request("/api/stats"), env);
+  const stats = await response.json();
+
+  assert.deepEqual(stats.countries, [
+    { code: "CN", visitors: 2, visits: 2 }
+  ]);
 });
 
 test("records unique visitors and country totals", async () => {

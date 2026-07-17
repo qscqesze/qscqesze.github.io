@@ -36,24 +36,48 @@
     statusElement.dataset.state = state;
   }
 
+  function canonicalCountryCode(value) {
+    const code = String(value || "").toUpperCase();
+    if (code === "TW") return "CN";
+    return /^[A-Z]{2}$/.test(code) ? code : "XX";
+  }
+
   function countryCode(feature) {
     const properties = feature.properties || {};
     const candidates = [properties.ISO_A2_EH, properties.ISO_A2, properties.POSTAL];
-    return candidates.find((code) => /^[A-Z]{2}$/.test(code || "")) || "XX";
+    return canonicalCountryCode(candidates.find((code) => /^[A-Z]{2}$/.test(code || "")));
   }
 
   function countryName(feature) {
+    if (countryCode(feature) === "CN") return "中国";
     const properties = feature.properties || {};
     return properties.NAME_ZH || properties.NAME_EN || properties.ADMIN || "未知地区";
   }
 
   function displayCountryName(code) {
-    if (code === "XX") return "未知地区";
+    const canonicalCode = canonicalCountryCode(code);
+    if (canonicalCode === "CN") return "中国";
+    if (canonicalCode === "XX") return "未知地区";
     try {
-      return countryNames ? countryNames.of(code) : code;
+      return countryNames ? countryNames.of(canonicalCode) : canonicalCode;
     } catch (error) {
-      return code;
+      return canonicalCode;
     }
+  }
+
+  function mergeCountryStats(values) {
+    const merged = new Map();
+
+    values.forEach((country) => {
+      const code = canonicalCountryCode(country.code);
+      const current = merged.get(code) || { code, visitors: 0, visits: 0 };
+      current.visitors += Number(country.visitors) || 0;
+      current.visits += Number(country.visits) || 0;
+      merged.set(code, current);
+    });
+
+    return Array.from(merged.values())
+      .sort((left, right) => right.visitors - left.visitors || right.visits - left.visits || left.code.localeCompare(right.code));
   }
 
   function escapeHtml(value) {
@@ -147,7 +171,7 @@
         getJson(tinyCountriesUrl)
       ]);
 
-      const countries = Array.isArray(stats.countries) ? stats.countries : [];
+      const countries = mergeCountryStats(Array.isArray(stats.countries) ? stats.countries : []);
       const countByCountry = new Map(countries.map((country) => [country.code, Number(country.visitors) || 0]));
       const maxCount = Math.max(1, ...countByCountry.values());
 
