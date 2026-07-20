@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "关于 qscqesze"
-author_profile: false
 redirect_from: 
   - /about.html
 ---

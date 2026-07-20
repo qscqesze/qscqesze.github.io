@@ -1,101 +1,33 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
-# Basic Site Settings
+# qscqesze.github.io
 locale                   : "zh-CN"
 site_theme               : "default"
 title                    : "qscqesze"
 title_separator          : "-"
-name                     : &name "qscqesze"
-description              : &description "软件工程师，独立游戏开发者，关注 AI 驱动的系统与创意工具。"
-url                      : https://qscqesze.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : "qscqesze"
+description              : "软件工程师，独立游戏开发者，关注 AI 驱动的系统与创意工具。"
+url                      : https://qscqesze.github.io
+baseurl                  : ""
 repository               : "qscqesze/qscqesze.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "avatar.png"
   name             : "qscqesze"
-  pronouns         : # example: "she/her"
   bio              : "MiniMax 软件工程师。SurprisingStudio 独立游戏开发者。"
   location         : "中国北京"
   employer         : "MiniMax / SurprisingStudio"
-  uri              : "https://surprising.studio" # URL
-  email            : "qscqesze@gmail.com" 
-
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    :
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            :
-  semantic         : # URL
-  pubmed           :
-  researchgate     : # URL
-  scopus           : # URL
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  uri              : "https://surprising.studio"
+  email            : "qscqesze@gmail.com"
   github           : "qscqesze"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  zhihu            : "qscqesze"
 
-  # Social media
-  artstation       : # Username
-  bluesky          : # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : 
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : "qscqesze" # Username
-
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
-
-# Site Settings
-teaser                   : "og-default.png" # filename of teaser fallback image placed in /images/
-breadcrumbs              : false # true, false (default)
+# 文章体验
+teaser                   : "og-default.png"
 words_per_minute         : 160
 future                   : false
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
+
+# 评论
 comments:
-  provider               : "giscus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom", "giscus"
+  provider               : "giscus"
   giscus:
     repo                 : "qscqesze/qscqesze.github.io"
     repo_id              : "R_kgDOPXzLJQ"
@@ -109,54 +41,15 @@ comments:
     theme                : "preferred_color_scheme"
     lang                 : "zh-CN"
     loading              : "lazy"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
+  hide                   : false
+  path                   :
 
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
+# 搜索与社交分享
 og_image                 : "og-default.png"
 og_image_alt             : "qscqesze：把复杂系统讲清楚"
 og_description           : "AI 系统、独立游戏，以及旅行与历史观察。"
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : "Person"
   name                   : "qscqesze"
@@ -164,68 +57,45 @@ social:
     - "https://github.com/qscqesze"
     - "https://surprising.studio"
 
-
-# Analytics
+# 留空即不加载 Google Analytics。
 analytics:
   provider               : "google-analytics-4"
   google:
-    tracking_id          : # 填入 GA4 Measurement ID，例如 G-XXXXXXXXXX
+    tracking_id          :
 
-# Privacy-friendly global visitor statistics served by the companion Worker in
-# stats-worker/. Keep the public endpoint without a trailing slash.
+# Cloudflare Worker 提供的隐私友好型访问统计。
 visitor_stats:
   endpoint               : "https://qscqesze-visitor-stats.qscqesze.workers.dev"
 
-
-# Reading Files
 include:
-  - .htaccess
   - _pages
-  - files
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
   - .bundle
   - .github
-  - .jekyll-assets-cache
+  - .jekyll-cache
   - .sass-cache
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
-  - CHANGELOG
-  - Capfile
-  - config
-  - Dockerfile
   - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
+  - Gemfile.lock
   - LICENSE
-  - local
-  - log
   - node_modules
-  - package.json*
-  - Rakefile
-  - README
-  - tmp
-  - vendor
+  - output
+  - package.json
+  - package-lock.json
+  - README.md
   - stats-worker
-keep_files:
-  - .git
-  - .svn
+  - vendor
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
-# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -236,155 +106,54 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
-# These settings control the types of collections used by the template
 collections:
   legacy:
     output: true
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
-
-# These settings control how pages and collections are included in the site
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: false
       read_time: true
       comments: true
       share: true
       related: true
-  # 从其他博客迁移的旧文（不参与首页和 RSS 的文章分页）
   - scope:
       path: ""
       type: legacy
     values:
       layout: single
-      author_profile: false
       read_time: true
       comments: true
       share: false
       related: false
       tags:
         - 旧文
-  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
-      author_profile: false
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
-
-# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
-
-# Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
 
-
-# Plugins
 plugins:
   - jekyll-feed
-  - jekyll-gist
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jemoji
 
-# Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
-  - jekyll-gist
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jemoji
 
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
