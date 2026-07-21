@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1120" viewBox="0 0 1600 1120" role="img" aria-labelledby="title desc">
+  <title id="title">夏纪年人牲与人殉的过程及证据可见度</title>
+  <desc id="desc">图表区分人牲与人殉两条路径，并把人的处置分为选择、控制、仪式性交付、死亡与身体处置、置入、封闭六阶段。图中强调越接近埋葬末端考古证据越清楚，而被选择者的想法无法由骨骼直接读取。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f8f5ef"/>
+      <stop offset="1" stop-color="#e9dfd1"/>
+    </linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#332a24" flood-opacity=".15"/></filter>
+    <style>
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif}.title{font-size:42px;font-weight:780;fill:#302822}.subtitle{font-size:19px;fill:#6d5d51}.pathTitle{font-size:23px;font-weight:760;fill:#fff}.pathText{font-size:17px;fill:#fff}.num{font-size:24px;font-weight:800;fill:#fff}.cardTitle{font-size:24px;font-weight:780;fill:#352c26}.label{font-size:15px;font-weight:760;fill:#8a4a3d}.body{font-size:16px;fill:#584b42}.small{font-size:14px;fill:#746359}.barText{font-size:13px;font-weight:760;fill:#fff}.mindTitle{font-size:24px;font-weight:800;fill:#3d312b}.mind{font-size:17px;fill:#59483e}.foot{font-size:15px;fill:#6f5c50}
+    </style>
+  </defs>
+
+  <rect width="1600" height="1120" fill="url(#bg)"/>
+  <g class="sans">
+    <text x="72" y="66" class="title">一个人怎样成为祭祀遗存：过程越向前，证据越沉默</text>
+    <text x="74" y="105" class="subtitle">人牲围绕神灵、土地、建筑或公共祭期；人殉围绕墓主死亡与下葬。两者都不能只凭一具异常骨架判定。</text>
+
+    <g transform="translate(72 138)" filter="url(#shadow)">
+      <rect width="704" height="88" rx="20" fill="#745449"/>
+      <text x="28" y="36" class="pathTitle">人牲路径</text>
+      <text x="154" y="36" class="pathText">选择人 → 进入祭场或建筑节点 → 奉献 → 置入与封闭</text>
+      <text x="28" y="65" class="pathText">仪式中心：神灵、土地、工程、战争告祭或共同体危机</text>
+    </g>
+    <g transform="translate(824 138)" filter="url(#shadow)">
+      <rect width="704" height="88" rx="20" fill="#5f7063"/>
+      <text x="28" y="36" class="pathTitle">人殉路径</text>
+      <text x="154" y="36" class="pathText">墓主死亡 → 决定附属者 → 下葬安排 → 墓域封闭</text>
+      <text x="28" y="65" class="pathText">仪式中心：墓主及其死后等级；被殉者被纳入依附关系</text>
+    </g>
+
+    <g transform="translate(72 266)" filter="url(#shadow)">
+      <rect width="458" height="260" rx="22" fill="#fffaf2"/>
+      <circle cx="42" cy="42" r="24" fill="#b28768"/><text x="42" y="50" text-anchor="middle" class="num">1</text>
+      <text x="82" y="50" class="cardTitle">选择与带离</text>
+      <text x="24" y="91" class="label">可能行为</text><text x="24" y="118" class="body">从俘虏、依附人口或本地成员中取得人；</text><text x="24" y="143" class="body">人殉还可能牵涉近侍与家内依附者。</text>
+      <text x="24" y="177" class="label">可检验证据</text><text x="24" y="204" class="body">性别年龄、亲缘、成长地与长期饮食。</text>
+      <rect x="24" y="224" width="410" height="18" rx="9" fill="#e6d7c7"/><rect x="24" y="224" width="78" height="18" rx="9" fill="#b28768"/><text x="319" y="239" class="barText">考古可见度：低</text>
+    </g>
+
+    <g transform="translate(571 266)" filter="url(#shadow)">
+      <rect width="458" height="260" rx="22" fill="#fffaf2"/>
+      <circle cx="42" cy="42" r="24" fill="#a9795d"/><text x="42" y="50" text-anchor="middle" class="num">2</text>
+      <text x="82" y="50" class="cardTitle">隔离、等待与控制</text>
+      <text x="24" y="91" class="label">可能行为</text><text x="24" y="118" class="body">看守、束缚、押送或集中等候；当事人</text><text x="24" y="143" class="body">可能很晚才知道自己将被处置。</text>
+      <text x="24" y="177" class="label">最难回答</text><text x="24" y="204" class="body">等候多久、能否行动、是否试图逃离。</text>
+      <rect x="24" y="224" width="410" height="18" rx="9" fill="#e6d7c7"/><rect x="24" y="224" width="105" height="18" rx="9" fill="#a9795d"/><text x="295" y="239" class="barText">考古可见度：较低</text>
+    </g>
+
+    <g transform="translate(1070 266)" filter="url(#shadow)">
+      <rect width="458" height="260" rx="22" fill="#fffaf2"/>
+      <circle cx="42" cy="42" r="24" fill="#986d55"/><text x="42" y="50" text-anchor="middle" class="num">3</text>
+      <text x="82" y="50" class="cardTitle">仪式性交付</text>
+      <text x="24" y="91" class="label">可能行为</text><text x="24" y="118" class="body">进入祭场、建筑基址或墓域，被安排在</text><text x="24" y="143" class="body">主持者、执行者与观看者之间的位置。</text>
+      <text x="24" y="177" class="label">可检验证据</text><text x="24" y="204" class="body">围沟、门道、台面、坑位与祭品组合。</text>
+      <rect x="24" y="224" width="410" height="18" rx="9" fill="#e6d7c7"/><rect x="24" y="224" width="146" height="18" rx="9" fill="#986d55"/><text x="285" y="239" class="barText">可见度：中低</text>
+    </g>
+
+    <g transform="translate(72 556)" filter="url(#shadow)">
+      <rect width="458" height="260" rx="22" fill="#fffaf2"/>
+      <circle cx="42" cy="42" r="24" fill="#875c49"/><text x="42" y="50" text-anchor="middle" class="num">4</text>
+      <text x="82" y="50" class="cardTitle">死亡与身体处置</text>
+      <text x="24" y="91" class="label">可能行为</text><text x="24" y="118" class="body">现场或此前死亡；完整放置、身首分离、</text><text x="24" y="143" class="body">分段、迁移或死亡后一段时间再处理。</text>
+      <text x="24" y="177" class="label">可检验证据</text><text x="24" y="204" class="body">围死期创伤、切割痕、关节连接和焚烧。</text>
+      <rect x="24" y="224" width="410" height="18" rx="9" fill="#e6d7c7"/><rect x="24" y="224" width="225" height="18" rx="9" fill="#875c49"/><text x="291" y="239" class="barText">可见度：中等</text>
+    </g>
+
+    <g transform="translate(571 556)" filter="url(#shadow)">
+      <rect width="458" height="260" rx="22" fill="#fffaf2"/>
+      <circle cx="42" cy="42" r="24" fill="#667761"/><text x="42" y="50" text-anchor="middle" class="num">5</text>
+      <text x="82" y="50" class="cardTitle">置入特定位置</text>
+      <text x="24" y="91" class="label">可能行为</text><text x="24" y="118" class="body">身体或骨段进入人骨坑、夯土层、建筑</text><text x="24" y="143" class="body">基础、墓室或附属空间，与祭品组合。</text>
+      <text x="24" y="177" class="label">直接记录</text><text x="24" y="204" class="body">位置、层位、姿态、朝向、叠压及伴出物。</text>
+      <rect x="24" y="224" width="410" height="18" rx="9" fill="#d9e0d6"/><rect x="24" y="224" width="338" height="18" rx="9" fill="#667761"/><text x="284" y="239" class="barText">可见度：高</text>
+    </g>
+
+    <g transform="translate(1070 556)" filter="url(#shadow)">
+      <rect width="458" height="260" rx="22" fill="#fffaf2"/>
+      <circle cx="42" cy="42" r="24" fill="#506451"/><text x="42" y="50" text-anchor="middle" class="num">6</text>
+      <text x="82" y="50" class="cardTitle">覆盖、封闭与叙事</text>
+      <text x="24" y="91" class="label">可能行为</text><text x="24" y="118" class="body">填土、夯筑、封墓或继续建造；共同体</text><text x="24" y="143" class="body">记住仪式完成，却未必保留受害者姓名。</text>
+      <text x="24" y="177" class="label">直接记录</text><text x="24" y="204" class="body">封土、夯层、踩踏与后来祭祀的叠压。</text>
+      <rect x="24" y="224" width="410" height="18" rx="9" fill="#d9e0d6"/><rect x="24" y="224" width="374" height="18" rx="9" fill="#506451"/><text x="280" y="239" class="barText">可见度：很高</text>
+    </g>
+
+    <g transform="translate(72 854)" filter="url(#shadow)">
+      <rect width="1456" height="200" rx="26" fill="#eee2d2" stroke="#bda990" stroke-width="2"/>
+      <text x="28" y="45" class="mindTitle">骨骼不能读取思想：心理史只能提出条件式问题</text>
+      <g transform="translate(28 70)"><rect width="320" height="54" rx="16" fill="#fff8ee"/><text x="20" y="33" class="mind">何时知道自己不会返回？</text></g>
+      <g transform="translate(370 70)"><rect width="320" height="54" rx="16" fill="#fff8ee"/><text x="20" y="33" class="mind">是否听懂祝告与命令？</text></g>
+      <g transform="translate(712 70)"><rect width="320" height="54" rx="16" fill="#fff8ee"/><text x="20" y="33" class="mind">想到家人、逃离还是求救？</text></g>
+      <g transform="translate(1054 70)"><rect width="374" height="54" rx="16" fill="#fff8ee"/><text x="20" y="33" class="mind">相信神灵是否等于自愿死亡？不是。</text></g>
+      <text x="28" y="164" class="foot">恐惧、沉默、顺从、反抗或麻木都可能发生；没有反抗痕迹不能证明自愿。仪式主持者的“秩序”与被处置者的经验必须分开书写。</text>
+    </g>
+
+    <text x="72" y="1092" class="foot">证据原则：层位与位置通常最清楚，身份和心理最不清楚；流程图是分析模型，不是对某一次夏代仪式的录像式还原。</text>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980" role="img" aria-labelledby="title desc">
+  <title id="title">夏纪年祭祀中人与动物如何选择的证据矩阵</title>
+  <desc id="desc">动物一侧列出物种、来源和饲养的直接证据，以及毛色、性别、年龄等未知项；人一侧列出瓦店与二里头的人骨证据，并强调身份、性别年龄和选择机制尚不能确认。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f4ed"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#302922" flood-opacity=".17"/></filter>
+    <style>
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif}.title{font-size:40px;font-weight:760;fill:#302922}.sub{font-size:19px;fill:#6a5c50}.head{font-size:29px;font-weight:780;fill:#fff}.h2{font-size:20px;font-weight:760;fill:#302922}.body{font-size:16px;fill:#574a40}.small{font-size:14px;fill:#716256}.tag{font-size:14px;font-weight:780;fill:#fff}.q{font-size:17px;font-weight:730;fill:#8a3e36}.compare{font-size:15px;fill:#55473b}
+    </style>
+  </defs>
+  <rect width="1600" height="980" fill="url(#bg)"/>
+  <g class="sans"><text x="72" y="66" class="title">人和牲畜究竟怎样被选中？答案必须分成“已知”与“未知”</text><text x="74" y="104" class="sub">骨骼能回答物种、食物与部分来源；没有同时代文字时，不能凭后世礼书补出毛色、名额、身份和祝词。</text></g>
+
+  <g transform="translate(72 150)" filter="url(#shadow)" class="sans">
+    <rect width="700" height="694" rx="28" fill="#fffaf1"/>
+    <path d="M0 28 Q0 0 28 0 H672 Q700 0 700 28 V100 H0 Z" fill="#667c61"/>
+    <text x="35" y="62" class="head">动物牺牲：可见“征集”，难见“礼书式挑选”</text>
+    <g transform="translate(32 132)"><rect width="636" height="142" rx="18" fill="#edf2e9"/><text x="20" y="34" class="h2">直接材料告诉我们什么</text><text x="20" y="68" class="body">• 二里头祭祀坑样品包括猪、狗、牛、羊、鹿</text><text x="20" y="96" class="body">• 猪的食谱差异大，可能来自多处，且有个别野猪</text><text x="20" y="124" class="body">• 牛的氮同位素偏低，或为特殊来源／饲养，尚待验证</text></g>
+    <g transform="translate(32 294)"><rect width="636" height="128" rx="18" fill="#f5ead8"/><text x="20" y="34" class="h2">选择机制的稳妥复原</text><text x="20" y="68" class="body">先从日常饲养与区域网络取得动物，再按活动所需的</text><text x="20" y="96" class="body">物种和数量调入祭场；牛可能比猪更需要专门组织。</text><rect x="478" y="17" width="136" height="27" rx="13" fill="#9b6948"/><text x="546" y="36" text-anchor="middle" class="tag">强推论，不是礼条</text></g>
+    <g transform="translate(32 442)"><rect width="636" height="215" rx="18" fill="#f6e5e2"/><text x="20" y="34" class="h2">目前不能回答</text><text x="20" y="70" class="q">毛色是否必须纯一？</text><text x="330" y="70" class="q">是否一定无伤、无残疾？</text><text x="20" y="106" class="q">公母如何分配？</text><text x="330" y="106" class="q">是否固定幼牲或成年牲？</text><text x="20" y="142" class="q">牛、羊、猪是否已有“太牢”组合？</text><text x="20" y="178" class="body">这些在商周材料中有较多讨论，但不能倒填为夏代定制。</text><rect x="498" y="169" width="116" height="27" rx="13" fill="#a8443c"/><text x="556" y="188" text-anchor="middle" class="tag">证据不足</text></g>
+  </g>
+
+  <g transform="translate(828 150)" filter="url(#shadow)" class="sans">
+    <rect width="700" height="694" rx="28" fill="#fffaf1"/>
+    <path d="M0 28 Q0 0 28 0 H672 Q700 0 700 28 V100 H0 Z" fill="#76574b"/>
+    <text x="35" y="62" class="head">人牲：能确认异常处置，不能确认受害者身份</text>
+    <g transform="translate(32 132)"><rect width="636" height="142" rx="18" fill="#eee7df"/><text x="20" y="34" class="h2">直接材料告诉我们什么</text><text x="20" y="68" class="body">• 瓦店祭祀建筑发现数十具人牲及人骨坑</text><text x="20" y="96" class="body">• 早期报告见身首分离、头骨置于夯土等异常处置</text><text x="20" y="124" class="body">• 二里头巨型坑有少量人骨，但样本不足以归纳制度</text></g>
+    <g transform="translate(32 294)"><rect width="636" height="128" rx="18" fill="#f5ead8"/><text x="20" y="34" class="h2">能够提出、尚不能坐实的假说</text><text x="20" y="68" class="body">奠基、祭地、战争俘获、刑罚与依附人口都可能形成</text><text x="20" y="96" class="body">异常人骨；需要创伤、DNA、同位素和埋藏学共同检验。</text><rect x="478" y="17" width="136" height="27" rx="13" fill="#9b6948"/><text x="546" y="36" text-anchor="middle" class="tag">待检验假说</text></g>
+    <g transform="translate(32 442)"><rect width="636" height="215" rx="18" fill="#f6e5e2"/><text x="20" y="34" class="h2">目前不能回答</text><text x="20" y="70" class="q">是否专选战俘或奴隶？</text><text x="330" y="70" class="q">是否偏选男性、女性或儿童？</text><text x="20" y="106" class="q">是否来自外地？</text><text x="330" y="106" class="q">生前是否被集中拘押？</text><text x="20" y="142" class="q">是否存在固定名额、替代与等级规则？</text><text x="20" y="178" class="body">“青年男性”“处女”“自愿献身”等流行叙述均无夏代证据。</text><rect x="498" y="169" width="116" height="27" rx="13" fill="#a8443c"/><text x="556" y="188" text-anchor="middle" class="tag">不可断言</text></g>
+  </g>
+
+  <g transform="translate(72 872)" class="sans"><rect width="1456" height="70" rx="18" fill="#e8d9bd" stroke="#b9a27d" stroke-width="2"/><text x="24" y="29" class="h2">同时代比较不是夏礼证据：</text><text x="245" y="29" class="compare">石峁古 DNA 显示，城门集体人头坑样本多为男性，而贵族墓附属牺牲多为女性；这证明早期社会可能按仪式场景选择性别，</text><text x="24" y="55" class="compare">但石峁属于不同区域文化，不能据此断言瓦店或二里头采取同一规则。</text></g>
+</svg>

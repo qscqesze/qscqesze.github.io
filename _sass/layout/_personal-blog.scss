@@ -693,6 +693,30 @@ a {
   text-align: center;
 }
 
+.page__content table.human-process-table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  font-size: 0.82rem;
+}
+
+.page__content table.human-process-table th,
+.page__content table.human-process-table td {
+  min-width: 15rem;
+  padding: 0.62rem 0.56rem;
+  vertical-align: top;
+}
+
+.page__content table.human-process-table th:first-child,
+.page__content table.human-process-table td:first-child {
+  min-width: 7rem;
+}
+
+.page__content table.human-process-table th:last-child,
+.page__content table.human-process-table td:last-child {
+  min-width: 16rem;
+}
+
 @media (max-width: 640px) {
   .page__content .technical-figure {
     width: calc(100% + 1rem);
