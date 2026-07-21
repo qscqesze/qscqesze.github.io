@@ -146,14 +146,24 @@ timezone: Asia/Shanghai
 
 plugins:
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
 
 whitelist:
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
+
+# 首页分页
+paginate: 6
+paginate_path: /page/:num/
 
 tag_archive:
   type: liquid
   path: /tags/
+
+category_archive:
+  type: liquid
+  path: /categories/

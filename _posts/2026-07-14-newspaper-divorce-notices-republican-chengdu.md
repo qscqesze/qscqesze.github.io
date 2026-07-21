@@ -3,6 +3,8 @@ title: "在报纸上分手：民国成都离婚启事中的财产、名誉与性
 date: 2026-07-14 19:00:00 +0800
 permalink: /posts/newspaper-divorce-notices-republican-chengdu/
 excerpt: "从1938年成都160件登报离婚材料出发，分析报纸如何切割财产责任、管理名誉并放大性别不平等，附十则有报刊出处的民国离婚启事。"
+categories:
+  - 历史与社会
 comments: true
 share: false
 related: false

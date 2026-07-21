@@ -3,6 +3,8 @@ title: "参数不是全部：大模型的数据规模、质量与 Scaling Laws"
 date: 2026-07-17 10:00:00 +0800
 permalink: /posts/llm-data-scaling-laws-quality/
 excerpt: "从 Kaplan、Chinchilla 到 DataComp-LM、FineWeb、Llama 3、DeepSeek-V3 与 Qwen3，系统解释模型规模、训练 token、有效数据量、数据质量和部署成本之间的定量关系。"
+categories:
+  - 人工智能
 comments: true
 share: false
 related: false

@@ -1,0 +1,12 @@
+<p class="page__taxonomy">
+  <strong><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].categories_label | default: "分类：" }} </strong>
+  <span itemprop="keywords">
+    {% for category in page.categories %}
+      {% assign category_slug = category | slugify %}
+      {% for category_item in site.data.categories %}
+        {% if category_item.name == category %}{% assign category_slug = category_item.slug %}{% endif %}
+      {% endfor %}
+      <a href="{{ site.category_archive.path | relative_url }}#{{ category_slug }}" class="page__taxonomy-item" rel="tag">{{ category }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+    {% endfor %}
+  </span>
+</p>

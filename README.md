@@ -11,7 +11,7 @@
 - 旅行中的城市、历史和现场观察
 - 从博客园迁移来的早期算法与生活记录
 
-站点的主要入口包括[文章](https://qscqesze.github.io/)、[独立游戏](https://qscqesze.github.io/indie-games/)、[旧文](https://qscqesze.github.io/tags/#旧文)、[留言](https://qscqesze.github.io/guestbook/)、[访问统计](https://qscqesze.github.io/stats/)和[关于我](https://qscqesze.github.io/about/)。
+站点的主要入口包括[文章](https://qscqesze.github.io/)、[分类](https://qscqesze.github.io/categories/)、[独立游戏](https://qscqesze.github.io/indie-games/)、[旧文](https://qscqesze.github.io/tags/#旧文)、[留言](https://qscqesze.github.io/guestbook/)、[访问统计](https://qscqesze.github.io/stats/)和[关于我](https://qscqesze.github.io/about/)。
 
 ## 仓库结构
 

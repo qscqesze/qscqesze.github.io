@@ -101,10 +101,111 @@ a {
   font-size: 1rem;
 }
 
+.category-index {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin: 0 0 2.5rem;
+}
+
+.category-index__item {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.9rem 1rem;
+  color: var(--blog-ink);
+  text-decoration: none !important;
+  border: 1px solid var(--blog-border);
+  border-radius: 8px;
+  background: var(--blog-surface);
+}
+
+.category-index__item:hover {
+  color: var(--blog-accent);
+  border-color: var(--blog-accent);
+}
+
+.category-index__count,
+.category-section__description {
+  color: var(--blog-muted);
+  font-size: 0.86rem;
+}
+
+.category-section {
+  scroll-margin-top: 5rem;
+  margin-top: 2.75rem;
+}
+
+.category-section__header {
+  margin-bottom: 1.15rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid var(--blog-border);
+}
+
+.category-section__title {
+  margin: 0 0 0.25rem;
+  color: var(--blog-ink);
+  font-size: 1.45rem;
+}
+
+.category-section__description {
+  margin: 0;
+}
+
 .page__date,
 .page__meta {
   color: var(--blog-muted);
   font-size: 0.82rem;
+}
+
+.archive__item-category {
+  display: inline-block;
+  margin-left: 0.55rem;
+  padding: 0.08rem 0.42rem;
+  color: var(--blog-muted);
+  text-decoration: none !important;
+  border: 1px solid var(--blog-border);
+  border-radius: 999px;
+}
+
+.archive__item-category:hover {
+  color: var(--blog-accent);
+  border-color: var(--blog-accent);
+}
+
+.pagination--archive {
+  margin-top: 2rem;
+  padding-top: 0;
+}
+
+.pagination--archive ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem;
+}
+
+.pagination--archive li {
+  float: none;
+  margin-left: 0;
+}
+
+.pagination--archive li a {
+  display: block;
+  min-width: 2.35rem;
+  border-radius: 6px;
+}
+
+@media (max-width: 560px) {
+  .category-index {
+    grid-template-columns: 1fr;
+  }
+
+  .pagination--archive li a {
+    padding-right: 0.7rem;
+    padding-left: 0.7rem;
+  }
 }
 
 .page__meta--post {

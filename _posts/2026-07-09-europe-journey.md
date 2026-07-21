@@ -3,6 +3,8 @@ title: "欧洲十几天：法国、瑞士、威尼斯与罗马"
 date: 2026-07-09 17:40:00 +0800
 permalink: /posts/europe-journey/
 excerpt: "从巴黎的王宫与铁塔，到瑞士雪山、威尼斯水路和罗马废墟，一篇欧洲旅行笔记。"
+categories:
+  - 旅行见闻
 comments: true
 share: false
 related: false

@@ -5,6 +5,8 @@ permalink: /posts/tokyo-journey/
 redirect_from:
   - /posts/tokyo-in-the-rain/
 excerpt: "和老婆、朋友一起从北京到东京，在雨、铁塔、寿司与迪士尼海洋里慢慢休息。"
+categories:
+  - 旅行见闻
 comments: true
 share: false
 related: false

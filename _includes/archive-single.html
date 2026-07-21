@@ -19,6 +19,13 @@
       <p class="page__date">
         <strong>{{ site.data.ui-text[site.locale].date_label | default: "发布时间：" }}</strong>
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y年%m月%d日 %H:%M" }}</time>
+        {% for category in post.categories %}
+          {% assign category_slug = category | slugify %}
+          {% for category_item in site.data.categories %}
+            {% if category_item.name == category %}{% assign category_slug = category_item.slug %}{% endif %}
+          {% endfor %}
+          <a class="archive__item-category" href="{{ site.category_archive.path | relative_url }}#{{ category_slug }}">{{ category }}</a>
+        {% endfor %}
       </p>
     {% endif %}
 

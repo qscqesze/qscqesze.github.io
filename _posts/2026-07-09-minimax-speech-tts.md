@@ -3,6 +3,8 @@ title: "读 MiniMax-Speech：小白也能看懂的 TTS 技术笔记"
 date: 2026-07-09 19:30:00 +0800
 permalink: /posts/minimax-speech-tts/
 excerpt: "基于 MiniMax-Speech 技术报告，解释一个现代 TTS 系统如何从文字、参考音频和声学建模生成自然语音。"
+categories:
+  - 人工智能
 comments: true
 share: false
 related: false

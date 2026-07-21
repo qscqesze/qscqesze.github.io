@@ -3,6 +3,8 @@ title: "菲尔兹奖到底有多重：含金量、诞生原因与世界数学大
 date: 2026-07-15 20:00:00 +0800
 permalink: /posts/fields-medal-prestige-and-comparison/
 excerpt: "菲尔兹奖为何被称为数学界诺贝尔奖？从四十岁规则、四年一届、历史起源、真实奖金与同行地位出发，比较阿贝尔奖、诺贝尔奖、沃尔夫奖、陈省身奖、数学突破奖和图灵奖。"
+categories:
+  - 科学与健康
 comments: true
 share: false
 related: false

@@ -1,0 +1,23 @@
+- name: "人工智能"
+  slug: ai
+  description: "大模型、AI 系统、算法与基础设施。"
+
+- name: "旅行见闻"
+  slug: travel
+  description: "旅途中的城市、风景与个人记忆。"
+
+- name: "独立游戏"
+  slug: indie-games
+  description: "游戏设计、开发实践与项目复盘。"
+
+- name: "历史与社会"
+  slug: history-society
+  description: "历史材料、社会关系与制度变迁。"
+
+- name: "科学与健康"
+  slug: science-health
+  description: "自然科学、医学与知识梳理。"
+
+- name: "经济与投资"
+  slug: economics-investing
+  description: "经济机制、资本市场与财富议题。"

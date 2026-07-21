@@ -3,6 +3,8 @@ title: "从尸体输入到化能合成岛屿：深海鲸落生态系统的形成
 date: 2026-07-20 14:00:00 +0800
 permalink: /posts/whale-fall-ecosystem-formation-succession/
 excerpt: "基于长期原位观测、微生物地球化学与生物地理学证据，系统讨论鲸尸沉降、移动食腐、机会种富集、硫化与礁体阶段，以及控制演替速度和生态结局的关键机制。"
+categories:
+  - 科学与健康
 comments: true
 share: false
 related: false

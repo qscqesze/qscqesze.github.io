@@ -1,0 +1,31 @@
+---
+layout: archive
+permalink: /categories/
+title: "文章分类"
+excerpt: "按主题浏览博客文章。"
+---
+
+<p class="archive__intro">按主题浏览文章。每篇文章归入一个主要分类，后续新增内容也会自动汇总到这里。</p>
+
+<nav class="category-index" aria-label="分类索引">
+  {% for category in site.data.categories %}
+    {% assign category_posts = site.categories[category.name] %}
+    <a class="category-index__item" href="#{{ category.slug }}">
+      <span>{{ category.name }}</span>
+      <span class="category-index__count">{{ category_posts | size }} 篇</span>
+    </a>
+  {% endfor %}
+</nav>
+
+{% for category in site.data.categories %}
+  {% assign category_posts = site.categories[category.name] %}
+  <section class="category-section" id="{{ category.slug }}">
+    <header class="category-section__header">
+      <h2 class="category-section__title">{{ category.name }}</h2>
+      <p class="category-section__description">{{ category.description }}共 {{ category_posts | size }} 篇。</p>
+    </header>
+    {% for post in category_posts %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </section>
+{% endfor %}

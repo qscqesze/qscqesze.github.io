@@ -3,6 +3,8 @@ title: "小市值量化：收益从哪里来，A股为什么涨跌"
 date: 2026-07-17 11:00:00 +0800
 permalink: /posts/small-cap-quant-a-share/
 excerpt: "从 Banz、Fama–French 到中国规模因子，系统解释小市值量化的风险补偿、流动性溢价、行为错价与壳价值，结合中证300/500/1000/2000数据讨论A股何时占优、何时承压，以及如何做可信回测与风险控制。"
+categories:
+  - 经济与投资
 comments: true
 share: false
 related: false

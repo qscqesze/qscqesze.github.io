@@ -3,6 +3,8 @@ title: "做了十几个游戏之后，我开始怀疑“成功经验”"
 date: 2026-07-14 16:05:00 +0800
 permalink: /posts/after-making-over-ten-games/
 excerpt: "第一款游戏半年做完并取得了不错的成绩，后来的十几个项目却全部失败。五年游戏制作经历让我意识到：游戏首先是创作，其次才是工程。"
+categories:
+  - 独立游戏
 comments: true
 share: false
 related: false

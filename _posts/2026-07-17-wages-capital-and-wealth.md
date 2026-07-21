@@ -3,6 +3,8 @@ title: "从工资到资本：努力、打工、创业与财富自由的经济学
 date: 2026-07-17 16:50:00 +0800
 permalink: /posts/wages-capital-and-wealth/
 excerpt: "从亚当·斯密、马克思、熊彼特到贝克尔、马科维茨与巴菲特，系统分析工资如何形成、创业为何高风险、资本怎样复利，以及普通人在资本主义市场中积累财富的现实路径。"
+categories:
+  - 经济与投资
 comments: true
 share: false
 related: false
