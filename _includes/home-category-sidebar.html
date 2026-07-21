@@ -1,0 +1,15 @@
+<aside class="home-category-sidebar" aria-labelledby="home-category-title">
+  <div class="home-category-sidebar__inner">
+    <h2 class="home-category-sidebar__title" id="home-category-title">分类索引</h2>
+    <nav class="home-category-sidebar__nav" aria-label="文章分类">
+      {% for category in site.data.categories %}
+        {% assign category_posts = site.categories[category.name] %}
+        <a class="home-category-sidebar__link" href="{{ site.category_archive.path | relative_url }}#{{ category.slug }}">
+          <span>{{ category.name }}</span>
+          <span class="home-category-sidebar__count">{{ category_posts | size }}</span>
+        </a>
+      {% endfor %}
+    </nav>
+    <a class="home-category-sidebar__all" href="{{ site.category_archive.path | relative_url }}">浏览全部分类</a>
+  </div>
+</aside>

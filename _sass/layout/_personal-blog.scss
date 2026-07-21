@@ -101,6 +101,122 @@ a {
   font-size: 1rem;
 }
 
+#main.main--home {
+  max-width: 1040px;
+}
+
+.home-layout {
+  display: grid;
+  grid-template-columns: minmax(160px, 190px) minmax(0, 760px);
+  justify-content: center;
+  gap: 3rem;
+  align-items: start;
+}
+
+.home-layout > .archive {
+  width: 100%;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.home-category-sidebar {
+  min-width: 0;
+}
+
+.home-category-sidebar__inner {
+  position: sticky;
+  top: 5.25rem;
+}
+
+.home-category-sidebar__title {
+  margin: 0 0 0.7rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid var(--blog-border);
+  color: var(--blog-muted);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+}
+
+.home-category-sidebar__nav {
+  display: grid;
+  gap: 0.1rem;
+}
+
+.home-category-sidebar__link {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.42rem 0;
+  color: var(--blog-ink);
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.home-category-sidebar__link:hover {
+  color: var(--blog-accent);
+}
+
+.home-category-sidebar__count {
+  color: var(--blog-muted);
+  font-size: 0.74rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.home-category-sidebar__all {
+  display: inline-block;
+  margin-top: 0.75rem;
+  color: var(--blog-muted);
+  font-size: 0.78rem;
+  text-decoration: none;
+}
+
+.home-category-sidebar__all:hover {
+  color: var(--blog-accent);
+}
+
+@media (max-width: 840px) {
+  #main.main--home {
+    max-width: 760px;
+  }
+
+  .home-layout {
+    display: block;
+  }
+
+  .home-category-sidebar {
+    margin-bottom: 2rem;
+  }
+
+  .home-category-sidebar__inner {
+    position: static;
+  }
+
+  .home-category-sidebar__nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .home-category-sidebar__link {
+    gap: 0.45rem;
+    padding: 0.28rem 0.65rem;
+    border: 1px solid var(--blog-border);
+    border-radius: 999px;
+    background: var(--blog-surface);
+    font-size: 0.82rem;
+  }
+
+  .home-category-sidebar__link:hover {
+    border-color: var(--blog-accent);
+  }
+
+  .home-category-sidebar__all {
+    margin-top: 0.7rem;
+  }
+}
+
 .category-index {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
