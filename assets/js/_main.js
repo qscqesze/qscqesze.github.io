@@ -110,7 +110,7 @@ $(document).ready(function () {
     pageToc.closest('.page__post-layout').classList.add('has-toc');
     pageToc.closest('.page--with-toc').classList.add('has-toc');
 
-    const mobileToc = window.matchMedia('(max-width: 960px)');
+    const mobileToc = window.matchMedia('(max-width: 1250px)');
     const syncTocMode = () => {
       if (mobileToc.matches) {
         const isOpen = pageToc.classList.contains('is-open');
