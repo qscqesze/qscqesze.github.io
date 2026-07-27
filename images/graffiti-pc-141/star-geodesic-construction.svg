@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">沿测地路延长诱导星的核心构造</title>
+  <desc id="desc">以最大度顶点 v 为星心，保留全部邻点，并沿 v 到 x_r 的测地路延长 x_1 这一条星枝；其他星叶到路径深处的边会制造短圈，因此被围长排除。</desc>
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbf8f0"/>
+      <stop offset="1" stop-color="#edf5f7"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#102a43" flood-opacity="0.16"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#d95145"/>
+    </marker>
+    <style>
+      .zh { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif; }
+      .star { stroke: #e1a82e; stroke-width: 10; stroke-linecap: round; }
+      .path { stroke: #3aaec4; stroke-width: 11; stroke-linecap: round; }
+      .leaf { fill: #fff8dc; stroke: #d5971f; stroke-width: 7; }
+      .pnode { fill: #e6fbff; stroke: #2b9caf; stroke-width: 7; }
+    </style>
+  </defs>
+  <rect width="1600" height="900" rx="42" fill="url(#bg3)"/>
+  <text class="zh" x="800" y="76" text-anchor="middle" font-size="48" font-weight="760" fill="#102a43">核心构造：保留整颗星，只延长一条星枝</text>
+  <text class="zh" x="800" y="122" text-anchor="middle" font-size="25" fill="#52677a">测地路 v=x₀,x₁,…,xᵣ；候选顶点集 U={v}∪N(v)∪{x₂,…,xᵣ}</text>
+
+  <!-- Construction edges -->
+  <line class="star" x1="470" y1="485" x2="245" y2="285"/>
+  <line class="star" x1="470" y1="485" x2="205" y2="470"/>
+  <line class="star" x1="470" y1="485" x2="260" y2="680"/>
+  <line class="star" x1="470" y1="485" x2="455" y2="735"/>
+  <line class="path" x1="470" y1="485" x2="675" y2="485"/>
+  <line class="path" x1="675" y1="485" x2="875" y2="485"/>
+  <line class="path" x1="875" y1="485" x2="1075" y2="485"/>
+  <line class="path" x1="1075" y1="485" x2="1275" y2="485"/>
+  <line class="path" x1="1275" y1="485" x2="1440" y2="485"/>
+
+  <!-- Forbidden cross edge and the short-cycle emphasis -->
+  <path d="M 245 285 Q 720 205 1075 485" stroke="#d95145" stroke-width="9" stroke-dasharray="20 14" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 245 285 L 470 485 L 675 485 L 875 485 L 1075 485" stroke="#d95145" stroke-width="24" stroke-opacity="0.10" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+  <!-- Nodes -->
+  <circle cx="470" cy="485" r="50" fill="#ffc857" stroke="#bb7d08" stroke-width="8" filter="url(#soft)"/>
+  <circle class="leaf" cx="245" cy="285" r="40" filter="url(#soft)"/>
+  <circle class="leaf" cx="205" cy="470" r="40" filter="url(#soft)"/>
+  <circle class="leaf" cx="260" cy="680" r="40" filter="url(#soft)"/>
+  <circle class="leaf" cx="455" cy="735" r="40" filter="url(#soft)"/>
+  <circle class="pnode" cx="675" cy="485" r="41" filter="url(#soft)"/>
+  <circle class="pnode" cx="875" cy="485" r="41" filter="url(#soft)"/>
+  <circle class="pnode" cx="1075" cy="485" r="41" filter="url(#soft)"/>
+  <circle class="pnode" cx="1275" cy="485" r="41" filter="url(#soft)"/>
+  <circle class="pnode" cx="1440" cy="485" r="41" filter="url(#soft)"/>
+
+  <!-- Labels -->
+  <text class="zh" x="470" y="496" text-anchor="middle" font-size="31" font-weight="800" fill="#102a43">v</text>
+  <text class="zh" x="245" y="296" text-anchor="middle" font-size="30" font-weight="750" fill="#102a43">y</text>
+  <text class="zh" x="675" y="496" text-anchor="middle" font-size="29" font-weight="750" fill="#102a43">x₁</text>
+  <text class="zh" x="875" y="496" text-anchor="middle" font-size="29" font-weight="750" fill="#102a43">x₂</text>
+  <text class="zh" x="1075" y="496" text-anchor="middle" font-size="29" font-weight="750" fill="#102a43">xᵢ</text>
+  <text class="zh" x="1275" y="496" text-anchor="middle" font-size="29" font-weight="750" fill="#102a43">…</text>
+  <text class="zh" x="1440" y="496" text-anchor="middle" font-size="29" font-weight="750" fill="#102a43">xᵣ</text>
+
+  <!-- Explanatory cards -->
+  <g>
+    <rect x="92" y="158" width="430" height="88" rx="24" fill="#fffdf8" stroke="#e6d5a3" stroke-width="3"/>
+    <text class="zh" x="307" y="195" text-anchor="middle" font-size="24" font-weight="700" fill="#a66e05">金色部分：完整邻域 N(v)</text>
+    <text class="zh" x="307" y="226" text-anchor="middle" font-size="22" fill="#52677a">围长至少 4 ⇒ 这些叶子互不相邻</text>
+  </g>
+  <g>
+    <rect x="1048" y="158" width="455" height="108" rx="24" fill="#fffdf8" stroke="#efb3ad" stroke-width="3"/>
+    <text class="zh" x="1275" y="196" text-anchor="middle" font-size="24" font-weight="700" fill="#c23f35">红色虚线是假设存在的额外边 yxᵢ</text>
+    <text class="zh" x="1275" y="229" text-anchor="middle" font-size="22" fill="#52677a">它会闭合出长度 i+2&lt;g 的圈</text>
+  </g>
+
+  <g>
+    <rect x="185" y="807" width="1230" height="58" rx="29" fill="#17324d"/>
+    <text class="zh" x="800" y="845" text-anchor="middle" font-size="26" font-weight="700" fill="#fffdf8">顶点数：1 + deg(v) + (r−1) = λ(G) + ⌊g(G)/2⌋ − 1</text>
+  </g>
+</svg>
