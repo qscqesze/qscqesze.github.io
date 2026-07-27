@@ -77,6 +77,114 @@ $(document).ready(function () {
     heading.append(permalink);
   });
 
+  // Build a responsive article table of contents outside the reading column.
+  const pageToc = document.querySelector('[data-page-toc]');
+  const pageTocNav = pageToc && pageToc.querySelector('.page__toc-nav');
+  const pageTocToggle = pageToc && pageToc.querySelector('.page__toc-toggle');
+  const articleHeadings = Array.from(document.querySelectorAll('.page__content h2[id]'));
+
+  if (pageToc && pageTocNav && pageTocToggle && articleHeadings.length > 1) {
+    document.querySelectorAll('.page__content > .article-toc').forEach((inlineToc) => inlineToc.remove());
+
+    const tocList = document.createElement('ol');
+    tocList.className = 'page__toc-list';
+    const tocLinks = new Map();
+
+    articleHeadings.forEach((heading) => {
+      const item = document.createElement('li');
+      const link = document.createElement('a');
+      const headingCopy = heading.cloneNode(true);
+      headingCopy.querySelectorAll('.heading-permalink').forEach((permalink) => permalink.remove());
+
+      item.className = 'page__toc-item';
+      link.href = `#${heading.id}`;
+      link.textContent = headingCopy.textContent.trim();
+      link.className = 'page__toc-link';
+      item.append(link);
+      tocList.append(item);
+      tocLinks.set(heading.id, link);
+    });
+
+    pageTocNav.append(tocList);
+    pageToc.hidden = false;
+    pageToc.closest('.page__post-layout').classList.add('has-toc');
+    pageToc.closest('.page--with-toc').classList.add('has-toc');
+
+    const mobileToc = window.matchMedia('(max-width: 960px)');
+    const syncTocMode = () => {
+      if (mobileToc.matches) {
+        const isOpen = pageToc.classList.contains('is-open');
+        pageTocToggle.setAttribute('aria-expanded', String(isOpen));
+      } else {
+        pageToc.classList.remove('is-open');
+        pageTocToggle.setAttribute('aria-expanded', 'true');
+      }
+    };
+
+    pageTocToggle.addEventListener('click', () => {
+      if (!mobileToc.matches) return;
+      const isOpen = pageToc.classList.toggle('is-open');
+      pageTocToggle.setAttribute('aria-expanded', String(isOpen));
+    });
+
+    tocLinks.forEach((link) => {
+      link.addEventListener('click', () => {
+        if (!mobileToc.matches) return;
+        pageToc.classList.remove('is-open');
+        pageTocToggle.setAttribute('aria-expanded', 'false');
+      });
+    });
+
+    if (typeof mobileToc.addEventListener === 'function') {
+      mobileToc.addEventListener('change', syncTocMode);
+    } else {
+      mobileToc.addListener(syncTocMode);
+    }
+    syncTocMode();
+
+    let activeHeadingId = '';
+    let tocScrollQueued = false;
+    const updateActiveTocLink = () => {
+      tocScrollQueued = false;
+      const activationLine = 112;
+      let currentHeading = articleHeadings[0];
+
+      articleHeadings.forEach((heading) => {
+        if (heading.getBoundingClientRect().top <= activationLine) currentHeading = heading;
+      });
+
+      if (!currentHeading || currentHeading.id === activeHeadingId) return;
+      activeHeadingId = currentHeading.id;
+      tocLinks.forEach((link, headingId) => {
+        const isActive = headingId === activeHeadingId;
+        link.classList.toggle('is-active', isActive);
+        if (isActive) link.setAttribute('aria-current', 'location');
+        else link.removeAttribute('aria-current');
+      });
+
+      const activeLink = tocLinks.get(activeHeadingId);
+      const scrollContainer = pageToc.querySelector('.page__toc-inner');
+      if (!activeLink || !scrollContainer || mobileToc.matches) return;
+      const linkBounds = activeLink.getBoundingClientRect();
+      const containerBounds = scrollContainer.getBoundingClientRect();
+      if (linkBounds.top < containerBounds.top + 44) {
+        scrollContainer.scrollTop -= containerBounds.top + 44 - linkBounds.top;
+      } else if (linkBounds.bottom > containerBounds.bottom - 12) {
+        scrollContainer.scrollTop += linkBounds.bottom - containerBounds.bottom + 12;
+      }
+    };
+
+    const queueActiveTocUpdate = () => {
+      if (tocScrollQueued) return;
+      tocScrollQueued = true;
+      window.requestAnimationFrame(updateActiveTocLink);
+    };
+
+    window.addEventListener('scroll', queueActiveTocUpdate, { passive: true });
+    window.addEventListener('resize', queueActiveTocUpdate);
+    updateActiveTocLink();
+  }
+
   // Add copy buttons only to source-code blocks, leaving rendered diagrams alone.
   document.querySelectorAll('.page__content pre').forEach((pre) => {
     const code = pre.querySelector('code');

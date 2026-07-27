@@ -4,16 +4,35 @@ layout: default
 
 {% include base_path %}
 
+{% assign is_article = false %}
+{% if page.collection == 'posts' or page.collection == 'legacy' %}
+  {% assign is_article = true %}
+{% endif %}
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
 
-<div id="main" role="main">
-  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+<div id="main"{% if is_article %} class="main--article"{% endif %} role="main">
+  <article class="page{% if is_article %} page--with-toc{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date_to_xmlschema }}">{% endif %}
+
+    {% if is_article %}
+      <div class="page__post-layout">
+        <aside class="page__toc" data-page-toc aria-label="文章目录" hidden>
+          <div class="page__toc-inner">
+            <button class="page__toc-toggle" type="button" aria-expanded="false" aria-controls="article-toc-list">
+              <span>本文目录</span>
+              <span class="page__toc-chevron" aria-hidden="true"></span>
+            </button>
+            <nav class="page__toc-nav" id="article-toc-list" aria-label="文章章节"></nav>
+          </div>
+        </aside>
+        <div class="page__post-main">
+    {% endif %}
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
@@ -66,7 +85,12 @@ layout: default
       {% include comments.html %}
     {% endif %}
 
-    {% if page.collection == 'posts' or page.collection == 'legacy' %}
+    {% if is_article %}
+        </div>
+      </div>
+    {% endif %}
+
+    {% if is_article %}
       <button class="back-to-top" type="button" aria-label="回到顶部" title="回到顶部">
         <i class="fa fa-arrow-up" aria-hidden="true"></i>
       </button>
