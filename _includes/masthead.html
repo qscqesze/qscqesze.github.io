@@ -1,4 +1,19 @@
 {% include base_path %}
+{% assign page_lang = page.lang | default: site.locale %}
+{% assign nav_links = site.data.navigation.main %}
+{% assign home_url = '/' %}
+{% assign language_url = page.translation_url | default: '/en/' %}
+{% assign language_label = 'EN' %}
+{% assign language_name = 'Switch to English' %}
+{% assign language_code = 'en' %}
+{% if page_lang == 'en' %}
+  {% assign nav_links = site.data.navigation_en.main %}
+  {% assign home_url = '/en/' %}
+  {% assign language_url = page.translation_url | default: '/' %}
+  {% assign language_label = '中文' %}
+  {% assign language_name = '切换到中文' %}
+  {% assign language_code = 'zh-CN' %}
+{% endif %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -6,8 +21,8 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
+          <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}{{ home_url }}">{{ site.title }}</a></li>
+          {% for link in nav_links %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}
@@ -15,8 +30,11 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <li class="masthead__menu-item masthead__language-switch persist">
+            <a href="{{ base_path }}{{ language_url }}" hreflang="{{ language_code }}" lang="{{ language_code }}" aria-label="{{ language_name }}" title="{{ language_name }}">{{ language_label }}</a>
+          </li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">
-            <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
+            <a role="button" aria-label="{% if page_lang == 'en' %}Toggle theme{% else %}切换主题{% endif %}"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true"></i></a>
           </li>
         </ul>
         <ul class="hidden-links hidden"></ul>

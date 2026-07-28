@@ -65,3 +65,15 @@
     font-weight: 700;
   }
 }
+
+.masthead__language-switch {
+  font-weight: 700;
+
+  a {
+    border: 1px solid var(--global-border-color);
+    border-radius: 999px;
+    font-size: 0.82em;
+    line-height: 1;
+    padding: 0.42em 0.7em;
+  }
+}

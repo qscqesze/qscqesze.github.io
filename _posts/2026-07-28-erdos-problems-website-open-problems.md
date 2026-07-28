@@ -2,6 +2,10 @@
 title: "Erdős Problems：一座仍在生长的数学问题档案馆，以及尚无证明的完整清单"
 date: 2026-07-28 19:00:00 +0800
 permalink: /posts/erdos-problems-website-open-problems/
+lang: zh-CN
+translation_key: erdos-problems-website-open-problems
+translation_url: /en/posts/erdos-problems-website-open-problems/
+translate: true
 excerpt: "介绍 Thomas Bloom 创建的 Erdős Problems 网站，解释 open、solved、proved、disproved 与 Lean formalized 的区别，并按 2026 年 7 月 28 日数据梳理仍完全未解、尚无解答证明的 Erdős 问题。"
 categories:
   - 科学与健康

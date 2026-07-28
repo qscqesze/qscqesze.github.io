@@ -33,6 +33,34 @@ bundle exec jekyll serve
 
 浏览器访问 <http://localhost:4000>。提交到 `master` 分支后，GitHub Actions 会自动构建并发布站点。
 
+## 中英文版本与自动翻译
+
+站点以中文文章为原稿，英文文章在构建前生成到 `_en_posts/`，最终作为普通静态页面发布在 `/en/` 下。中英文页面通过 `translation_url` 互相绑定，导航栏右上角可以切换语言，页面也会输出相应的 canonical、`hreflang` 和独立英文 Feed。
+
+`translation.auto_after` 之后发布的新文章会默认自动生成英文版；单篇文章可以用 `translate: false` 关闭。若要为更早的旧文章补生成英文版，则在 front matter 中加入 `translate: true`，并补齐中英文互链：
+
+```yaml
+lang: zh-CN
+translation_key: article-slug
+translation_url: /en/posts/article-slug/
+translate: true
+```
+
+在 GitHub 仓库的 **Settings → Secrets and variables → Actions** 中添加 repository secret `OPENAI_API_KEY` 后，每次 Pages 构建都会检查所有 `translate: true` 的文章。只有原文哈希发生变化或英文版缺失时才会请求翻译，生成结果会写入 `_en_posts/` 并由 Actions 提交回仓库。可选的 repository variable `OPENAI_TRANSLATION_MODEL` 能覆盖默认模型 `gpt-5.6-terra`。
+
+本地检查英文缓存是否与中文原稿一致：
+
+```bash
+python -m pip install -r requirements-translation.txt
+python scripts/translate_posts.py --all --check
+```
+
+本地重新生成指定文章（需要 `OPENAI_API_KEY`）：
+
+```bash
+python scripts/translate_posts.py --source _posts/YYYY-MM-DD-slug.md --force
+```
+
 ## 联系我
 
 - 邮箱：[qscqesze@gmail.com](mailto:qscqesze@gmail.com)

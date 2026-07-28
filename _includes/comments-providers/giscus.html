@@ -36,7 +36,7 @@
       giscusScript.dataset.reactionsEnabled = "{{ giscus.reactions_enabled | default: '1' }}";
       giscusScript.dataset.emitMetadata = "{{ giscus.emit_metadata | default: '0' }}";
       giscusScript.dataset.inputPosition = "{{ giscus.input_position | default: 'bottom' }}";
-      giscusScript.dataset.lang = "{{ giscus.lang | default: site.locale | default: 'zh-CN' }}";
+      giscusScript.dataset.lang = "{% if page.lang == 'en' %}en{% else %}{{ giscus.lang | default: site.locale | default: 'zh-CN' }}{% endif %}";
       {% if giscus.loading %}giscusScript.dataset.loading = "{{ giscus.loading }}";{% endif %}
       giscusScript.crossOrigin = "anonymous";
       giscusScript.async = true;

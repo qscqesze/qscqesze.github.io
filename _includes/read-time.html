@@ -4,7 +4,14 @@
   {% assign reading_content = page.content %}
 {% endif %}
 
-{% assign reading_characters = reading_content | strip_html | strip_newlines | size %}
-{% assign reading_minutes = reading_characters | plus: 449 | divided_by: 450 %}
+{% assign page_lang = page.lang | default: site.locale %}
+{% if page_lang == 'en' %}
+  {% assign reading_units = reading_content | strip_html | number_of_words %}
+  {% assign reading_minutes = reading_units | plus: 219 | divided_by: 220 %}
+{% else %}
+  {% assign reading_units = reading_content | strip_html | strip_newlines | size %}
+  {% assign reading_minutes = reading_units | plus: 449 | divided_by: 450 %}
+{% endif %}
 {% if reading_minutes < 1 %}{% assign reading_minutes = 1 %}{% endif %}
-<span class="reading-time" data-reading-time>约 {{ reading_minutes }} 分钟阅读</span>
+{% assign t = site.data.i18n[page_lang] %}
+<span class="reading-time" data-reading-time>{{ t.reading_prefix }} {{ reading_minutes }} {{ t.reading_suffix }}</span>

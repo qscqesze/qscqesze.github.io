@@ -5,6 +5,7 @@
   {% assign seo_url = site.url | append: site.baseurl %}
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
+{% assign page_lang = page.lang | default: site.locale %}
 
 {% if page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
@@ -24,8 +25,10 @@
 {% endif %}
 
 {% assign seo_author_name = site.author.name | default: site.name %}
-{% assign seo_author_url = "/about/" | prepend: seo_url %}
-{% assign seo_social_image = page.header.image | default: page.header.overlay_image | default: site.og_image %}
+{% assign seo_author_path = '/about/' %}
+{% if page_lang == 'en' %}{% assign seo_author_path = '/en/about/' %}{% endif %}
+{% assign seo_author_url = seo_author_path | prepend: seo_url %}
+{% assign seo_social_image = page.header.image | default: page.header.overlay_image | default: page.header.teaser | default: site.og_image %}
 <meta name="author" content="{{ seo_author_name | escape_once }}">
 {% if seo_social_image %}
   {% if seo_social_image contains "://" %}
@@ -44,6 +47,18 @@
 
 {% if seo_url %}
   <link rel="canonical" href="{{ canonical_url }}">
+{% endif %}
+{% if page.translation_url and seo_url %}
+  {% assign translated_url = page.translation_url | prepend: seo_url | replace: "/index.html", "/" %}
+  {% if page_lang == 'en' %}
+    <link rel="alternate" hreflang="en" href="{{ canonical_url }}">
+    <link rel="alternate" hreflang="zh-CN" href="{{ translated_url }}">
+    <link rel="alternate" hreflang="x-default" href="{{ translated_url }}">
+  {% else %}
+    <link rel="alternate" hreflang="zh-CN" href="{{ canonical_url }}">
+    <link rel="alternate" hreflang="en" href="{{ translated_url }}">
+    <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}">
+  {% endif %}
 {% endif %}
 
 <meta name="twitter:card" content="summary_large_image">
@@ -66,7 +81,7 @@
   </script>
 {% endif %}
 
-{% if page.collection == "posts" or page.collection == "legacy" %}
+{% if page.collection == "posts" or page.collection == "legacy" or page.collection == "en_posts" %}
   {% assign article_modified = page.modified | default: page.date %}
   <script type="application/ld+json">
     {
@@ -91,7 +106,7 @@
         "name": {{ seo_author_name | jsonify }},
         "url": {{ seo_url | jsonify }}
       },
-      "inLanguage": {{ site.locale | jsonify }}
+      "inLanguage": {{ page_lang | jsonify }}
     }
   </script>
 {% endif %}
@@ -99,13 +114,15 @@
 <!-- end SEO -->
 
 <!-- Open Graph protocol data (https://ogp.me/), used by social media -->
-<meta property="og:locale" content="{{ site.locale | default: "en" }}">
+{% assign og_locale = 'zh_CN' %}
+{% if page_lang == 'en' %}{% assign og_locale = 'en_US' %}{% endif %}
+<meta property="og:locale" content="{{ og_locale }}">
 <meta property="og:site_name" content="{{ site.title }}"> 
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
 {% if page.date %}
   <meta property="og:type" content="article">
 {% endif %}
-{% if page.excerpt %}
+{% if seo_description %}
   <meta property="og:description" name="description" content="{{ seo_description }}">
 {% elsif site.og_description %}
   <meta property="og:description" name="description" content="{{ site.og_description }}">

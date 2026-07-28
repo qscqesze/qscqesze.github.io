@@ -67,6 +67,10 @@ analytics:
 visitor_stats:
   endpoint               : "https://qscqesze-visitor-stats.qscqesze.workers.dev"
 
+# 此时间之后发布的新文章默认生成英文版；单篇可用 translate: false 关闭。
+translation:
+  auto_after             : "2026-07-28T19:00:00+08:00"
+
 include:
   - _pages
 exclude:
@@ -109,6 +113,8 @@ kramdown:
 collections:
   legacy:
     output: true
+  en_posts:
+    output: true
 
 defaults:
   - scope:
@@ -131,6 +137,16 @@ defaults:
       related: false
       tags:
         - 旧文
+  - scope:
+      path: ""
+      type: en_posts
+    values:
+      layout: single
+      lang: en
+      read_time: true
+      comments: true
+      share: false
+      related: false
   - scope:
       path: ""
       type: pages

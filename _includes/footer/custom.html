@@ -1,8 +1,9 @@
 <!-- start custom footer snippets -->
+{% assign page_lang = page.lang | default: site.locale %}
 
-<a href="{{ base_path }}/sitemap.xml">站点地图</a>
+<a href="{{ base_path }}/sitemap.xml">{% if page_lang == 'en' %}Sitemap{% else %}站点地图{% endif %}</a>
 
-{% if page.collection == 'posts' or page.collection == 'legacy' %}
+{% if page.collection == 'posts' or page.collection == 'legacy' or page.collection == 'en_posts' %}
 <!-- Per-article page views. Counts are keyed by the current article URL. -->
 <script defer src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js"></script>
 {% endif %}

@@ -3,9 +3,11 @@ layout: default
 ---
 
 {% include base_path %}
+{% assign page_lang = page.lang | default: site.locale %}
+{% assign t = site.data.i18n[page_lang] %}
 
 {% assign is_article = false %}
-{% if page.collection == 'posts' or page.collection == 'legacy' %}
+{% if page.collection == 'posts' or page.collection == 'legacy' or page.collection == 'en_posts' %}
   {% assign is_article = true %}
 {% endif %}
 
@@ -22,13 +24,13 @@ layout: default
 
     {% if is_article %}
       <div class="page__post-layout">
-        <aside class="page__toc" data-page-toc aria-label="文章目录" hidden>
+        <aside class="page__toc" data-page-toc aria-label="{{ t.toc_aria }}" hidden>
           <div class="page__toc-inner">
             <button class="page__toc-toggle" type="button" aria-expanded="false" aria-controls="article-toc-list">
-              <span>本文目录</span>
+              <span>{{ t.toc }}</span>
               <span class="page__toc-chevron" aria-hidden="true"></span>
             </button>
-            <nav class="page__toc-nav" id="article-toc-list" aria-label="文章章节"></nav>
+            <nav class="page__toc-nav" id="article-toc-list" aria-label="{{ t.sections_aria }}"></nav>
           </div>
         </aside>
         <div class="page__post-main">
@@ -38,27 +40,27 @@ layout: default
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
           {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
-          {% if page.collection == 'posts' or page.collection == 'legacy' %}
+          {% if is_article %}
             <p class="page__meta page__meta--post">
-              <span class="page__meta-item page__author" itemprop="author" itemscope itemtype="https://schema.org/Person"><i class="fa fa-user" aria-hidden="true"></i> <a href="{{ base_path }}/about/" rel="author" itemprop="url"><span itemprop="name">{{ site.author.name | default: site.name }}</span></a></span>
+              <span class="page__meta-item page__author" itemprop="author" itemscope itemtype="https://schema.org/Person"><i class="fa fa-user" aria-hidden="true"></i> <a href="{{ base_path }}{% if page_lang == 'en' %}/en/about/{% else %}/about/{% endif %}" rel="author" itemprop="url"><span itemprop="name">{{ site.author.name | default: site.name }}</span></a></span>
               {% if page.modified %}
-                <span class="page__meta-item"><i class="fa fa-calendar" aria-hidden="true"></i> 更新于 <time datetime="{{ page.modified | date_to_xmlschema }}">{{ page.modified | date: "%Y年%m月%d日" }}</time></span>
+                <span class="page__meta-item"><i class="fa fa-calendar" aria-hidden="true"></i> {{ t.updated }} <time datetime="{{ page.modified | date_to_xmlschema }}">{% if page_lang == 'en' %}{{ page.modified | date: "%B %-d, %Y" }}{% else %}{{ page.modified | date: "%Y年%m月%d日" }}{% endif %}</time></span>
               {% elsif page.date %}
-                <span class="page__meta-item"><i class="fa fa-calendar" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y年%m月%d日" }}</time></span>
+                <span class="page__meta-item"><i class="fa fa-calendar" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}">{% if page_lang == 'en' %}{{ page.date | date: "%B %-d, %Y" }}{% else %}{{ page.date | date: "%Y年%m月%d日" }}{% endif %}</time></span>
               {% endif %}
               {% if page.read_time %}
                 <span class="page__meta-item"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</span>
               {% endif %}
-              <span class="page__meta-item page__views"><i class="fa fa-eye" aria-hidden="true"></i> <span id="busuanzi_page_pv">—</span> 次浏览</span>
+              <span class="page__meta-item page__views"><i class="fa fa-eye" aria-hidden="true"></i> <span id="busuanzi_page_pv">—</span> {{ t.views }}</span>
             </p>
           {% elsif page.read_time %}
             <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
-        {% if page.collection == 'posts' or page.collection == 'legacy' %}
+        {% if is_article %}
         {% elsif page.modified %}
-          <p class="page__date"><strong>{{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date_to_xmlschema }}">{{ page.modified | date: "%Y年%m月%d日 %H:%M" }}</time></p>
+          <p class="page__date"><strong>{{ t.updated }}</strong> <time datetime="{{ page.modified | date_to_xmlschema }}">{% if page_lang == 'en' %}{{ page.modified | date: "%B %-d, %Y" }}{% else %}{{ page.modified | date: "%Y年%m月%d日 %H:%M" }}{% endif %}</time></p>
         {% elsif page.date %}
-          <p class="page__date"><strong>{{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%Y年%m月%d日 %H:%M" }}</time></p>
+          <p class="page__date"><strong>{{ t.published }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{% if page_lang == 'en' %}{{ page.date | date: "%B %-d, %Y" }}{% else %}{{ page.date | default: "1900-01-01" | date: "%Y年%m月%d日 %H:%M" }}{% endif %}</time></p>
         {% endif %}    
         </header>
       {% endunless %}
@@ -66,15 +68,19 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{% if page_lang == 'en' %}Direct link{% else %}直接链接{% endif %}</a></div>{% endif %}
       </section>
 
+      {% assign category_count = page.categories | size %}
+      {% assign tag_count = page.tags | size %}
+      {% if category_count > 0 or tag_count > 0 %}
       <footer class="page__meta">
-        {% if site.data.ui-text[site.locale].meta_label %}
+        {% if site.data.ui-text[site.locale].meta_label and page_lang != 'en' %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
         {% include page__taxonomy.html %}
       </footer>
+      {% endif %}
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
@@ -91,7 +97,7 @@ layout: default
     {% endif %}
 
     {% if is_article %}
-      <button class="back-to-top" type="button" aria-label="回到顶部" title="回到顶部">
+      <button class="back-to-top" type="button" aria-label="{{ t.back_to_top }}" title="{{ t.back_to_top }}">
         <i class="fa fa-arrow-up" aria-hidden="true"></i>
       </button>
     {% endif %}
@@ -100,8 +106,8 @@ layout: default
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
-      {% if site.data.ui-text[site.locale].related_label %}
-        <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
+      {% if page_lang == 'en' or site.data.ui-text[site.locale].related_label %}
+        <h4 class="page__related-title">{% if page_lang == 'en' %}You may also enjoy{% else %}{{ site.data.ui-text[site.locale].related_label }}{% endif %}</h4>
       {% endif %}
       <div class="grid__wrapper">
         {% for post in site.related_posts limit:4 %}

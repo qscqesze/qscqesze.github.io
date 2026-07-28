@@ -1,5 +1,6 @@
 <div class="page__comments">
-  {% capture comments_label %}{{ site.data.ui-text[site.locale].comments_label | default: "评论" }}{% endcapture %}
-  <h4 class="page__comments-title">{{ page.comments_title | default: site.data.ui-text[site.locale].comments_title | default: comments_label }}</h4>
+  {% assign page_lang = page.lang | default: site.locale %}
+  {% assign t = site.data.i18n[page_lang] %}
+  <h4 class="page__comments-title">{{ page.comments_title | default: t.comments }}</h4>
   {% include /comments-providers/giscus.html %}
 </div>

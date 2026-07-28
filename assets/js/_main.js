@@ -37,6 +37,10 @@ var toggleTheme = () => {
 $(document).ready(function () {
   // SCSS SETTINGS - These should be the same as the settings in the relevant files 
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
+  const isEnglish = document.documentElement.lang.toLowerCase().startsWith('en');
+  const copyLabels = isEnglish
+    ? { idle: 'Copy', copied: 'Copied', failed: 'Copy failed', aria: 'Copy code' }
+    : { idle: '复制', copied: '已复制', failed: '复制失败', aria: '复制代码' };
 
   // If the user hasn't chosen a theme, follow the OS preference
   setTheme();
@@ -62,7 +66,9 @@ $(document).ready(function () {
     const latinText = readableText.replace(cjkPattern, ' ');
     const latinWords = latinText.match(/[A-Za-z0-9]+(?:['’-][A-Za-z0-9]+)*/g) || [];
     const readingMinutes = Math.max(1, Math.ceil(cjkCharacters / 450 + latinWords.length / 220));
-    readingTime.textContent = `约 ${readingMinutes} 分钟阅读`;
+    readingTime.textContent = isEnglish
+      ? `About ${readingMinutes} min read`
+      : `约 ${readingMinutes} 分钟阅读`;
   }
 
   // Add unobtrusive permalink controls to article section headings.
@@ -71,8 +77,11 @@ $(document).ready(function () {
     const permalink = document.createElement('a');
     permalink.className = 'heading-permalink';
     permalink.href = `#${heading.id}`;
-    permalink.setAttribute('aria-label', `链接到“${heading.textContent.trim()}”`);
-    permalink.title = '此节链接';
+    permalink.setAttribute(
+      'aria-label',
+      isEnglish ? `Link to “${heading.textContent.trim()}”` : `链接到“${heading.textContent.trim()}”`
+    );
+    permalink.title = isEnglish ? 'Link to this section' : '此节链接';
     permalink.textContent = '#';
     heading.append(permalink);
   });
@@ -204,20 +213,20 @@ $(document).ready(function () {
     const copyButton = document.createElement('button');
     copyButton.className = 'code-copy-button';
     copyButton.type = 'button';
-    copyButton.textContent = '复制';
-    copyButton.setAttribute('aria-label', '复制代码');
+    copyButton.textContent = copyLabels.idle;
+    copyButton.setAttribute('aria-label', copyLabels.aria);
 
     copyButton.addEventListener('click', async () => {
       try {
         await navigator.clipboard.writeText(code.textContent);
-        copyButton.textContent = '已复制';
+        copyButton.textContent = copyLabels.copied;
         copyButton.classList.add('is-copied');
       } catch (error) {
-        copyButton.textContent = '复制失败';
+        copyButton.textContent = copyLabels.failed;
       }
 
       window.setTimeout(() => {
-        copyButton.textContent = '复制';
+        copyButton.textContent = copyLabels.idle;
         copyButton.classList.remove('is-copied');
       }, 1600);
     });

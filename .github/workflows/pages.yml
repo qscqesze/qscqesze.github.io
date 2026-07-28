@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -21,6 +21,39 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python for translation
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install translation dependency
+        run: python -m pip install -r requirements-translation.txt
+
+      - name: Generate current English editions
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_TRANSLATION_MODEL: ${{ vars.OPENAI_TRANSLATION_MODEL }}
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "::warning::OPENAI_API_KEY is not configured; publishing cached English editions only."
+            exit 0
+          fi
+          python scripts/translate_posts.py --all
+
+      - name: Cache generated English editions in Git
+        run: |
+          if [ -z "$(git status --porcelain -- _en_posts)" ]; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _en_posts
+          git commit -m "chore(i18n): update generated English editions"
+          git push origin "HEAD:${GITHUB_REF_NAME}" || echo "::warning::The English edition was deployed but could not be committed back to the branch."
 
       - name: Configure Pages
         uses: actions/configure-pages@v5

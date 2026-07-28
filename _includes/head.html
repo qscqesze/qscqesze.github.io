@@ -4,7 +4,15 @@
 
 {% include seo.html %}
 
-<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+{% assign page_lang = page.lang | default: site.locale %}
+{% if page_lang == 'en' %}
+  {% assign feed_path = '/en/feed.xml' %}
+{% elsif site.atom_feed.path %}
+  {% assign feed_path = site.atom_feed.path %}
+{% else %}
+  {% assign feed_path = '/feed.xml' %}
+{% endif %}
+<link href="{{ base_path }}{{ feed_path }}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">

@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "关于 qscqesze"
+lang: zh-CN
+translation_url: /en/about/
 redirect_from: 
   - /about.html
 ---
