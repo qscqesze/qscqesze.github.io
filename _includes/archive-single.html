@@ -1,40 +1,64 @@
 {% include base_path %}
 
-{% assign teaser = post.header.teaser | default: site.teaser %}
+{% assign post_teaser = post.header.teaser %}
+{% assign teaser = post_teaser | default: site.teaser %}
 {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% assign post_lang = post.lang | default: site.locale %}
 {% assign t = site.data.i18n[post_lang] %}
+{% assign show_list_teaser = false %}
+{% if include.show_teaser and post_teaser %}
+  {% assign show_list_teaser = true %}
+{% endif %}
+{% assign show_teaser = false %}
+{% if include.type == "grid" and teaser %}
+  {% assign show_teaser = true %}
+{% elsif show_list_teaser %}
+  {% assign show_teaser = true %}
+{% endif %}
+{% if show_teaser %}
+  {% assign teaser_url = teaser %}
+  {% unless teaser contains "://" %}
+    {% assign teaser_first_char = teaser | slice: 0 %}
+    {% if teaser_first_char == "/" %}
+      {% assign teaser_url = teaser | relative_url %}
+    {% else %}
+      {% assign teaser_url = teaser | prepend: "/images/" | relative_url %}
+    {% endif %}
+  {% endunless %}
+{% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src="{% if teaser contains "://" %}{{ teaser }}{% else %}{{ teaser | prepend: "/images/" | prepend: base_path }}{% endif %}" alt="">
-      </div>
+  <article class="archive__item{% if show_list_teaser %} archive__item--with-teaser{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if show_teaser %}
+      <a class="archive__item-teaser" href="{{ base_path }}{{ post.url }}" tabindex="-1" aria-hidden="true">
+        <img src="{{ teaser_url }}" alt="" itemprop="image" loading="lazy" decoding="async">
+      </a>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-    </h2>
+    <div class="archive__item-body">
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      </h2>
 
-    {% if post.date %}
-      <p class="page__date">
-        <strong>{{ t.published }}</strong>
-        <time datetime="{{ post.date | date_to_xmlschema }}">{% if post_lang == 'en' %}{{ post.date | date: "%B %-d, %Y" }}{% else %}{{ post.date | date: "%Y年%m月%d日 %H:%M" }}{% endif %}</time>
-        {% if post_lang != 'en' %}
-        {% for category in post.categories %}
-          {% assign category_slug = category | slugify %}
-          {% for category_item in site.data.categories %}
-            {% if category_item.name == category %}{% assign category_slug = category_item.slug %}{% endif %}
+      {% if post.date %}
+        <p class="page__date">
+          <strong>{{ t.published }}</strong>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{% if post_lang == 'en' %}{{ post.date | date: "%B %-d, %Y" }}{% else %}{{ post.date | date: "%Y年%m月%d日 %H:%M" }}{% endif %}</time>
+          {% if post_lang != 'en' %}
+          {% for category in post.categories %}
+            {% assign category_slug = category | slugify %}
+            {% for category_item in site.data.categories %}
+              {% if category_item.name == category %}{% assign category_slug = category_item.slug %}{% endif %}
+            {% endfor %}
+            <a class="archive__item-category" href="{{ site.category_archive.path | relative_url }}#{{ category_slug }}">{{ category }}</a>
           {% endfor %}
-          <a class="archive__item-category" href="{{ site.category_archive.path | relative_url }}#{{ category_slug }}">{{ category }}</a>
-        {% endfor %}
-        {% endif %}
-      </p>
-    {% endif %}
+          {% endif %}
+        </p>
+      {% endif %}
 
-    {% if post.excerpt %}
-      <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</div>
-    {% endif %}
+      {% if post.excerpt %}
+        <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+      {% endif %}
+    </div>
   </article>
 </div>

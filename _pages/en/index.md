@@ -11,7 +11,7 @@ translation_url: /
 
 {% assign english_posts = site.en_posts | sort: 'date' | reverse %}
 {% for post in english_posts %}
-  {% include archive-single.html %}
+  {% include archive-single.html show_teaser=true %}
 {% endfor %}
 
 {% if english_posts.size == 0 %}

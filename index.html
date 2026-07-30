@@ -11,7 +11,7 @@ translation_url: /en/
 
 {% assign archive_posts = paginator.posts | default: site.posts %}
 {% for post in archive_posts %}
-  {% include archive-single.html %}
+  {% include archive-single.html show_teaser=true %}
 {% endfor %}
 
 {% include archive-pagination.html %}
