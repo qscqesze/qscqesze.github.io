@@ -3,9 +3,7 @@ title: "压缩即智能吗？为什么预测下一个 Token 能涌现出智能"
 date: 2026-08-04 11:26:32 +0800
 permalink: /posts/compression-intelligence-next-token/
 lang: zh-CN
-translation_key: compression-intelligence-next-token
-translation_url: /en/posts/compression-intelligence-next-token/
-translate: true
+translate: false
 excerpt: "从香农信息论、最小描述长度与算法信息论出发，系统解释下一词元预测为何迫使大模型形成概念、世界模型、上下文学习和推理能力，并分析“压缩即智能”的成立条件与理论边界。"
 categories:
   - 人工智能
