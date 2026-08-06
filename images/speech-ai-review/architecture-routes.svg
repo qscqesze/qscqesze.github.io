@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1030" viewBox="0 0 1600 1030" role="img" aria-labelledby="title desc">
+  <title id="title">三代语音大模型系统路线对比</title>
+  <desc id="desc">比较串联式语音智能体、统一语音文本模型和全双工多流模型的结构、优势与代价。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071a2b"/><stop offset="1" stop-color="#112f3d"/></linearGradient>
+    <marker id="a" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto"><path d="M0 0L11 5.5 0 11Z" fill="#a7cdd3"/></marker>
+    <style>
+      .t{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans SC","PingFang SC",sans-serif;fill:#edf7f7}.h{font-size:34px;font-weight:700}.m{font-size:24px;font-weight:650}.s{font-size:19px;fill:#c4d9dc}.xs{font-size:17px;fill:#9ebcc1}.box{fill:#123a47;stroke:#3b7782;stroke-width:2}.node{fill:#154c59;stroke:#56a7ac;stroke-width:2}.arrow{stroke:#a7cdd3;stroke-width:3;fill:none;marker-end:url(#a)}
+    </style>
+  </defs>
+  <rect width="1600" height="1030" rx="28" fill="url(#bg)"/>
+  <text class="t h" x="72" y="70">从“拼装流水线”到“同一时间轴上的对话模型”</text>
+  <text class="t s" x="74" y="108">三条路线会长期共存：端到端不是天然更可靠，串联也不等于落后；产品选择取决于可控性、时延、数据和风险。</text>
+
+  <g>
+    <rect class="box" x="62" y="150" width="1476" height="235" rx="24"/>
+    <circle cx="122" cy="211" r="29" fill="#d78531"/><text class="t m" x="122" y="219" text-anchor="middle">1</text>
+    <text class="t m" x="172" y="218">串联式：VAD / ASR → 文本 LLM → TTS</text>
+    <rect class="node" x="130" y="272" width="170" height="70" rx="14"/><text class="t s" x="215" y="315" text-anchor="middle">用户音频</text>
+    <path class="arrow" d="M300 307H367"/>
+    <rect class="node" x="372" y="272" width="170" height="70" rx="14"/><text class="t s" x="457" y="315" text-anchor="middle">VAD + ASR</text>
+    <path class="arrow" d="M542 307H609"/>
+    <rect class="node" x="614" y="272" width="230" height="70" rx="14"/><text class="t s" x="729" y="315" text-anchor="middle">文本 LLM + 工具</text>
+    <path class="arrow" d="M844 307H911"/>
+    <rect class="node" x="916" y="272" width="170" height="70" rx="14"/><text class="t s" x="1001" y="315" text-anchor="middle">流式 TTS</text>
+    <path class="arrow" d="M1086 307H1153"/>
+    <rect class="node" x="1158" y="272" width="170" height="70" rx="14"/><text class="t s" x="1243" y="315" text-anchor="middle">系统语音</text>
+    <text class="t xs" x="1368" y="290">优势：可观测、可替换、</text><text class="t xs" x="1368" y="318">工具生态成熟</text><text class="t xs" x="1368" y="350">代价：信息瓶颈、模块时延</text>
+  </g>
+
+  <g>
+    <rect class="box" x="62" y="418" width="1476" height="245" rx="24"/>
+    <circle cx="122" cy="479" r="29" fill="#1ca0a7"/><text class="t m" x="122" y="487" text-anchor="middle">2</text>
+    <text class="t m" x="172" y="486">统一式：语音输入进入多模态 LLM，直接生成文本或音频 token</text>
+    <rect class="node" x="136" y="545" width="195" height="72" rx="14"/><text class="t s" x="234" y="589" text-anchor="middle">声学编码器</text>
+    <path class="arrow" d="M331 581H420"/>
+    <rect x="425" y="527" width="420" height="108" rx="18" fill="#18616b" stroke="#67c6c3" stroke-width="2"/>
+    <text class="t m" x="635" y="570" text-anchor="middle">共享 Transformer / LLM</text>
+    <text class="t xs" x="635" y="603" text-anchor="middle">语音、文字、图像、视频在隐藏空间对齐</text>
+    <path class="arrow" d="M845 558H936"/>
+    <path class="arrow" d="M845 605H936"/>
+    <rect class="node" x="942" y="516" width="210" height="65" rx="14"/><text class="t s" x="1047" y="556" text-anchor="middle">文本 token</text>
+    <rect class="node" x="942" y="595" width="210" height="65" rx="14"/><text class="t s" x="1047" y="635" text-anchor="middle">音频 token / latent</text>
+    <text class="t xs" x="1210" y="545">优势：保留语气与环境，</text><text class="t xs" x="1210" y="573">可端到端联合训练</text><text class="t xs" x="1210" y="617">代价：序列长、调试困难、</text><text class="t xs" x="1210" y="645">文本推理能力可能退化</text>
+  </g>
+
+  <g>
+    <rect class="box" x="62" y="696" width="1476" height="275" rx="24"/>
+    <circle cx="122" cy="757" r="29" fill="#8b62c1"/><text class="t m" x="122" y="765" text-anchor="middle">3</text>
+    <text class="t m" x="172" y="764">全双工多流：持续听、持续想、持续说，三件事不再按回合串行</text>
+    <text class="t xs" x="130" y="826">用户流</text>
+    <path d="M220 820 C275 780 330 860 385 820 S495 780 550 820 S660 860 715 820" stroke="#52d3c7" stroke-width="5" fill="none"/>
+    <text class="t xs" x="130" y="895">系统流</text>
+    <path d="M220 889 C275 889 302 889 330 889 C360 889 375 834 430 850 S515 925 570 875 S660 850 715 875" stroke="#f0bb5f" stroke-width="5" fill="none"/>
+    <rect x="780" y="796" width="300" height="125" rx="18" fill="#214a60" stroke="#9a7bd0" stroke-width="2"/>
+    <text class="t m" x="930" y="837" text-anchor="middle">多流语音 LM</text>
+    <text class="t xs" x="930" y="871" text-anchor="middle">并行建模两位说话者</text>
+    <text class="t xs" x="930" y="900" text-anchor="middle">停顿、插话、附和、打断</text>
+    <path class="arrow" d="M715 820H775"/><path class="arrow" d="M715 889H775"/>
+    <text class="t xs" x="1145" y="822">优势：低感知时延，互动更像人</text><text class="t xs" x="1145" y="856">难点：回声消除、在线安全、</text><text class="t xs" x="1145" y="888">何时闭嘴、何时插话、如何</text><text class="t xs" x="1145" y="920">在说话时继续检索与推理</text>
+  </g>
+</svg>

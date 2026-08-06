@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="860" viewBox="0 0 1600 860" role="img" aria-labelledby="title desc">
+  <title id="title">语音表示的序列长度与信息损失权衡</title>
+  <desc id="desc">比较原始波形、声学帧、语义语音 token、神经编解码器多码本 token 和文字 token 的时间速率与保留信息。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071a2b"/><stop offset="1" stop-color="#102e3b"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0d808c"/><stop offset="1" stop-color="#5ad6c9"/></linearGradient>
+    <style>.t{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans SC","PingFang SC",sans-serif;fill:#edf7f7}.h{font-size:34px;font-weight:700}.m{font-size:23px;font-weight:650}.s{font-size:19px;fill:#c1d8dc}.xs{font-size:17px;fill:#9bb9be}.grid{stroke:#345762;stroke-width:1}.loss{fill:#edb55d}.keep{fill:#5bd5c9}</style>
+  </defs>
+  <rect width="1600" height="860" rx="28" fill="url(#bg)"/>
+  <text class="t h" x="72" y="72">音频 token 化的核心矛盾：序列越短，越容易被 LLM 建模；压缩越强，越可能丢掉“怎么说”</text>
+  <text class="t s" x="74" y="112">下列速率是典型数量级，不是统一标准；神经 codec 还会在同一时间步使用多个 RVQ 码本。</text>
+
+  <text class="t s" x="305" y="180" text-anchor="middle">典型时间速率（对数示意）</text>
+  <text class="t s" x="940" y="180" text-anchor="middle">主要保留的信息</text>
+  <text class="t s" x="1408" y="180" text-anchor="middle">主要代价</text>
+  <line class="grid" x1="72" y1="203" x2="1528" y2="203"/>
+
+  <text class="t m" x="88" y="276">原始波形</text>
+  <rect x="305" y="238" width="520" height="52" rx="12" fill="url(#bar)"/><text class="t s" x="565" y="271" text-anchor="middle">16,000–48,000 samples/s</text>
+  <text class="t xs" x="882" y="259">✓ 相位、高频、细粒度音色</text><text class="t xs" x="882" y="285">✓ 环境声与重叠说话</text>
+  <text class="t xs" x="1295" y="259">序列极长；直接自回归</text><text class="t xs" x="1295" y="285">几乎不可承受</text>
+
+  <line class="grid" x1="72" y1="322" x2="1528" y2="322"/>
+  <text class="t m" x="88" y="394">Mel / SSL 帧</text>
+  <rect x="305" y="356" width="360" height="52" rx="12" fill="url(#bar)"/><text class="t s" x="485" y="389" text-anchor="middle">50–100 frames/s</text>
+  <text class="t xs" x="882" y="378">✓ 音素、韵律、部分音色</text><text class="t xs" x="882" y="404">△ 依编码器与下采样率而定</text>
+  <text class="t xs" x="1295" y="378">连续向量占显存；与文本</text><text class="t xs" x="1295" y="404">词表不天然共用</text>
+
+  <line class="grid" x1="72" y1="440" x2="1528" y2="440"/>
+  <text class="t m" x="88" y="512">语义单元</text>
+  <rect x="305" y="474" width="245" height="52" rx="12" fill="url(#bar)"/><text class="t s" x="428" y="507" text-anchor="middle">约 12.5–50 tokens/s</text>
+  <text class="t xs" x="882" y="496">✓ 内容与音素结构</text><text class="t xs" x="882" y="522">△ 常主动弱化说话人/噪声</text>
+  <text class="t xs" x="1295" y="496">声音身份与真实感需要</text><text class="t xs" x="1295" y="522">另一路声学条件补回</text>
+
+  <line class="grid" x1="72" y1="558" x2="1528" y2="558"/>
+  <text class="t m" x="88" y="630">神经 codec</text>
+  <rect x="305" y="592" width="300" height="52" rx="12" fill="url(#bar)"/><text class="t s" x="455" y="625" text-anchor="middle">12.5–75 steps/s × K 码本</text>
+  <text class="t xs" x="882" y="614">✓ 内容、音色、韵律、环境</text><text class="t xs" x="882" y="640">✓ 可由 decoder 还原波形</text>
+  <text class="t xs" x="1295" y="614">K 个码本放大生成量；</text><text class="t xs" x="1295" y="640">量化误差与伪影</text>
+
+  <line class="grid" x1="72" y1="676" x2="1528" y2="676"/>
+  <text class="t m" x="88" y="748">文字 token</text>
+  <rect x="305" y="710" width="118" height="52" rx="12" fill="url(#bar)"/><text class="t s" x="364" y="743" text-anchor="middle">约 3–6/s</text>
+  <text class="t xs" x="882" y="732">✓ 语义密度高，推理最成熟</text><text class="t xs" x="882" y="758">✗ 音色、停顿、语气大量消失</text>
+  <text class="t xs" x="1295" y="732">转写错误不可逆；同一句</text><text class="t xs" x="1295" y="758">“没事”可有完全不同含义</text>
+
+  <rect x="73" y="799" width="1454" height="2" fill="#456670"/>
+  <circle cx="95" cy="824" r="7" class="keep"/><text class="t xs" x="114" y="830">保留更多声学细节</text>
+  <circle cx="312" cy="824" r="7" class="loss"/><text class="t xs" x="331" y="830">更适合语言模型计算</text>
+  <text class="t xs" x="1527" y="830" text-anchor="end">真正的工程优化目标是“任务需要的信息 / 每秒计算量”，不是单纯追求最低码率。</text>
+</svg>
