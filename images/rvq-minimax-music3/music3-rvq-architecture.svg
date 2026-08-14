@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1040" role="img" aria-labelledby="title desc">
+  <title id="title">MiniMax Music 3 开放推理实现中的 RVQ 数据流</title>
+  <desc id="desc">歌词与音乐描述进入全局语言模型；每帧先采样语义码，再由 RVQ 深度解码器自回归采样七个声学码。八层码组合反馈给全局模型，八份隐藏状态则融合后进入 Flow Matching、Flow-VAE 与声码器。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06131f"/><stop offset=".6" stop-color="#151f38"/><stop offset="1" stop-color="#291b3e"/></linearGradient>
+    <marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#79dcff"/></marker>
+    <marker id="p" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#c99cff"/></marker>
+    <filter id="sh"><feDropShadow dx="0" dy="9" stdDeviation="10" flood-color="#000" flood-opacity=".36"/></filter>
+  </defs>
+  <rect width="1600" height="1040" rx="30" fill="url(#bg)"/>
+  <g font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">
+    <text x="55" y="70" fill="#fff" font-size="35" font-weight="760">一次音乐帧是怎样生成并变成声音的</text>
+    <text x="55" y="109" fill="#a5b7cf" font-size="19">依据 MiniMax 模型卡与 Diffusers 公开实现重绘；蓝线是离散 token 路径，紫线是连续隐藏状态路径。</text>
+
+    <g filter="url(#sh)">
+      <rect x="55" y="165" width="255" height="122" rx="21" fill="#10283a" stroke="#3a6c8e" stroke-width="2"/>
+      <text x="182" y="207" text-anchor="middle" fill="#fff" font-size="22" font-weight="700">音乐描述 + 歌词</text>
+      <text x="182" y="242" text-anchor="middle" fill="#9fb4ca" font-size="16">结构标签、风格、BPM、</text>
+      <text x="182" y="266" text-anchor="middle" fill="#9fb4ca" font-size="16">人声、乐器与编排条件</text>
+
+      <rect x="385" y="148" width="350" height="156" rx="23" fill="#113a4b" stroke="#2dd4bf" stroke-width="2"/>
+      <text x="560" y="192" text-anchor="middle" fill="#b7fff4" font-size="25" font-weight="720">8B Global LLM</text>
+      <text x="560" y="229" text-anchor="middle" fill="#d7e2ed" font-size="17">Qwen3-8B 初始化 · 时间方向 AR</text>
+      <text x="560" y="263" text-anchor="middle" fill="#6ee8d6" font-size="18" font-weight="700">每 40 ms 预测语义码 c₀</text>
+
+      <rect x="815" y="148" width="360" height="156" rx="23" fill="#34264a" stroke="#a77ae7" stroke-width="2"/>
+      <text x="995" y="192" text-anchor="middle" fill="#eadcff" font-size="25" font-weight="720">0.6B RVQ Depth Decoder</text>
+      <text x="995" y="229" text-anchor="middle" fill="#d7e2ed" font-size="17">4 层 · hidden 4096 · 16 heads</text>
+      <text x="995" y="263" text-anchor="middle" fill="#d0afff" font-size="18" font-weight="700">帧内依次预测 c₁ … c₇</text>
+
+      <rect x="1245" y="148" width="300" height="156" rx="23" fill="#3e263c" stroke="#e77da9" stroke-width="2"/>
+      <text x="1395" y="192" text-anchor="middle" fill="#ffe0ee" font-size="25" font-weight="720">完整 RVQ 帧</text>
+      <text x="1395" y="231" text-anchor="middle" fill="#fff" font-size="20">[c₀,c₁,…,c₇]</text>
+      <text x="1395" y="265" text-anchor="middle" fill="#e7b2c8" font-size="16">84 bit / frame · 25 Hz</text>
+    </g>
+    <g stroke="#79dcff" stroke-width="5" fill="none" marker-end="url(#a)"><path d="M310 226H385"/><path d="M735 226H815"/><path d="M1175 226H1245"/></g>
+
+    <rect x="815" y="355" width="730" height="185" rx="24" fill="#111b31" stroke="#4e5279" stroke-width="2"/>
+    <text x="851" y="397" fill="#fff" font-size="22" font-weight="700">深度方向的因果序列</text>
+    <g>
+      <rect x="852" y="425" width="108" height="62" rx="13" fill="#174759"/><text x="906" y="463" text-anchor="middle" fill="#bbfff4" font-size="17" font-weight="700">hᴳ</text>
+      <rect x="976" y="425" width="108" height="62" rx="13" fill="#17576a"/><text x="1030" y="463" text-anchor="middle" fill="#bbfff4" font-size="17" font-weight="700">Emb(c₀)</text>
+      <rect x="1100" y="425" width="108" height="62" rx="13" fill="#493363"/><text x="1154" y="463" text-anchor="middle" fill="#f0ddff" font-size="17" font-weight="700">Emb(c₁)</text>
+      <rect x="1224" y="425" width="108" height="62" rx="13" fill="#493363"/><text x="1278" y="463" text-anchor="middle" fill="#f0ddff" font-size="17" font-weight="700">Emb(c₂)</text>
+      <text x="1360" y="463" fill="#c4b6d8" font-size="25">…</text>
+      <rect x="1398" y="425" width="108" height="62" rx="13" fill="#5a315d"/><text x="1452" y="463" text-anchor="middle" fill="#ffe0fa" font-size="17" font-weight="700">Emb(c₆)</text>
+    </g>
+    <text x="852" y="517" fill="#9fafc5" font-size="15">每预测一层，就把新码的 embedding 追加进序列；因果 attention 只看已生成的深度。</text>
+
+    <path d="M1395 304V352H696V304" fill="none" stroke="#79dcff" stroke-width="4" stroke-dasharray="10 8" marker-end="url(#a)"/>
+    <text x="1035" y="341" text-anchor="middle" fill="#82dfff" font-size="16">8 个 token embedding 求和并除以 √8，作为下一帧的 Global LLM 反馈</text>
+
+    <rect x="55" y="603" width="1490" height="143" rx="24" fill="#10192e" stroke="#6e5692" stroke-width="2"/>
+    <text x="91" y="646" fill="#fff" font-size="22" font-weight="700">连续隐藏状态旁路：离散码并不是最终出声的唯一信息</text>
+    <g>
+      <rect x="91" y="673" width="140" height="48" rx="12" fill="#174759"/><text x="161" y="704" text-anchor="middle" fill="#c5fff6" font-size="17">Global h₀</text>
+      <rect x="246" y="673" width="140" height="48" rx="12" fill="#44305e"/><text x="316" y="704" text-anchor="middle" fill="#f0dcff" font-size="17">Local h₁</text>
+      <rect x="401" y="673" width="140" height="48" rx="12" fill="#44305e"/><text x="471" y="704" text-anchor="middle" fill="#f0dcff" font-size="17">Local h₂</text>
+      <text x="566" y="706" fill="#cab8dd" font-size="25">…</text>
+      <rect x="605" y="673" width="140" height="48" rx="12" fill="#54305c"/><text x="675" y="704" text-anchor="middle" fill="#ffe1f7" font-size="17">Local h₇</text>
+      <text x="774" y="705" fill="#c99cff" font-size="27">→</text>
+      <rect x="821" y="666" width="285" height="61" rx="14" fill="#30244a" stroke="#b585f0"/>
+      <text x="963" y="692" text-anchor="middle" fill="#fff" font-size="17" font-weight="700">softmax 加权融合 + Conv1D</text>
+      <text x="963" y="715" text-anchor="middle" fill="#bcaed0" font-size="14">8×4096 → 2048</text>
+      <text x="1134" y="705" fill="#c99cff" font-size="27">→</text>
+      <rect x="1180" y="666" width="320" height="61" rx="14" fill="#32263f" stroke="#df7faf"/>
+      <text x="1340" y="692" text-anchor="middle" fill="#fff" font-size="17" font-weight="700">25 Hz → 约 86.13 Hz</text>
+      <text x="1340" y="715" text-anchor="middle" fill="#cfb1c8" font-size="14">对齐 Flow-VAE latent 时间轴</text>
+    </g>
+
+    <g filter="url(#sh)">
+      <rect x="55" y="820" width="285" height="132" rx="22" fill="#2c263d" stroke="#e48a63" stroke-width="2"/>
+      <text x="197" y="862" text-anchor="middle" fill="#ffe3d5" font-size="23" font-weight="700">2.4B Flow Transformer</text>
+      <text x="197" y="897" text-anchor="middle" fill="#d4bdc7" font-size="16">128-channel latent</text>
+      <text x="197" y="925" text-anchor="middle" fill="#f0b285" font-size="16">默认每窗口 30 步</text>
+
+      <rect x="435" y="820" width="285" height="132" rx="22" fill="#33253f" stroke="#d678c2" stroke-width="2"/>
+      <text x="577" y="862" text-anchor="middle" fill="#ffe0fb" font-size="23" font-weight="700">Flow-VAE latent</text>
+      <text x="577" y="897" text-anchor="middle" fill="#d0b9d0" font-size="16">200 帧窗口 / 100 帧 hop</text>
+      <text x="577" y="925" text-anchor="middle" fill="#e4a9dc" font-size="16">重叠条件与 latent 拼接</text>
+
+      <rect x="815" y="820" width="285" height="132" rx="22" fill="#35263a" stroke="#d97191" stroke-width="2"/>
+      <text x="957" y="862" text-anchor="middle" fill="#ffe0e8" font-size="23" font-weight="700">DAC-style Vocoder</text>
+      <text x="957" y="897" text-anchor="middle" fill="#d4bdc7" font-size="16">Flow-VAE Decoder</text>
+      <text x="957" y="925" text-anchor="middle" fill="#eea5b7" font-size="16">卷积上采样至波形</text>
+
+      <rect x="1195" y="820" width="350" height="132" rx="22" fill="#24303c" stroke="#5fd4e8" stroke-width="2"/>
+      <text x="1370" y="862" text-anchor="middle" fill="#dcfaff" font-size="23" font-weight="700">44.1 kHz stereo</text>
+      <text x="1370" y="897" text-anchor="middle" fill="#b7cad5" font-size="16">Diffusers 原生输出</text>
+      <text x="1370" y="925" text-anchor="middle" fill="#82e4f2" font-size="16">参考服务可重采样为 32 kHz</text>
+    </g>
+    <g stroke="#c99cff" stroke-width="5" fill="none" marker-end="url(#p)"><path d="M198 746V820"/><path d="M340 886H435"/><path d="M720 886H815"/><path d="M1100 886H1195"/></g>
+  </g>
+</svg>

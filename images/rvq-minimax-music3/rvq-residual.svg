@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
+  <title id="title">残差向量量化的逐层逼近过程</title>
+  <desc id="desc">输入向量先由第一个码本近似，再将误差交给后续码本量化；最终重建向量是各层码字之和，残差范数逐层下降。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071522"/><stop offset="1" stop-color="#18233d"/></linearGradient>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#75d8ff"/></marker>
+    <filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1400" height="820" rx="28" fill="url(#bg)"/>
+  <g font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">
+    <text x="55" y="70" fill="#fff" font-size="34" font-weight="750">RVQ 不是八次重复，而是八次“只修剩下的误差”</text>
+    <text x="55" y="108" fill="#9fb2ca" font-size="19">每层用独立码本找最近码字；后层看到的是上一层未能表达的 residual。</text>
+
+    <g filter="url(#s)">
+      <rect x="60" y="175" width="220" height="162" rx="22" fill="#11283b" stroke="#3c6a89" stroke-width="2"/>
+      <text x="170" y="217" text-anchor="middle" fill="#fff" font-size="23" font-weight="700">输入向量 z</text>
+      <line x1="100" y1="303" x2="232" y2="245" stroke="#f8c55c" stroke-width="7" stroke-linecap="round"/>
+      <circle cx="100" cy="303" r="8" fill="#fff"/><circle cx="232" cy="245" r="9" fill="#f8c55c"/>
+      <text x="170" y="325" text-anchor="middle" fill="#9fb2ca" font-size="15">连续值，不能直接当 token</text>
+
+      <rect x="350" y="175" width="260" height="162" rx="22" fill="#113447" stroke="#2dd4bf" stroke-width="2"/>
+      <text x="480" y="215" text-anchor="middle" fill="#c8fff6" font-size="22" font-weight="700">码本 C₁</text>
+      <text x="480" y="248" text-anchor="middle" fill="#9fc7cf" font-size="16">q₁ = nearest(r₀)</text>
+      <text x="480" y="284" text-anchor="middle" fill="#fff" font-size="19">r₁ = z − q₁</text>
+      <text x="480" y="315" text-anchor="middle" fill="#72e9d8" font-size="16">先抓住最大轮廓</text>
+
+      <rect x="680" y="175" width="260" height="162" rx="22" fill="#25234a" stroke="#9670e6" stroke-width="2"/>
+      <text x="810" y="215" text-anchor="middle" fill="#ebddff" font-size="22" font-weight="700">码本 C₂</text>
+      <text x="810" y="248" text-anchor="middle" fill="#b9acd2" font-size="16">q₂ = nearest(r₁)</text>
+      <text x="810" y="284" text-anchor="middle" fill="#fff" font-size="19">r₂ = r₁ − q₂</text>
+      <text x="810" y="315" text-anchor="middle" fill="#c8a8ff" font-size="16">只修第一层的误差</text>
+
+      <rect x="1010" y="175" width="330" height="162" rx="22" fill="#3a253e" stroke="#e779a9" stroke-width="2"/>
+      <text x="1175" y="215" text-anchor="middle" fill="#ffe1ef" font-size="22" font-weight="700">码本 C₃ … C₈</text>
+      <text x="1175" y="248" text-anchor="middle" fill="#cfb4c5" font-size="16">qₘ = nearest(rₘ₋₁)</text>
+      <text x="1175" y="284" text-anchor="middle" fill="#fff" font-size="19">rₘ = rₘ₋₁ − qₘ</text>
+      <text x="1175" y="315" text-anchor="middle" fill="#ffb4d2" font-size="16">逐层补充更细的声学信息</text>
+    </g>
+
+    <g stroke="#75d8ff" stroke-width="4" fill="none" marker-end="url(#arr)"><path d="M280 256H350"/><path d="M610 256H680"/><path d="M940 256H1010"/></g>
+
+    <rect x="60" y="395" width="1280" height="126" rx="22" fill="#0b1a2c" stroke="#314c6a" stroke-width="2"/>
+    <text x="100" y="438" fill="#fff" font-size="22" font-weight="700">最终重建</text>
+    <text x="100" y="480" fill="#f8c55c" font-size="27" font-weight="750">ẑ = q₁ + q₂ + ⋯ + q₈</text>
+    <text x="520" y="480" fill="#9fb2ca" font-size="19">只需保存 8 个码字编号，不保存原始浮点向量。</text>
+
+    <text x="60" y="589" fill="#fff" font-size="23" font-weight="700">误差怎样下降</text>
+    <line x1="105" y1="740" x2="1305" y2="740" stroke="#52667f" stroke-width="2"/>
+    <line x1="105" y1="620" x2="105" y2="740" stroke="#52667f" stroke-width="2"/>
+    <polyline points="125,638 285,674 445,698 605,714 765,724 925,730 1085,734 1245,737" fill="none" stroke="#68e0ce" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#68e0ce">
+      <circle cx="125" cy="638" r="8"/><circle cx="285" cy="674" r="8"/><circle cx="445" cy="698" r="8"/><circle cx="605" cy="714" r="8"/><circle cx="765" cy="724" r="8"/><circle cx="925" cy="730" r="8"/><circle cx="1085" cy="734" r="8"/><circle cx="1245" cy="737" r="8"/>
+    </g>
+    <text x="58" y="638" fill="#9fb2ca" font-size="15" text-anchor="end">大</text>
+    <text x="58" y="739" fill="#9fb2ca" font-size="15" text-anchor="end">小</text>
+    <text x="125" y="774" fill="#9fb2ca" font-size="15" text-anchor="middle">r₀</text><text x="285" y="774" fill="#9fb2ca" font-size="15" text-anchor="middle">r₁</text>
+    <text x="445" y="774" fill="#9fb2ca" font-size="15" text-anchor="middle">r₂</text><text x="605" y="774" fill="#9fb2ca" font-size="15" text-anchor="middle">r₃</text>
+    <text x="765" y="774" fill="#9fb2ca" font-size="15" text-anchor="middle">r₄</text><text x="925" y="774" fill="#9fb2ca" font-size="15" text-anchor="middle">r₅</text>
+    <text x="1085" y="774" fill="#9fb2ca" font-size="15" text-anchor="middle">r₆</text><text x="1245" y="774" fill="#9fb2ca" font-size="15" text-anchor="middle">r₇</text>
+  </g>
+</svg>
