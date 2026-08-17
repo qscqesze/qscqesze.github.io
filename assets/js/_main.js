@@ -265,10 +265,37 @@ $(document).ready(function () {
   // FitVids init
   fitvids();
 
-  // Init smooth scroll, this needs to be slightly more than then fixed masthead height
-  $("a").smoothScroll({
-    offset: -scssMastheadHeight,
-    preventDefault: false,
+  // Smooth-scroll same-page anchors without treating percent-encoded CJK ids as
+  // jQuery selectors. The old plugin path throws on hashes such as #%E5%... .
+  document.querySelectorAll('a[href^="#"]').forEach((link) => {
+    link.addEventListener('click', (event) => {
+      if (
+        event.defaultPrevented ||
+        event.button !== 0 ||
+        event.metaKey ||
+        event.ctrlKey ||
+        event.shiftKey ||
+        event.altKey
+      ) return;
+
+      const encodedId = link.hash.slice(1);
+      if (!encodedId) return;
+
+      let targetId;
+      try {
+        targetId = decodeURIComponent(encodedId);
+      } catch (error) {
+        return;
+      }
+
+      const target = document.getElementById(targetId);
+      if (!target) return;
+
+      event.preventDefault();
+      const targetTop = target.getBoundingClientRect().top + window.scrollY - scssMastheadHeight;
+      window.scrollTo({ top: targetTop, behavior: 'smooth' });
+      window.history.pushState(null, '', link.hash);
+    });
   });
 
 });
