@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 850" role="img" aria-labelledby="title desc">
+  <title id="title">H3-VisualVAE 如何压缩视频序列</title>
+  <desc id="desc">以开源推理中约 5.2 秒的 124 帧 1344 乘 768 视频为例，H3-VisualVAE 先把空间缩小 16 倍、时间缩小约 4 倍并形成 24 通道 latent，再用 2 乘 2 空间 patch 变成 37296 个 Transformer 视频 token。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".58" stop-color="#122039"/><stop offset="1" stop-color="#211940"/></linearGradient>
+    <linearGradient id="v" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2f88c8"/><stop offset="1" stop-color="#6c64db"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000" flood-opacity=".35"/></filter>
+    <marker id="arrow" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto"><path d="M0 0L11 5.5L0 11Z" fill="#9ee5ff"/></marker>
+  </defs>
+  <rect width="1600" height="850" rx="34" fill="url(#bg)"/>
+  <g font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">
+    <text x="70" y="79" fill="#f7fbff" font-size="39" font-weight="760">为什么视频模型必须先“压缩再生成”</text>
+    <text x="70" y="123" fill="#aabbd1" font-size="21">示例：124 帧、1344×768、约 5.2 秒；数字来自公开 VAE 配置与 Diffusers 帧规则。</text>
+
+    <g filter="url(#shadow)">
+      <rect x="70" y="221" width="320" height="338" rx="28" fill="#0d2237" stroke="#315d82" stroke-width="2"/>
+      <text x="230" y="268" text-anchor="middle" fill="#fff" font-size="26" font-weight="740">原始 RGB 视频</text>
+      <g fill="#194269" stroke="#79c8fa" stroke-width="2">
+        <rect x="111" y="313" width="190" height="111" rx="10"/><rect x="122" y="300" width="190" height="111" rx="10" opacity=".78"/><rect x="133" y="287" width="190" height="111" rx="10" opacity=".62"/>
+      </g>
+      <path d="M153 376l39-43 30 28 26-21 55 54" fill="none" stroke="#b7e4ff" stroke-width="5"/>
+      <text x="230" y="472" text-anchor="middle" fill="#c5d7e7" font-size="19">124 × 1344 × 768 × 3</text>
+      <text x="230" y="507" text-anchor="middle" fill="#8fc6e8" font-size="17">约 3.84 亿个像素通道值</text>
+      <text x="230" y="536" text-anchor="middle" fill="#7298b6" font-size="15">直接做全注意力不可承受</text>
+    </g>
+
+    <path d="M410 390H488" stroke="#9ee5ff" stroke-width="5" marker-end="url(#arrow)"/>
+    <g filter="url(#shadow)">
+      <rect x="510" y="221" width="320" height="338" rx="28" fill="#192548" stroke="#676fd0" stroke-width="2"/>
+      <text x="670" y="268" text-anchor="middle" fill="#fff" font-size="26" font-weight="740">VisualVAE latent</text>
+      <g transform="translate(563 306)">
+        <rect width="214" height="135" rx="12" fill="url(#v)"/>
+        <g stroke="#fff" stroke-opacity=".24"><path d="M0 27h214M0 54h214M0 81h214M0 108h214"/><path d="M42 0v135M84 0v135M126 0v135M168 0v135"/></g>
+      </g>
+      <text x="670" y="472" text-anchor="middle" fill="#d9daf8" font-size="19">37 × 84 × 48 × 24</text>
+      <text x="670" y="507" text-anchor="middle" fill="#b6bbed" font-size="17">时间约 ÷4 · 空间 ÷16</text>
+      <text x="670" y="536" text-anchor="middle" fill="#9298d7" font-size="15">保留连续特征，不是离散词表</text>
+    </g>
+
+    <path d="M850 390H928" stroke="#9ee5ff" stroke-width="5" marker-end="url(#arrow)"/>
+    <g filter="url(#shadow)">
+      <rect x="950" y="221" width="320" height="338" rx="28" fill="#2e2450" stroke="#8f70db" stroke-width="2"/>
+      <text x="1110" y="268" text-anchor="middle" fill="#fff" font-size="26" font-weight="740">1×2×2 patchify</text>
+      <g transform="translate(1008 310)">
+        <g fill="#8b71e4" stroke="#cfc5ff"><rect width="43" height="43" rx="6"/><rect x="52" width="43" height="43" rx="6"/><rect x="104" width="43" height="43" rx="6"/><rect x="156" width="43" height="43" rx="6"/><rect y="52" width="43" height="43" rx="6"/><rect x="52" y="52" width="43" height="43" rx="6"/><rect x="104" y="52" width="43" height="43" rx="6"/><rect x="156" y="52" width="43" height="43" rx="6"/></g>
+      </g>
+      <text x="1110" y="438" text-anchor="middle" fill="#e3dcff" font-size="19">37 × 42 × 24</text>
+      <text x="1110" y="474" text-anchor="middle" fill="#cfc3f2" font-size="18">= 37,296 个视频 token</text>
+      <text x="1110" y="507" text-anchor="middle" fill="#b3a6e0" font-size="17">每个 token 含 2×2×24 = 96 值</text>
+      <text x="1110" y="536" text-anchor="middle" fill="#9286bd" font-size="15">Transformer 有效空间降采样 32×</text>
+    </g>
+
+    <path d="M1290 390H1360" stroke="#ed9bdb" stroke-width="5" marker-end="url(#arrow)"/>
+    <g filter="url(#shadow)">
+      <rect x="1382" y="221" width="148" height="338" rx="28" fill="#422641" stroke="#a95e9d" stroke-width="2"/>
+      <text x="1456" y="268" text-anchor="middle" fill="#fff" font-size="23" font-weight="740">音频</text>
+      <path d="M1407 360l9-22 9 49 9-81 9 109 9-67 9 26 9-46 9 77 9-56 9 34" fill="none" stroke="#f38bd5" stroke-width="4"/>
+      <text x="1456" y="449" text-anchor="middle" fill="#f1d0e9" font-size="17">32 kHz</text>
+      <text x="1456" y="482" text-anchor="middle" fill="#f1d0e9" font-size="17">→ 40 Hz</text>
+      <text x="1456" y="516" text-anchor="middle" fill="#cc8fc1" font-size="14">每声道约</text>
+      <text x="1456" y="539" text-anchor="middle" fill="#cc8fc1" font-size="14">207 latent</text>
+    </g>
+
+    <rect x="70" y="631" width="1460" height="151" rx="24" fill="#091728" stroke="#294967" stroke-width="2"/>
+    <text x="106" y="676" fill="#fff" font-size="22" font-weight="740">压缩的目标不是“文件变小”这么简单</text>
+    <text x="106" y="714" fill="#b9c8d9" font-size="18">VAE 必须同时做到两件事：把视频缩成 Transformer 算得动的序列；又让 latent 的几何足够平滑，使 Rectified Flow 容易从噪声学回来。</text>
+    <text x="106" y="750" fill="#82dfff" font-size="18" font-weight="680">MiniMax 官方称 H3 的新 tokenizer 相比前代带来约 4× 序列长度收益；这是支持 2K 成本结构的关键之一。</text>
+  </g>
+</svg>
