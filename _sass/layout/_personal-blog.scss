@@ -74,7 +74,7 @@ a {
 }
 
 #main.main--article {
-  max-width: 1300px;
+  max-width: 1400px;
 }
 
 .page,
@@ -88,11 +88,11 @@ a {
 }
 
 .page--with-toc {
-  width: min(100%, 760px);
+  width: min(100%, 860px);
 }
 
 .page--with-toc.has-toc {
-  width: min(100%, 1210px);
+  width: min(100%, 1310px);
 }
 
 .page__post-layout {
@@ -101,7 +101,7 @@ a {
 
 .page__post-layout.has-toc {
   display: grid;
-  grid-template-columns: 190px minmax(0, 760px) 190px;
+  grid-template-columns: 190px minmax(0, 860px) 190px;
   column-gap: 35px;
   align-items: start;
 }
@@ -142,7 +142,7 @@ a {
   width: 100%;
   align-items: center;
   justify-content: space-between;
-  margin: 0 0 0.65rem;
+  margin: 0;
   padding: 0 0 0.55rem;
   border: 0;
   border-bottom: 1px solid var(--blog-border);
@@ -153,16 +153,30 @@ a {
   font-weight: 600;
   letter-spacing: 0.08em;
   text-align: left;
+  cursor: pointer;
 }
 
 .page__toc-chevron {
-  display: none;
+  display: block;
   width: 0.48rem;
   height: 0.48rem;
   border-right: 1.5px solid currentColor;
   border-bottom: 1.5px solid currentColor;
   transform: rotate(45deg);
   transition: transform 0.18s ease;
+}
+
+.page__toc-nav {
+  display: none;
+  padding-top: 0.65rem;
+}
+
+.page__toc.is-open .page__toc-nav {
+  display: block;
+}
+
+.page__toc.is-open .page__toc-chevron {
+  transform: rotate(225deg);
 }
 
 .page__toc-list {
@@ -204,25 +218,14 @@ a {
   display: none;
 }
 
-@media (min-width: 1251px) {
-  .page__toc-toggle {
-    cursor: default;
-    pointer-events: none;
-  }
-
-  .page__toc-nav {
-    display: block !important;
-  }
-}
-
-@media (max-width: 1250px) {
+@media (max-width: 1350px) {
   #main.main--article {
-    max-width: 810px;
+    max-width: 910px;
   }
 
   .page--with-toc,
   .page--with-toc.has-toc {
-    width: min(100%, 760px);
+    width: min(100%, 860px);
   }
 
   .page__post-layout.has-toc {
@@ -256,19 +259,10 @@ a {
   }
 
   .page__toc-nav {
-    display: none;
     max-height: min(55vh, 28rem);
     padding: 0 0.65rem 0.75rem;
     overflow-y: auto;
     border-top: 1px solid var(--blog-border);
-  }
-
-  .page__toc.is-open .page__toc-nav {
-    display: block;
-  }
-
-  .page__toc.is-open .page__toc-chevron {
-    transform: rotate(225deg);
   }
 
   .page__toc-list {
