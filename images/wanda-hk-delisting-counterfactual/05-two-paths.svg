@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">万达商业退市与不退市的资金机制对照</title>
+  <desc id="desc">实际路径先支付私有化对价，再引入带上市期限和回购安排的私募资金，最终以新达盟重组化解回购压力。反事实基准路径是假设保留H股平台，股价承受折价但没有一次性回购全部公众股东的义务，可使用配股、可转债、分拆等公开市场工具。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f5f8fb"/>
+      <stop offset="1" stop-color="#eaf0f5"/>
+    </linearGradient>
+    <marker id="arrowRed" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#c75656"/></marker>
+    <marker id="arrowBlue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#3079a6"/></marker>
+  </defs>
+  <rect width="1600" height="1000" rx="32" fill="url(#bg)"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif">
+    <text x="80" y="82" fill="#183246" font-size="46" font-weight="750">同样面对去杠杆，两条路的“压力形状”不同</text>
+    <text x="80" y="128" fill="#587083" font-size="23">左侧为实际发生；右侧为反事实基准情景，不代表确定预测</text>
+
+    <rect x="630" y="166" width="340" height="100" rx="50" fill="#183246"/>
+    <text x="800" y="207" fill="#fff" font-size="27" font-weight="700" text-anchor="middle">2016年的共同起点</text>
+    <text x="800" y="240" fill="#c8d9e5" font-size="20" text-anchor="middle">重资产、高负债、H股估值偏低</text>
+
+    <path d="M700 266 C610 320 450 310 360 365" fill="none" stroke="#c75656" stroke-width="6" marker-end="url(#arrowRed)"/>
+    <path d="M900 266 C990 320 1150 310 1240 365" fill="none" stroke="#3079a6" stroke-width="6" stroke-dasharray="14 10" marker-end="url(#arrowBlue)"/>
+
+    <text x="360" y="335" fill="#a64141" font-size="28" font-weight="750" text-anchor="middle">实际路径：退市</text>
+    <text x="1240" y="335" fill="#256990" font-size="28" font-weight="750" text-anchor="middle">基准推演：保留H股</text>
+
+    <g>
+      <rect x="115" y="385" width="490" height="125" rx="20" fill="#fff" stroke="#df8a8a" stroke-width="3"/>
+      <text x="150" y="430" fill="#833b3b" font-size="25" font-weight="700">① 一次性买回公众股</text>
+      <text x="150" y="470" fill="#4c5a65" font-size="22">私有化总代价约 HK$344.6亿</text>
+      <path d="M360 510 L360 565" stroke="#c75656" stroke-width="5" marker-end="url(#arrowRed)"/>
+      <rect x="115" y="585" width="490" height="125" rx="20" fill="#fff" stroke="#df8a8a" stroke-width="3"/>
+      <text x="150" y="630" fill="#833b3b" font-size="25" font-weight="700">② 私募资本替换私募资本</text>
+      <text x="150" y="670" fill="#4c5a65" font-size="22">2018约340亿元；2021约US$60亿</text>
+      <path d="M360 710 L360 765" stroke="#c75656" stroke-width="5" marker-end="url(#arrowRed)"/>
+      <rect x="115" y="785" width="490" height="125" rx="20" fill="#fff" stroke="#df8a8a" stroke-width="3"/>
+      <text x="150" y="830" fill="#833b3b" font-size="25" font-weight="700">③ 到期日成为硬约束</text>
+      <text x="150" y="870" fill="#4c5a65" font-size="22">未上市触发回购，最终以60%股权重组</text>
+    </g>
+
+    <g>
+      <rect x="995" y="385" width="490" height="125" rx="20" fill="#fff" stroke="#7faecc" stroke-width="3" stroke-dasharray="10 7"/>
+      <text x="1030" y="430" fill="#225f83" font-size="25" font-weight="700">① 折价留在股价里</text>
+      <text x="1030" y="470" fill="#4c5a65" font-size="22">公众股东承担波动，无全额回购义务</text>
+      <path d="M1240 510 L1240 565" stroke="#3079a6" stroke-width="5" stroke-dasharray="12 8" marker-end="url(#arrowBlue)"/>
+      <rect x="995" y="585" width="490" height="125" rx="20" fill="#fff" stroke="#7faecc" stroke-width="3" stroke-dasharray="10 7"/>
+      <text x="1030" y="630" fill="#225f83" font-size="25" font-weight="700">② 公开融资但接受摊薄</text>
+      <text x="1030" y="670" fill="#4c5a65" font-size="22">配股、可转债、分拆、REITs等工具</text>
+      <path d="M1240 710 L1240 765" stroke="#3079a6" stroke-width="5" stroke-dasharray="12 8" marker-end="url(#arrowBlue)"/>
+      <rect x="995" y="785" width="490" height="125" rx="20" fill="#fff" stroke="#7faecc" stroke-width="3" stroke-dasharray="10 7"/>
+      <text x="1030" y="830" fill="#225f83" font-size="25" font-weight="700">③ 慢性估值压力</text>
+      <text x="1030" y="870" fill="#4c5a65" font-size="22">仍要售资产、降杠杆，控制权也可能摊薄</text>
+    </g>
+
+    <text x="800" y="965" fill="#5f7280" font-size="21" text-anchor="middle">核心区别不是“有没有压力”，而是压力以股价波动，还是以现金回购和到期日出现。</text>
+  </g>
+</svg>
