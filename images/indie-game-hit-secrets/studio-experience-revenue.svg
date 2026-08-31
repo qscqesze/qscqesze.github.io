@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">开发者经验与独立游戏平均收入</title>
+  <desc id="desc">Video Game Insights 估算，工作室第一款独立游戏平均收入为 12 万美元，第二款为 16.8 万美元，第三款及以后为 20.9 万美元。</desc>
+  <rect width="1200" height="650" rx="24" fill="#eef3f1"/>
+  <text x="72" y="68" fill="#17202a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans SC',sans-serif" font-size="31" font-weight="700">经验不能保证爆款，但会抬高平均落点</text>
+  <text x="72" y="105" fill="#5e6871" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans SC',sans-serif" font-size="17">按工作室此前发布游戏数量分组；平均收入为第三方估算</text>
+
+  <line x1="110" y1="522" x2="1110" y2="522" stroke="#b9c8c2" stroke-width="2"/>
+  <g fill="#377f68">
+    <rect x="176" y="310" width="220" height="212" rx="12"/>
+    <rect x="492" y="225" width="220" height="297" rx="12"/>
+    <rect x="808" y="153" width="220" height="369" rx="12"/>
+  </g>
+  <g fill="#17202a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans SC',sans-serif" text-anchor="middle">
+    <text x="286" y="281" font-size="34" font-weight="750">$12.0 万</text>
+    <text x="602" y="196" font-size="34" font-weight="750">$16.8 万</text>
+    <text x="918" y="124" font-size="34" font-weight="750">$20.9 万</text>
+    <text x="286" y="562" font-size="20" font-weight="650">工作室第 1 款</text>
+    <text x="602" y="562" font-size="20" font-weight="650">工作室第 2 款</text>
+    <text x="918" y="562" font-size="20" font-weight="650">工作室第 3 款及以后</text>
+  </g>
+  <text x="72" y="615" fill="#6b7773" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans SC',sans-serif" font-size="14">来源：Video Game Insights《Global Indie Games Market Report 2024》；算术平均会受少数大作拉高，不等于典型项目收入</text>
+</svg>
