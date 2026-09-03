@@ -3,9 +3,7 @@ title: "从噪声到图像的一条连续河流：Flow Matching 与 DiT 深入�
 date: 2026-07-30 11:00:00 +0800
 permalink: /posts/flow-matching-and-dit/
 lang: zh-CN
-translation_key: flow-matching-and-dit
-translation_url: /en/posts/flow-matching-and-dit/
-translate: true
+translate: false
 excerpt: "面向博士生系统解释 Flow Matching 的连续性方程、条件流匹配、直线插值与耦合，并拆解 DiT 的 latent patch、adaLN-Zero、条件注入、ODE 采样及二者如何组成现代生成模型。"
 categories:
   - 人工智能

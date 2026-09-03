@@ -31,7 +31,7 @@
   <article class="archive__item{% if show_list_teaser %} archive__item--with-teaser{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
     {% if show_teaser %}
       <a class="archive__item-teaser" href="{{ base_path }}{{ post.url }}" tabindex="-1" aria-hidden="true">
-        <img src="{{ teaser_url }}" alt="" itemprop="image" loading="lazy" decoding="async">
+        <img src="{{ teaser_url }}" alt="" width="180" height="113" itemprop="image" loading="lazy" decoding="async">
       </a>
     {% endif %}
 

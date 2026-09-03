@@ -3,8 +3,10 @@ title: "独立游戏爆款没有公式，但有赔率：数据、灵感、传播
 date: 2026-08-31 15:30:00 +0800
 permalink: /posts/indie-game-hit-secrets-data-instinct-luck/
 excerpt: "独立游戏的爆款究竟来自数据分析，还是灵光一现？本文用 Steam 市场数据和《小丑牌》《吸血鬼幸存者》《星露谷物语》《Among Us》《风暴之城》《Content Warning》等真实案例，拆开需求、创意、留存、传播、发行与运气，并给出从想法到 Demo 的分阶段验证方法。"
+featured: true
+featured_order: 2
 categories:
-  - 游戏开发
+  - 独立游戏
 tags:
   - 独立游戏
   - Steam

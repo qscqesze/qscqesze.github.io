@@ -3,6 +3,8 @@ title: "黑死病与欧洲流行病史：病原、传播、死亡、制度与现
 date: 2026-08-26 17:30:00 +0800
 permalink: /posts/black-death-and-european-epidemics/
 excerpt: "从古 DNA、鼠疫耶尔森菌的分子机制与 1347—1353 年传播网络出发，重建黑死病的死亡规模、地区差异、社会经济后果和学术争论，并把它放进从雅典瘟疫、查士丁尼瘟疫到天花、霍乱、结核、1918 流感、艾滋病与 COVID-19 的欧洲流行病长时段中比较。"
+featured: true
+featured_order: 3
 categories:
   - 历史与社会
   - 科学与健康
@@ -436,7 +438,7 @@ Boccaccio 和许多编年史描述父母、子女、夫妻互相逃避，神职�
 著名鸟嘴面具主要属于 17 世纪瘟疫医生视觉文化，尤其与 Charles de Lorme 设计传统和 1656 年罗马版画相关，不是 1348 年黑死病医生的标准制服。长嘴装香料、外衣覆盖身体的形象把瘴气防护与职业戏剧性结合；把它放进所有“中世纪黑死病”场景，是数百年时间错置。
 
 <figure class="technical-figure">
-  <img src="/images/black-death-european-epidemics/22-plague-doctor-rome.png" alt="1656年罗马鸟嘴瘟疫医生版画" loading="lazy">
+  <img src="/images/black-death-european-epidemics/22-plague-doctor-rome.jpg" alt="1656年罗马鸟嘴瘟疫医生版画" loading="lazy">
   <figcaption>图 7｜Paul Fürst 于 1656 年出版的“罗马鸟嘴医生”版画荷兰语版本。它比黑死病晚约三百年，反映近代早期瘴气防护与讽刺视觉文化；不能用作 1348 年医生服装证据。经 <a href="https://commons.wikimedia.org/wiki/File:Paul_F%C3%BCrst,_Der_Doctor_Schnabel_von_Rom_(Holl%C3%A4nder_version).png">Wikimedia Commons</a>；公有领域。</figcaption>
 </figure>
 

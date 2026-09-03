@@ -4,6 +4,8 @@ date: 2026-08-25 12:00:00 +0800
 permalink: /posts/how-minimax-h3-video-model-works/
 lang: zh-CN
 translate: false
+featured: true
+featured_order: 1
 excerpt: "用一条可验证的完整链路拆解 MiniMax H3：Contextual Omni Representation 怎样组织训练数据，H3-VisualVAE 与 AudioVAE 怎样压缩视频和声音，Qwen3-VL-32B 如何提供语义，33B 单流 Transformer 如何联合生成画面与双声道，Rectified Flow 怎样从噪声还原音视频，以及 768p 结果为什么还要带着原始上下文重新生成 2K。"
 categories:
   - 人工智能

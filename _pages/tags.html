@@ -1,0 +1,53 @@
+---
+layout: archive
+permalink: /tags/
+title: "文章标签"
+excerpt: "按标签浏览博客文章。"
+---
+
+{% include base_path %}
+
+<p class="archive__intro">按更细的主题寻找文章。旧博客迁移内容仍可在<a href="{{ '/legacy/' | relative_url }}">旧文归档</a>中浏览。</p>
+
+{% assign sorted_tags = site.tags | sort %}
+<nav class="tag-index" aria-label="标签索引">
+  {% for tag in sorted_tags %}
+    {% assign tag_name = tag[0] %}
+    {% assign tag_posts = tag[1] %}
+    <a class="tag-index__item" href="#{{ tag_name | slugify }}">
+      <span>{{ tag_name }}</span>
+      <span class="tag-index__count">{{ tag_posts | size }}</span>
+    </a>
+  {% endfor %}
+  <a class="tag-index__item" href="#旧文">
+    <span>旧文</span>
+    <span class="tag-index__count">{{ site.legacy | size }}</span>
+  </a>
+</nav>
+
+{% for tag in sorted_tags %}
+  {% assign tag_name = tag[0] %}
+  {% assign tag_posts = tag[1] %}
+  <section class="tag-section" id="{{ tag_name | slugify }}">
+    <header class="tag-section__header">
+      <h2 class="tag-section__title">{{ tag_name }}</h2>
+      <span class="tag-section__count">{{ tag_posts | size }} 篇</span>
+    </header>
+    <ul class="tag-section__posts">
+      {% for post in tag_posts %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endfor %}
+
+<section class="tag-section" id="旧文">
+  <header class="tag-section__header">
+    <h2 class="tag-section__title">旧文</h2>
+    <span class="tag-section__count">{{ site.legacy | size }} 篇</span>
+  </header>
+  <p>从其他博客迁移的早期文章已单独整理，<a href="{{ '/legacy/' | relative_url }}">前往旧文归档</a>。</p>
+</section>

@@ -4,7 +4,7 @@ date: 2026-08-17 11:00:00 +0800
 permalink: /posts/indie-game-demo-ea-launch-marketing-budget-2026/
 excerpt: "以 2026 年 10 月 Steam 新品节为中心，拆解《背包乱斗》《Tiny Glade》《庄园领主》《小丑牌》《杀戮公主》《王座陨落》《风暴之城》的宣发节奏，并给出从 Demo、新品节、抢先体验到 1.0 正式版逐周可执行的 35.2 万元外部宣传预算与止损线。宣传品制作成本不计入。"
 categories:
-  - 游戏开发
+  - 独立游戏
 tags:
   - 独立游戏
   - Steam

@@ -74,10 +74,12 @@ translation:
 include:
   - _pages
 exclude:
+  - .codex-work
   - .bundle
   - .github
   - .jekyll-cache
   - .sass-cache
+  - AGENTS.md
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
@@ -88,9 +90,16 @@ exclude:
   - output
   - package.json
   - package-lock.json
+  - pytest.ini
   - README.md
+  - requirements-translation.txt
+  - research
+  - scripts
   - stats-worker
+  - test
   - vendor
+  - 经济制度比较_计划经济与市场经济_学术论文.docx
+  - 零点名册.md
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"

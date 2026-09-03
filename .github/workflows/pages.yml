@@ -32,7 +32,10 @@ jobs:
           cache-dependency-path: requirements-translation.txt
 
       - name: Install translation dependency
-        run: python -m pip install -r requirements-translation.txt
+        run: python -m pip install -r requirements-translation.txt pytest
+
+      - name: Run tests
+        run: python -m pytest -q
 
       - name: Generate current English editions
         env:
@@ -56,6 +59,9 @@ jobs:
           git commit -m "chore(i18n): update generated English editions"
           git push origin "HEAD:${GITHUB_REF_NAME}" || echo "::warning::The English edition was deployed but could not be committed back to the branch."
 
+      - name: Verify cached English editions
+        run: python scripts/translate_posts.py --all --check
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
@@ -64,6 +70,9 @@ jobs:
         with:
           source: ./
           destination: ./_site
+
+      - name: Validate generated site links
+        run: python scripts/check_site.py _site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

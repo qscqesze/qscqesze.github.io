@@ -4,7 +4,7 @@ date: 2026-08-29 10:00:00 +0800
 permalink: /posts/what-if-wanda-had-not-delisted-from-hong-kong/
 excerpt: "如果万达商业2016年没有从香港退市，它会躲过后来的流动性危机吗？本文用公开文件复盘从H股私有化、回A、珠海万达商管四次递表到新达盟重组的完整资金链，并给出三种反事实情景与未来判断。"
 categories:
-  - 商业与经济
+  - 经济与投资
 tags:
   - 万达集团
   - 万达商业

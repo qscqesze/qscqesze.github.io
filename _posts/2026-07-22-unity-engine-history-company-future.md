@@ -4,7 +4,7 @@ date: 2026-07-22 16:20:00 +0800
 permalink: /posts/unity-engine-history-company-future/
 excerpt: "Unity 由谁创造，为什么会在移动游戏时代崛起，又为何在上市、并购与收费风波中失去部分开发者的信任？这是一篇从 2003 年写到 Unity 7 的完整历史与客观评价。"
 categories:
-  - 游戏开发
+  - 独立游戏
 tags:
   - Unity
   - 游戏引擎

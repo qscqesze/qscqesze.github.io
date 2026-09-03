@@ -4,7 +4,7 @@ date: 2026-08-12 15:53:00 +0800
 permalink: /posts/survivor-games-megabonk-risk-of-rain-2/
 excerpt: "幸存者类为什么令人停不下来？本文比较《吸血鬼幸存者》、MEGABONK 与《雨中冒险 2》的核心循环、操作深度、构筑系统、优缺点和真实玩家评价，并给出从十分钟原型、导演系统、数值公式到同屏性能与联机架构的完整复刻方案。"
 categories:
-  - 游戏开发
+  - 独立游戏
 tags:
   - 幸存者类
   - Vampire Survivors

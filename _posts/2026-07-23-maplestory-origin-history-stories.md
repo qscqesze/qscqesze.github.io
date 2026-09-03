@@ -4,7 +4,7 @@ date: 2026-07-23 11:30:00 +0800
 permalink: /posts/maplestory-origin-history-stories/
 excerpt: "在3D网游席卷韩国的年代，Wizet为什么反而做了一款像《超级马力欧》的2D横版MMORPG？从李承灿、《QuizQuiz》、免费加装扮的商业实验，到海外版本、BIGBANG、六转与官方怀旧服，完整讲述《冒险岛》的诞生和演变。"
 categories:
-  - 游戏开发
+  - 独立游戏
 tags:
   - 冒险岛
   - MapleStory

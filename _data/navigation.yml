@@ -9,13 +9,10 @@ main:
     url: /indie-games/
 
   - title: "旧文"
-    url: /tags/#旧文
+    url: /legacy/
 
   - title: "留言"
     url: /guestbook/
-
-  - title: "访问统计"
-    url: /stats/
 
   - title: "关于"
     url: /about/

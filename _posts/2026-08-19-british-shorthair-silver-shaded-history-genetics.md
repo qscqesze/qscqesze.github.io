@@ -4,7 +4,7 @@ date: 2026-08-19 20:00:00 +0800
 permalink: /posts/british-shorthair-silver-shaded-history-genetics/
 excerpt: "英短银渐层不是独立猫种，也不只是“白猫撒了黑胡椒”。本文从罗马时代家猫进入不列颠、1871 年水晶宫猫展、两次世界大战后的品种重建，讲到 ns 11/ns 12 标准、毛干色带、银色抑制位点、ASIP–MC1R 与 CORIN 的概念边界，并讨论 HCM、PKD、繁育伦理及如何识别可靠谱系。"
 categories:
-  - 自然与生命
+  - 科学与健康
 tags:
   - 英国短毛猫
   - 银渐层
