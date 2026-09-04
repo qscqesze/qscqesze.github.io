@@ -101,8 +101,8 @@ a {
 
 .page__post-layout.has-toc {
   display: grid;
-  grid-template-columns: 170px minmax(0, 800px) 170px;
-  column-gap: 24px;
+  grid-template-columns: 190px minmax(0, 860px) 190px;
+  column-gap: 35px;
   align-items: start;
 }
 
@@ -218,17 +218,7 @@ a {
   display: none;
 }
 
-@media (min-width: 1221px) {
-  .page__toc-chevron {
-    display: none;
-  }
-
-  .page__toc-toggle {
-    cursor: default;
-  }
-}
-
-@media (max-width: 1220px) {
+@media (max-width: 1350px) {
   #main.main--article {
     max-width: 910px;
   }

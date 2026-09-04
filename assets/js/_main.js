@@ -119,19 +119,13 @@ $(document).ready(function () {
     pageToc.closest('.page__post-layout').classList.add('has-toc');
     pageToc.closest('.page--with-toc').classList.add('has-toc');
 
-    const mobileToc = window.matchMedia('(max-width: 1220px)');
+    const mobileToc = window.matchMedia('(max-width: 1350px)');
     const syncTocState = () => {
       const isOpen = pageToc.classList.contains('is-open');
       pageTocToggle.setAttribute('aria-expanded', String(isOpen));
     };
 
-    const syncTocViewport = () => {
-      pageToc.classList.toggle('is-open', !mobileToc.matches);
-      syncTocState();
-    };
-
     pageTocToggle.addEventListener('click', () => {
-      if (!mobileToc.matches) return;
       pageToc.classList.toggle('is-open');
       syncTocState();
     });
@@ -145,11 +139,11 @@ $(document).ready(function () {
     });
 
     if (typeof mobileToc.addEventListener === 'function') {
-      mobileToc.addEventListener('change', syncTocViewport);
+      mobileToc.addEventListener('change', syncTocState);
     } else {
-      mobileToc.addListener(syncTocViewport);
+      mobileToc.addListener(syncTocState);
     }
-    syncTocViewport();
+    syncTocState();
 
     let activeHeadingId = '';
     let tocScrollQueued = false;
