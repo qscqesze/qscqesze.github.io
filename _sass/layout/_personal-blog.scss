@@ -1159,6 +1159,30 @@ a {
   object-fit: cover;
 }
 
+.page__content .article-image-pair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: stretch;
+  gap: 0.8rem;
+}
+
+.page__content .article-image-pair img {
+  width: 100%;
+  height: 100%;
+  max-height: min(72vh, 720px);
+  object-fit: contain;
+}
+
+.page__content .article-image-pair figcaption {
+  grid-column: 1 / -1;
+}
+
+@media (max-width: 640px) {
+  .page__content .article-image-pair {
+    grid-template-columns: 1fr;
+  }
+}
+
 .page__content table.award-comparison-table {
   display: block;
   width: 100%;
