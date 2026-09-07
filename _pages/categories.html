@@ -23,6 +23,7 @@ excerpt: "按主题浏览博客文章。"
     <header class="category-section__header">
       <h2 class="category-section__title">{{ category.name }}</h2>
       <p class="category-section__description">{{ category.description }}共 {{ category_posts | size }} 篇。</p>
+      {% if category.url %}<p><a href="{{ category.url | relative_url }}">进入书稿目录 →</a></p>{% endif %}
     </header>
     {% for post in category_posts %}
       {% include archive-single.html %}

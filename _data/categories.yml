@@ -14,6 +14,11 @@
   slug: history-society
   description: "历史材料、社会关系与制度变迁。"
 
+- name: "起家"
+  slug: qijia
+  url: /books/qijia/
+  description: "《起家：中国古代富人的第一桶金》书稿连载，追踪人物的发家经历、经营方式与财富观念。"
+
 - name: "科学与健康"
   slug: science-health
   description: "自然科学、医学与知识梳理。"

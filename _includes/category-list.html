@@ -3,10 +3,14 @@
   <span itemprop="keywords">
     {% for category in page.categories %}
       {% assign category_slug = category | slugify %}
+      {% assign category_url = nil %}
       {% for category_item in site.data.categories %}
-        {% if category_item.name == category %}{% assign category_slug = category_item.slug %}{% endif %}
+        {% if category_item.name == category %}
+          {% assign category_slug = category_item.slug %}
+          {% assign category_url = category_item.url %}
+        {% endif %}
       {% endfor %}
-      <a href="{{ site.category_archive.path | relative_url }}#{{ category_slug }}" class="page__taxonomy-item" rel="tag">{{ category }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+      <a href="{% if category_url %}{{ category_url | relative_url }}{% else %}{{ site.category_archive.path | relative_url }}#{{ category_slug }}{% endif %}" class="page__taxonomy-item" rel="tag">{{ category }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
     {% endfor %}
   </span>
 </p>

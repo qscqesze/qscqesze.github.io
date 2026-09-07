@@ -4,7 +4,7 @@
     <nav class="home-category-sidebar__nav" aria-label="文章分类">
       {% for category in site.data.categories %}
         {% assign category_posts = site.categories[category.name] %}
-        <a class="home-category-sidebar__link" href="{{ site.category_archive.path | relative_url }}#{{ category.slug }}">
+        <a class="home-category-sidebar__link" href="{% if category.url %}{{ category.url | relative_url }}{% else %}{{ site.category_archive.path | relative_url }}#{{ category.slug }}{% endif %}">
           <span>{{ category.name }}</span>
           <span class="home-category-sidebar__count">{{ category_posts | size }}</span>
         </a>
