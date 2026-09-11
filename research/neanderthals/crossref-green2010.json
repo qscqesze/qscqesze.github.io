@@ -1,0 +1,1513 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        9
+      ]
+    ],
+    "date-time": "2026-09-09T21:14:16Z",
+    "timestamp": 1788988456924,
+    "version": "build-2803163510"
+  },
+  "reference-count": 87,
+  "publisher": "American Association for the Advancement of Science (AAAS)",
+  "issue": "5979",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Science"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2010,
+        5,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.1126/science.1188021",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2010,
+        5,
+        6
+      ]
+    ],
+    "date-time": "2010-05-06T14:53:23Z",
+    "timestamp": 1273157603000
+  },
+  "page": "710-722",
+  "source": "Crossref",
+  "is-referenced-by-count": 3712,
+  "title": [
+    "A Draft Sequence of the Neandertal Genome"
+  ],
+  "prefix": "10.1126",
+  "volume": "328",
+  "author": [
+    {
+      "given": "Richard E.",
+      "family": "Green",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Johannes",
+      "family": "Krause",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Adrian W.",
+      "family": "Briggs",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Tomislav",
+      "family": "Maricic",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Udo",
+      "family": "Stenzel",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Martin",
+      "family": "Kircher",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Nick",
+      "family": "Patterson",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Heng",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Weiwei",
+      "family": "Zhai",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Integrative Biology, University of California, Berkeley, CA 94720, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Markus Hsi-Yang",
+      "family": "Fritz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "European Molecular Biology Laboratory–European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Nancy F.",
+      "family": "Hansen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Genome Technology Branch, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD 20892, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Eric Y.",
+      "family": "Durand",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Integrative Biology, University of California, Berkeley, CA 94720, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Anna-Sapfo",
+      "family": "Malaspinas",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Integrative Biology, University of California, Berkeley, CA 94720, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jeffrey D.",
+      "family": "Jensen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Program in Bioinformatics and Integrative Biology, University of Massachusetts Medical School, Worcester, MA 01655, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Tomas",
+      "family": "Marques-Bonet",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Howard Hughes Medical Institute, Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA."
+        },
+        {
+          "name": "Institute of Evolutionary Biology (UPF-CSIC), Dr. Aiguader 88, 08003 Barcelona, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Can",
+      "family": "Alkan",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Howard Hughes Medical Institute, Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Kay",
+      "family": "Prüfer",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Matthias",
+      "family": "Meyer",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hernán A.",
+      "family": "Burbano",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jeffrey M.",
+      "family": "Good",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        },
+        {
+          "name": "Division of Biological Sciences, University of Montana, Missoula, MT 59812, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Rigo",
+      "family": "Schultz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ayinuer",
+      "family": "Aximu-Petri",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Anne",
+      "family": "Butthof",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Barbara",
+      "family": "Höber",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Barbara",
+      "family": "Höffner",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Madlen",
+      "family": "Siegemund",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Antje",
+      "family": "Weihmann",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Chad",
+      "family": "Nusbaum",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Eric S.",
+      "family": "Lander",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Carsten",
+      "family": "Russ",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Nathaniel",
+      "family": "Novod",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jason",
+      "family": "Affourtit",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "454 Life Sciences, Branford, CT 06405, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Michael",
+      "family": "Egholm",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "454 Life Sciences, Branford, CT 06405, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Christine",
+      "family": "Verna",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Human Evolution, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Pavao",
+      "family": "Rudan",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Croatian Academy of Sciences and Arts, Zrinski trg 11, HR-10000 Zagreb, Croatia."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Dejana",
+      "family": "Brajkovic",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Croatian Academy of Sciences and Arts, Institute for Quaternary Paleontology and Geology, Ante Kovacica 5, HR-10000 Zagreb, Croatia."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Željko",
+      "family": "Kucan",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Croatian Academy of Sciences and Arts, Zrinski trg 11, HR-10000 Zagreb, Croatia."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ivan",
+      "family": "Gušic",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Croatian Academy of Sciences and Arts, Zrinski trg 11, HR-10000 Zagreb, Croatia."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Vladimir B.",
+      "family": "Doronichev",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "ANO Laboratory of Prehistory, St. Petersburg, Russia."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Liubov V.",
+      "family": "Golovanova",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "ANO Laboratory of Prehistory, St. Petersburg, Russia."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Carles",
+      "family": "Lalueza-Fox",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Evolutionary Biology (UPF-CSIC), Dr. Aiguader 88, 08003 Barcelona, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Marco",
+      "family": "de la Rasilla",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Área de Prehistoria Departamento de Historia Universidad de Oviedo, Oviedo, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Javier",
+      "family": "Fortea",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Área de Prehistoria Departamento de Historia Universidad de Oviedo, Oviedo, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Antonio",
+      "family": "Rosas",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Departamento de Paleobiología, Museo Nacional de Ciencias Naturales, CSIC, Madrid, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ralf W.",
+      "family": "Schmitz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Der Landschaftverband Rheinlund–Landesmuseum Bonn, Bachstrasse 5-9, D-53115 Bonn, Germany."
+        },
+        {
+          "name": "Abteilung für Vor- und Frühgeschichtliche Archäologie, Universität Bonn, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Philip L. F.",
+      "family": "Johnson",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Biology, Emory University, Atlanta, GA 30322, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Evan E.",
+      "family": "Eichler",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Howard Hughes Medical Institute, Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Daniel",
+      "family": "Falush",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Microbiology, University College Cork, Cork, Ireland."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ewan",
+      "family": "Birney",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "European Molecular Biology Laboratory–European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "James C.",
+      "family": "Mullikin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Genome Technology Branch, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD 20892, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Montgomery",
+      "family": "Slatkin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Integrative Biology, University of California, Berkeley, CA 94720, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Rasmus",
+      "family": "Nielsen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Integrative Biology, University of California, Berkeley, CA 94720, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Janet",
+      "family": "Kelso",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Michael",
+      "family": "Lachmann",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "David",
+      "family": "Reich",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+        },
+        {
+          "name": "Department of Genetics, Harvard Medical School, Boston, MA 02115, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Svante",
+      "family": "Pääbo",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "221",
+  "reference": [
+    {
+      "key": "e_1_3_2_2_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "J. L. Bischoff et al . High-Resolution U-Series Dates from the Sima de los Huesos Hominids Yields 600+/−66 kyrs: Implications for the Evolution of the Early Neanderthal Lineage (Elsevier Amsterdam PAYS-BAS 2007) vol. 34.",
+      "DOI": "10.1016/j.jas.2006.08.003"
+    },
+    {
+      "key": "e_1_3_2_3_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0904119106"
+    },
+    {
+      "key": "e_1_3_2_4_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1999.0367"
+    },
+    {
+      "key": "e_1_3_2_5_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature05195"
+    },
+    {
+      "key": "e_1_3_2_6_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature06193"
+    },
+    {
+      "key": "e_1_3_2_7_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2005.04.006"
+    },
+    {
+      "key": "e_1_3_2_8_2",
+      "unstructured": "N. Mercier H. Valladas in Late Quaternary Chronology and Palaeoclimate of the Eastern Mediterranean Radiocarbon O. Bar-Yosef R. Kra Eds. (1994) pp. 13–20."
+    },
+    {
+      "key": "e_1_3_2_9_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.2035108100"
+    },
+    {
+      "key": "e_1_3_2_10_2",
+      "unstructured": "J. Zilhão E. Trinkaus in Trabalhos de Arqueologia (Instituto Português de Arqueologia Lisbon 2002) vol. 22."
+    },
+    {
+      "key": "e_1_3_2_11_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2009.02.003"
+    },
+    {
+      "key": "e_1_3_2_12_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "G. Bräuer H. Broeg C. Stringer in Neanderthals Revisited: New Approaches and Perspectives . (2006) pp. 269–279.",
+      "DOI": "10.1007/978-1-4020-5121-0_15"
+    },
+    {
+      "key": "e_1_3_2_13_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0606966103"
+    },
+    {
+      "key": "e_1_3_2_14_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.gde.2006.09.006"
+    },
+    {
+      "key": "e_1_3_2_15_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pbio.0020421"
+    },
+    {
+      "key": "e_1_3_2_16_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1174462"
+    },
+    {
+      "key": "e_1_3_2_17_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0092-8674(00)80310-4"
+    },
+    {
+      "key": "e_1_3_2_18_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cub.2006.05.019"
+    },
+    {
+      "key": "e_1_3_2_19_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/35006625"
+    },
+    {
+      "key": "e_1_3_2_20_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pbio.0020057"
+    },
+    {
+      "key": "e_1_3_2_21_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0962-8924(99)01688-8"
+    },
+    {
+      "key": "e_1_3_2_22_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.86.6.1939"
+    },
+    {
+      "key": "e_1_3_2_23_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev.genet.37.110801.143214"
+    },
+    {
+      "key": "e_1_3_2_24_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0704665104"
+    },
+    {
+      "key": "e_1_3_2_25_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/nar/gkm588"
+    },
+    {
+      "key": "e_1_3_2_26_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/nar/29.23.4793"
+    },
+    {
+      "key": "e_1_3_2_27_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/nar/24.7.1304"
+    },
+    {
+      "key": "e_1_3_2_28_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.2999980"
+    },
+    {
+      "key": "e_1_3_2_29_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1147417"
+    },
+    {
+      "key": "e_1_3_2_30_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cub.2007.10.008"
+    },
+    {
+      "key": "e_1_3_2_31_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/1471-2148-8-342"
+    },
+    {
+      "key": "e_1_3_2_32_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1098/rsbl.2009.0532"
+    },
+    {
+      "key": "e_1_3_2_33_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature04432"
+    },
+    {
+      "key": "e_1_3_2_34_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature07517"
+    },
+    {
+      "key": "e_1_3_2_35_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature03959"
+    },
+    {
+      "key": "e_1_3_2_36_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1123360"
+    },
+    {
+      "key": "e_1_3_2_37_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature08835"
+    },
+    {
+      "key": "e_1_3_2_38_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0605327103"
+    },
+    {
+      "key": "e_1_3_2_39_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature07446"
+    },
+    {
+      "key": "e_1_3_2_40_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/gb-2010-11-5-r47"
+    },
+    {
+      "key": "e_1_3_2_41_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature05336"
+    },
+    {
+      "key": "e_1_3_2_42_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/emboj.2009.222"
+    },
+    {
+      "key": "e_1_3_2_43_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1131412"
+    },
+    {
+      "key": "e_1_3_2_44_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/oxfordjournals.molbev.a026058"
+    },
+    {
+      "key": "e_1_3_2_45_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pgen.0030175"
+    },
+    {
+      "key": "e_1_3_2_46_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cell.2008.06.021"
+    },
+    {
+      "key": "e_1_3_2_47_2",
+      "first-page": "1573",
+      "article-title": "Primer extension capture: Targeted sequence retrieval from heavily degraded DNA sources",
+      "volume": "2009",
+      "author": "Briggs A. W.",
+      "year": "2009",
+      "unstructured": "Briggs A. W., et al.., Primer extension capture: Targeted sequence retrieval from heavily degraded DNA sources. J. Vis. Exp. 2009, 1573 (2009).",
+      "journal-title": "J. Vis. Exp."
+    },
+    {
+      "key": "e_1_3_2_48_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2144/000113042"
+    },
+    {
+      "key": "e_1_3_2_49_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/gb-2009-10-8-r83"
+    },
+    {
+      "key": "e_1_3_2_50_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/nar/gkp1163"
+    },
+    {
+      "key": "e_1_3_2_51_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/nar/gkn425"
+    },
+    {
+      "key": "e_1_3_2_52_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1101/gr.076521.108"
+    },
+    {
+      "key": "e_1_3_2_53_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/302218"
+    },
+    {
+      "key": "e_1_3_2_54_2",
+      "author": "de Torres T.",
+      "unstructured": "de Torres T., et al.., Archaeometry; Published online 29 October 2009; 10.1111/j.1475-4754.2009.00491.x.",
+      "journal-title": "Archaeometry"
+    },
+    {
+      "key": "e_1_3_2_55_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.192464099"
+    },
+    {
+      "key": "e_1_3_2_56_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.apradiso.2004.08.008"
+    },
+    {
+      "key": "e_1_3_2_57_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature04789"
+    },
+    {
+      "key": "e_1_3_2_58_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1188046"
+    },
+    {
+      "key": "e_1_3_2_59_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1074/mcp.M400177-MCP200"
+    },
+    {
+      "key": "e_1_3_2_60_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/bbrc.1997.6707"
+    },
+    {
+      "key": "e_1_3_2_61_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1101/gad.1792809"
+    },
+    {
+      "key": "e_1_3_2_62_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.0022-202X.2005.23675.x"
+    },
+    {
+      "key": "e_1_3_2_63_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/ng.437"
+    },
+    {
+      "key": "e_1_3_2_64_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/1755-8794-2-72"
+    },
+    {
+      "key": "e_1_3_2_65_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-7091-6721-2_11"
+    },
+    {
+      "key": "e_1_3_2_66_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0924-977X(95)00032-K"
+    },
+    {
+      "key": "e_1_3_2_67_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/gb-2008-9-8-r124"
+    },
+    {
+      "key": "e_1_3_2_68_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1172/JCI29031"
+    },
+    {
+      "key": "e_1_3_2_69_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/geno.2002.6810"
+    },
+    {
+      "key": "e_1_3_2_70_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0140525X05000129"
+    },
+    {
+      "key": "e_1_3_2_71_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0092-8674(00)80260-3"
+    },
+    {
+      "key": "e_1_3_2_72_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2008.06.001"
+    },
+    {
+      "key": "e_1_3_2_73_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0709079105"
+    },
+    {
+      "key": "e_1_3_2_74_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ajhg.2008.04.002"
+    },
+    {
+      "key": "e_1_3_2_75_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/molbev/msp025"
+    },
+    {
+      "key": "e_1_3_2_76_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/sj.ejhg.5201408"
+    },
+    {
+      "key": "e_1_3_2_77_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pgen.1000360"
+    },
+    {
+      "key": "e_1_3_2_78_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pbio.0050254"
+    },
+    {
+      "key": "e_1_3_2_79_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1105436"
+    },
+    {
+      "key": "e_1_3_2_80_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1042/BST0330582"
+    },
+    {
+      "key": "e_1_3_2_81_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/ng1508"
+    },
+    {
+      "key": "e_1_3_2_82_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/molbev/msp096"
+    },
+    {
+      "key": "e_1_3_2_83_2",
+      "unstructured": "O. Bar-Yosef in Neandertals and Modern Humans in Western Asia T. Akazawa K. Aoki O. Bar-Yosef Eds. (Plenum New York 1999) pp. 39–56."
+    },
+    {
+      "key": "e_1_3_2_84_2",
+      "first-page": "1908",
+      "article-title": "The hidden side of invasions: massive introgression by local genes",
+      "volume": "62",
+      "author": "Currat M.",
+      "year": "2008",
+      "unstructured": "Currat M., Ruedi M., Petit R. J., Excoffier L., The hidden side of invasions: massive introgression by local genes. Evolution 62, 1908 (2008).18452573",
+      "journal-title": "Evolution"
+    },
+    {
+      "key": "e_1_3_2_85_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pone.0008880"
+    },
+    {
+      "key": "e_1_3_2_86_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cub.2009.11.068"
+    },
+    {
+      "key": "e_1_3_2_87_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0808160106"
+    },
+    {
+      "key": "e_1_3_2_88_2",
+      "first-page": "150",
+      "article-title": "A new method for estimating synonymous and nonsynonymous rates of nucleotide substitution considering the relative likelihood of nucleotide and codon changes",
+      "volume": "2",
+      "author": "Li W. H.",
+      "year": "1985",
+      "unstructured": "Li W. H., Wu C. I., Luo C. C., A new method for estimating synonymous and nonsynonymous rates of nucleotide substitution considering the relative likelihood of nucleotide and codon changes. Mol. Biol. Evol. 2, 150 (1985).3916709",
+      "journal-title": "Mol. Biol. Evol."
+    }
+  ],
+  "container-title": [
+    "Science"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://syndication.highwire.org/content/doi/10.1126/science.1188021",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        11,
+        1
+      ]
+    ],
+    "date-time": "2021-11-01T03:23:54Z",
+    "timestamp": 1635737034000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.science.org/doi/10.1126/science.1188021"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2010,
+        5,
+        7
+      ]
+    ]
+  },
+  "references-count": 87,
+  "journal-issue": {
+    "issue": "5979",
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          5,
+          7
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1126/science.1188021"
+  ],
+  "URL": "https://doi.org/10.1126/science.1188021",
+  "relation": {
+    "has-review": [
+      {
+        "id-type": "doi",
+        "id": "10.3410/f.3303962.4295054",
+        "asserted-by": "object"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.3410/f.3303962.2991061",
+        "asserted-by": "object"
+      }
+    ]
+  },
+  "ISSN": [
+    "0036-8075",
+    "1095-9203"
+  ],
+  "issn-type": [
+    {
+      "value": "0036-8075",
+      "type": "print"
+    },
+    {
+      "value": "1095-9203",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2010,
+        5,
+        7
+      ]
+    ]
+  }
+}

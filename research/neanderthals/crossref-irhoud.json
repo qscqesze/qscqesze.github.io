@@ -1,0 +1,1403 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        10
+      ]
+    ],
+    "date-time": "2026-09-10T17:38:45Z",
+    "timestamp": 1789061925201,
+    "version": "build-2803163510"
+  },
+  "reference-count": 107,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "7657",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2017,
+            6,
+            8
+          ]
+        ],
+        "date-time": "2017-06-08T00:00:00Z",
+        "timestamp": 1496880000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2017,
+            6,
+            8
+          ]
+        ],
+        "date-time": "2017-06-08T00:00:00Z",
+        "timestamp": 1496880000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nature"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2017,
+        6,
+        8
+      ]
+    ]
+  },
+  "DOI": "10.1038/nature22336",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2017,
+        6,
+        6
+      ]
+    ],
+    "date-time": "2017-06-06T12:38:49Z",
+    "timestamp": 1496752729000
+  },
+  "page": "289-292",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 924,
+  "title": [
+    "New fossils from Jebel Irhoud, Morocco and the pan-African origin of Homo sapiens"
+  ],
+  "prefix": "10.1038",
+  "volume": "546",
+  "author": [
+    {
+      "given": "Jean-Jacques",
+      "family": "Hublin",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Abdelouahed",
+      "family": "Ben-Ncer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Shara E.",
+      "family": "Bailey",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sarah E.",
+      "family": "Freidline",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Simon",
+      "family": "Neubauer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Matthew M.",
+      "family": "Skinner",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Inga",
+      "family": "Bergmann",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Adeline",
+      "family": "Le Cabec",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Stefano",
+      "family": "Benazzi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Katerina",
+      "family": "Harvati",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Philipp",
+      "family": "Gunz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2017,
+        6,
+        8
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "BFnature22336_CR1",
+      "doi-asserted-by": "crossref",
+      "first-page": "563",
+      "DOI": "10.1098/rstb.2001.1057",
+      "volume": "357",
+      "author": "C Stringer",
+      "year": "2002",
+      "unstructured": "Stringer, C. Modern human origins: progress and prospects. Phil. Trans. R. Soc. B 357, 563–579 (2002)",
+      "journal-title": "Phil. Trans. R. Soc. B"
+    },
+    {
+      "key": "BFnature22336_CR2",
+      "doi-asserted-by": "crossref",
+      "first-page": "22",
+      "DOI": "10.1002/evan.20157",
+      "volume": "17",
+      "author": "G Bräuer",
+      "year": "2008",
+      "unstructured": "Bräuer, G. The origin of modern anatomy: by speciation or intraspecific evolution? Evol. Anthropol. 17, 22–37 (2008)",
+      "journal-title": "Evol. Anthropol."
+    },
+    {
+      "key": "BFnature22336_CR3",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Richter, D. et al. The age of the Jebel Irhoud (Morocco) hominins and the origins of the Middle Stone Age. Nature http://dx.doi.org/10.1038/nature22335 (2017)",
+      "DOI": "10.1038/nature22335"
+    },
+    {
+      "key": "BFnature22336_CR4",
+      "first-page": "117",
+      "volume": "LIV",
+      "author": "E Ennouchi",
+      "year": "1968",
+      "unstructured": "Ennouchi, E. Le deuxième crâne de l’homme d’Irhoud. Annales de Paléontologie (Vértébrés) LIV, 117–128 (1968)",
+      "journal-title": "Annales de Paléontologie (Vértébrés)"
+    },
+    {
+      "key": "BFnature22336_CR5",
+      "first-page": "167",
+      "volume": "21",
+      "author": "J-J Hublin",
+      "year": "1981",
+      "unstructured": "Hublin, J.-J. & Tillier, A. M. in Aspects of Human Evolution Vol. 21 Symposia of the Society for the study of Human Biology, Volume XXI (ed. Stringer, C. B. ) 167–186 (Taylor & Francis, 1981)",
+      "journal-title": "Aspects of Human Evolution"
+    },
+    {
+      "key": "BFnature22336_CR6",
+      "doi-asserted-by": "crossref",
+      "first-page": "115",
+      "DOI": "10.3406/bmsap.1987.1625",
+      "volume": "4",
+      "author": "J-J Hublin",
+      "year": "1987",
+      "unstructured": "Hublin, J.-J., Tillier, A. M. & Tixier, J. L’humerus d’enfant moustérien (Homo 4) du Jebel Irhoud (Maroc) dans son contexte archéologique. Bull. Mem. Soc. Anthropol. Paris 4, 115–141 (1987)",
+      "journal-title": "Bull. Mem. Soc. Anthropol. Paris"
+    },
+    {
+      "key": "BFnature22336_CR7",
+      "first-page": "149",
+      "volume": "1",
+      "author": "J Tixier",
+      "year": "2001",
+      "unstructured": "Tixier, J ., Brugal, J.-P ., Tillier, A.-M ., Bruzeket, J . & Hublin, J.-J. in Actes des 1ères Journées Nationales d’Archéologie et du Patrimoine. Préhistoire Vol. 1 149–153 (Société Marocaine d’Archéologie et du Patrimoine, 2001)",
+      "journal-title": "Actes des 1ères Journées Nationales d’Archéologie et du Patrimoine. Préhistoire Vol."
+    },
+    {
+      "key": "BFnature22336_CR8",
+      "first-page": "847",
+      "volume": "316",
+      "author": "F Amani",
+      "year": "1993",
+      "unstructured": "Amani, F. & Geraads, D. Le gisement moustérien du Djebel Irhoud, Maroc: précisions sur la faune et la biochronologie, et description d’un nouveau reste humain. Comptes Rendus à l'Académie des Sciences de Paris 316, 847–852 (1993)",
+      "journal-title": "Comptes Rendus à l'Académie des Sciences de Paris"
+    },
+    {
+      "key": "BFnature22336_CR9",
+      "first-page": "279",
+      "volume": "66",
+      "author": "E Ennouchi",
+      "year": "1962",
+      "unstructured": "Ennouchi, E. Un Néanderthalien: l’homme du Jebel Irhoud (Maroc). Anthropologie 66, 279–299 (1962)",
+      "journal-title": "Anthropologie"
+    },
+    {
+      "key": "BFnature22336_CR10",
+      "unstructured": "Stringer, C. B in Recent advances in Primatology. (eds Chivers, D. J . & Joysey, K. A. ) 395–418 (Academic, 1978)"
+    },
+    {
+      "key": "BFnature22336_CR11",
+      "doi-asserted-by": "crossref",
+      "first-page": "185",
+      "DOI": "10.1098/rstb.1992.0096",
+      "volume": "337",
+      "author": "J-J Hublin",
+      "year": "1992",
+      "unstructured": "Hublin, J.-J. Recent human evolution in northwestern Africa. Phil. Trans. R. Soc. B 337, 185–191 (1992)",
+      "journal-title": "Phil. Trans. R. Soc. B"
+    },
+    {
+      "key": "BFnature22336_CR12",
+      "doi-asserted-by": "crossref",
+      "first-page": "552",
+      "DOI": "10.1016/j.yqres.2013.08.003",
+      "volume": "80",
+      "author": "D Geraads",
+      "year": "2013",
+      "unstructured": "Geraads, D. et al. The rodents from the late middle Pleistocene hominid-bearing site of J’bel Irhoud, Morocco, and their chronological and paleoenvironmental implications. Quat. Res. 80, 552–561 (2013)",
+      "journal-title": "Quat. Res."
+    },
+    {
+      "key": "BFnature22336_CR13",
+      "doi-asserted-by": "crossref",
+      "first-page": "6128",
+      "DOI": "10.1073/pnas.0700747104",
+      "volume": "104",
+      "author": "TM Smith",
+      "year": "2007",
+      "unstructured": "Smith, T. M. et al. Earliest evidence of modern human life history in North African early Homo sapiens. Proc. Natl Acad. Sci. USA 104, 6128–6133 (2007)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature22336_CR14",
+      "doi-asserted-by": "crossref",
+      "first-page": "757",
+      "DOI": "10.1093/molbev/msl209",
+      "volume": "24",
+      "author": "MK Gonder",
+      "year": "2007",
+      "unstructured": "Gonder, M. K., Mortensen, H. M., Reed, F. A., de Sousa, A. & Tishkoff, S. A. Whole-mtDNA genome sequence analysis of ancient African lineages. Mol. Biol. Evol. 24, 757–768 (2007)",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "BFnature22336_CR15",
+      "doi-asserted-by": "crossref",
+      "first-page": "733",
+      "DOI": "10.1038/nature03258",
+      "volume": "433",
+      "author": "I McDougall",
+      "year": "2005",
+      "unstructured": "McDougall, I., Brown, F. H. & Fleagle, J. G. Stratigraphic placement and age of modern humans from Kibish, Ethiopia. Nature 433, 733–736 (2005)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature22336_CR16",
+      "doi-asserted-by": "crossref",
+      "first-page": "742",
+      "DOI": "10.1038/nature01669",
+      "volume": "423",
+      "author": "TD White",
+      "year": "2003",
+      "unstructured": "White, T. D. et al. Pleistocene Homo sapiens from Middle Awash, Ethiopia. Nature 423, 742–747 (2003)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature22336_CR17",
+      "unstructured": "Smith, F. H. in Continuity or Replacement, Controversies in Homo sapiens evolution (eds Bräuer, G . & Smith, F. H. ) 145–156 (A. A. Balkema, Zagreb, 1992)"
+    },
+    {
+      "key": "BFnature22336_CR18",
+      "doi-asserted-by": "crossref",
+      "first-page": "31",
+      "DOI": "10.1537/ase.120927",
+      "volume": "121",
+      "author": "E Bruner",
+      "year": "2013",
+      "unstructured": "Bruner, E. & Pearson, O. Neurocranial evolution in modern humans: the case of Jebel Irhoud 1. Anthropol. Sci. 121, 31–41 (2013)",
+      "journal-title": "Anthropol. Sci."
+    },
+    {
+      "key": "BFnature22336_CR19",
+      "doi-asserted-by": "crossref",
+      "first-page": "149",
+      "DOI": "10.1537/ase.140827",
+      "volume": "122",
+      "author": "JM Bermúdez de Castro",
+      "year": "2014",
+      "unstructured": "Bermúdez de Castro, J. M. & Martinón-Torres, M. Evolutionary interpretation of the modern human-like facial morphology of the Atapuerca Gran Dolina-TD6 hominins. Anthropol. Sci. 122, 149–155 (2014)",
+      "journal-title": "Anthropol. Sci."
+    },
+    {
+      "key": "BFnature22336_CR20",
+      "doi-asserted-by": "crossref",
+      "first-page": "367",
+      "DOI": "10.1006/jhev.1999.0339",
+      "volume": "38",
+      "author": "JH Schwartz",
+      "year": "2000",
+      "unstructured": "Schwartz, J. H. & Tattersall, I. The human chin revisited: what is it and who has it? J. Hum. Evol. 38, 367–409 (2000)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR21",
+      "doi-asserted-by": "crossref",
+      "first-page": "369",
+      "DOI": "10.1016/S0047-2484(78)80087-6",
+      "volume": "7",
+      "author": "E Trinkaus",
+      "year": "1978",
+      "unstructured": "Trinkaus, E. Dental remains from the Shanidar adult Neanderthals. J. Hum. Evol. 7, 369–382 (1978)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR22",
+      "doi-asserted-by": "crossref",
+      "first-page": "300",
+      "DOI": "10.1016/j.jhevol.2011.11.013",
+      "volume": "62",
+      "author": "P Gunz",
+      "year": "2012",
+      "unstructured": "Gunz, P. et al. A uniquely modern human pattern of endocranial development. Insights from a new cranial reconstruction of the Neandertal newborn from Mezmaiskaya. J. Hum. Evol. 62, 300–313 (2012)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Klein, R. G. The Human Career: Human Biological and Cultural Origins 3rd edn (Chicago Univ. Press, 2009)",
+      "DOI": "10.7208/chicago/9780226027524.001.0001"
+    },
+    {
+      "key": "BFnature22336_CR24",
+      "doi-asserted-by": "crossref",
+      "first-page": "500",
+      "DOI": "10.1038/382500a0",
+      "volume": "382",
+      "author": "R Grün",
+      "year": "1996",
+      "unstructured": "Grün, R. et al. Direct dating of Florisbad hominid. Nature 382, 500–501 (1996)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature22336_CR25",
+      "unstructured": "Stringer, C. The Origin of Our Species. (Allen Lane, Penguin, 2011)"
+    },
+    {
+      "key": "BFnature22336_CR26",
+      "doi-asserted-by": "crossref",
+      "first-page": "e24024",
+      "DOI": "10.1371/journal.pone.0024024",
+      "volume": "6",
+      "author": "K Harvati",
+      "year": "2011",
+      "unstructured": "Harvati, K . et al. The later Stone Age calvaria from Iwo Eleru, Nigeria: morphology and chronology. PLoS ONE 6, e24024 (2011)",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "BFnature22336_CR27",
+      "doi-asserted-by": "crossref",
+      "first-page": "6094",
+      "DOI": "10.1073/pnas.0808160106",
+      "volume": "106",
+      "author": "P Gunz",
+      "year": "2009",
+      "unstructured": "Gunz, P. et al. Early modern human diversity suggests subdivided population structure and a complex out-of-Africa scenario. Proc. Natl Acad. Sci. USA 106, 6094–6098 (2009)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature22336_CR28",
+      "doi-asserted-by": "crossref",
+      "first-page": "1358",
+      "DOI": "10.1126/science.1253958",
+      "volume": "344",
+      "author": "JL Arsuaga",
+      "year": "2014",
+      "unstructured": "Arsuaga, J. L. et al. Neandertal roots: cranial and chronological evidence from Sima de los Huesos. Science 344, 1358–1363 (2014)",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BFnature22336_CR29",
+      "doi-asserted-by": "crossref",
+      "first-page": "222",
+      "DOI": "10.1126/science.1224344",
+      "volume": "338",
+      "author": "M Meyer",
+      "year": "2012",
+      "unstructured": "Meyer, M. et al. A high-coverage genome sequence from an archaic Denisovan individual. Science 338, 222–226 (2012)",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BFnature22336_CR30",
+      "doi-asserted-by": "crossref",
+      "first-page": "121",
+      "DOI": "10.1016/j.jhevol.2012.04.003",
+      "volume": "63",
+      "author": "TD Weaver",
+      "year": "2012",
+      "unstructured": "Weaver, T. D. Did a discrete event 200,000–100,000 years ago produce modern humans? J. Hum. Evol. 63, 121–126 (2012)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR31",
+      "doi-asserted-by": "crossref",
+      "first-page": "20",
+      "DOI": "10.1186/1751-0473-8-20",
+      "volume": "8",
+      "author": "G Wollny",
+      "year": "2013",
+      "unstructured": "Wollny, G. et al. MIA - a free and open source software for gray scale medical image analysis. Source Code Biol. Med. 8, 20 (2013)",
+      "journal-title": "Source Code Biol. Med."
+    },
+    {
+      "key": "BFnature22336_CR32",
+      "doi-asserted-by": "crossref",
+      "first-page": "225",
+      "DOI": "10.1016/S1361-8415(97)85012-8",
+      "volume": "1",
+      "author": "FL Bookstein",
+      "year": "1997",
+      "unstructured": "Bookstein, F. L. Landmark methods for forms without landmarks: morphometrics of group differences in outline shape. Med. Image Anal. 1, 225–243 (1997)",
+      "journal-title": "Med. Image Anal."
+    },
+    {
+      "key": "BFnature22336_CR33",
+      "unstructured": "Gunz, P., Mitteroecker, P. & Bookstein, F. L. in Modern Morphometrics in Physical Anthropology. (ed. Slice, D.E. ) 73–98 (Kluwer Academic/Plenum Publishers, 2005)"
+    },
+    {
+      "key": "BFnature22336_CR34",
+      "first-page": "103",
+      "volume": "24",
+      "author": "P Gunz",
+      "year": "2013",
+      "unstructured": "Gunz, P. & Mitteroecker, P. Semilandmarks: a method for quantifying curves and surfaces. Hystrix 24, 103–109 (2013)",
+      "journal-title": "Hystrix"
+    },
+    {
+      "key": "BFnature22336_CR35",
+      "doi-asserted-by": "crossref",
+      "first-page": "431",
+      "DOI": "10.1109/VISUAL.2005.1532826",
+      "volume": "55",
+      "author": "DF Wiley",
+      "year": "2005",
+      "unstructured": "Wiley, D. F . et al. Evolutionary Morphing. In 16th IEEE Visualization Conference (VIS 2005) 55, 431–438 (American Journal of Physical Anthropology, 2005)",
+      "journal-title": "16th IEEE Visualization Conference (VIS 2005)"
+    },
+    {
+      "key": "BFnature22336_CR36",
+      "doi-asserted-by": "crossref",
+      "first-page": "723",
+      "DOI": "10.1016/j.jhevol.2012.08.002",
+      "volume": "63",
+      "author": "SE Freidline",
+      "year": "2012",
+      "unstructured": "Freidline, S. E., Gunz, P., Harvati, K. & Hublin, J.-J. Middle Pleistocene human facial morphology in an evolutionary and developmental context. J. Hum. Evol. 63, 723–740 (2012)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR37",
+      "doi-asserted-by": "crossref",
+      "first-page": "240",
+      "DOI": "10.1111/j.1469-7580.2009.01106.x",
+      "volume": "215",
+      "author": "S Neubauer",
+      "year": "2009",
+      "unstructured": "Neubauer, S., Gunz, P. & Hublin, J.-J. The pattern of endocranial ontogenetic shape changes in humans. J. Anat. 215, 240–255 (2009)",
+      "journal-title": "J. Anat."
+    },
+    {
+      "key": "BFnature22336_CR38",
+      "doi-asserted-by": "crossref",
+      "first-page": "732",
+      "DOI": "10.1016/j.jhevol.2007.09.009",
+      "volume": "53",
+      "author": "K Harvati",
+      "year": "2007",
+      "unstructured": "Harvati, K., Gunz, P. & Grigorescu, D. Cioclovina (Romania): affinities of an early modern European. J. Hum. Evol. 53, 732–746 (2007)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR39",
+      "doi-asserted-by": "crossref",
+      "first-page": "525",
+      "DOI": "10.1038/nature10617",
+      "volume": "479",
+      "author": "S Benazzi",
+      "year": "2011",
+      "unstructured": "Benazzi, S. et al. Early dispersal of modern humans in Europe and implications for Neanderthal behaviour. Nature 479, 525–528 (2011)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature22336_CR40",
+      "doi-asserted-by": "crossref",
+      "first-page": "104",
+      "DOI": "10.1002/ajpa.22477",
+      "volume": "154",
+      "author": "SE Bailey",
+      "year": "2014",
+      "unstructured": "Bailey, S. E., Benazzi, S. & Hublin, J.-J. Allometry, merism, and tooth shape of the upper deciduous M2 and permanent M1. Am. J. Phys. Anthropol. 154, 104–114 (2014)",
+      "journal-title": "Am. J. Phys. Anthropol."
+    },
+    {
+      "key": "BFnature22336_CR41",
+      "doi-asserted-by": "crossref",
+      "first-page": "537",
+      "DOI": "10.1002/ajpa.22155",
+      "volume": "149",
+      "author": "S Benazzi",
+      "year": "2012",
+      "unstructured": "Benazzi, S. et al. Cervical and crown outline analysis of worn Neanderthal and modern human lower second deciduous molars. Am. J. Phys. Anthropol. 149, 537–546 (2012)",
+      "journal-title": "Am. J. Phys. Anthropol."
+    },
+    {
+      "key": "BFnature22336_CR42",
+      "doi-asserted-by": "crossref",
+      "first-page": "979",
+      "DOI": "10.1016/j.jhevol.2008.08.013",
+      "volume": "55",
+      "author": "MM Skinner",
+      "year": "2008",
+      "unstructured": "Skinner, M. M., Gunz, P., Wood, B. A. & Hublin, J.-J. Enamel–dentine junction (EDJ) morphology distinguishes the lower molars of Australopithecus africanus and Paranthropus robustus. J. Hum. Evol. 55, 979–988 (2008)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR43",
+      "doi-asserted-by": "crossref",
+      "first-page": "234",
+      "DOI": "10.1002/ajpa.21057",
+      "volume": "140",
+      "author": "MM Skinner",
+      "year": "2009",
+      "unstructured": "Skinner, M. M., Gunz, P., Wood, B. A., Boesch, C. & Hublin, J.-J. Discrimination of extant Pan species and subspecies using the enamel–dentine junction morphology of lower molars. Am. J. Phys. Anthropol. 140, 234–243 (2009)",
+      "journal-title": "Am. J. Phys. Anthropol."
+    },
+    {
+      "key": "BFnature22336_CR44",
+      "doi-asserted-by": "crossref",
+      "first-page": "83",
+      "DOI": "10.1038/nature14224",
+      "volume": "519",
+      "author": "F Spoor",
+      "year": "2015",
+      "unstructured": "Spoor, F. et al. Reconstructed Homo habilis type OH 7 suggests deep-rooted species diversity in early Homo. Nature 519, 83–86 (2015)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature22336_CR45",
+      "unstructured": "Beucher, S . & Lantuéjoul, C. in International Workshop on Image Processing: Real-Time Edge and Motion Detection 2.1–2.12 (Rennes, France, 1979)"
+    },
+    {
+      "key": "BFnature22336_CR46",
+      "doi-asserted-by": "crossref",
+      "first-page": "169",
+      "DOI": "10.1016/j.jhevol.2012.08.011",
+      "volume": "64",
+      "author": "A Le Cabec",
+      "year": "2013",
+      "unstructured": "Le Cabec, A., Gunz, P., Kupczik, K., Braga, J. & Hublin, J.-J. Anterior tooth root morphology and size in Neanderthals: taxonomic and functional implications. J. Hum. Evol. 64, 169–193 (2013)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR47",
+      "doi-asserted-by": "crossref",
+      "first-page": "235",
+      "DOI": "10.1007/s11692-009-9055-x",
+      "volume": "36",
+      "author": "P Mitteroecker",
+      "year": "2009",
+      "unstructured": "Mitteroecker, P. & Gunz, P. Advances in geometric morphometrics. Evol. Biol. 36, 235–247 (2009)",
+      "journal-title": "Evol. Biol."
+    },
+    {
+      "key": "BFnature22336_CR48",
+      "doi-asserted-by": "crossref",
+      "first-page": "48",
+      "DOI": "10.1016/j.jhevol.2009.04.004",
+      "volume": "57",
+      "author": "P Gunz",
+      "year": "2009",
+      "unstructured": "Gunz, P., Mitteroecker, P., Neubauer, S., Weber, G. W. & Bookstein, F. L. Principles for the virtual reconstruction of hominin crania. J. Hum. Evol. 57, 48–62 (2009)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR49",
+      "doi-asserted-by": "crossref",
+      "first-page": "40",
+      "DOI": "10.2307/2992207",
+      "volume": "39",
+      "author": "FJ Rohlf",
+      "year": "1990",
+      "unstructured": "Rohlf, F. J. & Slice, D. Extensions of the procrustes method for the optimal superimposition of landmarks. Syst. Zool. 39, 40–59 (1990)",
+      "journal-title": "Syst. Zool."
+    },
+    {
+      "key": "BFnature22336_CR50",
+      "doi-asserted-by": "crossref",
+      "first-page": "100",
+      "DOI": "10.1007/s11692-011-9109-8",
+      "volume": "38",
+      "author": "P Mitteroecker",
+      "year": "2011",
+      "unstructured": "Mitteroecker, P. & Bookstein, F. Linear discrimination, ordination, and the visualization of selection gradients in modern morphometrics. Evol. Biol. 38, 100–114 (2011)",
+      "journal-title": "Evol. Biol."
+    },
+    {
+      "key": "BFnature22336_CR51",
+      "unstructured": "R Development Core Team. R: a language and environment for statistical computing http://www.r-project.org (R Foundation for Statistical Computing, Vienna, Austria, 2012)"
+    },
+    {
+      "key": "BFnature22336_CR52",
+      "doi-asserted-by": "crossref",
+      "first-page": "467",
+      "DOI": "10.1002/ajpa.1330140321",
+      "volume": "14",
+      "author": "C Arambourg",
+      "year": "1956",
+      "unstructured": "Arambourg, C. & Biberson, P. The fossil human remains from the Paleolithic site of Sidi Abderrahman (Morocco). Am. J. Phys. Anthropol. 14, 467–489 (1956)",
+      "journal-title": "Am. J. Phys. Anthropol."
+    },
+    {
+      "key": "BFnature22336_CR53",
+      "first-page": "81",
+      "volume": "79",
+      "author": "F Sausse",
+      "year": "1975",
+      "unstructured": "Sausse, F. La mandibule atlanthropienne de la carrière Thomas I (Casablanca). Anthropologie 79, 81–112 (1975)",
+      "journal-title": "Anthropologie"
+    },
+    {
+      "key": "BFnature22336_CR54",
+      "doi-asserted-by": "crossref",
+      "first-page": "131",
+      "DOI": "10.1016/0047-2484(91)90054-Y",
+      "volume": "20",
+      "author": "GP Rightmire",
+      "year": "1991",
+      "unstructured": "Rightmire, G. P. Comparative studies of Late Pleistocene human remains from Klasies River Mouth, South Africa. J. Hum. Evol. 20, 131–156 (1991)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR55",
+      "unstructured": "Stewart, T. D. in Annual Report of the Smithsonian Institution 521–533 (US Government Printing Office, Washington, 1962)"
+    },
+    {
+      "key": "BFnature22336_CR56",
+      "first-page": "97",
+      "volume": "2",
+      "author": "A-M Tillier",
+      "year": "1991",
+      "unstructured": "Tillier, A.-M. in Le Squelette moustérien de Kébara 2 97–112 (Centre National de la Recherche Scientifique, Paris, 1991)",
+      "journal-title": "Le Squelette moustérien de Kébara"
+    },
+    {
+      "key": "BFnature22336_CR57",
+      "first-page": "121",
+      "volume": "121",
+      "author": "TD Stewart",
+      "year": "1977",
+      "unstructured": "Stewart, T. D. The Neanderthal skeletal remains from Shanidar Cave, Iraq: a summary of findings to date. Proc. Am. Phil. Soc. 121, 121–165 (1977)",
+      "journal-title": "Proc. Am. Phil. Soc."
+    },
+    {
+      "key": "BFnature22336_CR58",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Trinkaus, E. The Shanidar Neanderthals (Academic, 1983)",
+      "DOI": "10.1016/B978-0-12-700550-8.50011-1"
+    },
+    {
+      "key": "BFnature22336_CR59",
+      "unstructured": "Leroi-Gourhan, A. Étude des Restes Humains Fossiles provenant des Grottes d’Arcy-sur-Cure (Masson et Cie, 1958)"
+    },
+    {
+      "key": "BFnature22336_CR60",
+      "doi-asserted-by": "crossref",
+      "first-page": "56",
+      "DOI": "10.1016/j.jhevol.2005.03.004",
+      "volume": "49",
+      "author": "J Daura",
+      "year": "2005",
+      "unstructured": "Daura, J. et al. A Neandertal mandible from the Cova del Gegant (Sitges, Barcelona, Spain). J. Hum. Evol. 49, 56–70 (2005)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR61",
+      "first-page": "385",
+      "volume": "15",
+      "author": "P Topinard",
+      "year": "1886",
+      "unstructured": "Topinard, P. Les caracteres simiens de la machoire de la Naulette. Rev. Antropol. 15, 385–431 (1886)",
+      "journal-title": "Rev. Antropol."
+    },
+    {
+      "key": "BFnature22336_CR62",
+      "doi-asserted-by": "crossref",
+      "first-page": "294",
+      "DOI": "10.2307/3024921",
+      "volume": "5",
+      "author": "CC Blake",
+      "year": "1867",
+      "unstructured": "Blake, C. C. On a human jaw from the cave of La Naulette, near Dinant, Belgium. Anthropol. Rev. 5, 294–303 (1867)",
+      "journal-title": "Anthropol. Rev."
+    },
+    {
+      "key": "BFnature22336_CR63",
+      "unstructured": "Leguebe, A. & Toussaint, M. La Mandibule et les Cubitus de la Naulette: Morphologie et Morphométrie 15 (Editions du Centre National de la Recherche Scientifique, 1988)"
+    },
+    {
+      "key": "BFnature22336_CR64",
+      "first-page": "321",
+      "volume": "78",
+      "author": "JL Heim",
+      "year": "1974",
+      "unstructured": "Heim, J. L. Les hommes fossiles de La Ferrassie (Dordogne) et le problem de la definition des Neandertaliens classiques. III. Squelette céphalique. Anthropologie 78, 321–378 (1974)",
+      "journal-title": "Anthropologie"
+    },
+    {
+      "key": "BFnature22336_CR65",
+      "first-page": "375",
+      "volume": "1",
+      "author": "M-A de Lumley",
+      "year": "1972",
+      "unstructured": "de Lumley, M.-A. Les Néandertaliens de la grotte de l’Hortus. Etudes Quaternaires 1, 375–385 (1972)",
+      "journal-title": "Etudes Quaternaires"
+    },
+    {
+      "key": "BFnature22336_CR66",
+      "doi-asserted-by": "crossref",
+      "first-page": "e59781",
+      "DOI": "10.1371/journal.pone.0059781",
+      "volume": "8",
+      "author": "S Condemi",
+      "year": "2013",
+      "unstructured": "Condemi, S. et al. Possible interbreeding in late Italian Neanderthals? New data from the Mezzena jaw (Monti Lessini, Verona, Italy). PLoS ONE 8, e59781 (2013)",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "BFnature22336_CR67",
+      "first-page": "97",
+      "volume": "16",
+      "author": "C Corrain",
+      "year": "1968",
+      "unstructured": "Corrain, C. Resti scheletrici umani del ‘Riparo Mezzena’. Memorie del Museo civico di Storia naturale di Verona 16, 97–101 (1968)",
+      "journal-title": "Memorie del Museo civico di Storia naturale di Verona"
+    },
+    {
+      "key": "BFnature22336_CR68",
+      "doi-asserted-by": "crossref",
+      "first-page": "261",
+      "DOI": "10.1002/ajpa.21223",
+      "volume": "142",
+      "author": "MJ Walker",
+      "year": "2010",
+      "unstructured": "Walker, M. J., Lombardi, A. V., Zapata, J. & Trinkaus, E. Neandertal mandibles from the Sima de las Palomas del Cabezo Gordo, Murcia, southeastern Spain. Am. J. Phys. Anthropol. 142, 261–272 (2010)",
+      "journal-title": "Am. J. Phys. Anthropol."
+    },
+    {
+      "key": "BFnature22336_CR69",
+      "first-page": "3",
+      "volume": "13",
+      "author": "H Martin",
+      "year": "1926",
+      "unstructured": "Martin, H. Machoire humaine moustérienne trouvée dans la station de La Quina. L’homme préhistorique 13, 3–21 (1926)",
+      "journal-title": "L’homme préhistorique"
+    },
+    {
+      "key": "BFnature22336_CR70",
+      "doi-asserted-by": "crossref",
+      "first-page": "700",
+      "DOI": "10.3406/bspf.1912.6584",
+      "volume": "9",
+      "author": "H Martin",
+      "year": "1912",
+      "unstructured": "Martin, H. Position stratigraphique des Ossements humains recueillis dans le Moustérien de La Quina de 1908 à 1912. Bull. Soc. Préhistorique 9, 700–709 (1912)",
+      "journal-title": "Bull. Soc. Préhistorique"
+    },
+    {
+      "key": "BFnature22336_CR71",
+      "unstructured": "Martin, H. L’Homme fossile de la Quina. (Libraire Octave Doin, 1923)"
+    },
+    {
+      "key": "BFnature22336_CR72",
+      "first-page": "233",
+      "volume": "88",
+      "author": "I Pap",
+      "year": "1996",
+      "unstructured": "Pap, I., Tillier, A. M., Arensburg, B. & Chech, M. The Subalyuk Neanderthal remains (Hungary): a re-examination. Ann. Hist. Nat. Mus. Natl. Hung. 88, 233–270 (1996)",
+      "journal-title": "Ann. Hist. Nat. Mus. Natl. Hung."
+    },
+    {
+      "key": "BFnature22336_CR73",
+      "doi-asserted-by": "crossref",
+      "first-page": "125",
+      "DOI": "10.1007/BF02436200",
+      "volume": "14",
+      "author": "F Sanchez",
+      "year": "1999",
+      "unstructured": "Sanchez, F. Comparative biometrical study of the Mousterian mandible from Cueva del Boquete de Zafarraya (Málaga, Spain). Hum. Evol. 14, 125–138 (1999)",
+      "journal-title": "Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR74",
+      "unstructured": "Vlcˇek, E. Fossile Menschenfunde von Weimar-Ehringsdorf, Weimarer Monographien zur Ur- und Frühgeschichte Vol. 30 (Landesamt für Archäologische Denkmalpflege, 1993)"
+    },
+    {
+      "key": "BFnature22336_CR75",
+      "unstructured": "Condemi, S. Les néandertaliens de La Chaise: abri Bourgeois-Delaunay. Comité des travaux historiques et scientifiques (CTHS, 2001)"
+    },
+    {
+      "key": "BFnature22336_CR76",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bar-Yosef, O . & Vandermeersch, B . (eds) Le squelette moustérien de Kébara 2. (Editions du Centre National de la Recherche Scientifique, 1991)",
+      "DOI": "10.1016/0016-6995(92)80098-X"
+    },
+    {
+      "key": "BFnature22336_CR77",
+      "unstructured": "Arambourg, C . & Hoffstetter, R. Le gisement de Ternifine Vol. 1. (Masson, 1963)"
+    },
+    {
+      "key": "BFnature22336_CR78",
+      "first-page": "5",
+      "volume": "17",
+      "author": "EA Hooton",
+      "year": "1953",
+      "unstructured": "Hooton, E.A ., Hencken, H.O & Snow, Ch. E. The ancient Palestinian: Skhu¯ l V reconstruction. 17, 5–10 (American School of Prehistoric Research, 1953)",
+      "journal-title": "The ancient Palestinian: Skhu¯ l V reconstruction."
+    },
+    {
+      "key": "BFnature22336_CR79",
+      "first-page": "89",
+      "volume": "57",
+      "author": "WJ Sollas",
+      "year": "1927",
+      "unstructured": "Sollas, W. J. The Chancelade skull. J. R. Anthropol. Inst. 57, 89–122 (1927)",
+      "journal-title": "J. R. Anthropol. Inst."
+    },
+    {
+      "key": "BFnature22336_CR80",
+      "doi-asserted-by": "crossref",
+      "first-page": "103",
+      "DOI": "10.3406/bmsap.1927.9090",
+      "volume": "8",
+      "author": "H Martin",
+      "year": "1927",
+      "unstructured": "Martin, H. Caractères des squelettes humains quaternaires de la vallée du Roc (Charente). Bull. Mem. Soc. Anthropol. Paris 8, 103–129 (1927)",
+      "journal-title": "Bull. Mem. Soc. Anthropol. Paris"
+    },
+    {
+      "key": "BFnature22336_CR81",
+      "first-page": "143",
+      "volume": "86",
+      "author": "G Vercellotti",
+      "year": "2008",
+      "unstructured": "Vercellotti, G., Alciati, G., Richards, M. P. & Formicola, V. The Late Upper Paleolithic skeleton Villabruna 1 (Italy): a source of data on biology and behavior of a 14,000 year-old hunter. J. Anthropol. Sci. 86, 143–163 (2008)",
+      "journal-title": "J. Anthropol. Sci."
+    },
+    {
+      "key": "BFnature22336_CR82",
+      "first-page": "271",
+      "volume": "64",
+      "author": "V Formicola",
+      "year": "1986",
+      "unstructured": "Formicola, V. Una mandibola umana dal deposito dell’Epigravettiano finale delle Arene Candite (scavi 197O). Rev. Antropol. 64, 271–278 (1986)",
+      "journal-title": "Rev. Antropol."
+    },
+    {
+      "key": "BFnature22336_CR83",
+      "first-page": "25",
+      "volume": "11",
+      "author": "AM Odano",
+      "year": "1978",
+      "unstructured": "Odano, A. M. & Riquet, R. Le gisement préhistorique de Dar-es-Soltane 2. Champ de tir de El Menzeh à Rabat (Maroc). Note préliminaire. 2-Étude anthropologique des restes post-atériens. Bull. d’Archéologie Marocaine 11, 25–63 (1978)",
+      "journal-title": "Bull. d’Archéologie Marocaine"
+    },
+    {
+      "key": "BFnature22336_CR84",
+      "first-page": "851",
+      "volume": "290",
+      "author": "A Debénath",
+      "year": "1980",
+      "unstructured": "Debénath, A. Nouveaux restes humains atériens du Maroc. CR Acad. Sci. Paris 290, 851–852 (1980)",
+      "journal-title": "CR Acad. Sci. Paris"
+    },
+    {
+      "key": "BFnature22336_CR85",
+      "doi-asserted-by": "crossref",
+      "first-page": "103",
+      "DOI": "10.3406/paleo.1974.4176",
+      "volume": "2",
+      "author": "E Crognier",
+      "year": "1974",
+      "unstructured": "Crognier, E. & Dupouy-Madre, M. Les Natoufiens du Nahal Oren (Ouadi Fallah) Etude anthropologique. Paéorient 2, 103–121 (1974)",
+      "journal-title": "Paéorient"
+    },
+    {
+      "key": "BFnature22336_CR86",
+      "doi-asserted-by": "crossref",
+      "first-page": "27",
+      "DOI": "10.1127/zma/75/1984/27",
+      "volume": "75",
+      "author": "W Henke",
+      "year": "1984",
+      "unstructured": "Henke, W. Vergleichend-morphologische Kennzeichnung der Jungpaläolithiker von Oberkassel bei Bonn. Z. Morphol. Anthropol. 75, 27–44 (1984)",
+      "journal-title": "Z. Morphol. Anthropol."
+    },
+    {
+      "key": "BFnature22336_CR87",
+      "doi-asserted-by": "crossref",
+      "first-page": "215",
+      "DOI": "10.1002/ajpa.1330960302",
+      "volume": "96",
+      "author": "I Hershkovitz",
+      "year": "1995",
+      "unstructured": "Hershkovitz, I. et al. Ohalo II H2: a 19,000-year-old skeleton from a water-logged site at the Sea of Galilee, Israel. Am. J. Phys. Anthropol. 96, 215–234 (1995)",
+      "journal-title": "Am. J. Phys. Anthropol."
+    },
+    {
+      "key": "BFnature22336_CR88",
+      "doi-asserted-by": "crossref",
+      "first-page": "17196",
+      "DOI": "10.1073/pnas.0608443103",
+      "volume": "103",
+      "author": "A Soficaru",
+      "year": "2006",
+      "unstructured": "Soficaru, A., Dobos, A. & Trinkaus, E. Early modern humans from the Pestera Muierii, Baia de Fier, Romania. Proc. Natl Acad. Sci. USA 103, 17196–17201 (2006)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature22336_CR89",
+      "unstructured": "Crevecoeur, I. Etude anthropologique des restes humains de Nazlet Khater (Paléolithique Superieur, Egypte). PhD Thesis, Université Sciences et Technologies Bordeaux I (2006)"
+    },
+    {
+      "key": "BFnature22336_CR90",
+      "doi-asserted-by": "crossref",
+      "first-page": "287",
+      "DOI": "10.1016/S0047-2484(84)80014-7",
+      "volume": "13",
+      "author": "A Thoma",
+      "year": "1984",
+      "unstructured": "Thoma, A. Morphology and affinities of the Nazlet Khater man. J. Hum. Evol. 13, 287–296 (1984)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR91",
+      "first-page": "996",
+      "volume": "2",
+      "author": "JE Anderson",
+      "year": "1968",
+      "unstructured": "Anderson, J. E. In The Prehistory of Nubia Vol. 2 (ed. Wendorf, F. ) 996–1040 (Southern Methodist Univ. Press,1968)",
+      "journal-title": "The Prehistory of Nubia"
+    },
+    {
+      "key": "BFnature22336_CR92",
+      "first-page": "203",
+      "volume": "42",
+      "author": "I Crevecoeur",
+      "year": "2004",
+      "unstructured": "Crevecoeur, I. From the Nile to the Danube: a comparison of the Nazlet Khater 2 and Oase 1 early modern human mandibles. Anthropologie 42, 203–213 (2004)",
+      "journal-title": "Anthropologie"
+    },
+    {
+      "key": "BFnature22336_CR93",
+      "doi-asserted-by": "crossref",
+      "first-page": "11231",
+      "DOI": "10.1073/pnas.2035108100",
+      "volume": "100",
+      "author": "E Trinkaus",
+      "year": "2003",
+      "unstructured": "Trinkaus, E. et al. An early modern human from the Pes¸ tera cu Oase, Romania. Proc. Natl Acad. Sci. USA 100, 11231–11236 (2003)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature22336_CR94",
+      "unstructured": "Trinkaus, E. & Svoboda, J. (eds) Early Modern Human Evolution in Central Europe. The People of Dolní Veˇ stonice and Pavlov. The Dolni Vestonice Studies Vol. 12 (Oxford Univ. Press, 2006)"
+    },
+    {
+      "key": "BFnature22336_CR95",
+      "first-page": "1",
+      "volume": "5",
+      "author": "V Sládek",
+      "year": "2000",
+      "unstructured": "Sládek, V ., Trinkaus, E ., Hillson, S. W . & Holliday, T. W. The People of the Pavlovian. Skeletal Catalogue and Osteometrics of the Gravettian Fossil Hominids from Dolni Vestonice and Pavlov. The Dolni Vestonice Studies Vol. 5 1–244 (BRNO, 2000)",
+      "journal-title": "The Dolni Vestonice Studies"
+    },
+    {
+      "key": "BFnature22336_CR96",
+      "first-page": "452",
+      "volume": "53",
+      "author": "E Drozdová",
+      "year": "2001",
+      "unstructured": "Drozdová, E. The evaluation of a rediscovered fragment of human lower jaw, No 21 from Prˇedmostí u Prˇerova. Archeologické rozhledy 53, 452–460 (2001)",
+      "journal-title": "Archeologické rozhledy"
+    },
+    {
+      "key": "BFnature22336_CR97",
+      "first-page": "73",
+      "volume": "1",
+      "author": "O Dutour",
+      "year": "1992",
+      "unstructured": "Dutour, O. Palimpseste paléoanthropologique sur l’«Homme fossile d’Asselar» (Sahara). Travaux du Laboratoire d’Anthropologie et de Préhistoire des Pays de la Méditerranée Occidentale 1, 73–83 (1992)",
+      "journal-title": "Travaux du Laboratoire d’Anthropologie et de Préhistoire des Pays de la Méditerranée Occidentale"
+    },
+    {
+      "key": "BFnature22336_CR98",
+      "first-page": "9",
+      "volume": "22–23",
+      "author": "D Gambier",
+      "year": "1990",
+      "unstructured": "Gambier, D. Vestiges humains du gisement d’Isturitz (Pyrénées—Atlantiques): étude anthropologique et analyse des traces d’action humaine intentionelle. Antiquités nationales 22–23, 9–26 (1990)",
+      "journal-title": "Antiquités nationales"
+    },
+    {
+      "key": "BFnature22336_CR99",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.1002/ajpa.1330750108",
+      "volume": "75",
+      "author": "G Bräuer",
+      "year": "1988",
+      "unstructured": "Bräuer, G. & Mehlman, M. J. Hominid molars from a middle Stone Age level at the Mumba Rock Shelter, Tanzania. Am. J. Phys. Anthropol. 75, 69–76 (1988)",
+      "journal-title": "Am. J. Phys. Anthropol."
+    },
+    {
+      "key": "BFnature22336_CR100",
+      "unstructured": "Protsch, R. R. R. Di Archäologischen und Anthropologischen Ergebnisse der Kohl-Larsen-Expeditionen in Nord-Tanzania 1933–1939. (Institut für Urgeschichte der Universität Tübingen, 1981)"
+    },
+    {
+      "key": "BFnature22336_CR101",
+      "doi-asserted-by": "crossref",
+      "first-page": "117",
+      "DOI": "10.1002/ajpa.1330690113",
+      "volume": "69",
+      "author": "BA Wood",
+      "year": "1986",
+      "unstructured": "Wood, B. A. & Van Noten, F. L. Preliminary observations on the BK 8518 mandible from Baringo, Kenya. Am. J. Phys. Anthropol. 69, 117–127 (1986)",
+      "journal-title": "Am. J. Phys. Anthropol."
+    },
+    {
+      "key": "BFnature22336_CR102",
+      "doi-asserted-by": "crossref",
+      "first-page": "225",
+      "DOI": "10.1002/ajpa.1330530207",
+      "volume": "53",
+      "author": "GP Rightmire",
+      "year": "1980",
+      "unstructured": "Rightmire, G. P. Middle Pleistocene hominids from Olduvai Gorge, northern Tanzania. Am. J. Phys. Anthropol. 53, 225–241 (1980)",
+      "journal-title": "Am. J. Phys. Anthropol."
+    },
+    {
+      "key": "BFnature22336_CR103",
+      "doi-asserted-by": "crossref",
+      "first-page": "265",
+      "DOI": "10.1016/S0047-2484(86)80054-9",
+      "volume": "15",
+      "author": "JM Bermúdez de Castro",
+      "year": "1986",
+      "unstructured": "Bermúdez de Castro, J. M. Dental remains from Atapuerca (Spain) I. Metrics. J. Hum. Evol. 15, 265–287 (1986)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR104",
+      "first-page": "75",
+      "volume": "171",
+      "author": "FE Grine",
+      "year": "1994",
+      "unstructured": "Grine, F. E. & Franzen, J. L. Fossil hominid teeth from the Sangiran Dome (Java, Indonesia). Courier Forschungsinstitut Senckenberg 171, 75–103 (1994)",
+      "journal-title": "Courier Forschungsinstitut Senckenberg"
+    },
+    {
+      "key": "BFnature22336_CR105",
+      "doi-asserted-by": "crossref",
+      "first-page": "169",
+      "DOI": "10.1016/j.jhevol.2012.08.011",
+      "volume": "64",
+      "author": "A Le Cabec",
+      "year": "2013",
+      "unstructured": "Le Cabec, A., Gunz, P., Kupczik, K., Braga, J. & Hublin, J.-J. Anterior tooth root morphology and size in Neanderthals: taxonomic and functional implications. J. Hum. Evol. 64, 169–193 (2013)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature22336_CR106",
+      "unstructured": "Turner, C. G. II, Nichol, C. R. & Scott, G. R. Advances in Dental Anthropology (eds Kelley, M., & Larsen, C. ) 13–31 (Wiley Liss, 1991)"
+    },
+    {
+      "key": "BFnature22336_CR107",
+      "unstructured": "Bailey, S. E. Neandertal Dental Morphology: Implications for modern human origins. PhD thesis, Arizona State Univ. (2002)"
+    }
+  ],
+  "updated-by": [
+    {
+      "DOI": "10.1038/s41586-018-0166-3",
+      "type": "correction",
+      "label": "Correction",
+      "source": "publisher",
+      "updated": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            13
+          ]
+        ],
+        "date-time": "2018-06-13T00:00:00Z",
+        "timestamp": 1528848000000
+      }
+    }
+  ],
+  "container-title": [
+    "Nature"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://www.nature.com/articles/nature22336.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://www.nature.com/articles/nature22336",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://www.nature.com/doifinder/10.1038/nature22336",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    },
+    {
+      "URL": "http://www.nature.com/articles/nature22336.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        24
+      ]
+    ],
+    "date-time": "2024-06-24T12:07:43Z",
+    "timestamp": 1719230863000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/nature22336"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2017,
+        6,
+        8
+      ]
+    ]
+  },
+  "references-count": 107,
+  "journal-issue": {
+    "issue": "7657",
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          8
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "BFnature22336"
+  ],
+  "URL": "https://doi.org/10.1038/nature22336",
+  "relation": {},
+  "ISSN": [
+    "0028-0836",
+    "1476-4687"
+  ],
+  "issn-type": [
+    {
+      "value": "0028-0836",
+      "type": "print"
+    },
+    {
+      "value": "1476-4687",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2017,
+        6,
+        8
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "4 May 2016",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "6 April 2017",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "8 June 2017",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "13 June 2018",
+      "order": 4,
+      "name": "change_date",
+      "label": "Change Date",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "Correction",
+      "order": 5,
+      "name": "change_type",
+      "label": "Change Type",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "In the originally published version of this Letter, the PC1 and PC2 values in Fig. 3a were incorrect; in addition, the enumeration of Qafzeh samples should have been 'Qafzeh (9, 25)', and Extended Data Fig. 1c and Extended Data Table 2 have been altered accordingly. This has been corrected online.",
+      "order": 6,
+      "name": "change_details",
+      "label": "Change Details",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing financial interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ]
+}

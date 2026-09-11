@@ -1,0 +1,887 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        3
+      ]
+    ],
+    "date-time": "2026-08-03T01:03:29Z",
+    "timestamp": 1785719009899,
+    "version": "3.56.0"
+  },
+  "reference-count": 38,
+  "publisher": "National Academy of Sciences",
+  "issue": "6",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            1,
+            27
+          ]
+        ],
+        "date-time": "2020-01-27T00:00:00Z",
+        "timestamp": 1580083200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100002261",
+      "name": "Russian Foundation for Basic Research",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "18-09-00041"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "18-09-00041"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100002261",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "name": "Russian Science Foundation-Deutsche Forschungsgemeinschaft Cooperation",
+      "award": [
+        "19-48-04107 and UT 41/8-1"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "19-48-04107 and UT 41/8-1"
+          ]
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100002261",
+      "name": "Russian Foundation for Basic Research",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "18-09-40070"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "18-09-40070"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100002261",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100002261",
+      "name": "Russian Foundation for Basic Research",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "19-59-22007"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "19-59-22007"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100002261",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/100005156",
+      "name": "Alexander von Humboldt-Stiftung",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "2016"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2016"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/100005156",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "name": "National Science Centre, Poland",
+      "award": [
+        "2018/29/B/ST10/00906"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2018/29/B/ST10/00906"
+          ]
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100000923",
+      "name": "Australian Research Council",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "FL130100116"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "FL130100116"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100000923",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100000923",
+      "name": "Australian Research Council",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "FT140100384"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "FT140100384"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100000923",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100000923",
+      "name": "Australian Research Council",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "FT150100138"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "FT150100138"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100000923",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "www.pnas.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Proc. Natl. Acad. Sci. U.S.A."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        2,
+        11
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Significance</jats:title>\n                  <jats:p>Neanderthals once inhabited Europe and western Asia, spreading as far east as the Altai Mountains in southern Siberia, but the geographical origin and time of arrival of the Altai populations remain unresolved. Excavations at Chagyrskaya Cave in the Altai foothills have yielded 90,000 stone artifacts, numerous bone tools, 74 Neanderthal fossils, and animal and plant remains recovered from 59,000- to 49,000-year-old deposits. The Chagyrskaya Neanderthals made distinctive stone tools that closely resemble Micoquian artifacts from eastern Europe, whereas other Altai sites occupied by earlier Neanderthal populations lack such artifacts. This suggests at least two dispersals of Neanderthals into southern Siberia, with the likely ancestral homeland of the Chagyrskaya toolmakers located 3,000 to 4,000 kilometers to the west, in eastern Europe.</jats:p>",
+  "DOI": "10.1073/pnas.1918047117",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        27
+      ]
+    ],
+    "date-time": "2020-01-27T20:25:26Z",
+    "timestamp": 1580156726000
+  },
+  "page": "2879-2885",
+  "update-policy": "https://doi.org/10.1073/pnas.cm10313",
+  "source": "Crossref",
+  "is-referenced-by-count": 94,
+  "title": [
+    "Archaeological evidence for two separate dispersals of Neanderthals into southern Siberia"
+  ],
+  "prefix": "10.1073",
+  "volume": "117",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-5757-3251",
+      "authenticated-orcid": false,
+      "given": "Kseniya A.",
+      "family": "Kolobova",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Institute of Archaeology and Ethnography, Siberian Branch of the Russian Academy of Sciences, 630090 Novosibirsk, Russia;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0128-4119",
+      "authenticated-orcid": false,
+      "given": "Richard G.",
+      "family": "Roberts",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centre for Archaeological Science, School of Earth, Atmospheric and Life Sciences, University of Wollongong, Wollongong, NSW 2522, Australia;"
+        },
+        {
+          "name": "Australian Research Council Centre of Excellence for Australian Biodiversity and Heritage, University of Wollongong, Wollongong, NSW 2522, Australia;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Victor P.",
+      "family": "Chabai",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Archaeology, National Ukrainian Academy of Sciences, 04210 Kyiv, Ukraine;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5424-5837",
+      "authenticated-orcid": false,
+      "given": "Zenobia",
+      "family": "Jacobs",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centre for Archaeological Science, School of Earth, Atmospheric and Life Sciences, University of Wollongong, Wollongong, NSW 2522, Australia;"
+        },
+        {
+          "name": "Australian Research Council Centre of Excellence for Australian Biodiversity and Heritage, University of Wollongong, Wollongong, NSW 2522, Australia;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1240-0664",
+      "authenticated-orcid": false,
+      "given": "Maciej T.",
+      "family": "Krajcarz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Geological Sciences, Polish Academy of Sciences, 00-818 Warszawa, Poland;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2267-2452",
+      "authenticated-orcid": false,
+      "given": "Alena V.",
+      "family": "Shalagina",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Archaeology and Ethnography, Siberian Branch of the Russian Academy of Sciences, 630090 Novosibirsk, Russia;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5327-3438",
+      "authenticated-orcid": false,
+      "given": "Andrey I.",
+      "family": "Krivoshapkin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Archaeology and Ethnography, Siberian Branch of the Russian Academy of Sciences, 630090 Novosibirsk, Russia;"
+        },
+        {
+          "name": "Department of Archaeology and Ethnography, Novosibirsk State University, 630090 Novosibirsk, Russia;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-4186-4828",
+      "authenticated-orcid": false,
+      "given": "Bo",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centre for Archaeological Science, School of Earth, Atmospheric and Life Sciences, University of Wollongong, Wollongong, NSW 2522, Australia;"
+        },
+        {
+          "name": "Australian Research Council Centre of Excellence for Australian Biodiversity and Heritage, University of Wollongong, Wollongong, NSW 2522, Australia;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1265-061X",
+      "authenticated-orcid": false,
+      "given": "Thorsten",
+      "family": "Uthmeier",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Prehistory and Protohistory, Department of Classical World and Asian Cultures, Friedrich-Alexander Universität Erlangen-Nürnberg, 91054 Erlangen, Germany;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sergey V.",
+      "family": "Markin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Archaeology and Ethnography, Siberian Branch of the Russian Academy of Sciences, 630090 Novosibirsk, Russia;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7730-9637",
+      "authenticated-orcid": false,
+      "given": "Mike W.",
+      "family": "Morley",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centre for Archaeological Science, School of Earth, Atmospheric and Life Sciences, University of Wollongong, Wollongong, NSW 2522, Australia;"
+        },
+        {
+          "name": "College of Humanities, Arts and Social Sciences, Flinders University, Adelaide, SA 5042, Australia;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2231-2457",
+      "authenticated-orcid": false,
+      "given": "Kieran",
+      "family": "O’Gorman",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centre for Archaeological Science, School of Earth, Atmospheric and Life Sciences, University of Wollongong, Wollongong, NSW 2522, Australia;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1536-6470",
+      "authenticated-orcid": false,
+      "given": "Natalia A.",
+      "family": "Rudaya",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Archaeology and Ethnography, Siberian Branch of the Russian Academy of Sciences, 630090 Novosibirsk, Russia;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2406-3132",
+      "authenticated-orcid": false,
+      "given": "Sahra",
+      "family": "Talamo",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8052-707X",
+      "authenticated-orcid": false,
+      "given": "Bence",
+      "family": "Viola",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Anthropology, University of Toronto, Toronto, ON M5S 2S2, Canada"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1156-8331",
+      "authenticated-orcid": false,
+      "given": "Anatoly P.",
+      "family": "Derevianko",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Archaeology and Ethnography, Siberian Branch of the Russian Academy of Sciences, 630090 Novosibirsk, Russia;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "341",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        27
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_3_1_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1253958"
+    },
+    {
+      "key": "e_1_3_3_2_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature13621"
+    },
+    {
+      "key": "e_1_3_3_3_2",
+      "first-page": "239",
+      "volume-title": "Chronostratigraphy of the Paleolithic in North, Central, East Asia and America",
+      "author": "Turner C. G.",
+      "year": "1990",
+      "unstructured": "C. G. TurnerII, Chronostratigraphy of the Paleolithic in North, Central, East Asia and America, A. P. Derevianko, Ed. (Institute of History, Philology and Philosophy, Siberian Branch of the USSR Academy of Sciences, Novosibirsk, 1990), pp. 239–243."
+    },
+    {
+      "key": "e_1_3_3_4_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature06193"
+    },
+    {
+      "key": "e_1_3_3_5_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature12886"
+    },
+    {
+      "key": "e_1_3_3_6_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature16544"
+    },
+    {
+      "key": "e_1_3_3_7_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aam9695"
+    },
+    {
+      "key": "e_1_3_3_8_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aal2482"
+    },
+    {
+      "key": "e_1_3_3_9_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2017.10.004"
+    },
+    {
+      "key": "e_1_3_3_10_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-018-0455-x"
+    },
+    {
+      "key": "e_1_3_3_11_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-018-0843-2"
+    },
+    {
+      "key": "e_1_3_3_12_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-018-0870-z"
+    },
+    {
+      "key": "e_1_3_3_13_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.aeae.2013.07.002"
+    },
+    {
+      "key": "e_1_3_3_14_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.aeae.2013.07.003"
+    },
+    {
+      "key": "e_1_3_3_15_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.palaeo.2015.12.007"
+    },
+    {
+      "key": "e_1_3_3_16_2",
+      "first-page": "51",
+      "volume-title": "Proceedings of the International Symposium, Denisova Cave, Altai, Russia, July 2–8, 2018",
+      "author": "Mafessoni F.",
+      "year": "2018",
+      "unstructured": "F. Mafessoni ., “The origins of the Upper Paleolithic in Eurasia and the evolution of the genus Homo” in Proceedings of the International Symposium, Denisova Cave, Altai, Russia, July 2–8, 2018, T. A. Klimenkova, Ed. (Institute of Archaeology and Ethnography, Siberian Branch of the Russian Academy of Sciences, Novosibirsk, 2018), pp. 51–55."
+    },
+    {
+      "key": "e_1_3_3_17_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1903984116"
+    },
+    {
+      "key": "e_1_3_3_18_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41559-018-0778-x"
+    },
+    {
+      "key": "e_1_3_3_19_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.aeae.2013.07.008"
+    },
+    {
+      "key": "e_1_3_3_20_2",
+      "unstructured": "E. P. Rybin “Middle Paleolithic “blade” industries and the Middle-to-Upper-Paleolithic transition in South Siberia: Migration or regional continuity?” in Acts of the XIVth UISPP Congress University of Liège Belgium 2–8 September 2001 . Section 5: The Middle Palaeolithic Le Secrétariat du Congrès Eds. (BAR International Series 1239) (Archaeopress 2004) pp. 81–89."
+    },
+    {
+      "key": "e_1_3_3_21_2",
+      "first-page": "33",
+      "article-title": "Srednii paleolit Altaya: Variabelnost i evolyutsiya [in Russian]",
+      "volume": "2005",
+      "author": "Rybin E. P.",
+      "year": "2009",
+      "unstructured": "E. P. Rybin, K. A. Kolobova, Srednii paleolit Altaya: Variabelnost i evolyutsiya [in Russian]. Stratum Plus 2005–2009, 33–78 (2009).",
+      "journal-title": "Stratum Plus"
+    },
+    {
+      "key": "e_1_3_3_22_2",
+      "volume-title": "The Dynamics of the Paleolithic Industries in Africa and Eurasia in the Late Pleistocene and the Issue of the Homo sapiens Origin",
+      "author": "Derevianko A. P.",
+      "year": "2014",
+      "unstructured": "A. P. Derevianko, M. V. Shunkov, S. V. Markin, The Dynamics of the Paleolithic Industries in Africa and Eurasia in the Late Pleistocene and the Issue of the Homo sapiens Origin (Institute of Archaeology and Ethnography, Siberian Branch of the Russian Academy of Sciences, Novosibirsk, 2014)."
+    },
+    {
+      "key": "e_1_3_3_23_2",
+      "first-page": "295",
+      "volume-title": "Neanderthals and Modern Humans in Western Asia",
+      "author": "Hublin J.-J.",
+      "year": "1998",
+      "unstructured": "J.-J. Hublin, “Climatic changes, paleogeography, and the evolution of the Neandertals” in Neanderthals and Modern Humans in Western Asia, T. Akazawa, K. Aoki, O. Bar-Yosef, Eds. (Plenum, 1998), pp. 295–310."
+    },
+    {
+      "key": "e_1_3_3_24_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2007.12.007"
+    },
+    {
+      "key": "e_1_3_3_25_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.aeae.2013.07.006"
+    },
+    {
+      "key": "e_1_3_3_26_2",
+      "unstructured": "N. Zwyns B. Viola “L’Asie centrale et la Sibérie durant le Pléistocène supérieur” in La Rencontre [in French] M. Otte Ed. (Liège University Press 2014) pp. 267–294."
+    },
+    {
+      "key": "e_1_3_3_27_2",
+      "first-page": "419",
+      "volume-title": "The Middle Paleolithic and Early Upper Paleolithic of Eastern Crimea",
+      "author": "Chabai V. P.",
+      "year": "2004",
+      "unstructured": "V. P. Chabai, A. E. Marks, K. Monigal, “The Paleolithic of Crimea” in The Middle Paleolithic and Early Upper Paleolithic of Eastern Crimea, V. Chabai, K. Monigal, K. Marks, Eds. (Études et Recherches Archéologiques de L’Université de Liège, 2004), vol. 3, pp. 419–460."
+    },
+    {
+      "key": "e_1_3_3_28_2",
+      "first-page": "297",
+      "volume-title": "Kabazi II: The 70 000 Years Since the Last Interglacial",
+      "author": "Chabai V. P.",
+      "year": "2006",
+      "unstructured": "V. P. Chabai, T. Uthmeier, “Settlement systems in the Crimean Middle Palaeolithic” in Kabazi II: The 70 000 Years Since the Last Interglacial, V. Chabai, J. Richter, T. Uthmeier, Eds. (Shlyakh, 2006), pp. 297–359."
+    },
+    {
+      "key": "e_1_3_3_29_2",
+      "first-page": "287",
+      "volume-title": "Axe Age: Acheulian Tool-Making from Quarry to Discard",
+      "author": "Jöris O.",
+      "year": "2006",
+      "unstructured": "O. Jöris, “Bifacially backed knives in the Central European Middle Palaeolithic” in Axe Age: Acheulian Tool-Making from Quarry to Discard, N. Goren-Inbar, G. Sharon, Eds. (Equinox, 2006), pp. 287–310."
+    },
+    {
+      "key": "e_1_3_3_30_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2016.01.018"
+    },
+    {
+      "key": "e_1_3_3_31_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1709235114"
+    },
+    {
+      "key": "e_1_3_3_32_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.apradiso.2004.08.008"
+    },
+    {
+      "key": "e_1_3_3_33_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2015.11.062"
+    },
+    {
+      "key": "e_1_3_3_34_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/313105a0"
+    },
+    {
+      "key": "e_1_3_3_35_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jas.2015.02.028"
+    },
+    {
+      "key": "e_1_3_3_36_2",
+      "first-page": "121",
+      "volume-title": "Multidisciplinary Studies of Chagyrskaya Cave–A Middle Paleolithic Site in Altai",
+      "author": "Roberts R. G.",
+      "year": "2018",
+      "unstructured": "R. G. Roberts, Z. Jacobs, B. Li, “Optical dating of sediment samples from Chagyrskaya Cave” in Multidisciplinary Studies of Chagyrskaya Cave–A Middle Paleolithic Site in Altai, A. P. Derevianko ., Eds. (Institute of Archaeology and Ethnography, Siberian Branch of the Russian Academy of Sciences, Novosibirsk, 2018), pp. 121–150 and 353–369."
+    },
+    {
+      "key": "e_1_3_3_37_2",
+      "unstructured": "V. N. Gladilin Eastern Europe Upper Paleolithic Problems [in Russian] (Naukova Dumka 1976)."
+    },
+    {
+      "key": "e_1_3_3_38_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pone.0207890"
+    }
+  ],
+  "container-title": [
+    "Proceedings of the National Academy of Sciences"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://www.pnas.org/syndication/doi/10.1073/pnas.1918047117",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "syndication"
+    },
+    {
+      "URL": "https://pnas.org/doi/pdf/10.1073/pnas.1918047117",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        4,
+        13
+      ]
+    ],
+    "date-time": "2022-04-13T05:06:56Z",
+    "timestamp": 1649826416000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://pnas.org/doi/full/10.1073/pnas.1918047117"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        27
+      ]
+    ]
+  },
+  "references-count": 38,
+  "journal-issue": {
+    "issue": "6",
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1073/pnas.1918047117"
+  ],
+  "URL": "https://doi.org/10.1073/pnas.1918047117",
+  "relation": {},
+  "ISSN": [
+    "0027-8424",
+    "1091-6490"
+  ],
+  "issn-type": [
+    {
+      "value": "0027-8424",
+      "type": "print"
+    },
+    {
+      "value": "1091-6490",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        27
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2020-01-27",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        4
+      ]
+    ],
+    "date-time": "2026-09-04T10:30:11Z",
+    "timestamp": 1788517811490,
+    "version": "build-2803163510"
+  },
+  "reference-count": 96,
+  "publisher": "American Association for the Advancement of Science (AAAS)",
+  "issue": "6727",
+  "content-domain": {
+    "domain": [
+      "www.science.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Science"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        13
+      ]
+    ]
+  },
+  "abstract": "<jats:p>Gene flow from Neanderthals has shaped genetic and phenotypic variation in modern humans. We generated a catalog of Neanderthal ancestry segments in more than 300 genomes spanning the past 50,000 years. We examined how Neanderthal ancestry is shared among individuals over time. Our analysis revealed that the vast majority of Neanderthal gene flow is attributable to a single, shared extended period of gene flow that occurred between 50,500 to 43,500 years ago, as evidenced by ancestry correlation, colocalization of Neanderthal segments across individuals, and divergence from the sequenced Neanderthals. Most natural selection—positive and negative—on Neanderthal variants occurred rapidly after the gene flow. Our findings provide new insights into how contact with Neanderthals shaped modern human origins and adaptation.</jats:p>",
+  "DOI": "10.1126/science.adq3010",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        12
+      ]
+    ],
+    "date-time": "2024-12-12T14:22:02Z",
+    "timestamp": 1734013322000
+  },
+  "update-policy": "https://doi.org/10.34133/aaas_crossmark",
+  "source": "Crossref",
+  "is-referenced-by-count": 56,
+  "title": [
+    "Neanderthal ancestry through time: Insights from genomes of ancient and present-day humans"
+  ],
+  "prefix": "10.1126",
+  "volume": "386",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0009-0005-8020-0380",
+      "authenticated-orcid": true,
+      "given": "Leonardo N. M.",
+      "family": "Iasi",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck-Institute for Evolutionary Anthropology, Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9808-5991",
+      "authenticated-orcid": true,
+      "given": "Manjusha",
+      "family": "Chintalapati",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Molecular and Cell Biology, University of California Berkeley, Berkeley, CA, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9582-0391",
+      "authenticated-orcid": true,
+      "given": "Laurits",
+      "family": "Skov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Molecular and Cell Biology, University of California Berkeley, Berkeley, CA, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0008-7556-1722",
+      "authenticated-orcid": true,
+      "given": "Alba Bossoms",
+      "family": "Mesa",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck-Institute for Evolutionary Anthropology, Leipzig, Germany."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4064-0331",
+      "authenticated-orcid": true,
+      "given": "Mateja",
+      "family": "Hajdinjak",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck-Institute for Evolutionary Anthropology, Leipzig, Germany."
+        },
+        {
+          "name": "The Francis Crick Institute, London, UK."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2526-8081",
+      "authenticated-orcid": true,
+      "given": "Benjamin M.",
+      "family": "Peter",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max-Planck-Institute for Evolutionary Anthropology, Leipzig, Germany."
+        },
+        {
+          "name": "Department of Biology, University of Rochester, Rochester NY, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0947-5673",
+      "authenticated-orcid": true,
+      "given": "Priya",
+      "family": "Moorjani",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Molecular and Cell Biology, University of California Berkeley, Berkeley, CA, USA."
+        },
+        {
+          "name": "Center for Computational Biology, University of California Berkeley, Berkeley, CA, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "221",
+  "reference": [
+    {
+      "key": "e_1_3_2_2_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1188021"
+    },
+    {
+      "key": "e_1_3_2_3_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature12886"
+    },
+    {
+      "key": "e_1_3_2_4_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aao1887"
+    },
+    {
+      "key": "e_1_3_2_5_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.2004944117"
+    },
+    {
+      "key": "e_1_3_2_6_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature09710"
+    },
+    {
+      "key": "e_1_3_2_7_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1224344"
+    },
+    {
+      "key": "e_1_3_2_8_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature13810"
+    },
+    {
+      "key": "e_1_3_2_9_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature14558"
+    },
+    {
+      "key": "e_1_3_2_10_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-021-03335-3"
+    },
+    {
+      "key": "e_1_3_2_11_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41559-018-0735-8"
+    },
+    {
+      "key": "e_1_3_2_12_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature13673"
+    },
+    {
+      "key": "e_1_3_2_13_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature12961"
+    },
+    {
+      "key": "e_1_3_2_14_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cub.2016.03.037"
+    },
+    {
+      "key": "e_1_3_2_15_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1245938"
+    },
+    {
+      "key": "e_1_3_2_16_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aad9416"
+    },
+    {
+      "key": "e_1_3_2_17_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-020-2225-9"
+    },
+    {
+      "key": "e_1_3_2_18_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-021-03236-5"
+    },
+    {
+      "key": "e_1_3_2_19_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1534/genetics.116.186890"
+    },
+    {
+      "key": "e_1_3_2_20_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1514696113"
+    },
+    {
+      "key": "e_1_3_2_21_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pgen.1006340"
+    },
+    {
+      "key": "e_1_3_2_22_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature18964"
+    },
+    {
+      "key": "e_1_3_2_24_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "B. M. Peter 100 000 years of gene flow between Neandertals and Denisovans in the Altai mountains. bioRxiv 2020.03.13.990523 [Preprint] (2020). https://doi.org/10.1101/2020.03.13.990523.",
+      "DOI": "10.1101/2020.03.13.990523"
+    },
+    {
+      "key": "e_1_3_2_25_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cell.2020.01.012"
+    },
+    {
+      "key": "e_1_3_2_26_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cell.2018.02.031"
+    },
+    {
+      "key": "e_1_3_2_27_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.abc1166"
+    },
+    {
+      "key": "e_1_3_2_28_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.xgen.2024.100593"
+    },
+    {
+      "key": "e_1_3_2_29_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature15393"
+    },
+    {
+      "key": "e_1_3_2_30_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature14317"
+    },
+    {
+      "key": "e_1_3_2_31_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aat7487"
+    },
+    {
+      "key": "e_1_3_2_32_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.85.23.9119"
+    },
+    {
+      "key": "e_1_3_2_33_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/molbev/msab210"
+    },
+    {
+      "key": "e_1_3_2_34_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pgen.1002947"
+    },
+    {
+      "key": "e_1_3_2_35_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1098/rstb.2020.0411"
+    },
+    {
+      "key": "e_1_3_2_36_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nrg1947"
+    },
+    {
+      "key": "e_1_3_2_37_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature10336"
+    },
+    {
+      "key": "e_1_3_2_38_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ajhg.2015.11.015"
+    },
+    {
+      "key": "e_1_3_2_39_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aad2149"
+    },
+    {
+      "key": "e_1_3_2_40_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature17993"
+    },
+    {
+      "key": "e_1_3_2_41_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1814338116"
+    },
+    {
+      "key": "e_1_3_2_42_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/genetics/iyab052"
+    },
+    {
+      "key": "e_1_3_2_43_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aar3684"
+    },
+    {
+      "key": "e_1_3_2_44_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pgen.1000471"
+    },
+    {
+      "key": "e_1_3_2_45_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.7554/eLife.76065"
+    },
+    {
+      "key": "e_1_3_2_46_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "E. Kerdoncuff L. Skov N. Patterson W. Zhao Y. Y. Lueng G. D. Schellenberg J. A. Smith S. Dey A. Ganna A. B. Dey S. L. R. Kardia J. Lee P. Moorjani 50 000 years of evolutionary history of India: Insights from ~2 700 whole genome sequences. bioRxiv 2024.02.15.580575 [Preprint] (2024). https://doi.org/10.1101/2024.02.15.580575.",
+      "DOI": "10.1101/2024.02.15.580575"
+    },
+    {
+      "key": "e_1_3_2_47_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41598-017-05748-5"
+    },
+    {
+      "key": "e_1_3_2_48_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ajmg.a.63445"
+    },
+    {
+      "key": "e_1_3_2_49_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00439-012-1232-9"
+    },
+    {
+      "key": "e_1_3_2_50_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.2309168121"
+    },
+    {
+      "key": "e_1_3_2_51_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.xgen.2023.100274"
+    },
+    {
+      "key": "e_1_3_2_52_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature13621"
+    },
+    {
+      "key": "e_1_3_2_53_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-020-2259-z"
+    },
+    {
+      "key": "e_1_3_2_54_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature18299"
+    },
+    {
+      "key": "e_1_3_2_55_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.abi8264"
+    },
+    {
+      "key": "e_1_3_2_56_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature13025"
+    },
+    {
+      "key": "e_1_3_2_57_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/ncomms9912"
+    },
+    {
+      "key": "e_1_3_2_58_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41467-022-28827-2"
+    },
+    {
+      "key": "e_1_3_2_59_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-019-1279-z"
+    },
+    {
+      "key": "e_1_3_2_60_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aaa0114"
+    },
+    {
+      "key": "e_1_3_2_61_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature12960"
+    },
+    {
+      "key": "e_1_3_2_62_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-021-03823-6"
+    },
+    {
+      "key": "e_1_3_2_63_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature12736"
+    },
+    {
+      "key": "e_1_3_2_64_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-022-04430-9"
+    },
+    {
+      "key": "e_1_3_2_65_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/ncomms6257"
+    },
+    {
+      "key": "e_1_3_2_66_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cub.2021.04.045"
+    },
+    {
+      "key": "e_1_3_2_67_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aay6826"
+    },
+    {
+      "key": "e_1_3_2_68_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s42003-022-04190-2"
+    },
+    {
+      "key": "e_1_3_2_69_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pbio.2003703"
+    },
+    {
+      "key": "e_1_3_2_70_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aav2621"
+    },
+    {
+      "key": "e_1_3_2_71_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aao1807"
+    },
+    {
+      "key": "e_1_3_2_72_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aaf7943"
+    },
+    {
+      "key": "e_1_3_2_73_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41559-021-01443-x"
+    },
+    {
+      "key": "e_1_3_2_74_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cub.2016.12.060"
+    },
+    {
+      "key": "e_1_3_2_75_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cub.2017.09.030"
+    },
+    {
+      "key": "e_1_3_2_76_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1534/genetics.115.183913"
+    },
+    {
+      "key": "e_1_3_2_77_2",
+      "first-page": "296",
+      "article-title": "Signatures of archaic adaptive introgression in present-day human populations",
+      "volume": "34",
+      "author": "Racimo F.",
+      "year": "2017",
+      "unstructured": "F. Racimo, D. Marnetto, E. Huerta-Sánchez, Signatures of archaic adaptive introgression in present-day human populations. Mol. Biol. Evol. 34, 296–317 (2017). 27756828",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "e_1_3_2_78_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "L. N. M. Iasi M. Chintalapati L. Skov A. Bossoms Mesa M. Hajdinjak B. Peter P. Moorjani Dataset/Neandertal ancestry through time: Insights from genomes of ancient and present-day humans. Dryad (2024). https://doi.org/10.5061/dryad.zw3r228gg.",
+      "DOI": "10.1101/2024.05.13.593955"
+    },
+    {
+      "key": "e_1_3_2_79_2",
+      "unstructured": "L. N. M. Iasi M. Chintalapati L. Skov LeonardoIasi/Neandertal-ancestry-through-time: Neandertal-ancestry-through-time Version v1.0.1. Zenodo (2024); https://doi.org/10.5281/zenodo.13840554."
+    },
+    {
+      "key": "e_1_3_2_80_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/bioinformatics/bty507"
+    },
+    {
+      "key": "e_1_3_2_81_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/RDC.2017.108"
+    },
+    {
+      "key": "e_1_3_2_82_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/RDC.2020.41"
+    },
+    {
+      "key": "e_1_3_2_83_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature17405"
+    },
+    {
+      "key": "e_1_3_2_84_2",
+      "unstructured": "R Core Team R: A Language and Environment for Statistical Computing R Foundation for Statistical Computing (2018); https://www.R-project.org/."
+    },
+    {
+      "key": "e_1_3_2_85_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1534/genetics.112.145037"
+    },
+    {
+      "key": "e_1_3_2_86_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.adi1768"
+    },
+    {
+      "key": "e_1_3_2_87_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pgen.1007641"
+    },
+    {
+      "key": "e_1_3_2_88_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pcbi.1004842"
+    },
+    {
+      "key": "e_1_3_2_89_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aay5012"
+    },
+    {
+      "key": "e_1_3_2_90_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cell.2019.02.035"
+    },
+    {
+      "key": "e_1_3_2_91_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1255832"
+    },
+    {
+      "key": "e_1_3_2_92_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.7554/eLife.85492"
+    },
+    {
+      "key": "e_1_3_2_93_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.18637/jss.v076.i01"
+    },
+    {
+      "key": "e_1_3_2_94_2",
+      "unstructured": "Stan Development Team RStan: the R interface to Stan version 2.18.0 (2018)."
+    },
+    {
+      "key": "e_1_3_2_95_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1201/9780429029608"
+    },
+    {
+      "key": "e_1_3_2_96_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pgen.1001373"
+    },
+    {
+      "key": "e_1_3_2_97_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/03610910802439121"
+    },
+    {
+      "key": "e_1_3_2_98_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pgen.1010399"
+    }
+  ],
+  "container-title": [
+    "Science"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.science.org/doi/pdf/10.1126/science.adq3010",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        12
+      ]
+    ],
+    "date-time": "2024-12-12T14:22:07Z",
+    "timestamp": 1734013327000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.science.org/doi/10.1126/science.adq3010"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        13
+      ]
+    ]
+  },
+  "references-count": 96,
+  "journal-issue": {
+    "issue": "6727",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          13
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1126/science.adq3010"
+  ],
+  "URL": "https://doi.org/10.1126/science.adq3010",
+  "relation": {
+    "has-preprint": [
+      {
+        "id-type": "doi",
+        "id": "10.1101/2024.05.13.593955",
+        "asserted-by": "object"
+      }
+    ]
+  },
+  "ISSN": [
+    "0036-8075",
+    "1095-9203"
+  ],
+  "issn-type": [
+    {
+      "value": "0036-8075",
+      "type": "print"
+    },
+    {
+      "value": "1095-9203",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        13
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2024-05-08",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-10-22",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-12-13",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ],
+  "article-number": "eadq3010"
+}

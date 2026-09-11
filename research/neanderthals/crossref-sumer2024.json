@@ -1,0 +1,1567 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        8
+      ]
+    ],
+    "date-time": "2026-09-08T11:04:17Z",
+    "timestamp": 1788865457702,
+    "version": "build-2803163510"
+  },
+  "reference-count": 70,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "8051",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            12
+          ]
+        ],
+        "date-time": "2024-12-12T00:00:00Z",
+        "timestamp": 1733961600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            12
+          ]
+        ],
+        "date-time": "2024-12-12T00:00:00Z",
+        "timestamp": 1733961600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nature"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        20
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>Modern humans arrived in Europe more than 45,000 years ago, overlapping at least 5,000 years with Neanderthals<jats:sup>1–4</jats:sup>. Limited genomic data from these early modern humans have shown that at least two genetically distinct groups inhabited Europe, represented by Zlatý kůň, Czechia<jats:sup>3</jats:sup> and Bacho Kiro, Bulgaria<jats:sup>2</jats:sup>. Here we deepen our understanding of early modern humans by analysing one high-coverage genome and five low-coverage genomes from approximately 45,000-year-old remains from Ilsenhöhle in Ranis, Germany<jats:sup>4</jats:sup>, and a further high-coverage genome from Zlatý kůň. We show that distant familial relationships link the Ranis and Zlatý kůň individuals and that they were part of the same small, isolated population that represents the deepest known split from the Out-of-Africa lineage. Ranis genomes harbour Neanderthal segments that originate from a single admixture event shared with all non-Africans that we date to approximately 45,000–49,000 years ago. This implies that ancestors of all non-Africans sequenced so far resided in a common population at this time, and further suggests that modern human remains older than 50,000 years from outside Africa represent different non-African populations.</jats:p>",
+  "DOI": "10.1038/s41586-024-08420-x",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        12
+      ]
+    ],
+    "date-time": "2024-12-12T19:01:16Z",
+    "timestamp": 1734030076000
+  },
+  "page": "711-717",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 58,
+  "title": [
+    "Earliest modern human genomes constrain timing of Neanderthal admixture"
+  ],
+  "prefix": "10.1038",
+  "volume": "638",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0009-0001-4834-4414",
+      "authenticated-orcid": false,
+      "given": "Arev P.",
+      "family": "Sümer",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0358-0285",
+      "authenticated-orcid": false,
+      "given": "Hélène",
+      "family": "Rougier",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9357-5238",
+      "authenticated-orcid": false,
+      "given": "Vanessa",
+      "family": "Villalba-Mouco",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yilei",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Leonardo N. M.",
+      "family": "Iasi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2642-8043",
+      "authenticated-orcid": false,
+      "given": "Elena",
+      "family": "Essel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0008-7556-1722",
+      "authenticated-orcid": false,
+      "given": "Alba",
+      "family": "Bossoms Mesa",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Anja",
+      "family": "Furtwaengler",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9823-9102",
+      "authenticated-orcid": false,
+      "given": "Stéphane",
+      "family": "Peyrégne",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Cesare",
+      "family": "de Filippo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4204-5018",
+      "authenticated-orcid": false,
+      "given": "Adam B.",
+      "family": "Rohrlach",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Federica",
+      "family": "Pierini",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Fabrizio",
+      "family": "Mafessoni",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Helen",
+      "family": "Fewlass",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Elena I.",
+      "family": "Zavala",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Dorothea",
+      "family": "Mylopotamitaki",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0004-6087-8031",
+      "authenticated-orcid": false,
+      "given": "Raffaela A.",
+      "family": "Bianco",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Anna",
+      "family": "Schmidt",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Julia",
+      "family": "Zorn",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Birgit",
+      "family": "Nickel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Anna",
+      "family": "Patova",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8206-3907",
+      "authenticated-orcid": false,
+      "given": "Cosimo",
+      "family": "Posth",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7155-5140",
+      "authenticated-orcid": false,
+      "given": "Geoff M.",
+      "family": "Smith",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Karen",
+      "family": "Ruebens",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3228-5824",
+      "authenticated-orcid": false,
+      "given": "Virginie",
+      "family": "Sinet-Mathiot",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Alexander",
+      "family": "Stoessel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Holger",
+      "family": "Dietl",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3629-8251",
+      "authenticated-orcid": false,
+      "given": "Jörg",
+      "family": "Orschiedt",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3618-322X",
+      "authenticated-orcid": false,
+      "given": "Janet",
+      "family": "Kelso",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7118-1249",
+      "authenticated-orcid": false,
+      "given": "Hugo",
+      "family": "Zeberg",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2937-3006",
+      "authenticated-orcid": false,
+      "given": "Kirsten I.",
+      "family": "Bos",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4846-6104",
+      "authenticated-orcid": false,
+      "given": "Frido",
+      "family": "Welker",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0778-5520",
+      "authenticated-orcid": false,
+      "given": "Marcel",
+      "family": "Weiss",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2063-468X",
+      "authenticated-orcid": false,
+      "given": "Shannon P.",
+      "family": "McPherron",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9190-8054",
+      "authenticated-orcid": false,
+      "given": "Tim",
+      "family": "Schüler",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jean-Jacques",
+      "family": "Hublin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3691-7817",
+      "authenticated-orcid": false,
+      "given": "Petr",
+      "family": "Velemínský",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2478-9662",
+      "authenticated-orcid": false,
+      "given": "Jaroslav",
+      "family": "Brůžek",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2526-8081",
+      "authenticated-orcid": false,
+      "given": "Benjamin M.",
+      "family": "Peter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4760-558X",
+      "authenticated-orcid": false,
+      "given": "Matthias",
+      "family": "Meyer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-7590-0375",
+      "authenticated-orcid": false,
+      "given": "Harald",
+      "family": "Meller",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4884-9682",
+      "authenticated-orcid": false,
+      "given": "Harald",
+      "family": "Ringbauer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4064-0331",
+      "authenticated-orcid": false,
+      "given": "Mateja",
+      "family": "Hajdinjak",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6242-3058",
+      "authenticated-orcid": false,
+      "given": "Kay",
+      "family": "Prüfer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9144-3920",
+      "authenticated-orcid": false,
+      "given": "Johannes",
+      "family": "Krause",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        12
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "8420_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "306",
+      "DOI": "10.1038/nature13621",
+      "volume": "512",
+      "author": "T Higham",
+      "year": "2014",
+      "unstructured": "Higham, T. et al. The timing and spatiotemporal patterning of Neanderthal disappearance. Nature 512, 306–309 (2014).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "8420_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "253",
+      "DOI": "10.1038/s41586-021-03335-3",
+      "volume": "592",
+      "author": "M Hajdinjak",
+      "year": "2021",
+      "unstructured": "Hajdinjak, M. et al. Initial Upper Palaeolithic humans in Europe had recent Neanderthal ancestry. Nature 592, 253–257 (2021).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "8420_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "820",
+      "DOI": "10.1038/s41559-021-01443-x",
+      "volume": "5",
+      "author": "K Prüfer",
+      "year": "2021",
+      "unstructured": "Prüfer, K. et al. A genome sequence from a modern human skull over 45,000 years old from Zlatý kůň in Czechia. Nat. Ecol. Evol. 5, 820–825 (2021).",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "8420_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "341",
+      "DOI": "10.1038/s41586-023-06923-7",
+      "volume": "626",
+      "author": "D Mylopotamitaki",
+      "year": "2024",
+      "unstructured": "Mylopotamitaki, D. et al. Homo sapiens reached the higher latitudes of Europe by 45,000 years ago. Nature 626, 341–346 (2024).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "8420_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "eadi4099",
+      "DOI": "10.1126/sciadv.adi4099",
+      "volume": "9",
+      "author": "M Vidal-Cordasco",
+      "year": "2023",
+      "unstructured": "Vidal-Cordasco, M., Terlato, G., Ocio, D. & Marín-Arroyo, A. B. Neanderthal coexistence with Homo sapiens in Europe was affected by herbivore carrying capacity. Sci. Adv. 9, eadi4099 (2023).",
+      "journal-title": "Sci. Adv."
+    },
+    {
+      "key": "8420_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "655",
+      "DOI": "10.1126/science.aao1887",
+      "volume": "358",
+      "author": "K Prüfer",
+      "year": "2017",
+      "unstructured": "Prüfer, K. et al. A high-coverage Neandertal genome from Vindija Cave in Croatia. Science 358, 655–658 (2017).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "8420_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "3202",
+      "DOI": "10.1016/j.cub.2017.09.030",
+      "volume": "27",
+      "author": "MA Yang",
+      "year": "2017",
+      "unstructured": "Yang, M. A. et al. 40,000-year-old individual from Asia provides insight into early population structure in Eurasia. Curr. Biol. 27, 3202–3208.e9 (2017).",
+      "journal-title": "Curr. Biol."
+    },
+    {
+      "key": "8420_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "5652",
+      "DOI": "10.1073/pnas.1514696113",
+      "volume": "113",
+      "author": "P Moorjani",
+      "year": "2016",
+      "unstructured": "Moorjani, P. et al. A genetic method for dating ancient genomes provides a direct estimate of human generation interval in the last 45,000 years. Proc. Natl Acad. Sci. USA 113, 5652–5657 (2016).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "8420_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "445",
+      "DOI": "10.1038/nature13810",
+      "volume": "514",
+      "author": "Q Fu",
+      "year": "2014",
+      "unstructured": "Fu, Q. et al. The genome sequence of a 45,000-year-old modern human from western Siberia. Nature 514, 445–449 (2014).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "8420_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "2223",
+      "DOI": "10.1073/pnas.1221359110",
+      "volume": "110",
+      "author": "Q Fu",
+      "year": "2013",
+      "unstructured": "Fu, Q. et al. DNA analysis of an early modern human from Tianyuan Cave, China. Proc. Natl Acad. Sci. USA 110, 2223–2227 (2013).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "8420_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "194",
+      "DOI": "10.1016/j.quascirev.2014.08.011",
+      "volume": "118",
+      "author": "J-J Hublin",
+      "year": "2015",
+      "unstructured": "Hublin, J.-J. The modern human colonization of western Eurasia: when and where? Quat. Sci. Rev. 118, 194–210 (2015).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "8420_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "17",
+      "DOI": "10.1007/s41982-022-00126-8",
+      "volume": "5",
+      "author": "O Jöris",
+      "year": "2022",
+      "unstructured": "Jöris, O., Neruda, P., Wiśniewski, A. & Weiss, M. The Late and Final Middle Palaeolithic of Central Europe and its contributions to the formation of the regional Upper Palaeolithic: a review and a synthesis. J. Paleolit. Archaeol. 5, 17 (2022).",
+      "journal-title": "J. Paleolit. Archaeol."
+    },
+    {
+      "key": "8420_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "605",
+      "DOI": "10.1080/00438243.2011.624725",
+      "volume": "43",
+      "author": "D Flas",
+      "year": "2011",
+      "unstructured": "Flas, D. The Middle to Upper Paleolithic transition in Northern Europe: the Lincombian-Ranisian-Jerzmanowician and the issue of acculturation of the last Neanderthals. World Archaeol. 43, 605–627 (2011).",
+      "journal-title": "World Archaeol."
+    },
+    {
+      "key": "8420_CR14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/s13059-020-02123-y",
+      "volume": "21",
+      "author": "S Peyrégne",
+      "year": "2020",
+      "unstructured": "Peyrégne, S. & Peter, B. M. AuthentiCT: a model of ancient DNA damage to estimate the proportion of present-day DNA contamination. Genome Biol. 21, 246 (2020).",
+      "journal-title": "Genome Biol."
+    },
+    {
+      "key": "8420_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "499",
+      "DOI": "10.1038/nature16152",
+      "volume": "528",
+      "author": "I Mathieson",
+      "year": "2015",
+      "unstructured": "Mathieson, I. et al. Genome-wide patterns of selection in 230 ancient Eurasians. Nature 528, 499–503 (2015).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "8420_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "216",
+      "DOI": "10.1038/nature14558",
+      "volume": "524",
+      "author": "Q Fu",
+      "year": "2015",
+      "unstructured": "Fu, Q. et al. An early modern human from Romania with a recent Neanderthal ancestor. Nature 524, 216–219 (2015).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "8420_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "117",
+      "DOI": "10.1038/s41586-023-05726-0",
+      "volume": "615",
+      "author": "C Posth",
+      "year": "2023",
+      "unstructured": "Posth, C. et al. Palaeogenomics of Upper Palaeolithic to Neolithic European hunter-gatherers. Nature 615, 117–126 (2023).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "8420_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "10",
+      "DOI": "10.1186/s13059-023-02847-7",
+      "volume": "24",
+      "author": "D Popli",
+      "year": "2023",
+      "unstructured": "Popli, D., Peyrégne, S. & Peter, B. M. KIN: a method to infer relatedness from low-coverage ancient DNA. Genome Biol. 24, 10 (2023).",
+      "journal-title": "Genome Biol."
+    },
+    {
+      "key": "8420_CR19",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ringbauer, H., Huang, Y. et al. Accurate detection of identity-by-descent segments in human ancient DNA. Nat. Genet. 56, 143–151 (2024).",
+      "DOI": "10.1038/s41588-023-01582-w"
+    },
+    {
+      "key": "8420_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "1065",
+      "DOI": "10.1534/genetics.112.145037",
+      "volume": "192",
+      "author": "N Patterson",
+      "year": "2012",
+      "unstructured": "Patterson, N. et al. Ancient admixture in human history. Genetics 192, 1065–1093 (2012).",
+      "journal-title": "Genetics"
+    },
+    {
+      "key": "8420_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "1472",
+      "DOI": "10.1080/01621459.2019.1635482",
+      "volume": "115",
+      "author": "J Kamm",
+      "year": "2020",
+      "unstructured": "Kamm, J., Terhorst, J., Durbin, R. & Song, Y. S. Efficiently inferring the demographic history of many populations with allele count data. J. Am. Stat. Assoc. 115, 1472–1487 (2020).",
+      "journal-title": "J. Am. Stat. Assoc."
+    },
+    {
+      "key": "8420_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "2160",
+      "DOI": "10.1038/s41559-023-02211-9",
+      "volume": "7",
+      "author": "EA Bennett",
+      "year": "2023",
+      "unstructured": "Bennett, E. A. et al. Genome sequences of 36,000- to 37,000-year-old modern humans at Buran-Kaya III in Crimea. Nat. Ecol. Evol. 7, 2160–2172 (2023).",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "8420_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "659",
+      "DOI": "10.1126/science.aao1807",
+      "volume": "358",
+      "author": "M Sikora",
+      "year": "2017",
+      "unstructured": "Sikora, M. et al. Ancient genomes show social and reproductive behavior of early Upper Paleolithic foragers. Science 358, 659–662 (2017).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "8420_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "1113",
+      "DOI": "10.1126/science.aaa0114",
+      "volume": "346",
+      "author": "A Seguin-Orlando",
+      "year": "2014",
+      "unstructured": "Seguin-Orlando, A. et al. Genomic structure in Europeans dating back at least 36,200 years. Science 346, 1113–1118 (2014).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "8420_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "493",
+      "DOI": "10.1038/nature10231",
+      "volume": "475",
+      "author": "H Li",
+      "year": "2011",
+      "unstructured": "Li, H. & Durbin, R. Inference of human population history from individual whole-genome sequences. Nature 475, 493–496 (2011).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "8420_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "143",
+      "DOI": "10.1038/s41588-023-01582-w",
+      "volume": "56",
+      "author": "H Ringbauer",
+      "year": "2024",
+      "unstructured": "Ringbauer, H. et al. Accurate detection of identity-by-descent segments in human ancient DNA. Nat. Genet. 56, 143–151 (2024).",
+      "journal-title": "Nat. Genet."
+    },
+    {
+      "key": "8420_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "43",
+      "DOI": "10.1038/nature12886",
+      "volume": "505",
+      "author": "K Prüfer",
+      "year": "2014",
+      "unstructured": "Prüfer, K. et al. The complete genome sequence of a Neanderthal from the Altai Mountains. Nature 505, 43–49 (2014).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "8420_CR28",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41467-021-25289-w",
+      "volume": "12",
+      "author": "H Ringbauer",
+      "year": "2021",
+      "unstructured": "Ringbauer, H., Novembre, J. & Steinrücken, M. Parental relatedness through time revealed by runs of homozygosity in ancient DNA. Nat. Commun. 12, 5425 (2021).",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "8420_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1016/j.imlet.2011.01.002",
+      "volume": "137",
+      "author": "J Trowsdale",
+      "year": "2011",
+      "unstructured": "Trowsdale, J. The MHC, disease and selection. Immunol. Lett. 137, 1–8 (2011).",
+      "journal-title": "Immunol. Lett."
+    },
+    {
+      "key": "8420_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "298",
+      "DOI": "10.1016/j.tig.2020.01.008",
+      "volume": "36",
+      "author": "J Radwan",
+      "year": "2020",
+      "unstructured": "Radwan, J., Babik, W., Kaufman, J., Lenz, T. L. & Winternitz, J. Advances in the evolutionary understanding of MHC polymorphism. Trends Genet. 36, 298–311 (2020).",
+      "journal-title": "Trends Genet."
+    },
+    {
+      "key": "8420_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "919",
+      "DOI": "10.1038/ng.3015",
+      "volume": "46",
+      "author": "S Schiffels",
+      "year": "2014",
+      "unstructured": "Schiffels, S. & Durbin, R. Inferring human population size and separation history from multiple genome sequences. Nat. Genet. 46, 919–925 (2014).",
+      "journal-title": "Nat. Genet."
+    },
+    {
+      "key": "8420_CR32",
+      "doi-asserted-by": "publisher",
+      "first-page": "15132",
+      "DOI": "10.1073/pnas.2004944117",
+      "volume": "117",
+      "author": "F Mafessoni",
+      "year": "2020",
+      "unstructured": "Mafessoni, F. et al. A high-coverage Neandertal genome from Chagyrskaya Cave. Proc. Natl Acad. Sci. USA 117, 15132–15136 (2020).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "8420_CR33",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Peter, B. M. 100,000 years of gene flow between Neandertals and Denisovans in the Altai mountains. Preprint at bioRxiv https://doi.org/10.1101/2020.03.13.990523 (2020).",
+      "DOI": "10.1101/2020.03.13.990523"
+    },
+    {
+      "key": "8420_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "5156",
+      "DOI": "10.1093/molbev/msab210",
+      "volume": "38",
+      "author": "LNM Iasi",
+      "year": "2021",
+      "unstructured": "Iasi, L. N. M., Ringbauer, H. & Peter, B. M. An extended admixture pulse model reveals the limitations to Human-Neandertal introgression dating. Mol. Biol. Evol. 38, 5156–5174 (2021).",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "8420_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "354",
+      "DOI": "10.1038/nature12961",
+      "volume": "507",
+      "author": "S Sankararaman",
+      "year": "2014",
+      "unstructured": "Sankararaman, S. et al. The genomic landscape of Neanderthal ancestry in present-day humans. Nature 507, 354–357 (2014).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "8420_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "235",
+      "DOI": "10.1126/science.aad9416",
+      "volume": "352",
+      "author": "B Vernot",
+      "year": "2016",
+      "unstructured": "Vernot, B. et al. Excavating Neandertal and Denisovan DNA from the genomes of Melanesian individuals. Science 352, 235–239 (2016).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "8420_CR37",
+      "doi-asserted-by": "publisher",
+      "first-page": "1241",
+      "DOI": "10.1016/j.cub.2016.03.037",
+      "volume": "26",
+      "author": "S Sankararaman",
+      "year": "2016",
+      "unstructured": "Sankararaman, S., Mallick, S., Patterson, N. & Reich, D. The combined landscape of Denisovan and Neanderthal ancestry in present-day humans. Curr. Biol. 26, 1241–1247 (2016).",
+      "journal-title": "Curr. Biol."
+    },
+    {
+      "key": "8420_CR38",
+      "doi-asserted-by": "publisher",
+      "first-page": "201",
+      "DOI": "10.1038/nature18964",
+      "volume": "538",
+      "author": "S Mallick",
+      "year": "2016",
+      "unstructured": "Mallick, S. et al. The Simons Genome Diversity Project: 300 genomes from 142 diverse populations. Nature 538, 201–206 (2016).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "8420_CR39",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Iasi, L. N. M et al. Neanderthal ancestry through time: insights from genomes of ancient and present-day humans. Science 386, eadq3010 (2024).",
+      "DOI": "10.1126/science.adq3010"
+    },
+    {
+      "key": "8420_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "415",
+      "DOI": "10.1002/ajpa.20188",
+      "volume": "128",
+      "author": "JN Fenner",
+      "year": "2005",
+      "unstructured": "Fenner, J. N. Cross-cultural estimation of the human generation interval for use in genetics-based population divergence studies. Am. J. Phys. Anthropol. 128, 415–423 (2005).",
+      "journal-title": "Am. J. Phys. Anthropol."
+    },
+    {
+      "key": "8420_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "eabm7047",
+      "DOI": "10.1126/sciadv.abm7047",
+      "volume": "9",
+      "author": "RJ Wang",
+      "year": "2023",
+      "unstructured": "Wang, R. J., Al-Saffar, S. I., Rogers, J. & Hahn, M. W. Human generation times across the past 250,000 years. Sci. Adv. 9, eabm7047 (2023).",
+      "journal-title": "Sci. Adv."
+    },
+    {
+      "key": "8420_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "564",
+      "DOI": "10.1038/s41559-023-02303-6",
+      "volume": "8",
+      "author": "GM Smith",
+      "year": "2024",
+      "unstructured": "Smith, G. M. et al. The ecology, subsistence and diet of ~45,000-year-old Homo sapiens at Ilsenhöhle in Ranis, Germany. Nat. Ecol. Evol. 8, 564–577 (2024).",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "8420_CR43",
+      "unstructured": "Hülle, W. Die Ilsenhöhle unter Burg Ranis, Thüringen: eine Paläolithische Jägerstation (Gustav Fischer, 1977)."
+    },
+    {
+      "key": "8420_CR44",
+      "doi-asserted-by": "publisher",
+      "first-page": "17",
+      "DOI": "10.1007/s41982-023-00142-2",
+      "volume": "6",
+      "author": "YE Demidenko",
+      "year": "2023",
+      "unstructured": "Demidenko, Y. E. & Škrdla, P. Lincombian-Ranisian-Jerzmanowician industry and South Moravian sites: a Homo sapiens Late Initial Upper Paleolithic with Bohunician industrial generic roots in Europe. J. Paleolit. Archaeol. 6, 17 (2023).",
+      "journal-title": "J. Paleolit. Archaeol."
+    },
+    {
+      "key": "8420_CR45",
+      "doi-asserted-by": "publisher",
+      "first-page": "e1002947",
+      "DOI": "10.1371/journal.pgen.1002947",
+      "volume": "8",
+      "author": "S Sankararaman",
+      "year": "2012",
+      "unstructured": "Sankararaman, S., Patterson, N., Li, H., Pääbo, S. & Reich, D. The date of interbreeding between Neandertals and modern humans. PLoS Genet. 8, e1002947 (2012).",
+      "journal-title": "PLoS Genet."
+    },
+    {
+      "key": "8420_CR46",
+      "doi-asserted-by": "publisher",
+      "first-page": "2447",
+      "DOI": "10.1038/s41596-018-0050-5",
+      "volume": "13",
+      "author": "N Rohland",
+      "year": "2018",
+      "unstructured": "Rohland, N., Glocke, I., Aximu-Petri, A. & Meyer, M. Extraction of highly degraded DNA from ancient bones, teeth and sediments for high-throughput sequencing. Nat. Protoc. 13, 2447–2461 (2018).",
+      "journal-title": "Nat. Protoc."
+    },
+    {
+      "key": "8420_CR47",
+      "doi-asserted-by": "publisher",
+      "first-page": "2279",
+      "DOI": "10.1038/s41596-020-0338-0",
+      "volume": "15",
+      "author": "MT Gansauge",
+      "year": "2020",
+      "unstructured": "Gansauge, M. T., Aximu-Petri, A., Nagel, S. & Meyer, M. Manual and automated preparation of single-stranded DNA libraries for the sequencing of DNA from ancient biological remains and other sources of highly degraded DNA. Nat. Protoc. 15, 2279–2300 (2020).",
+      "journal-title": "Nat. Protoc."
+    },
+    {
+      "key": "8420_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "605",
+      "DOI": "10.1126/science.aam9695",
+      "volume": "356",
+      "author": "V Slon",
+      "year": "2017",
+      "unstructured": "Slon, V. et al. Neandertal and Denisovan DNA from Pleistocene sediments. Science 356, 605–608 (2017).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "8420_CR49",
+      "doi-asserted-by": "publisher",
+      "first-page": "2196",
+      "DOI": "10.1111/1755-0998.13607",
+      "volume": "22",
+      "author": "EI Zavala",
+      "year": "2022",
+      "unstructured": "Zavala, E. I. et al. Quantifying and reducing cross-contamination in single- and multiplex hybridization capture of ancient DNA. Mol. Ecol. Resour. 22, 2196–2207 (2022).",
+      "journal-title": "Mol. Ecol. Resour."
+    },
+    {
+      "key": "8420_CR50",
+      "doi-asserted-by": "publisher",
+      "first-page": "1653",
+      "DOI": "10.1126/science.abb6460",
+      "volume": "369",
+      "author": "M Petr",
+      "year": "2020",
+      "unstructured": "Petr, M. et al. The evolutionary history of Neanderthal and Denisovan Y chromosomes. Science 369, 1653–1656 (2020).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "8420_CR51",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41598-021-94491-z",
+      "volume": "11",
+      "author": "AB Rohrlach",
+      "year": "2021",
+      "unstructured": "Rohrlach, A. B. et al. Using Y-chromosome capture enrichment to resolve haplogroup H2 shows new evidence for a two-path Neolithic expansion to Western Europe. Sci. Rep. 11, 15005 (2021).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "8420_CR52",
+      "doi-asserted-by": "publisher",
+      "first-page": "222",
+      "DOI": "10.1126/science.1224344",
+      "volume": "338",
+      "author": "M Meyer",
+      "year": "2012",
+      "unstructured": "Meyer, M. et al. A high-coverage genome sequence from an archaic Denisovan individual. Science 338, 222–226 (2012).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "8420_CR53",
+      "doi-asserted-by": "publisher",
+      "first-page": "e141",
+      "DOI": "10.1093/nar/gku699",
+      "volume": "42",
+      "author": "G Renaud",
+      "year": "2014",
+      "unstructured": "Renaud, G., Stenzel, U. & Kelso, J. leeHom: adaptor trimming and merging for Illumina sequencing reads. Nucleic Acids Res. 42, e141 (2014).",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "8420_CR54",
+      "doi-asserted-by": "publisher",
+      "first-page": "1754",
+      "DOI": "10.1093/bioinformatics/btp324",
+      "volume": "25",
+      "author": "H Li",
+      "year": "2009",
+      "unstructured": "Li, H. & Durbin, R. Fast and accurate short read alignment with Burrows–Wheeler transform. Bioinformatics 25, 1754–1760 (2009).",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "8420_CR55",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/s12915-018-0581-9",
+      "volume": "16",
+      "author": "C de Filippo",
+      "year": "2018",
+      "unstructured": "de Filippo, C., Meyer, M. & Prüfer, K. Quantifying and reducing spurious alignments for the analysis of ultra-short ancient DNA sequences. BMC Biol. 16, 121 (2018).",
+      "journal-title": "BMC Biol."
+    },
+    {
+      "key": "8420_CR56",
+      "doi-asserted-by": "publisher",
+      "first-page": "2078",
+      "DOI": "10.1093/bioinformatics/btp352",
+      "volume": "25",
+      "author": "H Li",
+      "year": "2009",
+      "unstructured": "Li, H. et al. The Sequence Alignment/Map format and SAMtools. Bioinformatics 25, 2078–2079 (2009).",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "8420_CR57",
+      "doi-asserted-by": "publisher",
+      "first-page": "4165",
+      "DOI": "10.1093/bioinformatics/bty507",
+      "volume": "34",
+      "author": "K Prüfer",
+      "year": "2018",
+      "unstructured": "Prüfer, K. snpAD: an ancient DNA genotype caller. Bioinformatics 34, 4165–4171 (2018).",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "8420_CR58",
+      "doi-asserted-by": "publisher",
+      "first-page": "1297",
+      "DOI": "10.1101/gr.107524.110",
+      "volume": "20",
+      "author": "A McKenna",
+      "year": "2010",
+      "unstructured": "McKenna, A. et al. The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data. Genome Res. 20, 1297–1303 (2010).",
+      "journal-title": "Genome Res."
+    },
+    {
+      "key": "8420_CR59",
+      "doi-asserted-by": "publisher",
+      "first-page": "573",
+      "DOI": "10.1093/nar/27.2.573",
+      "volume": "27",
+      "author": "G Benson",
+      "year": "1999",
+      "unstructured": "Benson, G. Tandem repeats finder: a program to analyze DNA sequences. Nucleic Acids Res. 27, 573–580 (1999).",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "8420_CR60",
+      "doi-asserted-by": "publisher",
+      "first-page": "1680",
+      "DOI": "10.1093/bioinformatics/btu861",
+      "volume": "31",
+      "author": "PR Staab",
+      "year": "2015",
+      "unstructured": "Staab, P. R., Zhu, S., Metzler, D. & Lunter, G. scrm: efficiently simulating long sequences using the approximated coalescent with recombination. Bioinformatics 31, 1680–1682 (2015).",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "8420_CR61",
+      "doi-asserted-by": "publisher",
+      "first-page": "3",
+      "DOI": "10.1023/A:1008800423698",
+      "volume": "9",
+      "author": "FMTA Busing",
+      "year": "1999",
+      "unstructured": "Busing, F. M. T. A., Meijer, E. & Van der Leeden, R. Delete-m jackknife for unequal m. Stat. Comput. 9, 3–8 (1999).",
+      "journal-title": "Stat. Comput."
+    },
+    {
+      "key": "8420_CR62",
+      "doi-asserted-by": "publisher",
+      "first-page": "170",
+      "DOI": "10.1038/nature10336",
+      "volume": "476",
+      "author": "AG Hinch",
+      "year": "2011",
+      "unstructured": "Hinch, A. G. et al. The landscape of recombination in African Americans. Nature 476, 170–175 (2011).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "8420_CR63",
+      "doi-asserted-by": "publisher",
+      "first-page": "eaau1043",
+      "DOI": "10.1126/science.aau1043",
+      "volume": "363",
+      "author": "BV Halldorsson",
+      "year": "2019",
+      "unstructured": "Halldorsson, B. V. et al. Characterizing mutagenic effects of recombination through a sequence-level genetic map. Science 363, eaau1043 (2019).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "8420_CR64",
+      "unstructured": "Salem, N. et al. Ancient DNA from the Green Sahara reveal ancestral North African lineage. Nature (in the press)."
+    },
+    {
+      "key": "8420_CR65",
+      "doi-asserted-by": "publisher",
+      "first-page": "1639",
+      "DOI": "10.1073/pnas.1814338116",
+      "volume": "116",
+      "author": "M Petr",
+      "year": "2019",
+      "unstructured": "Petr, M., Pääbo, S., Kelso, J. & Vernot, B. Limits of long-term selection against Neandertal introgression. Proc. Natl Acad. Sci. USA 116, 1639–1644 (2019).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "8420_CR66",
+      "doi-asserted-by": "publisher",
+      "first-page": "841",
+      "DOI": "10.1093/bioinformatics/btq033",
+      "volume": "26",
+      "author": "AR Quinlan",
+      "year": "2010",
+      "unstructured": "Quinlan, A. R. & Hall, I. M. BEDTools: a flexible suite of utilities for comparing genomic features. Bioinformatics 26, 841–842 (2010).",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "8420_CR67",
+      "unstructured": "Y-DNA Haplogroup Tree 2019, Version 15.73, Date 11 July 2020, https://isogg.org/tree/ (International Society of Genetic Genealogy, 2020)."
+    },
+    {
+      "key": "8420_CR68",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41598-020-64312-w",
+      "volume": "10",
+      "author": "F Pierini",
+      "year": "2020",
+      "unstructured": "Pierini, F. et al. Targeted analysis of polymorphic loci from low-coverage shotgun sequence data allows accurate genotyping of HLA genes in historical human populations. Sci. Rep. 10, 7339 (2020).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "8420_CR69",
+      "doi-asserted-by": "publisher",
+      "first-page": "357",
+      "DOI": "10.1038/nmeth.1923",
+      "volume": "9",
+      "author": "B Langmead",
+      "year": "2012",
+      "unstructured": "Langmead, B. & Salzberg, S. L. Fast gapped-read alignment with Bowtie 2. Nat. Methods 9, 357–359 (2012).",
+      "journal-title": "Nat. Methods"
+    },
+    {
+      "key": "8420_CR70",
+      "doi-asserted-by": "publisher",
+      "first-page": "3310",
+      "DOI": "10.1093/bioinformatics/btu548",
+      "volume": "30",
+      "author": "A Szolek",
+      "year": "2014",
+      "unstructured": "Szolek, A. et al. OptiType: precision HLA typing from next-generation sequencing data. Bioinformatics 30, 3310–3316 (2014).",
+      "journal-title": "Bioinformatics"
+    }
+  ],
+  "container-title": [
+    "Nature"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41586-024-08420-x.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41586-024-08420-x",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41586-024-08420-x.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        20
+      ]
+    ],
+    "date-time": "2025-02-20T07:42:50Z",
+    "timestamp": 1740037370000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41586-024-08420-x"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        12
+      ]
+    ]
+  },
+  "references-count": 70,
+  "journal-issue": {
+    "issue": "8051",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          20
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "8420"
+  ],
+  "URL": "https://doi.org/10.1038/s41586-024-08420-x",
+  "relation": {},
+  "ISSN": [
+    "0028-0836",
+    "1476-4687"
+  ],
+  "issn-type": [
+    {
+      "value": "0028-0836",
+      "type": "print"
+    },
+    {
+      "value": "1476-4687",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        12
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "9 October 2024",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "18 November 2024",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "12 December 2024",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ]
+}

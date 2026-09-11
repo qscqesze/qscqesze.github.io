@@ -1,0 +1,607 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 5,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "105283371": {
+        "pageid": 105283371,
+        "ns": 6,
+        "title": "File:Chagyrskaya Cave Neanderthal mandible fragment.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Chagyrskaya_Cave_Neanderthal_mandible_fragment.jpg/1920px-Chagyrskaya_Cave_Neanderthal_mandible_fragment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1200,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/10/Chagyrskaya_Cave_Neanderthal_mandible_fragment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Chagyrskaya_Cave_Neanderthal_mandible_fragment.jpg/1920px-Chagyrskaya_Cave_Neanderthal_mandible_fragment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1200,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/10/Chagyrskaya_Cave_Neanderthal_mandible_fragment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Chagyrskaya_Cave_Neanderthal_mandible_fragment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chagyrskaya_Cave_Neanderthal_mandible_fragment.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105283371",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-16 19:18:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chagyrskaya Cave Neanderthal mandible fragment",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Le troisième homme - Préhistoire de l‘Altai|Self-published work|Files with coordinates missing SDC location of creation|Chagyrskaya Cave",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "44.936139",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "1.013833",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rechtes Unterkieferfragment (Chagyrskaya 6) mit Eckzahn, Prämolaren und 2 Molaren (Zahn 43 - 47). Freigelegt 2011 in der Tschagyrskaja-Höhle in Sibirien, Quadrat N 10, Schicht 6b, Horizont 3. Original, ausgestellt in der Sonderausstellung \"Le troisième Homme\" im Musée national de Préhistoire in Les Eyzies-de-Tayac, Frankreich (1. Juli bis 13. November 2017).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-09-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Thilo_Parg\" title=\"User:Thilo Parg\">Thilo Parg</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"wikitable\">\n<tbody><tr>\n<td>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:CC_BY-SA_icon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/250px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"46\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/330px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"88\" data-file-height=\"31\"></a></span>\n<span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:D-A-CH_Flag.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/D-A-CH_Flag.svg/120px-D-A-CH_Flag.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"70\" height=\"47\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/D-A-CH_Flag.svg/250px-D-A-CH_Flag.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"450\" data-file-height=\"300\"></a></span>\n</p>\n<hr>\n<p>Der Urheber <a href=\"//commons.wikimedia.org/wiki/User:Silosarg\" class=\"mw-redirect\" title=\"User:Silosarg\">Thilo Parg</a> hat diese Datei unter der <b><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Lizenz CC-BY-SA-4.0</a></b> auf Wikimedia Commons veröffentlicht. Dies bedeutet, dass eine <b>kostenlose, auch kommerzielle Nutzung </b> möglich ist, sofern folgende Bedingungen eingehalten werden:\n</p>\n<ul><li><b>Online-Medien:</b>\n<ol><li>Gut lesbare Angabe des Urhebers neben dem Bild: <b>„Thilo Parg / Wikimedia Commons“</b></li>\n<li>Gut lesbarer Lizenzname neben dem Bild: <b><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">„Lizenz: CC BY-SA 4.0</a>“</b></li></ol></li></ul>\n<ul><li><b>Print-Medien:</b>\n<ol><li>Gut lesbare Angabe des Urhebers direkt neben oder unter dem Bild: <b>„Thilo Parg / Wikimedia Commons“</b></li>\n<li>Gut lesbare Angabe des Lizenznamens direkt neben oder unter dem Bild: <b>„Lizenz: Creative Commons  Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International“'<i> oder </i><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">„Lizenz: CC BY-SA 4.0“</a></b></li></ol></li></ul>\n<p>Diese Bedingungen gelten auch für jegliche Weiterverwendung der jeweiligen Druck- und Onlinepublikation.\n</p>\n<hr>\n<p>Bitte senden Sie mir ein <b>Belegexemplar</b> bzw. die URL Ihrer Publikation zu, in der Sie mein Foto verwenden.\n</p><p>Für Fragen zu diesem Foto und seinen Lizenzbedingungen sowie für die Zusendung der Belegexemplare stehe ich Ihnen gerne unter thilo.pargERSETZENwikipedia.de (ERSETZEN durch @ ersetzen) zur Verfügung. Bitte kontaktieren Sie mich, falls Sie ...\n</p>\n<ul><li>... das Foto in einem anderen Format (z.B. RAW) benötigen</li>\n<li>... das Foto ohne die oben genannten Anforderungen einsetzen möchten</li>\n<li>... Interesse an ähnlichen Bilder haben.</li></ul>\n<hr>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:No_Facebook.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/120px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"18\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/250px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"14\"></a></span>\nDieses Foto darf nicht in Facebook hochgeladen werden! Die Lizenz <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">CC BY-SA 4.0</a> ist nicht mit den Facebook Lizenzbedingungen kompatibel, eine Benutzung dieser Datei auf Facebook stellt eine Urheberrechtsverletzung dar!\n</p>\n<hr>\n<p>Verstöße gegen diese Lizenzbedingungen werden verfolgt, ich empfehle daher, den <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de\">Lizenzhinweisgenerator</a> zu verwenden!\n</p>\n</td></tr></tbody></table>\n<p><br>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<td>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:CC_BY-SA_icon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/250px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"46\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/330px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"88\" data-file-height=\"31\"></a></span>\n<span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:English_language.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/English_language.svg/120px-English_language.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"54\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/English_language.svg/250px-English_language.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></a></span>\n</p>\n<hr>\n<p>The author of this file, <a href=\"//commons.wikimedia.org/wiki/User:Silosarg\" class=\"mw-redirect\" title=\"User:Silosarg\">Thilo Parg</a>, published this file under the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">licence CC-BY-SA-4.0</a></b> on Wikimedia Commons. This means that <b>free, commercial usage</b> is permitted under the following terms and conditions: \n</p>\n<ul><li><b>Online media:</b>\n<ol><li>Legible name of the author next to the image <b>\"Thilo Parg / Wikimedia Commons\"</b></li>\n<li>Legible license name next to the image: <b>\"<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">License: CC BY-SA 4.0</a>\"</b></li></ol></li></ul>\n<ul><li><b>Print media:</b>\n<ol><li>Legible name of the author close to the image <b>\"Thilo Parg / Wikimedia Commons\"</b></li>\n<li>Legible license name next to the image: <b>\"License: Creative Commons  Attribution - ShareAlike 4.0  International\" </b>or<b> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">\"License: CC BY-SA 4.0</a>\"</b></li></ol></li></ul>\n<p>These conditions also apply for any further use of the respective print and online publication.\n</p>\n<hr>\n<p>Please send me a specimen copy or the URL of the website where the file is used.\n</p><p>Feel free to contact me via thilo.pargREPLACEwikipedia.de (replace REPLACE with an @) for any questions or in case you need ... \n</p>\n<ul><li>... a different version (e.g. RAW) of this image</li>\n<li>... a license to use the image without the requirements of the terms and conditions above</li>\n<li>... similar photographs.</li></ul>\n<hr>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:No_Facebook.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/120px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"18\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/250px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"14\"></a></span>\nThis photo has been released under the license <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">CC BY-SA 4.0</a> so you must not upload it to Facebook! Uploading this photo to Facebook constitutes a copyright violation!\n</p>\n<hr>\n<p>Violations of the terms and conditions above will be prosecuted, so I recommend to use the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.lizenzhinweisgenerator.de/?lang=en\">Attribution Generator</a>!\n</p>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "105283336": {
+        "pageid": 105283336,
+        "ns": 6,
+        "title": "File:Chagyrskaya Cave biface.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Chagyrskaya_Cave_biface.jpg/1920px-Chagyrskaya_Cave_biface.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1200,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/00/Chagyrskaya_Cave_biface.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Chagyrskaya_Cave_biface.jpg/1920px-Chagyrskaya_Cave_biface.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1200,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/00/Chagyrskaya_Cave_biface.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Chagyrskaya_Cave_biface.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chagyrskaya_Cave_biface.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105283336",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-14 11:46:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chagyrskaya Cave biface",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Le troisième homme - Préhistoire de l‘Altai|Self-published work|Files with coordinates missing SDC location of creation|Chagyrskaya Cave",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "44.936139",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "1.013833",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ein Faustkeil aus der Tschagyrskaja-Höhle in Sibirien. Original, ausgestellt in der Sonderausstellung \"Le troisième Homme\" im Musée national de Préhistoire in Les Eyzies-de-Tayac, Frankreich (1. Juli bis 13. November 2017).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-09-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Thilo_Parg\" title=\"User:Thilo Parg\">Thilo Parg</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"wikitable\">\n<tbody><tr>\n<td>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:CC_BY-SA_icon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/250px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"46\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/330px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"88\" data-file-height=\"31\"></a></span>\n<span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:D-A-CH_Flag.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/D-A-CH_Flag.svg/120px-D-A-CH_Flag.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"70\" height=\"47\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/D-A-CH_Flag.svg/250px-D-A-CH_Flag.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"450\" data-file-height=\"300\"></a></span>\n</p>\n<hr>\n<p>Der Urheber <a href=\"//commons.wikimedia.org/wiki/User:Silosarg\" class=\"mw-redirect\" title=\"User:Silosarg\">Thilo Parg</a> hat diese Datei unter der <b><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Lizenz CC-BY-SA-4.0</a></b> auf Wikimedia Commons veröffentlicht. Dies bedeutet, dass eine <b>kostenlose, auch kommerzielle Nutzung </b> möglich ist, sofern folgende Bedingungen eingehalten werden:\n</p>\n<ul><li><b>Online-Medien:</b>\n<ol><li>Gut lesbare Angabe des Urhebers neben dem Bild: <b>„Thilo Parg / Wikimedia Commons“</b></li>\n<li>Gut lesbarer Lizenzname neben dem Bild: <b><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">„Lizenz: CC BY-SA 4.0</a>“</b></li></ol></li></ul>\n<ul><li><b>Print-Medien:</b>\n<ol><li>Gut lesbare Angabe des Urhebers direkt neben oder unter dem Bild: <b>„Thilo Parg / Wikimedia Commons“</b></li>\n<li>Gut lesbare Angabe des Lizenznamens direkt neben oder unter dem Bild: <b>„Lizenz: Creative Commons  Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International“'<i> oder </i><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">„Lizenz: CC BY-SA 4.0“</a></b></li></ol></li></ul>\n<p>Diese Bedingungen gelten auch für jegliche Weiterverwendung der jeweiligen Druck- und Onlinepublikation.\n</p>\n<hr>\n<p>Bitte senden Sie mir ein <b>Belegexemplar</b> bzw. die URL Ihrer Publikation zu, in der Sie mein Foto verwenden.\n</p><p>Für Fragen zu diesem Foto und seinen Lizenzbedingungen sowie für die Zusendung der Belegexemplare stehe ich Ihnen gerne unter thilo.pargERSETZENwikipedia.de (ERSETZEN durch @ ersetzen) zur Verfügung. Bitte kontaktieren Sie mich, falls Sie ...\n</p>\n<ul><li>... das Foto in einem anderen Format (z.B. RAW) benötigen</li>\n<li>... das Foto ohne die oben genannten Anforderungen einsetzen möchten</li>\n<li>... Interesse an ähnlichen Bilder haben.</li></ul>\n<hr>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:No_Facebook.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/120px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"18\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/250px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"14\"></a></span>\nDieses Foto darf nicht in Facebook hochgeladen werden! Die Lizenz <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">CC BY-SA 4.0</a> ist nicht mit den Facebook Lizenzbedingungen kompatibel, eine Benutzung dieser Datei auf Facebook stellt eine Urheberrechtsverletzung dar!\n</p>\n<hr>\n<p>Verstöße gegen diese Lizenzbedingungen werden verfolgt, ich empfehle daher, den <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de\">Lizenzhinweisgenerator</a> zu verwenden!\n</p>\n</td></tr></tbody></table>\n<p><br>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<td>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:CC_BY-SA_icon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/250px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"46\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/330px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"88\" data-file-height=\"31\"></a></span>\n<span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:English_language.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/English_language.svg/120px-English_language.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"54\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/English_language.svg/250px-English_language.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></a></span>\n</p>\n<hr>\n<p>The author of this file, <a href=\"//commons.wikimedia.org/wiki/User:Silosarg\" class=\"mw-redirect\" title=\"User:Silosarg\">Thilo Parg</a>, published this file under the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">licence CC-BY-SA-4.0</a></b> on Wikimedia Commons. This means that <b>free, commercial usage</b> is permitted under the following terms and conditions: \n</p>\n<ul><li><b>Online media:</b>\n<ol><li>Legible name of the author next to the image <b>\"Thilo Parg / Wikimedia Commons\"</b></li>\n<li>Legible license name next to the image: <b>\"<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">License: CC BY-SA 4.0</a>\"</b></li></ol></li></ul>\n<ul><li><b>Print media:</b>\n<ol><li>Legible name of the author close to the image <b>\"Thilo Parg / Wikimedia Commons\"</b></li>\n<li>Legible license name next to the image: <b>\"License: Creative Commons  Attribution - ShareAlike 4.0  International\" </b>or<b> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">\"License: CC BY-SA 4.0</a>\"</b></li></ol></li></ul>\n<p>These conditions also apply for any further use of the respective print and online publication.\n</p>\n<hr>\n<p>Please send me a specimen copy or the URL of the website where the file is used.\n</p><p>Feel free to contact me via thilo.pargREPLACEwikipedia.de (replace REPLACE with an @) for any questions or in case you need ... \n</p>\n<ul><li>... a different version (e.g. RAW) of this image</li>\n<li>... a license to use the image without the requirements of the terms and conditions above</li>\n<li>... similar photographs.</li></ul>\n<hr>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:No_Facebook.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/120px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"18\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/250px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"14\"></a></span>\nThis photo has been released under the license <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">CC BY-SA 4.0</a> so you must not upload it to Facebook! Uploading this photo to Facebook constitutes a copyright violation!\n</p>\n<hr>\n<p>Violations of the terms and conditions above will be prosecuted, so I recommend to use the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.lizenzhinweisgenerator.de/?lang=en\">Attribution Generator</a>!\n</p>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "105283407": {
+        "pageid": 105283407,
+        "ns": 6,
+        "title": "File:Chagyrskaya Cave phalanx bone.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Chagyrskaya_Cave_phalanx_bone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1200,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Chagyrskaya_Cave_phalanx_bone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1200
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Chagyrskaya_Cave_phalanx_bone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chagyrskaya_Cave_phalanx_bone.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105283407",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-14 12:30:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chagyrskaya Cave phalanx bone",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Le troisième homme - Préhistoire de l‘Altai|Self-published work|Files with coordinates missing SDC location of creation|Chagyrskaya Cave",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "44.936139",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "1.013833",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ein Zehenknochen (Phalanx distalis) aus der Tschagyrskaja-Höhle in Sibirien. Original, ausgestellt in der Sonderausstellung \"Le troisième Homme\" im Musée national de Préhistoire in Les Eyzies-de-Tayac, Frankreich (1. Juli bis 13. November 2017).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-09-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Thilo_Parg\" title=\"User:Thilo Parg\">Thilo Parg</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"wikitable\">\n<tbody><tr>\n<td>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:CC_BY-SA_icon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/250px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"46\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/330px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"88\" data-file-height=\"31\"></a></span>\n<span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:D-A-CH_Flag.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/D-A-CH_Flag.svg/120px-D-A-CH_Flag.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"70\" height=\"47\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/D-A-CH_Flag.svg/250px-D-A-CH_Flag.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"450\" data-file-height=\"300\"></a></span>\n</p>\n<hr>\n<p>Der Urheber <a href=\"//commons.wikimedia.org/wiki/User:Silosarg\" class=\"mw-redirect\" title=\"User:Silosarg\">Thilo Parg</a> hat diese Datei unter der <b><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Lizenz CC-BY-SA-4.0</a></b> auf Wikimedia Commons veröffentlicht. Dies bedeutet, dass eine <b>kostenlose, auch kommerzielle Nutzung </b> möglich ist, sofern folgende Bedingungen eingehalten werden:\n</p>\n<ul><li><b>Online-Medien:</b>\n<ol><li>Gut lesbare Angabe des Urhebers neben dem Bild: <b>„Thilo Parg / Wikimedia Commons“</b></li>\n<li>Gut lesbarer Lizenzname neben dem Bild: <b><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">„Lizenz: CC BY-SA 4.0</a>“</b></li></ol></li></ul>\n<ul><li><b>Print-Medien:</b>\n<ol><li>Gut lesbare Angabe des Urhebers direkt neben oder unter dem Bild: <b>„Thilo Parg / Wikimedia Commons“</b></li>\n<li>Gut lesbare Angabe des Lizenznamens direkt neben oder unter dem Bild: <b>„Lizenz: Creative Commons  Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International“'<i> oder </i><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">„Lizenz: CC BY-SA 4.0“</a></b></li></ol></li></ul>\n<p>Diese Bedingungen gelten auch für jegliche Weiterverwendung der jeweiligen Druck- und Onlinepublikation.\n</p>\n<hr>\n<p>Bitte senden Sie mir ein <b>Belegexemplar</b> bzw. die URL Ihrer Publikation zu, in der Sie mein Foto verwenden.\n</p><p>Für Fragen zu diesem Foto und seinen Lizenzbedingungen sowie für die Zusendung der Belegexemplare stehe ich Ihnen gerne unter thilo.pargERSETZENwikipedia.de (ERSETZEN durch @ ersetzen) zur Verfügung. Bitte kontaktieren Sie mich, falls Sie ...\n</p>\n<ul><li>... das Foto in einem anderen Format (z.B. RAW) benötigen</li>\n<li>... das Foto ohne die oben genannten Anforderungen einsetzen möchten</li>\n<li>... Interesse an ähnlichen Bilder haben.</li></ul>\n<hr>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:No_Facebook.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/120px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"18\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/250px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"14\"></a></span>\nDieses Foto darf nicht in Facebook hochgeladen werden! Die Lizenz <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">CC BY-SA 4.0</a> ist nicht mit den Facebook Lizenzbedingungen kompatibel, eine Benutzung dieser Datei auf Facebook stellt eine Urheberrechtsverletzung dar!\n</p>\n<hr>\n<p>Verstöße gegen diese Lizenzbedingungen werden verfolgt, ich empfehle daher, den <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de\">Lizenzhinweisgenerator</a> zu verwenden!\n</p>\n</td></tr></tbody></table>\n<p><br>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<td>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:CC_BY-SA_icon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/250px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"46\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/330px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"88\" data-file-height=\"31\"></a></span>\n<span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:English_language.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/English_language.svg/120px-English_language.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"54\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/English_language.svg/250px-English_language.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></a></span>\n</p>\n<hr>\n<p>The author of this file, <a href=\"//commons.wikimedia.org/wiki/User:Silosarg\" class=\"mw-redirect\" title=\"User:Silosarg\">Thilo Parg</a>, published this file under the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">licence CC-BY-SA-4.0</a></b> on Wikimedia Commons. This means that <b>free, commercial usage</b> is permitted under the following terms and conditions: \n</p>\n<ul><li><b>Online media:</b>\n<ol><li>Legible name of the author next to the image <b>\"Thilo Parg / Wikimedia Commons\"</b></li>\n<li>Legible license name next to the image: <b>\"<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">License: CC BY-SA 4.0</a>\"</b></li></ol></li></ul>\n<ul><li><b>Print media:</b>\n<ol><li>Legible name of the author close to the image <b>\"Thilo Parg / Wikimedia Commons\"</b></li>\n<li>Legible license name next to the image: <b>\"License: Creative Commons  Attribution - ShareAlike 4.0  International\" </b>or<b> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">\"License: CC BY-SA 4.0</a>\"</b></li></ol></li></ul>\n<p>These conditions also apply for any further use of the respective print and online publication.\n</p>\n<hr>\n<p>Please send me a specimen copy or the URL of the website where the file is used.\n</p><p>Feel free to contact me via thilo.pargREPLACEwikipedia.de (replace REPLACE with an @) for any questions or in case you need ... \n</p>\n<ul><li>... a different version (e.g. RAW) of this image</li>\n<li>... a license to use the image without the requirements of the terms and conditions above</li>\n<li>... similar photographs.</li></ul>\n<hr>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:No_Facebook.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/120px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"18\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/250px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"14\"></a></span>\nThis photo has been released under the license <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">CC BY-SA 4.0</a> so you must not upload it to Facebook! Uploading this photo to Facebook constitutes a copyright violation!\n</p>\n<hr>\n<p>Violations of the terms and conditions above will be prosecuted, so I recommend to use the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.lizenzhinweisgenerator.de/?lang=en\">Attribution Generator</a>!\n</p>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "105283455": {
+        "pageid": 105283455,
+        "ns": 6,
+        "title": "File:Chagyrskaya Cave retouchers.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Chagyrskaya_Cave_retouchers.jpg/1920px-Chagyrskaya_Cave_retouchers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1199,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/09/Chagyrskaya_Cave_retouchers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Chagyrskaya_Cave_retouchers.jpg/1920px-Chagyrskaya_Cave_retouchers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1199,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/09/Chagyrskaya_Cave_retouchers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Chagyrskaya_Cave_retouchers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chagyrskaya_Cave_retouchers.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105283455",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-16 19:37:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chagyrskaya Cave retouchers",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Le troisième homme - Préhistoire de l‘Altai|Retoucher (lithics)|Self-published work|Files with coordinates missing SDC location of creation|Chagyrskaya Cave",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "44.936139",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "1.013833",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bisonknochen, die als Retuscheure für Steinwerkzeuge genutzt wurden, aus der Tschagyrskaja-Höhle in Sibirien. Originale, ausgestellt in der Sonderausstellung \"Le troisième Homme\" im Musée national de Préhistoire in Les Eyzies-de-Tayac, Frankreich (1. Juli bis 13. November 2017).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-09-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Thilo_Parg\" title=\"User:Thilo Parg\">Thilo Parg</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"wikitable\">\n<tbody><tr>\n<td>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:CC_BY-SA_icon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/250px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"46\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/330px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"88\" data-file-height=\"31\"></a></span>\n<span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:D-A-CH_Flag.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/D-A-CH_Flag.svg/120px-D-A-CH_Flag.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"70\" height=\"47\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/D-A-CH_Flag.svg/250px-D-A-CH_Flag.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"450\" data-file-height=\"300\"></a></span>\n</p>\n<hr>\n<p>Der Urheber <a href=\"//commons.wikimedia.org/wiki/User:Silosarg\" class=\"mw-redirect\" title=\"User:Silosarg\">Thilo Parg</a> hat diese Datei unter der <b><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Lizenz CC-BY-SA-4.0</a></b> auf Wikimedia Commons veröffentlicht. Dies bedeutet, dass eine <b>kostenlose, auch kommerzielle Nutzung </b> möglich ist, sofern folgende Bedingungen eingehalten werden:\n</p>\n<ul><li><b>Online-Medien:</b>\n<ol><li>Gut lesbare Angabe des Urhebers neben dem Bild: <b>„Thilo Parg / Wikimedia Commons“</b></li>\n<li>Gut lesbarer Lizenzname neben dem Bild: <b><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">„Lizenz: CC BY-SA 4.0</a>“</b></li></ol></li></ul>\n<ul><li><b>Print-Medien:</b>\n<ol><li>Gut lesbare Angabe des Urhebers direkt neben oder unter dem Bild: <b>„Thilo Parg / Wikimedia Commons“</b></li>\n<li>Gut lesbare Angabe des Lizenznamens direkt neben oder unter dem Bild: <b>„Lizenz: Creative Commons  Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International“'<i> oder </i><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">„Lizenz: CC BY-SA 4.0“</a></b></li></ol></li></ul>\n<p>Diese Bedingungen gelten auch für jegliche Weiterverwendung der jeweiligen Druck- und Onlinepublikation.\n</p>\n<hr>\n<p>Bitte senden Sie mir ein <b>Belegexemplar</b> bzw. die URL Ihrer Publikation zu, in der Sie mein Foto verwenden.\n</p><p>Für Fragen zu diesem Foto und seinen Lizenzbedingungen sowie für die Zusendung der Belegexemplare stehe ich Ihnen gerne unter thilo.pargERSETZENwikipedia.de (ERSETZEN durch @ ersetzen) zur Verfügung. Bitte kontaktieren Sie mich, falls Sie ...\n</p>\n<ul><li>... das Foto in einem anderen Format (z.B. RAW) benötigen</li>\n<li>... das Foto ohne die oben genannten Anforderungen einsetzen möchten</li>\n<li>... Interesse an ähnlichen Bilder haben.</li></ul>\n<hr>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:No_Facebook.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/120px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"18\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/250px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"14\"></a></span>\nDieses Foto darf nicht in Facebook hochgeladen werden! Die Lizenz <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">CC BY-SA 4.0</a> ist nicht mit den Facebook Lizenzbedingungen kompatibel, eine Benutzung dieser Datei auf Facebook stellt eine Urheberrechtsverletzung dar!\n</p>\n<hr>\n<p>Verstöße gegen diese Lizenzbedingungen werden verfolgt, ich empfehle daher, den <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de\">Lizenzhinweisgenerator</a> zu verwenden!\n</p>\n</td></tr></tbody></table>\n<p><br>\n</p>\n<table class=\"wikitable\">\n<tbody><tr>\n<td>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:CC_BY-SA_icon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/250px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"46\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/330px-CC_BY-SA_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"88\" data-file-height=\"31\"></a></span>\n<span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:English_language.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/English_language.svg/120px-English_language.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"54\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/English_language.svg/250px-English_language.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></a></span>\n</p>\n<hr>\n<p>The author of this file, <a href=\"//commons.wikimedia.org/wiki/User:Silosarg\" class=\"mw-redirect\" title=\"User:Silosarg\">Thilo Parg</a>, published this file under the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">licence CC-BY-SA-4.0</a></b> on Wikimedia Commons. This means that <b>free, commercial usage</b> is permitted under the following terms and conditions: \n</p>\n<ul><li><b>Online media:</b>\n<ol><li>Legible name of the author next to the image <b>\"Thilo Parg / Wikimedia Commons\"</b></li>\n<li>Legible license name next to the image: <b>\"<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">License: CC BY-SA 4.0</a>\"</b></li></ol></li></ul>\n<ul><li><b>Print media:</b>\n<ol><li>Legible name of the author close to the image <b>\"Thilo Parg / Wikimedia Commons\"</b></li>\n<li>Legible license name next to the image: <b>\"License: Creative Commons  Attribution - ShareAlike 4.0  International\" </b>or<b> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">\"License: CC BY-SA 4.0</a>\"</b></li></ol></li></ul>\n<p>These conditions also apply for any further use of the respective print and online publication.\n</p>\n<hr>\n<p>Please send me a specimen copy or the URL of the website where the file is used.\n</p><p>Feel free to contact me via thilo.pargREPLACEwikipedia.de (replace REPLACE with an @) for any questions or in case you need ... \n</p>\n<ul><li>... a different version (e.g. RAW) of this image</li>\n<li>... a license to use the image without the requirements of the terms and conditions above</li>\n<li>... similar photographs.</li></ul>\n<hr>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:No_Facebook.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/120px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"18\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/250px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"14\"></a></span>\nThis photo has been released under the license <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">CC BY-SA 4.0</a> so you must not upload it to Facebook! Uploading this photo to Facebook constitutes a copyright violation!\n</p>\n<hr>\n<p>Violations of the terms and conditions above will be prosecuted, so I recommend to use the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.lizenzhinweisgenerator.de/?lang=en\">Attribution Generator</a>!\n</p>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "105419050": {
+        "pageid": 105419050,
+        "ns": 6,
+        "title": "File:Chagyrskaya cave Altai Russia.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Chagyrskaya_cave_Altai_Russia.jpg/1920px-Chagyrskaya_cave_Altai_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1068,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Chagyrskaya_cave_Altai_Russia.jpg/3840px-Chagyrskaya_cave_Altai_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Chagyrskaya_cave_Altai_Russia.jpg/1920px-Chagyrskaya_cave_Altai_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1068,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Chagyrskaya_cave_Altai_Russia.jpg/3840px-Chagyrskaya_cave_Altai_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Chagyrskaya_cave_Altai_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chagyrskaya_cave_Altai_Russia.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105419050",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-17 14:51:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chagyrskaya cave Altai Russia",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Russia photographs taken on 2017-07-23|Chagyrskaya Cave",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.442794",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "83.154792",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View of the Neanderthal site Chagyrskaya cave, Alta Mountains, Russia.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-07-23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tbviola&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tbviola (page does not exist)\">Tbviola</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

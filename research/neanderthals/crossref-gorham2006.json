@@ -1,0 +1,708 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        10
+      ]
+    ],
+    "date-time": "2026-09-10T16:04:33Z",
+    "timestamp": 1789056273521,
+    "version": "build-2803163510"
+  },
+  "reference-count": 25,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "7113",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2006,
+            9,
+            13
+          ]
+        ],
+        "date-time": "2006-09-13T00:00:00Z",
+        "timestamp": 1158105600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nature"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2006,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.1038/nature05195",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2006,
+        9,
+        13
+      ]
+    ],
+    "date-time": "2006-09-13T17:32:12Z",
+    "timestamp": 1158168732000
+  },
+  "page": "850-853",
+  "source": "Crossref",
+  "is-referenced-by-count": 336,
+  "title": [
+    "Late survival of Neanderthals at the southernmost extreme of Europe"
+  ],
+  "prefix": "10.1038",
+  "volume": "443",
+  "author": [
+    {
+      "given": "Clive",
+      "family": "Finlayson",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Francisco",
+      "family": "Giles Pacheco",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Joaquín",
+      "family": "Rodríguez-Vidal",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Darren A.",
+      "family": "Fa",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "José",
+      "family": "María Gutierrez López",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Antonio",
+      "family": "Santiago Pérez",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Geraldine",
+      "family": "Finlayson",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ethel",
+      "family": "Allue",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Javier",
+      "family": "Baena Preysler",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Isabel",
+      "family": "Cáceres",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "José S.",
+      "family": "Carrión",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yolanda",
+      "family": "Fernández Jalvo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Christopher P.",
+      "family": "Gleed-Owen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Francisco J.",
+      "family": "Jimenez Espejo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Pilar",
+      "family": "López",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "José",
+      "family": "Antonio López Sáez",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "José",
+      "family": "Antonio Riquelme Cantal",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Antonio",
+      "family": "Sánchez Marco",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Francisco",
+      "family": "Giles Guzman",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Kimberly",
+      "family": "Brown",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Noemí",
+      "family": "Fuentes",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Claire A.",
+      "family": "Valarino",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Antonio",
+      "family": "Villalpando",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Christopher B.",
+      "family": "Stringer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Francisca",
+      "family": "Martinez Ruiz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Tatsuhiko",
+      "family": "Sakamoto",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2006,
+        9,
+        13
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "BFnature05195_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "1055",
+      "DOI": "10.1038/nature02999",
+      "volume": "431",
+      "author": "P Brown",
+      "year": "2004",
+      "unstructured": "Brown, P. et al. A new small-bodied hominin from the Late Pleistocene of Flores, Indonesia. Nature 431, 1055–1061 (2004)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature05195_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "931",
+      "DOI": "10.1038/nature04521",
+      "volume": "439",
+      "author": "PA Mellars",
+      "year": "2006",
+      "unstructured": "Mellars, P. A. A new radiocarbon revolution and the dispersal of modern humans in Eurasia. Nature 439, 931–935 (2006)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature05195_CR3",
+      "unstructured": "Busk, G. On a very ancient cranium from Gibraltar. Report of the 34th Meeting of the British Association for the Advancement of Science (Bath, 1864) 91–92 (1865)"
+    },
+    {
+      "key": "BFnature05195_CR4",
+      "first-page": "91",
+      "volume": "58",
+      "author": "DAE Garrod",
+      "year": "1928",
+      "unstructured": "Garrod, D. A. E., Buxton, L. H. D., Elliot Smith, G. & Bate, D. M. A. Excavation of a Mousterian Rock-shelter at Devil’s Tower, Gibraltar. J. R. Anthropol. Inst. 58, 91–113 (1928)",
+      "journal-title": "J. R. Anthropol. Inst."
+    },
+    {
+      "key": "BFnature05195_CR5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mellars, P. The Neanderthal Legacy (Princeton Univ. Press, Princeton, 1996)",
+      "DOI": "10.1515/9781400843602"
+    },
+    {
+      "key": "BFnature05195_CR6",
+      "first-page": "189",
+      "volume": "4",
+      "author": "J Waechter",
+      "year": "1964",
+      "unstructured": "Waechter, J. D’A. The excavations at Gorham’s Cave, Gibraltar, 1951–1954. Bull. Inst. Archaeol. Lond. 4, 189–221 (1964)",
+      "journal-title": "Bull. Inst. Archaeol. Lond."
+    },
+    {
+      "key": "BFnature05195_CR7",
+      "unstructured": "Barton, N. in Neanderthals on the Edge (eds Stringer, C. B., Barton, R. N. E. & Finlayson, C.) 211–220 (Oxbow Books, Oxford, 2000)"
+    },
+    {
+      "key": "BFnature05195_CR8",
+      "unstructured": "Pettitt, P. B. & Bailey, R. M. in Neanderthals on the Edge (eds Stringer, C. B., Barton, R. N. E. & Finlayson, C.) 155–162 (Oxbow Books, Oxford, 2000)"
+    },
+    {
+      "key": "BFnature05195_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "855",
+      "DOI": "10.1016/j.quascirev.2005.09.009",
+      "volume": "25",
+      "author": "PJ Reimer",
+      "year": "2006",
+      "unstructured": "Reimer, P. J. et al. Comment on ‘Radiocarbon calibration curve spanning 0 to 50,000 years BP based on paired 230Th/234U/238U and 14C dates on pristine corals’ by R. G. Fairbanks et al. (Quaternary Science Reviews 24 (2005) 1781–1796) and ‘Extending the radiocarbon calibration beyond 26,000 years before present using fossil corals’ by T.-C. Chin et al. (Quaternary Science Reviews 24 (2005) 1797–1808). Quat. Sci. Rev. 25, 855–862 (2006)",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "BFnature05195_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1002/xrs.880",
+      "volume": "35",
+      "author": "FP Romano",
+      "year": "2006",
+      "unstructured": "Romano, F. P. et al. Quantitative non-destructive determination of trace elements in archaeological pottery using a portable beam stability-controlled XRF spectrometer. XRay Spectrom. 35, 1–7 (2006)",
+      "journal-title": "XRay Spectrom."
+    },
+    {
+      "key": "BFnature05195_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "201",
+      "DOI": "10.1002/oa.756",
+      "volume": "14",
+      "author": "S Gaudzinski",
+      "year": "2004",
+      "unstructured": "Gaudzinski, S. (2004) A matter of high resolution? The Eemian Interglacial (OIS 5e) in North-central Europe and Middle Palaeolithic subsistence. Int. J. Osteoarchaeol. 14, 201–211 (2004)",
+      "journal-title": "Int. J. Osteoarchaeol."
+    },
+    {
+      "key": "BFnature05195_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "1633",
+      "DOI": "10.1016/S0305-4403(03)00064-5",
+      "volume": "30",
+      "author": "DK Grayson",
+      "year": "2003",
+      "unstructured": "Grayson, D. K. & Delpech, F. Ungulates and the Middle-to-Upper Paleolithic transition at Grotte XVI (Dordogne, France). J. Archaeol. Sci. 30, 1633–1648 (2003)",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "BFnature05195_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "179",
+      "DOI": "10.1017/S0033822200066388",
+      "volume": "48",
+      "author": "TFG Higham",
+      "year": "2006",
+      "unstructured": "Higham, T. F. G., Jacobi, R. M. & Bronk Ramsay, C. AMS radiocarbon dating of ancient bone using ultrafiltration. Radiocarbon 48, 179–195 (2006)",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "BFnature05195_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "553",
+      "DOI": "10.1073/pnas.0510005103",
+      "volume": "103",
+      "author": "T Higham",
+      "year": "2006",
+      "unstructured": "Higham, T., Bronk Ramsey, C., Karavanic, I., Smith, F. H. & Trinkaus, E. Revised direct radiocarbon dating of the Vindija G1 Upper Palaeolithic Neanderthals. Proc. Natl Acad. Sci. USA 103, 553–557 (2006)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature05195_CR15",
+      "unstructured": "Barroso Ruiz, C. (ed.) El Pleistoceno Superior de la Cueva del Boquete de Zafarraya (Junta de Andalucía, Arqueología Monografías, 2003)"
+    },
+    {
+      "key": "BFnature05195_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "219",
+      "DOI": "10.1016/j.apradiso.2004.08.008",
+      "volume": "62",
+      "author": "AR Skinner",
+      "year": "2005",
+      "unstructured": "Skinner, A. R. et al. ESR dating at Mezmaiskaya Cave, Russia. Appl. Radiat. Isot. 62, 219–224 (2005)",
+      "journal-title": "Appl. Radiat. Isot."
+    },
+    {
+      "key": "BFnature05195_CR17",
+      "unstructured": "Zilhao, J. in Neanderthals on the Edge (eds Stringer, C. B., Barton, R. N. E. & Finlayson, C.) 111–119 (Oxbow Books, Oxford, 2000)"
+    },
+    {
+      "key": "BFnature05195_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "457",
+      "DOI": "10.1016/j.tree.2005.05.019",
+      "volume": "20",
+      "author": "C Finlayson",
+      "year": "2005",
+      "unstructured": "Finlayson, C. Biogeography and evolution of the genus Homo.. Trends Ecol. Evol. 20, 457–463 (2005)",
+      "journal-title": "Trends Ecol. Evol."
+    },
+    {
+      "key": "BFnature05195_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "769",
+      "DOI": "10.1016/S0277-3791(03)00009-X",
+      "volume": "22",
+      "author": "F d’Errico",
+      "year": "2003",
+      "unstructured": "d’Errico, F. & Sánchez Goñi, M. F. Neanderthal extinction and the millennial scale climatic variability of OIS 3. Quat. Sci. Rev 22, 769–788 (2003)",
+      "journal-title": "Quat. Sci. Rev"
+    },
+    {
+      "key": "BFnature05195_CR20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Finlayson, C. Neanderthals and Modern Humans (Cambridge Univ. Press, Cambridge, 2004)",
+      "DOI": "10.1017/CBO9780511542374"
+    },
+    {
+      "key": "BFnature05195_CR21",
+      "doi-asserted-by": "crossref",
+      "first-page": "341",
+      "DOI": "10.1086/200024",
+      "volume": "40",
+      "author": "P Mellars",
+      "year": "1999",
+      "unstructured": "Mellars, P. The Neanderthal problem continued. Curr. Anthropol. 40, 341–364 (1999)",
+      "journal-title": "Curr. Anthropol."
+    },
+    {
+      "key": "BFnature05195_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "665",
+      "DOI": "10.1111/j.1525-1314.1991.tb00556.x",
+      "volume": "9",
+      "author": "HJ Kirsch",
+      "year": "1991",
+      "unstructured": "Kirsch, H. J. Illite crystalinity: recommendations on sample preparation, X-ray diffraction settings, and interlaboratory samples. J. Metamorphic Geol. 9, 665–670 (1991)",
+      "journal-title": "J. Metamorphic Geol."
+    },
+    {
+      "key": "BFnature05195_CR23",
+      "unstructured": "Martin, J. D. Qualitative and quantitative powder X-ray diffraction analysis. &lt; http://www.xpowder.com &gt; (2004)"
+    },
+    {
+      "key": "BFnature05195_CR24",
+      "first-page": "37",
+      "volume": "2",
+      "author": "T Sakamoto",
+      "year": "2006",
+      "unstructured": "Sakamoto, T. et al. 2006 non-destructive X-ray fluorescence (XRF) core imaging scanner, ‘TATSCAN-F2’ for the IODP science, scientific drilling. Integrated ODP 2, 37–39 (2006)",
+      "journal-title": "Integrated ODP"
+    },
+    {
+      "key": "BFnature05195_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "145",
+      "DOI": "10.1016/S0009-2541(96)00073-3",
+      "volume": "133",
+      "author": "F Bea",
+      "year": "1996",
+      "unstructured": "Bea, F., Montero, P., Stroh, A. & Baasner, J. Microanalysis of minerals by an Excimer UV-LA-ICP-MS system. Chem. Geol. 133, 145–156 (1996)",
+      "journal-title": "Chem. Geol."
+    }
+  ],
+  "container-title": [
+    "Nature"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://www.nature.com/articles/nature05195.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://www.nature.com/articles/nature05195",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://www.nature.com/articles/nature05195.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        18
+      ]
+    ],
+    "date-time": "2023-05-18T17:59:20Z",
+    "timestamp": 1684432760000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/nature05195"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2006,
+        9,
+        13
+      ]
+    ]
+  },
+  "references-count": 25,
+  "journal-issue": {
+    "issue": "7113",
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          10
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "BFnature05195"
+  ],
+  "URL": "https://doi.org/10.1038/nature05195",
+  "relation": {},
+  "ISSN": [
+    "0028-0836",
+    "1476-4687"
+  ],
+  "issn-type": [
+    {
+      "value": "0028-0836",
+      "type": "print"
+    },
+    {
+      "value": "1476-4687",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2006,
+        9,
+        13
+      ]
+    ]
+  }
+}

@@ -1,0 +1,901 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        5
+      ]
+    ],
+    "date-time": "2026-09-05T09:48:27Z",
+    "timestamp": 1788601707521,
+    "version": "build-2803163510"
+  },
+  "reference-count": 50,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "7605",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2016,
+            5,
+            25
+          ]
+        ],
+        "date-time": "2016-05-25T00:00:00Z",
+        "timestamp": 1464134400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nature"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2016,
+        6
+      ]
+    ]
+  },
+  "DOI": "10.1038/nature18291",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        24
+      ]
+    ],
+    "date-time": "2016-05-24T21:54:15Z",
+    "timestamp": 1464126855000
+  },
+  "page": "111-114",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 213,
+  "title": [
+    "Early Neanderthal constructions deep in Bruniquel Cave in southwestern France"
+  ],
+  "prefix": "10.1038",
+  "volume": "534",
+  "author": [
+    {
+      "given": "Jacques",
+      "family": "Jaubert",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sophie",
+      "family": "Verheyden",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Dominique",
+      "family": "Genty",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Michel",
+      "family": "Soulier",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hai",
+      "family": "Cheng",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Dominique",
+      "family": "Blamart",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Christian",
+      "family": "Burlet",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hubert",
+      "family": "Camus",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Serge",
+      "family": "Delaby",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Damien",
+      "family": "Deldicque",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "R. Lawrence",
+      "family": "Edwards",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Catherine",
+      "family": "Ferrier",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "François",
+      "family": "Lacrampe-Cuyaubère",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "François",
+      "family": "Lévêque",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Frédéric",
+      "family": "Maksud",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Pascal",
+      "family": "Mora",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xavier",
+      "family": "Muth",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Édouard",
+      "family": "Régnier",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jean-Noël",
+      "family": "Rouzaud",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Frédéric",
+      "family": "Santos",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        25
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "BFnature18291_CR1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mellars, P. The Neanderthal Legacy. An Archaeological Perspective from Western Europe, (Princeton University Press, 1996)",
+      "DOI": "10.1515/9781400843602"
+    },
+    {
+      "key": "BFnature18291_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "14186",
+      "DOI": "10.1073/pnas.1302730110",
+      "volume": "110",
+      "author": "M Soressi",
+      "year": "2013",
+      "unstructured": "Soressi, M. et al. Neandertals made the first specialized bone tools in Europe. Proc. Natl Acad. Sci. USA 110, 14186–14190 (2013)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature18291_CR3",
+      "first-page": "297",
+      "volume": "23",
+      "author": "M Soressi",
+      "year": "2007",
+      "unstructured": "Soressi, M. & d’Errico, F. Pigments, gravures, parures: les comportements controversés des Néandertaliens. In Les Néandertaliens, Biologie et Cultures (eds Vandermeersch B. et Maureille B. ) Doc. Préhist. 23, Paris, CTHS, 297–309 (2007)",
+      "journal-title": "Les Néandertaliens, Biologie et Cultures"
+    },
+    {
+      "key": "BFnature18291_CR4",
+      "first-page": "311",
+      "volume": "23",
+      "author": "B Maureille",
+      "year": "2007",
+      "unstructured": "Maureille, B. & Vandermeersch, B. Les sépultures néandertaliennes. In Les Néandertaliens, Biologie et Cultures (eds Vandermeersch, B. & Maureille, B. ) Doc. Préhist. 23, Paris: CTHS, 311–322 (2007)",
+      "journal-title": "Les Néandertaliens, Biologie et Cultures"
+    },
+    {
+      "key": "BFnature18291_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "e96424",
+      "DOI": "10.1371/journal.pone.0096424",
+      "volume": "9",
+      "author": "P Villa",
+      "year": "2014",
+      "unstructured": "Villa, P. & Roebroeks, W. Neandertal Demise: An Archaeological Analysis of the Modern Human Superiority Complex. PLoS One 9, e96424 (2014)",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "BFnature18291_CR6",
+      "first-page": "27",
+      "volume": "60",
+      "author": "F Rouzaud",
+      "year": "1996",
+      "unstructured": "Rouzaud, F., Soulier, M. & Lignereux, Y. La grotte de Bruniquel. Spelunca 60, 27–34 (1996)",
+      "journal-title": "Spelunca"
+    },
+    {
+      "key": "BFnature18291_CR7",
+      "unstructured": "Lafon, L. La Grotte de Bruniquel (Tarn-et-Garonne). Inventaire au Sol des Vestiges Fauniques. Thesis, University of Toulouse Paul Sabatier (1996)"
+    },
+    {
+      "key": "BFnature18291_CR8",
+      "unstructured": "Lorblanchet, M. La Naissance de l'Art. Genèse de l'Art Préhistorique (Paris, Errance, 1999)"
+    },
+    {
+      "key": "BFnature18291_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1111/j.1468-0092.2011.00376.x",
+      "volume": "31",
+      "author": "B Hayden",
+      "year": "2012",
+      "unstructured": "Hayden, B. Neandertal social structure? Oxf. J. Archaeol. 31, 1–26 (2012)",
+      "journal-title": "Oxf. J. Archaeol."
+    },
+    {
+      "key": "BFnature18291_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "82",
+      "DOI": "10.1016/j.epsl.2013.04.006",
+      "volume": "371–372",
+      "author": "H Cheng",
+      "year": "2013",
+      "unstructured": "Cheng, H. et al. Improvements in 230Th dating, 230Th and 234U half-life values, and U-Th isotopic measurements by multi-collector inductively coupled plasma mass spectrometry. Earth Planet. Sci. Lett. 371–372, 82–91 (2013)",
+      "journal-title": "Earth Planet. Sci. Lett."
+    },
+    {
+      "key": "BFnature18291_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "122",
+      "DOI": "10.1016/j.palaeo.2013.02.026",
+      "volume": "376",
+      "author": "K Wainer",
+      "year": "2013",
+      "unstructured": "Wainer, K. et al. Millennial climatic instability during penultimate glacial period recorded in a south-western France speleothem. Palaeogeogr., Palaeoclim. Palaeoecology 376, 122–131 (2013)",
+      "journal-title": "Palaeogeogr., Palaeoclim. Palaeoecology"
+    },
+    {
+      "key": "BFnature18291_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "16022",
+      "DOI": "10.1073/pnas.0904119106",
+      "volume": "106",
+      "author": "J-J Hublin",
+      "year": "2009",
+      "unstructured": "Hublin, J.-J. The origin of Neandertals. Proc. Natl Acad. Sci. USA 106, 16022–16027 (2009)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature18291_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "212",
+      "DOI": "10.1016/j.quaint.2010.11.031",
+      "volume": "247",
+      "author": "M Otte",
+      "year": "2012",
+      "unstructured": "Otte, M. The management of space during the Paleolithic. Quatern. Int. 247, 212–229 (2012)",
+      "journal-title": "Quatern. Int."
+    },
+    {
+      "key": "BFnature18291_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "453",
+      "DOI": "10.1006/jhev.2000.0435",
+      "volume": "39",
+      "author": "S McBrearty",
+      "year": "2000",
+      "unstructured": "McBrearty, S. & Brooks, A. S. The revolution that wasn’t: a new interpretation of the origin of modern human behavior. J. Hum. Evol. 39, 453–563 (2000)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature18291_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "188",
+      "DOI": "10.1002/evan.10113",
+      "volume": "12–4",
+      "author": "F D’Errico",
+      "year": "2003",
+      "unstructured": "D’Errico, F. The invisible frontier. A multiple species model for the origin of behavioral modernity. Evol. Anthropol. 12–4, 188–202 (2003)",
+      "journal-title": "Evol. Anthropol."
+    },
+    {
+      "key": "BFnature18291_CR16",
+      "unstructured": "Tchernych, A. P. in Molodova I: A Single Case of Mousterian Settlement in the Middle Dniestr Basin (in Russian) (ed. Goretsky, G.I. & Ivanova, I.K. ) 6–102 (Nauka, 1982)"
+    },
+    {
+      "key": "BFnature18291_CR17",
+      "unstructured": "de Lumley, H. Une Cabane Acheuléenne dans la Grotte du Lazaret à Nice. Vol. 7, Paris, Soc. Préhist. Franç. (1969)"
+    },
+    {
+      "key": "BFnature18291_CR18",
+      "unstructured": "Mania, D. H. et al. Bilzingsleben II. Homo erectus – Seine Kultur und Seine Umwelt. VEB Deutscher Verlag der Wissenschaften, Berlin (1983)"
+    },
+    {
+      "key": "BFnature18291_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "725",
+      "DOI": "10.1126/science.1095443",
+      "volume": "304",
+      "author": "N Goren-Inbar",
+      "year": "2004",
+      "unstructured": "Goren-Inbar, N. et al. Evidence of hominin control of fire at Gesher Benot Ya’aqov, Israel. Science 304, 725–727 (2004)",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BFnature18291_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "1215",
+      "DOI": "10.1073/pnas.1117620109",
+      "volume": "109",
+      "author": "F Berna",
+      "year": "2012",
+      "unstructured": "Berna, F. et al. Microstratigraphic evidence of in situ fire in the Acheulean strata of Wonderwerk Cave, Northern Cape Province, South Africa. Proc. Natl Acad. Sci. USA 109, 1215–1220 (2012)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature18291_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "5209",
+      "DOI": "10.1073/pnas.1018116108",
+      "volume": "108",
+      "author": "W Roebroeks",
+      "year": "2011",
+      "unstructured": "Roebroeks, W. & Villa, P. On the earliest evidence for habitual use of fire in Europe. Proc. Natl Acad. Sci. USA 108, 5209–5214 (2011)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature18291_CR22",
+      "first-page": "1133",
+      "volume": "320",
+      "author": "J Clottes",
+      "year": "1995",
+      "unstructured": "Clottes, J. et al. Les peintures paléolithiques de la grotte Chauvet-Pont d’Arc, à Vallon-Pont-d’Arc (Ardèche, France): datations directes et indirectes par la méthode du radiocarbon. C.R. Acad. Sc. Paris 320, 1133–1140 (1995)",
+      "journal-title": "C.R. Acad. Sc. Paris"
+    },
+    {
+      "key": "BFnature18291_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "172",
+      "DOI": "10.1016/S0033-5894(03)00064-4",
+      "volume": "60",
+      "author": "V Plagnes",
+      "year": "2003",
+      "unstructured": "Plagnes, V. et al. Cross dating (Th/U-14C) of calcite covering prehistoric paintings in Borneo. Quat. Res. 60, 172–179 (2003)",
+      "journal-title": "Quat. Res."
+    },
+    {
+      "key": "BFnature18291_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "223",
+      "DOI": "10.1038/nature13422",
+      "volume": "514",
+      "author": "M Aubert",
+      "year": "2014",
+      "unstructured": "Aubert, M. et al. Pleistocene cave art from Sulawesi, Indonesia. Nature 514, 223–227 (2014)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature18291_CR25",
+      "first-page": "64",
+      "volume": "2",
+      "author": "R Bednarik",
+      "year": "1990",
+      "unstructured": "Bednarik, R. The cave petroglyphs of Australia. Aust. Aborig. Stud. 2, 64–68 (1990)",
+      "journal-title": "Aust. Aborig. Stud."
+    },
+    {
+      "key": "BFnature18291_CR26",
+      "unstructured": "Arsuaga, J. L. Bermudez de Castro, J. M. & Carbonell, E. (Eds) The Sima de los Huesos hominid site. J. Hum. Evol. 33 (special issue)"
+    },
+    {
+      "key": "BFnature18291_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "1151",
+      "DOI": "10.1016/j.quascirev.2004.12.001",
+      "volume": "24",
+      "author": "BP Onac",
+      "year": "2005",
+      "unstructured": "Onac, B. P. et al. U-Th ages constraining the Neanderthal footprint at Vârtop Cave, Romania. Quat. Sci. 24, 1151–1157 (2005)",
+      "journal-title": "Quat. Sci."
+    },
+    {
+      "key": "BFnature18291_CR28",
+      "unstructured": "Bégouën, R., Clottes, J., Feruglio, V. & Pastoors, A. La Caverne des Trois-Frères, Paris Somogy- Assoc. L. Bégouën (2013)"
+    },
+    {
+      "key": "BFnature18291_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "12",
+      "DOI": "10.1017/S0003598X00048596",
+      "volume": "87",
+      "author": "J-J Delannoy",
+      "year": "2013",
+      "unstructured": "Delannoy, J.-J. et al. The social construction of caves and rockshelters: Chauvet Cave (France) and Nawarla Gabarnmang (Australia). Antiquity 87, 12–29 (2013)",
+      "journal-title": "Antiquity"
+    },
+    {
+      "key": "BFnature18291_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "429",
+      "DOI": "10.1038/20859",
+      "volume": "399",
+      "author": "JR Petit",
+      "year": "1999",
+      "unstructured": "Petit, J. R. et al. Climate and atmospheric history of the past 420,000 years from the Vostok ice core, Antarctica. Nature 399, 429–436 (1999)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature18291_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "89",
+      "DOI": "10.3406/pal.1990.990",
+      "volume": "2",
+      "author": "F Rouzaud",
+      "year": "1990",
+      "unstructured": "Rouzaud, F., Soulier, M., Brugal, J.-Ph. & Jaubert, J. L’Igue des Rameaux (Saint-Antonin-Noble- Val, Tarn-et-Garonne). Un nouveau gisement du Pléistocène moyen. Premiers résultats. Paléo 2, 89–106 (1990)",
+      "journal-title": "Premiers résultats. Paléo"
+    },
+    {
+      "key": "BFnature18291_CR32",
+      "unstructured": "Faivre, J.-Ph . et al. In Modalités d'Occupations et Exploitation des Milieux au Paléolithique dans le Sud-Ouest de la France: l'Exemple du Quercy (eds Jarry, M., Brugal, J.-Ph. & Ferrier, C. ), Paléo 4 (suppl.), 231–270 (2013)"
+    },
+    {
+      "key": "BFnature18291_CR33",
+      "unstructured": "Clottes, J. et al. In L’Art des Cavernes. Atlas des Grottes Ornées Françaises (Paris, Ministère de la Culture-Imprimerie Nationale), 540–551 (1984)"
+    },
+    {
+      "key": "BFnature18291_CR34",
+      "unstructured": "Cantalejo, P., del Mar Espejo, M., Ramos, J. & Weniger, G. C. Elementos de iluminación in Cueva de Árdales. Intervenciones arqueológicas 2011-2014 (eds Ramos, J., Weniger, G.C., Cantalejo, P. & del Mar Espejo, M. ) Ediciones Pinsapar, 119–146 (2014)"
+    },
+    {
+      "key": "BFnature18291_CR35",
+      "unstructured": "Brodard, A. et al. In Actes du colloque MADAPCA, Micro Analyses et Datations de l’Art Préhistorique dans son Contexte Archéologique, MNHN-C2RMF, 16-18 novembre 2011. Paléo (special issue) 233–235 (2014)"
+    },
+    {
+      "key": "BFnature18291_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1111/j.1365-3091.1997.tb00421.x",
+      "volume": "44",
+      "author": "P Bertran",
+      "year": "1997",
+      "unstructured": "Bertran, P., Hétu, B. & Texier, J.-P. Fabric characteristics of subaerial slope deposits. Sedimentology 44, 1–16 (1997)",
+      "journal-title": "Sedimentology"
+    },
+    {
+      "key": "BFnature18291_CR37",
+      "doi-asserted-by": "publisher",
+      "first-page": "457",
+      "DOI": "10.1016/j.jas.2003.09.013",
+      "volume": "31",
+      "author": "A Lenoble",
+      "year": "2004",
+      "unstructured": "Lenoble, A. & Bertran, P. Fabric of Palaeolithic levels: methods and implications for site formation processes. J. Archaeol. Sci. 31, 457–469 (2004)",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "BFnature18291_CR38",
+      "unstructured": "Scollar, I., Tabbagh, A., Hesse, A. & Herzog, I. Archaeological Prospecting and Remote Sensing. Cambridge, Cambridge University Press (1990)"
+    },
+    {
+      "key": "BFnature18291_CR39",
+      "first-page": "159",
+      "volume": "16",
+      "author": "E Le Borgne",
+      "year": "1960",
+      "unstructured": "Le Borgne, E. Influence du feu sur les propriétés magnétiques du sol et sur celles du schiste et du granite. Ann. Geophys. 16, 159–195 (1960)",
+      "journal-title": "Ann. Geophys."
+    },
+    {
+      "key": "BFnature18291_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "207",
+      "DOI": "10.1002/arp.277",
+      "volume": "13",
+      "author": "D Maki",
+      "year": "2006",
+      "unstructured": "Maki, D., Homburg, J. A. & Brosowske, S. D. Thermally activated mineralogical transformations in archaeological hearths: inversion from maghemite (γFe2O3) phase to hematite (αFe2O3) form. Archaeol. Prospect. 13, 207–227 (2006)",
+      "journal-title": "Archaeol. Prospect."
+    },
+    {
+      "key": "BFnature18291_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "176",
+      "DOI": "10.1016/j.epsl.2011.10.006",
+      "volume": "312",
+      "author": "Á Carrancho",
+      "year": "2011",
+      "unstructured": "Carrancho, Á. & Villalaín, J. J. Different mechanisms of magnetisation recorded in experimental fires: archaeomagnetic implications. Earth Planet. Sci. Lett. 312, 176–187 (2011)",
+      "journal-title": "Earth Planet. Sci. Lett."
+    },
+    {
+      "key": "BFnature18291_CR42",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Jrad, A. et al. Magnetic investigations of buried palaeohearths inside a Palaeolithic cave (Lazaret, Nice, France). Archaeol. Prospect. (2013)",
+      "DOI": "10.1002/arp.1469"
+    },
+    {
+      "key": "BFnature18291_CR43",
+      "doi-asserted-by": "publisher",
+      "first-page": "353",
+      "DOI": "10.1016/j.quageo.2012.04.013",
+      "volume": "10",
+      "author": "A Brodard",
+      "year": "2012",
+      "unstructured": "Brodard, A. et al. Thermal characterization of ancient hearths from the cave of Les Fraux (Dordogne, France) by thermoluminescence and magnetic susceptibility measurements. Quat. Geochronol. 10, 353–358 (2012)",
+      "journal-title": "Quat. Geochronol."
+    },
+    {
+      "issue": "1",
+      "key": "BFnature18291_CR44",
+      "doi-asserted-by": "publisher",
+      "first-page": "179",
+      "DOI": "10.1260/2047-4970.3.1.179",
+      "volume": "3",
+      "author": "A. Burens",
+      "year": "2014",
+      "unstructured": "Burens, A. et al. Benefits of an accurate 3D Documentation in Understanding the Status of the Bronze Age Heritage Cave ‘Les Fraux’ (France). Int. J. of Heritage in the Digital Era 1, 179–195 (2014)",
+      "journal-title": "International Journal of Heritage in the Digital Era"
+    },
+    {
+      "key": "BFnature18291_CR45",
+      "doi-asserted-by": "publisher",
+      "first-page": "223",
+      "DOI": "10.1006/jasc.1995.0024",
+      "volume": "22",
+      "author": "MC Stiner",
+      "year": "1995",
+      "unstructured": "Stiner, M. C. & Kuhn, S. L. Differential burning, recrystallization, and fragmentation of archaeological bone. J. Archaeol. Sci. 22, 223–237 (1995)",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "BFnature18291_CR46",
+      "first-page": "179",
+      "volume": "35",
+      "author": "M Lebon",
+      "year": "2011",
+      "unstructured": "Lebon, M. et al. Application des micro-spectrométries infrarouges et Raman à l’étude des processus diagénétiques altérant les ossements paléolithiques. Rev. Archéométrie 35, 179–190 (2011)",
+      "journal-title": "Rev. Archéométrie"
+    },
+    {
+      "key": "BFnature18291_CR47",
+      "doi-asserted-by": "publisher",
+      "first-page": "181",
+      "DOI": "10.1016/j.scijus.2014.12.002",
+      "volume": "55",
+      "author": "STD Ellingham",
+      "year": "2015",
+      "unstructured": "Ellingham, S. T. D., Thompson, T. J. U., Islam, M. & Taylor, G. Estimating temperature exposure of burnt bone - a methodological review. Sci. Justice 55, 181–188 (2015)",
+      "journal-title": "Sci. Justice"
+    },
+    {
+      "key": "BFnature18291_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "124",
+      "DOI": "10.1016/j.crte.2015.04.004",
+      "volume": "347",
+      "author": "J-N Rouzaud",
+      "year": "2015",
+      "unstructured": "Rouzaud, J.-N., Deldicque, D., Charon, E. & Pageot, J. Carbons in the heart of energy and environment questions: a nanostructural approach. C. R. Geosci. 347, 124–133 (2015)",
+      "journal-title": "C. R. Geosci."
+    },
+    {
+      "key": "BFnature18291_CR49",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Deldicque, D., Rouzaud, J.-N. & Velde, B. A Raman-HRTEM study of the carbonization of wood: a new Raman-based paleothermometer dedicated to archaeometry. Carbon (2016)",
+      "DOI": "10.1016/j.carbon.2016.02.042"
+    },
+    {
+      "key": "BFnature18291_CR50",
+      "doi-asserted-by": "publisher",
+      "first-page": "130",
+      "DOI": "10.1016/j.quascirev.2010.07.004",
+      "volume": "30",
+      "author": "K Wainer",
+      "year": "2011",
+      "unstructured": "Wainer, K. et al. Speleothem record of the last 180 ka in Villars cave (SW France): investigation of a large delta (18)O shift between MIS6 and MIS5. Quat. Sci. Rev. 30, 130–146 (2011)",
+      "journal-title": "Quat. Sci. Rev."
+    }
+  ],
+  "container-title": [
+    "Nature"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://www.nature.com/articles/nature18291.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://www.nature.com/articles/nature18291",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://www.nature.com/articles/nature18291.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        18
+      ]
+    ],
+    "date-time": "2023-05-18T13:52:34Z",
+    "timestamp": 1684417954000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/nature18291"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        25
+      ]
+    ]
+  },
+  "references-count": 50,
+  "journal-issue": {
+    "issue": "7605",
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          6
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "BFnature18291"
+  ],
+  "URL": "https://doi.org/10.1038/nature18291",
+  "relation": {},
+  "ISSN": [
+    "0028-0836",
+    "1476-4687"
+  ],
+  "issn-type": [
+    {
+      "value": "0028-0836",
+      "type": "print"
+    },
+    {
+      "value": "1476-4687",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        25
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "19 August 2015",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "27 April 2016",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "25 May 2016",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing financial interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ]
+}

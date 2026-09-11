@@ -1,0 +1,1311 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        2
+      ]
+    ],
+    "date-time": "2026-07-02T03:12:08Z",
+    "timestamp": 1782961928293,
+    "version": "3.54.5"
+  },
+  "reference-count": 67,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            31
+          ]
+        ],
+        "date-time": "2024-01-31T00:00:00Z",
+        "timestamp": 1706659200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            31
+          ]
+        ],
+        "date-time": "2024-01-31T00:00:00Z",
+        "timestamp": 1706659200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100004189",
+      "name": "Max-Planck-Gesellschaft",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100004189",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100000275",
+      "name": "Leverhulme Trust",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "PLP-2019-284"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "PLP-2019-284"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100000275",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001659",
+      "name": "Deutsche Forschungsgemeinschaft",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "378496604"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "378496604"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001659",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001659",
+      "name": "Deutsche Forschungsgemeinschaft",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "378496604"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "378496604"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001659",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001659",
+      "name": "Deutsche Forschungsgemeinschaft",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "378496604"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "378496604"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001659",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nat Ecol Evol"
+  ],
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>The spread of <jats:italic>Homo sapiens</jats:italic> into new habitats across Eurasia ~45,000 years ago and the concurrent disappearance of Neanderthals represents a critical evolutionary turnover in our species’ history. ‘Transitional’ technocomplexes, such as the Lincombian–Ranisian–Jerzmanowician (LRJ), characterize the European record during this period but their makers and evolutionary significance have long remained unclear. New evidence from Ilsenhöhle in Ranis, Germany, now provides a secure connection of the LRJ to <jats:italic>H. sapiens</jats:italic> remains dated to ~45,000 years ago, making it one of the earliest forays of our species to central Europe. Using many stable isotope records of climate produced from 16 serially sampled equid teeth spanning ~12,500 years of LRJ and Upper Palaeolithic human occupation at Ranis, we review the ability of early humans to adapt to different climate and habitat conditions. Results show that cold climates prevailed across LRJ occupations, with a temperature decrease culminating in a pronounced cold excursion at ~45,000–43,000 cal <jats:sc>bp</jats:sc>. Directly dated <jats:italic>H. sapiens</jats:italic> remains confirm that humans used the site even during this very cold phase. Together with recent evidence from the Initial Upper Palaeolithic, this demonstrates that humans operated in severe cold conditions during many distinct early dispersals into Europe and suggests pronounced adaptability.</jats:p>",
+  "DOI": "10.1038/s41559-023-02318-z",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        31
+      ]
+    ],
+    "date-time": "2024-01-31T17:02:59Z",
+    "timestamp": 1706720579000
+  },
+  "page": "578-588",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 26,
+  "title": [
+    "Stable isotopes show Homo sapiens dispersed into cold steppes ~45,000 years ago at Ilsenhöhle in Ranis, Germany"
+  ],
+  "prefix": "10.1038",
+  "volume": "8",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-5205-8974",
+      "authenticated-orcid": false,
+      "given": "Sarah",
+      "family": "Pederzani",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Kate",
+      "family": "Britton",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Manuel",
+      "family": "Trost",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9093-3490",
+      "authenticated-orcid": false,
+      "given": "Helen",
+      "family": "Fewlass",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Nicolas",
+      "family": "Bourgon",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5995-877X",
+      "authenticated-orcid": false,
+      "given": "Jeremy",
+      "family": "McCormack",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Klervia",
+      "family": "Jaouen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Holger",
+      "family": "Dietl",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hans-Jürgen",
+      "family": "Döhle",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6124-8021",
+      "authenticated-orcid": false,
+      "given": "André",
+      "family": "Kirchner",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Tobias",
+      "family": "Lauer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mael",
+      "family": "Le Corre",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2063-468X",
+      "authenticated-orcid": false,
+      "given": "Shannon P.",
+      "family": "McPherron",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Harald",
+      "family": "Meller",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Dorothea",
+      "family": "Mylopotamitaki",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3629-8251",
+      "authenticated-orcid": false,
+      "given": "Jörg",
+      "family": "Orschiedt",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0358-0285",
+      "authenticated-orcid": false,
+      "given": "Hélène",
+      "family": "Rougier",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5621-5786",
+      "authenticated-orcid": false,
+      "given": "Karen",
+      "family": "Ruebens",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9190-8054",
+      "authenticated-orcid": false,
+      "given": "Tim",
+      "family": "Schüler",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3228-5824",
+      "authenticated-orcid": false,
+      "given": "Virginie",
+      "family": "Sinet-Mathiot",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7155-5140",
+      "authenticated-orcid": false,
+      "given": "Geoff M.",
+      "family": "Smith",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2406-3132",
+      "authenticated-orcid": false,
+      "given": "Sahra",
+      "family": "Talamo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2590-8600",
+      "authenticated-orcid": false,
+      "given": "Thomas",
+      "family": "Tütken",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4846-6104",
+      "authenticated-orcid": false,
+      "given": "Frido",
+      "family": "Welker",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7687-5370",
+      "authenticated-orcid": false,
+      "given": "Elena I.",
+      "family": "Zavala",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0778-5520",
+      "authenticated-orcid": false,
+      "given": "Marcel",
+      "family": "Weiss",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jean-Jacques",
+      "family": "Hublin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        31
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "2318_CR1",
+      "doi-asserted-by": "crossref",
+      "first-page": "299",
+      "DOI": "10.1038/s41586-020-2259-z",
+      "volume": "581",
+      "author": "J-J Hublin",
+      "year": "2020",
+      "unstructured": "Hublin, J.-J. et al. Initial Upper Palaeolithic Homo sapiens from Bacho Kiro Cave, Bulgaria. Nature 581, 299–302 (2020).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2318_CR2",
+      "doi-asserted-by": "crossref",
+      "first-page": "253",
+      "DOI": "10.1038/s41586-021-03335-3",
+      "volume": "592",
+      "author": "M Hajdinjak",
+      "year": "2021",
+      "unstructured": "Hajdinjak, M. et al. Initial Upper Palaeolithic humans in Europe had recent Neanderthal ancestry. Nature 592, 253–257 (2021).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2318_CR3",
+      "doi-asserted-by": "crossref",
+      "first-page": "820",
+      "DOI": "10.1038/s41559-021-01443-x",
+      "volume": "5",
+      "author": "K Prüfer",
+      "year": "2021",
+      "unstructured": "Prüfer, K. et al. A genome sequence from a modern human skull over 45,000 years old from Zlatý kůň in Czechia. Nat. Ecol. Evol. 5, 820–825 (2021).",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "2318_CR4",
+      "doi-asserted-by": "crossref",
+      "first-page": "5",
+      "DOI": "10.1007/s41982-022-00126-8",
+      "volume": "5",
+      "author": "O Jöris",
+      "year": "2022",
+      "unstructured": "Jöris, O., Neruda, P., Wiśniewski, A. & Weiss, M. The Late and Final Middle Palaeolithic of Central Europe and its contributions to the formation of the regional Upper Palaeolithic: a review and a synthesis. J. Paleolit. Archaeol. 5, 5–17 (2022).",
+      "journal-title": "J. Paleolit. Archaeol."
+    },
+    {
+      "key": "2318_CR5",
+      "doi-asserted-by": "crossref",
+      "first-page": "eabj9496",
+      "DOI": "10.1126/sciadv.abj9496",
+      "volume": "8",
+      "author": "L Slimak",
+      "year": "2022",
+      "unstructured": "Slimak, L. et al. Modern human incursion into Neanderthal territories 54,000 years ago at Mandrin, France. Sci. Adv. 8, eabj9496 (2022).",
+      "journal-title": "Sci. Adv."
+    },
+    {
+      "key": "2318_CR6",
+      "doi-asserted-by": "crossref",
+      "first-page": "598",
+      "DOI": "10.1126/science.ada1088",
+      "volume": "375",
+      "author": "M Price",
+      "year": "2022",
+      "unstructured": "Price, M. Did Neanderthals and modern humans take turns living in a French cave? Science 375, 598–599 (2022).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2318_CR7",
+      "doi-asserted-by": "crossref",
+      "first-page": "273",
+      "DOI": "10.1016/j.quascirev.2010.11.016",
+      "volume": "30",
+      "author": "UC Müller",
+      "year": "2011",
+      "unstructured": "Müller, U. C. et al. The role of climate in the spread of modern humans into Europe. Quat. Sci. Rev. 30, 273–279 (2011).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "2318_CR8",
+      "doi-asserted-by": "crossref",
+      "first-page": "9116",
+      "DOI": "10.1073/pnas.1808647115",
+      "volume": "115",
+      "author": "M Staubwasser",
+      "year": "2018",
+      "unstructured": "Staubwasser, M. et al. Impact of climate change on the transition of Neanderthals to modern humans in Europe. Proc. Natl Acad. Sci. USA 115, 9116–9121 (2018).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "2318_CR9",
+      "doi-asserted-by": "crossref",
+      "first-page": "eabi4642",
+      "DOI": "10.1126/sciadv.abi4642",
+      "volume": "7",
+      "author": "S Pederzani",
+      "year": "2021",
+      "unstructured": "Pederzani, S. et al. Subarctic climate for the earliest Homo sapiens in Europe. Sci. Adv. 7, eabi4642 (2021).",
+      "journal-title": "Sci. Adv."
+    },
+    {
+      "key": "2318_CR10",
+      "doi-asserted-by": "crossref",
+      "first-page": "14394",
+      "DOI": "10.1073/pnas.1412201111",
+      "volume": "111",
+      "author": "PR Nigst",
+      "year": "2014",
+      "unstructured": "Nigst, P. R. et al. Early modern human settlement of Europe north of the Alps occurred 43,500 years ago in a cold steppe-type environment. Proc. Natl Acad. Sci. USA 111, 14394–14399 (2014).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "2318_CR11",
+      "unstructured": "Desbrosse, R. & Kozlowski, J. Hommes et Climats à l’âge du Mammouth: Le Paléolithique Supérieur d’Eurasie Centrale (FeniXX, 1988)."
+    },
+    {
+      "key": "2318_CR12",
+      "first-page": "7",
+      "volume": "119",
+      "author": "D Flas",
+      "year": "2008",
+      "unstructured": "Flas, D. La transition du Paléolithique moyen au supérieur dans la plaine septentrionale de l’Europe. Anthropol. Praehist. 119, 7–14 (2008).",
+      "journal-title": "Anthropol. Praehist."
+    },
+    {
+      "key": "2318_CR13",
+      "unstructured": "Mylopotamitaki, D. et al. Homo sapiens reached the higher latitudes of Europe by 45,000 years ago. Nature (in the press)."
+    },
+    {
+      "key": "2318_CR14",
+      "unstructured": "Hülle, W. Die Ilsenhöhle unter Burg Ranis in Thüringen (G. Fischer, 1977)."
+    },
+    {
+      "key": "2318_CR15",
+      "unstructured": "Smith, G. M. et al. The ecology, subsistence and diet of 45,000-year-old Homo sapiens at Ilsenhöhle in Ranis, Germany. Nat. Ecol. Evol. (in the press)."
+    },
+    {
+      "key": "2318_CR16",
+      "unstructured": "Stephan, E. Fossil isotope record of climate: δ18O values in Pleistocene equid bone and tooth phosphate. In Proc. 32nd International Symposium on Archaeometry 1–11 (Universidad Nacional Autónoma de Mexico, Instituto de Investigaciones Antropológicas, 2000)."
+    },
+    {
+      "key": "2318_CR17",
+      "doi-asserted-by": "crossref",
+      "first-page": "164",
+      "DOI": "10.1016/j.quaint.2013.12.033",
+      "volume": "339-340",
+      "author": "D Pushkina",
+      "year": "2014",
+      "unstructured": "Pushkina, D., Bocherens, H. & Ziegler, R. Unexpected palaeoecological features of the Middle and Late Pleistocene large herbivores in southwestern Germany revealed by stable isotopic abundances in tooth enamel. Quat. Int. 339-340, 164–178 (2014).",
+      "journal-title": "Quat. Int."
+    },
+    {
+      "key": "2318_CR18",
+      "doi-asserted-by": "crossref",
+      "first-page": "106026",
+      "DOI": "10.1016/j.quascirev.2019.106026",
+      "volume": "227",
+      "author": "D Pushkina",
+      "year": "2020",
+      "unstructured": "Pushkina, D., Juha, S., Reinhard, Z. & Hervé, B. Stable isotopic and mesowear reconstructions of paleodiet and habitat of the Middle and Late Pleistocene mammals in south-western Germany. Quat. Sci. Rev. 227, 106026 (2020).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "2318_CR19",
+      "doi-asserted-by": "crossref",
+      "first-page": "378",
+      "DOI": "10.1016/j.yqres.2014.05.004",
+      "volume": "82",
+      "author": "L Scherler",
+      "year": "2014",
+      "unstructured": "Scherler, L., Tütken, T. & Becker, D. Carbon and oxygen stable isotope compositions of Late Pleistocene mammal teeth from dolines of Ajoie (Northwestern Switzerland). Quat. Res. 82, 378–387 (2014).",
+      "journal-title": "Quat. Res."
+    },
+    {
+      "key": "2318_CR20",
+      "doi-asserted-by": "crossref",
+      "first-page": "1263",
+      "DOI": "10.1016/j.quascirev.2010.02.013",
+      "volume": "29",
+      "author": "LM Arppe",
+      "year": "2010",
+      "unstructured": "Arppe, L. M. & Karhu, J. A. Oxygen isotope values of precipitation and the thermal climate in Europe during the middle to late Weichselian ice age. Quat. Sci. Rev. 29, 1263–1275 (2010).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "2318_CR21",
+      "doi-asserted-by": "crossref",
+      "first-page": "145",
+      "DOI": "10.1016/j.quaint.2012.04.009",
+      "volume": "276-277",
+      "author": "J Kovács",
+      "year": "2012",
+      "unstructured": "Kovács, J., Moravcová, M., Újvári, G. & Pintér, A. G. Reconstructing the paleoenvironment of East Central Europe in the Late Pleistocene using the oxygen and carbon isotopic signal of tooth in large mammal remains. Quat. Int. 276-277, 145–154 (2012).",
+      "journal-title": "Quat. Int."
+    },
+    {
+      "key": "2318_CR22",
+      "unstructured": "Global Network of Isotopes in Precipitation. The GNIP Database (IAEA/WMO; 2020); http://www.iaea.org/water"
+    },
+    {
+      "key": "2318_CR23",
+      "unstructured": "Callaghan, T. V., Werkman, B. R. & Crawford, R. M. The tundra-taiga interface and its dynamics: concepts and applications. Ambio 12, 6–14 (2002)."
+    },
+    {
+      "key": "2318_CR24",
+      "doi-asserted-by": "crossref",
+      "first-page": "436",
+      "DOI": "10.1111/j.1502-3885.2010.00143.x",
+      "volume": "39",
+      "author": "E Kjellström",
+      "year": "2010",
+      "unstructured": "Kjellström, E. et al. Simulated climate conditions in Europe during the Marine Isotope Stage 3 stadial. Boreas 39, 436–456 (2010).",
+      "journal-title": "Boreas"
+    },
+    {
+      "key": "2318_CR25",
+      "doi-asserted-by": "crossref",
+      "first-page": "13",
+      "DOI": "10.1016/j.epsl.2016.02.045",
+      "volume": "442",
+      "author": "C Prud’homme",
+      "year": "2016",
+      "unstructured": "Prud’homme, C. et al. Palaeotemperature reconstruction during the Last Glacial from δ18O of earthworm calcite granules from Nussloch loess sequence, Germany. Earth Planet. Sci. Lett. 442, 13–20 (2016).",
+      "journal-title": "Earth Planet. Sci. Lett."
+    },
+    {
+      "key": "2318_CR26",
+      "doi-asserted-by": "crossref",
+      "first-page": "3618",
+      "DOI": "10.1016/j.quascirev.2011.08.002",
+      "volume": "30",
+      "author": "CJ Van Meerbeeck",
+      "year": "2011",
+      "unstructured": "Van Meerbeeck, C. J. et al. The nature of MIS 3 stadial–interstadial transitions in Europe: New insights from model–data comparisons. Quat. Sci. Rev. 30, 3618–3637 (2011).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "2318_CR27",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Prud’homme, C. et al. Millennial-timescale quantitative estimates of climate dynamics in central Europe from earthworm calcite granules in loess deposits. Commun. Earth Environ. 3, 267 (2022).",
+      "DOI": "10.1038/s43247-022-00595-3"
+    },
+    {
+      "key": "2318_CR28",
+      "doi-asserted-by": "crossref",
+      "first-page": "2828",
+      "DOI": "10.1016/j.quascirev.2009.10.013",
+      "volume": "29",
+      "author": "EW Wolff",
+      "year": "2010",
+      "unstructured": "Wolff, E. W., Chappellaz, J., Blunier, T., Rasmussen, S. O. & Svensson, A. Millennial-scale variability during the last glacial: the ice core record. Quat. Sci. Rev. 29, 2828–2838 (2010).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "2318_CR29",
+      "doi-asserted-by": "crossref",
+      "first-page": "107505",
+      "DOI": "10.1016/j.quascirev.2022.107505",
+      "volume": "284",
+      "author": "OA Kern",
+      "year": "2022",
+      "unstructured": "Kern, O. A. et al. A near-continuous record of climate and ecosystem variability in Central Europe during the past 130 kyrs (Marine Isotope Stages 5–1) from Füramoos, southern Germany. Quat. Sci. Rev. 284, 107505 (2022).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "2318_CR30",
+      "doi-asserted-by": "crossref",
+      "first-page": "108",
+      "DOI": "10.1016/j.gloplacha.2016.03.005",
+      "volume": "142",
+      "author": "F Sirocko",
+      "year": "2016",
+      "unstructured": "Sirocko, F. et al. The ELSA-vegetation-stack: reconstruction of landscape evolution zones (LEZ) from laminated Eifel maar sediments of the last 60,000 years. Glob. Planet. Change 142, 108–135 (2016).",
+      "journal-title": "Glob. Planet. Change"
+    },
+    {
+      "key": "2318_CR31",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.quascirev.2019.04.025",
+      "volume": "215",
+      "author": "R Schwartz-Narbonne",
+      "year": "2019",
+      "unstructured": "Schwartz-Narbonne, R. et al. Reframing the mammoth steppe: Insights from analysis of isotopic niches. Quat. Sci. Rev. 215, 1–21 (2019).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "2318_CR32",
+      "doi-asserted-by": "crossref",
+      "first-page": "977",
+      "DOI": "10.1016/j.quascirev.2003.06.024",
+      "volume": "23",
+      "author": "RE Stevens",
+      "year": "2004",
+      "unstructured": "Stevens, R. E. & Hedges, R. E. M. Carbon and nitrogen stable isotope analysis of northwest European horse bone and tooth collagen, 40,000 BP-present: palaeoclimatic interpretations. Quat. Sci. Rev. 23, 977–991 (2004).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "2318_CR33",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0268607",
+      "DOI": "10.1371/journal.pone.0268607",
+      "volume": "18",
+      "author": "H Reade",
+      "year": "2023",
+      "unstructured": "Reade, H. et al. Nitrogen palaeo-isoscapes: changing spatial gradients of faunal δ15N in late Pleistocene and early Holocene Europe. PLoS ONE 18, e0268607 (2023).",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "2318_CR34",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sánchez Goñi, M. F. Updating Neanderthals: Understanding Behavioural Complexity in the Late Middle Palaeolithic (eds Romagnoli, F. et al.) 17–38 (Academic, 2022).",
+      "DOI": "10.1016/B978-0-12-821428-2.00017-2"
+    },
+    {
+      "key": "2318_CR35",
+      "first-page": "57",
+      "volume": "9",
+      "author": "H Bocherens",
+      "year": "2003",
+      "unstructured": "Bocherens, H. Isotopic biogeochemistry and the palaeoecology of the mammoth steppe fauna. Deinsea 9, 57–76 (2003).",
+      "journal-title": "Deinsea"
+    },
+    {
+      "key": "2318_CR36",
+      "doi-asserted-by": "crossref",
+      "first-page": "4675",
+      "DOI": "10.1073/pnas.1911744117",
+      "volume": "117",
+      "author": "N Bourgon",
+      "year": "2020",
+      "unstructured": "Bourgon, N. et al. Zinc isotopes in Late Pleistocene fossil teeth from a Southeast Asian cave setting preserve paleodietary information. Proc. Natl Acad. Sci. USA 117, 4675–4681 (2020).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "2318_CR37",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1038/srep26281",
+      "volume": "6",
+      "author": "K Jaouen",
+      "year": "2016",
+      "unstructured": "Jaouen, K., Beasley, M., Schoeninger, M., Hublin, J.-J. & Richards, M. P. Zinc isotope ratios of bones and teeth as new dietary indicators: results from a modern food web (Koobi Fora, Kenya). Sci. Rep. 6, 26281 (2016).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "2318_CR38",
+      "doi-asserted-by": "crossref",
+      "first-page": "e2109315119",
+      "DOI": "10.1073/pnas.2109315119",
+      "volume": "119",
+      "author": "K Jaouen",
+      "year": "2022",
+      "unstructured": "Jaouen, K. et al. A Neandertal dietary conundrum: insights provided by tooth enamel Zn isotopes from Gabasa, Spain. Proc. Natl Acad. Sci. USA 119, e2109315119 (2022).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "2318_CR39",
+      "doi-asserted-by": "crossref",
+      "first-page": "124",
+      "DOI": "10.1016/j.chemgeo.2007.01.005",
+      "volume": "239",
+      "author": "J Viers",
+      "year": "2007",
+      "unstructured": "Viers, J. et al. Evidence of Zn isotopic fractionation in a soil–plant system of a pristine tropical watershed (Nsimi, Cameroon). Chem. Geol. 239, 124–137 (2007).",
+      "journal-title": "Chem. Geol."
+    },
+    {
+      "key": "2318_CR40",
+      "doi-asserted-by": "crossref",
+      "first-page": "140",
+      "DOI": "10.1016/j.chemgeo.2017.06.002",
+      "volume": "466",
+      "author": "S Opfergelt",
+      "year": "2017",
+      "unstructured": "Opfergelt, S. et al. The influence of weathering and soil organic matter on Zn isotopes in soils. Chem. Geol. 466, 140–148 (2017).",
+      "journal-title": "Chem. Geol."
+    },
+    {
+      "key": "2318_CR41",
+      "doi-asserted-by": "crossref",
+      "first-page": "73",
+      "DOI": "10.1017/S0079497X00027110",
+      "volume": "78",
+      "author": "LP Cooper",
+      "year": "2012",
+      "unstructured": "Cooper, L. P. et al. An Early Upper Palaeolithic open-air station and mid-Devensian hyaena den at Grange Farm, Glaston, Rutland, UK. Proc. Prehist. Soc. 78, 73–93 (2012).",
+      "journal-title": "Proc. Prehist. Soc."
+    },
+    {
+      "key": "2318_CR42",
+      "first-page": "102723",
+      "volume": "35",
+      "author": "C Berto",
+      "year": "2021",
+      "unstructured": "Berto, C. et al. Environment changes during Middle to Upper Palaeolithic transition in southern Poland (Central Europe). A multiproxy approach for the MIS 3 sequence of Koziarnia Cave (Kraków-Częstochowa Upland). J. Archaeol. Sci. Rep. 35, 102723 (2021).",
+      "journal-title": "J. Archaeol. Sci. Rep."
+    },
+    {
+      "key": "2318_CR43",
+      "first-page": "19",
+      "volume": "59",
+      "author": "T Uthmeier",
+      "year": "2018",
+      "unstructured": "Uthmeier, T., Hetzel, E. & Heißig, K. Neandertaler im spätesten Mittelpaläolithikum Bayerns? Die Jerzmanovice-Spitzen aus der Kirchberghöhle bei Schmähingen im Nördlinger Ries. Ber. der Bayerischen Bodendenkmalpfl. 59, 19–27 (2018).",
+      "journal-title": "Ber. der Bayerischen Bodendenkmalpfl."
+    },
+    {
+      "key": "2318_CR44",
+      "doi-asserted-by": "crossref",
+      "first-page": "17",
+      "DOI": "10.1007/s41982-023-00142-2",
+      "volume": "6",
+      "author": "YE Demidenko",
+      "year": "2023",
+      "unstructured": "Demidenko, Y. E. & Škrdla, P. Lincombian–Ranisian–Jerzmanowician Industry and South Moravian Sites: a Homo sapiens Late Initial Upper Paleolithic with Bohunician industrial generic roots in Europe. J. Paleolit. Archaeol. 6, 17 (2023).",
+      "journal-title": "J. Paleolit. Archaeol."
+    },
+    {
+      "key": "2318_CR45",
+      "doi-asserted-by": "crossref",
+      "first-page": "117",
+      "DOI": "10.1007/s10963-018-9115-1",
+      "volume": "31",
+      "author": "W Chu",
+      "year": "2018",
+      "unstructured": "Chu, W. The Danube corridor hypothesis and the Carpathian Basin: geological, environmental and archaeological approaches to characterizing Aurignacian dynamics. J. World Prehist. 31, 117–178 (2018).",
+      "journal-title": "J. World Prehist."
+    },
+    {
+      "key": "2318_CR46",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1038/s41598-017-06285-x",
+      "volume": "7",
+      "author": "I Obreht",
+      "year": "2017",
+      "unstructured": "Obreht, I. et al. Shift of large-scale atmospheric systems over europe during late MIS 3 and implications for modern human dispersal. Sci. Rep. 7, 5848 (2017).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "2318_CR47",
+      "doi-asserted-by": "crossref",
+      "first-page": "31",
+      "DOI": "10.1130/0091-7613(2001)029<0031:SSIEFA>2.0.CO;2",
+      "volume": "29",
+      "author": "DL Dettman",
+      "year": "2001",
+      "unstructured": "Dettman, D. L. et al. Seasonal stable isotope evidence for a strong Asian monsoon. Geology 29, 31–34 (2001).",
+      "journal-title": "Geology"
+    },
+    {
+      "key": "2318_CR48",
+      "doi-asserted-by": "crossref",
+      "first-page": "457",
+      "DOI": "10.1016/j.palaeo.2006.04.007",
+      "volume": "241",
+      "author": "T Tütken",
+      "year": "2006",
+      "unstructured": "Tütken, T., Vennemann, T. W., Janz, H. & Heizmann, E. P. J. Palaeoenvironment and palaeoclimate of the Middle Miocene lake in the Steinheim basin, SW Germany: a reconstruction from C, O and Sr isotopes of fossil remains. Palaeogeogr. Palaeoclimatol. Palaeoecol. 241, 457–491 (2006).",
+      "journal-title": "Palaeogeogr. Palaeoclimatol. Palaeoecol."
+    },
+    {
+      "key": "2318_CR49",
+      "doi-asserted-by": "crossref",
+      "first-page": "119455",
+      "DOI": "10.1016/j.chemgeo.2019.119455",
+      "volume": "534",
+      "author": "S Pederzani",
+      "year": "2020",
+      "unstructured": "Pederzani, S., Snoeck, C., Wacker, U. & Britton, K. Anion exchange resin and slow precipitation preclude the need for pretreatments in silver phosphate preparation for oxygen isotope analysis of bioapatites. Chem. Geol. 534, 119455 (2020).",
+      "journal-title": "Chem. Geol."
+    },
+    {
+      "key": "2318_CR50",
+      "doi-asserted-by": "crossref",
+      "first-page": "4101",
+      "DOI": "10.1016/j.gca.2004.12.002",
+      "volume": "69",
+      "author": "BH Passey",
+      "year": "2005",
+      "unstructured": "Passey, B. H. et al. Inverse methods for estimating primary input signals from time-averaged isotope profiles. Geochim. Cosmochim. Acta 69, 4101–4116 (2005).",
+      "journal-title": "Geochim. Cosmochim. Acta"
+    },
+    {
+      "key": "2318_CR51",
+      "doi-asserted-by": "crossref",
+      "first-page": "99",
+      "DOI": "10.1016/j.palaeo.2014.07.003",
+      "volume": "412",
+      "author": "AJE Pryor",
+      "year": "2014",
+      "unstructured": "Pryor, A. J. E., Stevens, R. E., O’Connell, T. C. & Lister, J. R. Quantification and propagation of errors when converting vertebrate biomineral oxygen isotope data to temperature for palaeoclimate reconstruction. Palaeogeogr. Palaeoclimatol. Palaeoecol. 412, 99–107 (2014).",
+      "journal-title": "Palaeogeogr. Palaeoclimatol. Palaeoecol."
+    },
+    {
+      "key": "2318_CR52",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1038/s41598-019-41557-8",
+      "volume": "9",
+      "author": "H Fewlass",
+      "year": "2019",
+      "unstructured": "Fewlass, H. et al. Pretreatment and gaseous radiocarbon dating of 40–100 mg archaeological bone. Sci. Rep. 9, 5342 (2019).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "2318_CR53",
+      "first-page": "62",
+      "volume": "7",
+      "author": "S Talamo",
+      "year": "2021",
+      "unstructured": "Talamo, S., Fewlass, H., Maria, R. & Jaouen, K. ‘Here we go again’: the inspection of collagen extraction protocols for 14C dating and palaeodietary analysis. Sci. Technol. Archaeol. Res. 7, 62–77 (2021).",
+      "journal-title": "Sci. Technol. Archaeol. Res."
+    },
+    {
+      "key": "2318_CR54",
+      "doi-asserted-by": "crossref",
+      "first-page": "687",
+      "DOI": "10.1006/jasc.1998.0385",
+      "volume": "26",
+      "author": "GJ Van Klinken",
+      "year": "1999",
+      "unstructured": "Van Klinken, G. J. Bone collagen quality indicators for palaeodietary and radiocarbon measurements. J. Archaeol. Sci. 26, 687–695 (1999).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "2318_CR55",
+      "first-page": "337e360",
+      "volume": "51",
+      "author": "C Bronk Ramsey",
+      "year": "2009",
+      "unstructured": "Bronk Ramsey, C. Bayesian analysis of radiocarbon dates. Radiocarbon 51, 337e360 (2009).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "2318_CR56",
+      "doi-asserted-by": "crossref",
+      "first-page": "725",
+      "DOI": "10.1017/RDC.2020.41",
+      "volume": "62",
+      "author": "PJ Reimer",
+      "year": "2020",
+      "unstructured": "Reimer, P. J. et al. The IntCal20 Northern Hemisphere radiocarbon age calibration curve (0–55 cal kBP). Radiocarbon 62, 725–757 (2020).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "2318_CR57",
+      "doi-asserted-by": "crossref",
+      "first-page": "6103",
+      "DOI": "10.1016/j.gca.2006.02.030",
+      "volume": "70",
+      "author": "F Moynier",
+      "year": "2006",
+      "unstructured": "Moynier, F., Albarède, F. & Herzog, G. F. Isotopic composition of zinc, copper and iron in lunar samples. Geochim. Cosmochim. Acta 70, 6103–6117 (2006).",
+      "journal-title": "Geochim. Cosmochim. Acta"
+    },
+    {
+      "key": "2318_CR58",
+      "doi-asserted-by": "crossref",
+      "first-page": "3187",
+      "DOI": "10.1002/rcm.3717",
+      "volume": "22",
+      "author": "SR Copeland",
+      "year": "2008",
+      "unstructured": "Copeland, S. R. et al. Strontium isotope ratios (87Sr/6Sr) of tooth enamel: a comparison of solution and laser ablation multicollector inductively coupled plasma mass spectrometry methods. Rapid Commun. Mass Spectrom. 22, 3187–3194 (2008).",
+      "journal-title": "Rapid Commun. Mass Spectrom."
+    },
+    {
+      "key": "2318_CR59",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1038/s41597-020-00763-0",
+      "volume": "7",
+      "author": "M Marchi",
+      "year": "2020",
+      "unstructured": "Marchi, M. et al. ClimateEU, scale-free climate normals, historical time series and future projections for Europe. Sci. Data 7, 428 (2020).",
+      "journal-title": "Sci. Data"
+    },
+    {
+      "key": "2318_CR60",
+      "doi-asserted-by": "publisher",
+      "unstructured": "50 Year Means of Oxygen Isotope Data from Ice Core (NGRIP, 2007).https://doi.org/10.1594/PANGAEA.586886",
+      "DOI": "10.1594/PANGAEA.586886"
+    },
+    {
+      "key": "2318_CR61",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Kern, O. A. Percentages of Pollen Data from Late MIS 6 to MIS 1 from Füramoos, Southern Germany (PANGAEA, 2021).https://doi.org/10.1594/PANGAEA.934305",
+      "DOI": "10.1594/PANGAEA.934305"
+    },
+    {
+      "key": "2318_CR62",
+      "unstructured": "European Digital Elevation Model (EU-DEM), version 1.1 (European Environment Agency, 2016)."
+    },
+    {
+      "key": "2318_CR63",
+      "unstructured": "Planet. Planet OSM https://planet.osm.org/planet (OpenStreetMap Contributors, 2023)."
+    },
+    {
+      "key": "2318_CR64",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Bowen, G. J. & Revenaugh, J. Interpolating the isotopic composition of modern meteoric precipitation. Water Resour. Res. https://doi.org/10.1029/2003WR002086 (2003).",
+      "DOI": "10.1029/2003WR002086"
+    },
+    {
+      "key": "2318_CR65",
+      "unstructured": "Treskatis, C. & Hartsch, K. in Tracer Hydrology 97 (ed. Kranjc, A.) 353–359 (CRC, 1997)."
+    },
+    {
+      "key": "2318_CR66",
+      "doi-asserted-by": "crossref",
+      "first-page": "4767",
+      "DOI": "10.1029/2017WR022216",
+      "volume": "54",
+      "author": "SR Lutz",
+      "year": "2018",
+      "unstructured": "Lutz, S. R. et al. Spatial patterns of water age: using young water fractions to improve the characterization of transit times in contrasting catchments. Water Resour. Res. 54, 4767–4784 (2018).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "2318_CR67",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1080/10256010208033304",
+      "volume": "38",
+      "author": "R Böhnke",
+      "year": "2002",
+      "unstructured": "Böhnke, R., Geyer, S. & Kowski, P. Using environmental isotopes 2H and 18O for identification of infiltration processes in floodplain ecosystems of the River Elbe. Isot. Environ. Health Stud. 38, 1–13 (2002).",
+      "journal-title": "Isot. Environ. Health Stud."
+    }
+  ],
+  "container-title": [
+    "Nature Ecology &amp; Evolution"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41559-023-02318-z.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41559-023-02318-z",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41559-023-02318-z.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        11
+      ]
+    ],
+    "date-time": "2024-03-11T17:15:36Z",
+    "timestamp": 1710177336000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41559-023-02318-z"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        31
+      ]
+    ]
+  },
+  "references-count": 67,
+  "journal-issue": {
+    "issue": "3",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          3
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "2318"
+  ],
+  "URL": "https://doi.org/10.1038/s41559-023-02318-z",
+  "relation": {},
+  "ISSN": [
+    "2397-334X"
+  ],
+  "issn-type": [
+    {
+      "value": "2397-334X",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        31
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "27 June 2023",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "19 December 2023",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "31 January 2024",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ]
+}

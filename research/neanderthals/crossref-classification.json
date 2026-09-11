@@ -1,0 +1,1447 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        28
+      ]
+    ],
+    "date-time": "2026-08-28T01:46:01Z",
+    "timestamp": 1787881561848,
+    "version": "build-2784847793"
+  },
+  "reference-count": 117,
+  "publisher": "Oxford University Press (OUP)",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            14
+          ]
+        ],
+        "date-time": "2024-11-14T00:00:00Z",
+        "timestamp": 1731542400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 318,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "name": "Research Foundation – Flanders",
+      "award": [
+        "G070122N"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "G070122N"
+          ]
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        1
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Tracking the origins of new species and delimiting taxa across space and time present well-trodden sources of controversy for palaeoanthropology. Although biological diversity comes with frustratingly elusive boundaries, the task of describing and understanding diversity remains no less crucial, and palaeotaxonomy no more dispensable. This is epitomized by recent developments in discussions on our species’ origins and the extent to which Middle Pleistocene hominin forms represent distinct lineages. While it is tempting to think that progress in such debates is only hampered by the paucity of fossil and genomic data, we argue that problems also lie with unrealistic assumptions in theory. In particular, we examine ongoing discussions on whether Homo sapiens and Neanderthals deserve distinct species status as a means to advocate for the necessity of reframing speciation in palaeoanthropology in a more biologically plausible way. We argue that available palaeontological evidence is best interpreted under a framework that sees speciation as an evolutionary process that starts in space, thereby involving a geographical dimension, and progresses in time, thereby involving a diachronic dimension, with an incremental accumulation of relevant characters at different phases of the process. We begin by discussing evidence about species-level differentiation of H. sapiens and Neanderthals and analyse major sources of taxonomic disagreement, before illustrating the potential of this perspective in making progress on the earliest stages of H. sapiens speciation within Africa.</jats:p>",
+  "DOI": "10.1093/evolinnean/kzae033",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        14
+      ]
+    ],
+    "date-time": "2024-11-14T16:35:26Z",
+    "timestamp": 1731602126000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 16,
+  "title": [
+    "<i>Homo sapiens</i>, Neanderthals and speciation complexity in palaeoanthropology"
+  ],
+  "prefix": "10.1093",
+  "volume": "3",
+  "author": [
+    {
+      "given": "Andra",
+      "family": "Meneganzin",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Institute of Philosophy, KU Leuven , Leuven ,",
+          "place": [
+            "Belgium"
+          ]
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Chris",
+      "family": "Stringer",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centre for Human Evolution Research, The Natural History Museum , London ,",
+          "place": [
+            "United Kingdom"
+          ]
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "286",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        14
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "2025030418275646400_CIT0003",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.7208/chicago/9780226377582.001.0001",
+      "volume-title": "Species and Speciation in the Fossil Record.",
+      "author": "Allmon",
+      "year": "2016"
+    },
+    {
+      "key": "2025030418275646400_CIT0001",
+      "first-page": "219",
+      "article-title": "A causal analysis of stages in allopatric speciation",
+      "volume": "8",
+      "author": "Allmon",
+      "year": "1992",
+      "journal-title": "Oxford Surveys in Evolutionary Biology"
+    },
+    {
+      "key": "2025030418275646400_CIT0002",
+      "doi-asserted-by": "crossref",
+      "first-page": "121",
+      "DOI": "10.7208/chicago/9780226377582.003.0004",
+      "article-title": "The stages of speciation: a stepwise framework for analysis of speciation in the fossil record",
+      "volume-title": "Species and Speciation in the Fossil Record.",
+      "author": "Allmon",
+      "year": "2016"
+    },
+    {
+      "key": "2025030418275646400_CIT0004",
+      "doi-asserted-by": "crossref",
+      "first-page": "85",
+      "DOI": "10.1016/j.jhevol.2013.12.001",
+      "article-title": "Luminescence dating and palaeomagnetic age constraint on hominins from Sima de los Huesos, Atapuerca, Spain",
+      "volume": "67",
+      "author": "Arnold",
+      "year": "2014",
+      "journal-title": "Journal of Human Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "1358",
+      "DOI": "10.1126/science.1253958",
+      "article-title": "Neandertal roots: cranial and chronological evidence from Sima de los Huesos",
+      "volume": "344",
+      "author": "Arsuaga",
+      "year": "2014",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2025030418275646400_CIT0006",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1038/s41598-021-84805-6",
+      "article-title": "An ecological niche shift for Neanderthal populations in Western Europe 70,000 years ago",
+      "volume": "11",
+      "author": "Banks",
+      "year": "2021",
+      "journal-title": "Scientific Reports"
+    },
+    {
+      "key": "2025030418275646400_CIT0007",
+      "doi-asserted-by": "publisher",
+      "first-page": "367",
+      "DOI": "10.1002/ajpa.22981",
+      "article-title": "Neandertals’ large lower thorax may represent adaptation to high protein diet",
+      "volume": "160",
+      "author": "Ben-Dor",
+      "year": "2016",
+      "journal-title": "American Journal of Physical Anthropology"
+    },
+    {
+      "key": "2025030418275646400_CIT0008",
+      "doi-asserted-by": "crossref",
+      "first-page": "229",
+      "DOI": "10.1038/s41586-021-03244-5",
+      "article-title": "Origins of modern human ancestry",
+      "volume": "590",
+      "author": "Bergström",
+      "year": "2021",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2025030418275646400_CIT0009",
+      "doi-asserted-by": "publisher",
+      "first-page": "563",
+      "DOI": "10.1016/j.jhevol.2012.01.011",
+      "article-title": "The environmental context for the origins of modern human diversity: a synthesis of regional variability in African climate 150,000–30,000 years ago",
+      "volume": "62",
+      "author": "Blome",
+      "year": "2012",
+      "journal-title": "Journal of Human Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "318",
+      "DOI": "10.1093/evolut/qpac004",
+      "article-title": "A multivariate view of the speciation continuum",
+      "volume": "77",
+      "author": "Bolnick",
+      "year": "2023",
+      "journal-title": "Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0011",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.3998/ptpbio.2102",
+      "article-title": "Consensus and a unified species paradigm: reality or idle hope",
+      "volume": "14",
+      "author": "Conix",
+      "year": "2022",
+      "journal-title": "Philosophy, Theory, and Practice in Biology"
+    },
+    {
+      "key": "2025030418275646400_CIT0116",
+      "article-title": "Speciation",
+      "author": "Coyne",
+      "year": "2004"
+    },
+    {
+      "key": "2025030418275646400_CIT0118",
+      "first-page": "2024-03",
+      "article-title": "A structured coalescent model reveals deep ancestral structure shared by all modern humans",
+      "author": "Cousins",
+      "year": "2024",
+      "journal-title": "bioRxiv"
+    },
+    {
+      "key": "2025030418275646400_CIT0012",
+      "doi-asserted-by": "crossref",
+      "first-page": "50",
+      "DOI": "10.1007/s10539-022-09881-y",
+      "article-title": "Not by demography alone: Neanderthal extinction and null hypotheses in paleoanthropological explanation",
+      "volume": "37",
+      "author": "Currie",
+      "year": "2022",
+      "journal-title": "Biology & Philosophy"
+    },
+    {
+      "key": "2025030418275646400_CIT0013",
+      "doi-asserted-by": "publisher",
+      "first-page": "1060",
+      "DOI": "10.1098/rstb.2010.0340",
+      "article-title": "Evolution, revolution or saltation scenario for the emergence of modern cultures",
+      "volume": "366",
+      "author": "d’Errico",
+      "year": "2011",
+      "journal-title": "Philosophical Transactions of the Royal Society of London, Series B: Biological Sciences"
+    },
+    {
+      "key": "2025030418275646400_CIT0016",
+      "first-page": "283",
+      "article-title": "The disciplinary and epistemological structure of paleoanthropology: one hundred and fifty years of development",
+      "volume": "34",
+      "author": "Delisle",
+      "year": "2012",
+      "journal-title": "History and Philosophy of the Life Sciences"
+    },
+    {
+      "key": "2025030418275646400_CIT0014",
+      "article-title": "The general lineage concept of species, species criteria, and the process of speciation",
+      "volume-title": "Endless Forms: Species and Speciation",
+      "author": "De Queiroz",
+      "year": "1998"
+    },
+    {
+      "key": "2025030418275646400_CIT0015",
+      "doi-asserted-by": "publisher",
+      "first-page": "879",
+      "DOI": "10.1080/10635150701701083",
+      "article-title": "Species concepts and species delimitation",
+      "volume": "56",
+      "author": "De Queiroz",
+      "year": "2007",
+      "journal-title": "Systematic Biology"
+    },
+    {
+      "key": "2025030418275646400_CIT0018",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/CBO9781139342179",
+      "volume-title": "Adaptive Speciation",
+      "author": "Dieckmann",
+      "year": "2004"
+    },
+    {
+      "key": "2025030418275646400_CIT0017",
+      "first-page": "161",
+      "article-title": "Homo heidelbergensis as the Middle Pleistocene common ancestor of Denisovans, Neanderthals and modern humans",
+      "volume": "15",
+      "author": "Di Vincenzo",
+      "year": "2023",
+      "journal-title": "Journal of Mediterranean Earth Sciences"
+    },
+    {
+      "key": "2025030418275646400_CIT0019",
+      "first-page": "20190710",
+      "article-title": "Speciation without species: a final word",
+      "volume": "11",
+      "author": "Doolittle",
+      "year": "2018",
+      "journal-title": "Philosophy, Theory, and Practice in Biology"
+    },
+    {
+      "key": "2025030418275646400_CIT0114",
+      "volume": "10",
+      "author": "Endler",
+      "year": "1977",
+      "journal-title": "Geographic Variation, Speciation, and Clines"
+    },
+    {
+      "key": "2025030418275646400_CIT0020",
+      "doi-asserted-by": "publisher",
+      "first-page": "e0153277",
+      "DOI": "10.1371/journal.pone.0153277",
+      "article-title": "Neandertal versus modern human dietary responses to climatic fluctuations",
+      "volume": "11",
+      "author": "El Zaatari",
+      "year": "2016",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "2025030418275646400_CIT0021",
+      "first-page": "2024–05",
+      "article-title": "The phylogenetic position of the Yunxian cranium elucidates the origin of Dragon Man and the Denisovans",
+      "author": "Feng",
+      "year": "2024",
+      "journal-title": "bioRxiv"
+    },
+    {
+      "key": "2025030418275646400_CIT0022",
+      "doi-asserted-by": "crossref",
+      "first-page": "805",
+      "DOI": "10.1038/s41561-022-01032-y",
+      "article-title": "Pleistocene climate variability in eastern Africa influenced hominin evolution",
+      "volume": "15",
+      "author": "Foerster",
+      "year": "2022",
+      "journal-title": "Nature Geoscience"
+    },
+    {
+      "key": "2025030418275646400_CIT0023",
+      "doi-asserted-by": "publisher",
+      "first-page": "17",
+      "DOI": "10.3166/bmsap-2018-0001",
+      "article-title": "Evolutionary geography and the afrotropical model of hominin evolution",
+      "volume": "30",
+      "author": "Foley",
+      "year": "2018",
+      "journal-title": "Bulletins et Mémoires de la Société d’Anthropologie de Paris"
+    },
+    {
+      "key": "2025030418275646400_CIT0024",
+      "doi-asserted-by": "publisher",
+      "first-page": "1296",
+      "DOI": "10.1126/science.aat6659",
+      "article-title": "How did Homo sapiens evolve",
+      "volume": "360",
+      "author": "Galway-Witham",
+      "year": "2018",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2025030418275646400_CIT0025",
+      "doi-asserted-by": "publisher",
+      "first-page": "355",
+      "DOI": "10.1002/jqs.3137",
+      "article-title": "Aspects of human physical and behavioural evolution during the last 1 million years",
+      "volume": "34",
+      "author": "Galway-Witham",
+      "year": "2019",
+      "journal-title": "Journal of Quaternary Science"
+    },
+    {
+      "key": "2025030418275646400_CIT0026",
+      "doi-asserted-by": "publisher",
+      "first-page": "394",
+      "DOI": "10.1126/science.331.6016.394",
+      "article-title": "The species problem",
+      "volume": "331",
+      "author": "Gibbons",
+      "year": "2011",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2025030418275646400_CIT0027",
+      "doi-asserted-by": "publisher",
+      "first-page": "eaaw1268",
+      "DOI": "10.1126/sciadv.aaw1268",
+      "article-title": "Dental evolutionary rates and its implications for the Neanderthal–modern human divergence",
+      "volume": "5",
+      "author": "Gómez-Robles",
+      "year": "2019",
+      "journal-title": "Science Advances"
+    },
+    {
+      "key": "2025030418275646400_CIT0028",
+      "doi-asserted-by": "publisher",
+      "first-page": "710",
+      "DOI": "10.1126/science.1188021",
+      "article-title": "A draft sequence of the Neandertal genome",
+      "volume": "328",
+      "author": "Green",
+      "year": "2010",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2025030418275646400_CIT0029",
+      "doi-asserted-by": "publisher",
+      "first-page": "108379",
+      "DOI": "10.1016/j.quascirev.2023.108379",
+      "article-title": "Direct dating of human fossils and the ever-changing story of human evolution",
+      "volume": "322",
+      "author": "Grün",
+      "year": "2023",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "2025030418275646400_CIT0030",
+      "doi-asserted-by": "publisher",
+      "first-page": "103105",
+      "DOI": "10.1016/j.jhevol.2021.103105",
+      "article-title": "Reconstructing Neanderthal diet: the case for carbohydrates",
+      "volume": "162",
+      "author": "Hardy",
+      "year": "2022",
+      "journal-title": "Journal of Human Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0032",
+      "doi-asserted-by": "publisher",
+      "first-page": "881",
+      "DOI": "10.1534/genetics.116.186890",
+      "article-title": "The genetic cost of Neanderthal introgression",
+      "volume": "203",
+      "author": "Harris",
+      "year": "2016",
+      "journal-title": "Genetics"
+    },
+    {
+      "key": "2025030418275646400_CIT0033",
+      "doi-asserted-by": "publisher",
+      "first-page": "107",
+      "DOI": "10.1016/s0047-2484(02)00208-7",
+      "article-title": "The Neanderthal taxonomic position: models of intra- and inter-specific craniofacial variation",
+      "volume": "44",
+      "author": "Harvati",
+      "year": "2003",
+      "journal-title": "Journal of Human Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0031",
+      "doi-asserted-by": "publisher",
+      "first-page": "500",
+      "DOI": "10.1038/s41586-019-1376-z",
+      "article-title": "Apidima Cave fossils provide earliest evidence of Homo sapiens in Eurasia",
+      "volume": "571",
+      "author": "Harvati",
+      "year": "2019",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2025030418275646400_CIT0034",
+      "doi-asserted-by": "publisher",
+      "first-page": "e24915",
+      "DOI": "10.1002/ajpa.24915",
+      "article-title": "Quantifying hominin morphological diversity at the end of the middle Pleistocene: Implications for the origin of Homo sapiens",
+      "volume": "184",
+      "author": "Hautavoine",
+      "year": "2024",
+      "journal-title": "American Journal of Biological Anthropology"
+    },
+    {
+      "key": "2025030418275646400_CIT0035",
+      "doi-asserted-by": "publisher",
+      "first-page": "148",
+      "DOI": "10.1016/j.gde.2018.10.003",
+      "article-title": "Clarifying distinct models of modern human origins in Africa",
+      "volume": "53",
+      "author": "Henn",
+      "year": "2018",
+      "journal-title": "Current Opinion in Genetics & Development"
+    },
+    {
+      "key": "2025030418275646400_CIT0115",
+      "doi-asserted-by": "crossref",
+      "first-page": "94",
+      "DOI": "10.1016/j.quaint.2015.10.023",
+      "article-title": "The effect of terrain on Neanderthal ecology in the Levant",
+      "volume": "435",
+      "author": "Henry",
+      "year": "2017",
+      "journal-title": "Quaternary International"
+    },
+    {
+      "key": "2025030418275646400_CIT0036",
+      "doi-asserted-by": "publisher",
+      "first-page": "1205",
+      "DOI": "10.1111/brv.12698",
+      "article-title": "Speciation across the tree of life",
+      "volume": "96",
+      "author": "Hernández-Hernández",
+      "year": "2021",
+      "journal-title": "Biological Reviews"
+    },
+    {
+      "key": "2025030418275646400_CIT0037",
+      "doi-asserted-by": "crossref",
+      "first-page": "456",
+      "DOI": "10.1126/science.aap8369",
+      "article-title": "The earliest modern humans outside Africa",
+      "volume": "359",
+      "author": "Hershkovitz",
+      "year": "2018",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2025030418275646400_CIT0038",
+      "doi-asserted-by": "publisher",
+      "first-page": "306",
+      "DOI": "10.1038/nature13621",
+      "article-title": "The timing and spatiotemporal patterning of Neanderthal disappearance",
+      "volume": "512",
+      "author": "Higham",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2025030418275646400_CIT0039",
+      "doi-asserted-by": "publisher",
+      "first-page": "47",
+      "DOI": "10.3406/paleo.1995.4617",
+      "article-title": "Hominid remains from Amud Cave in the context of the Levantine Middle Paleolithic",
+      "volume": "21",
+      "author": "Hovers",
+      "year": "1995",
+      "journal-title": "Paléorient"
+    },
+    {
+      "key": "2025030418275646400_CIT0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "289",
+      "DOI": "10.1038/nature22336",
+      "article-title": "New fossils from Jebel Irhoud, Morocco and the pan-African origin of Homo sapiens",
+      "volume": "546",
+      "author": "Hublin",
+      "year": "2017",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2025030418275646400_CIT0041",
+      "first-page": "2024–05",
+      "article-title": "Neandertal ancestry through time: Insights from genomes of ancient and present-day humans",
+      "author": "Iasi",
+      "year": "2024",
+      "journal-title": "bioRxiv"
+    },
+    {
+      "key": "2025030418275646400_CIT0042",
+      "doi-asserted-by": "crossref",
+      "first-page": "4928",
+      "DOI": "10.1073/pnas.1814087116",
+      "article-title": "Exceptionally high δ15N values in collagen single amino acids confirm Neandertals as high-trophic level carnivores",
+      "volume": "116",
+      "author": "Jaouen",
+      "year": "2019",
+      "journal-title": "Proceedings of the National Academy of Sciences"
+    },
+    {
+      "key": "2025030418275646400_CIT0043",
+      "doi-asserted-by": "publisher",
+      "first-page": "e1006340",
+      "DOI": "10.1371/journal.pgen.1006340",
+      "article-title": "The strength of selection against Neanderthal introgression",
+      "volume": "12",
+      "author": "Juric",
+      "year": "2016",
+      "journal-title": "PLoS Genetics"
+    },
+    {
+      "key": "2025030418275646400_CIT0044",
+      "doi-asserted-by": "publisher",
+      "first-page": "407",
+      "DOI": "10.1006/jtbi.1993.1164",
+      "article-title": "Permanent splits as speciation events: a formal reconstruction of the internodal species concept",
+      "volume": "164",
+      "author": "Kornet",
+      "year": "1993",
+      "journal-title": "Journal of Theoretical Biology"
+    },
+    {
+      "key": "2025030418275646400_CIT0045",
+      "doi-asserted-by": "publisher",
+      "first-page": "20200042",
+      "DOI": "10.1098/rstb.2020.0042",
+      "article-title": "Digging the channels of inheritance: On how to distinguish between cultural and biological inheritance",
+      "volume": "376",
+      "author": "Kronfeldner",
+      "year": "2021",
+      "journal-title": "Philosophical Transactions of the Royal Society of London, Series B: Biological Sciences"
+    },
+    {
+      "key": "2025030418275646400_CIT0046",
+      "doi-asserted-by": "publisher",
+      "first-page": "8463",
+      "DOI": "10.1038/s41598-019-44877-x",
+      "article-title": "A catalog of single nucleotide changes distinguishing modern humans from archaic hominins",
+      "volume": "9",
+      "author": "Kuhlwilm",
+      "year": "2019",
+      "journal-title": "Scientific Reports"
+    },
+    {
+      "key": "2025030418275646400_CIT0047",
+      "doi-asserted-by": "publisher",
+      "first-page": "20190528",
+      "DOI": "10.1098/rstb.2019.0528",
+      "article-title": "Towards the completion of speciation: the evolution of reproductive isolation beyond the first barriers",
+      "volume": "375",
+      "author": "Kulmuni",
+      "year": "2020",
+      "journal-title": "Philosophical Transactions of the Royal Society of London, Series B: Biological Sciences"
+    },
+    {
+      "key": "2025030418275646400_CIT0048",
+      "doi-asserted-by": "crossref",
+      "first-page": "20150241",
+      "DOI": "10.1098/rstb.2015.0241",
+      "article-title": "The shaping of human diversity: filters, boundaries and transitions",
+      "volume": "371",
+      "author": "Lahr",
+      "year": "2016",
+      "journal-title": "Philosophical Transactions of the Royal Society B: Biological Sciences"
+    },
+    {
+      "key": "2025030418275646400_CIT0049",
+      "doi-asserted-by": "crossref",
+      "first-page": "137",
+      "DOI": "10.1002/(SICI)1096-8644(1998)107:27+<137::AID-AJPA6>3.0.CO;2-Q",
+      "article-title": "Towards a theory of modern human origins: geography, demography, and diversity in recent human evolution",
+      "volume": "41",
+      "author": "Lahr",
+      "year": "1998",
+      "journal-title": "American Journal of Physical Anthropology"
+    },
+    {
+      "key": "2025030418275646400_CIT0050",
+      "doi-asserted-by": "publisher",
+      "first-page": "1479",
+      "DOI": "10.1126/science.abi8202",
+      "article-title": "Insights into human history from the first decade of ancient human genomics",
+      "volume": "373",
+      "author": "Liu",
+      "year": "2021",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2025030418275646400_CIT0051",
+      "doi-asserted-by": "publisher",
+      "first-page": "241",
+      "DOI": "10.1111/j.1095-8312.2012.01867.x",
+      "article-title": "Ecotypes and the controversy over stages in the formation of new species",
+      "volume": "106",
+      "author": "Lowry",
+      "year": "2012",
+      "journal-title": "Biological Journal of the Linnean Society"
+    },
+    {
+      "key": "2025030418275646400_CIT0052",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.18061/bssb.v2i1.9358",
+      "article-title": "The species as a reproductive community emerging from the past",
+      "volume": "2",
+      "author": "Maddison",
+      "year": "2023",
+      "journal-title": "Bulletin of the Society of Systematic Biologists."
+    },
+    {
+      "key": "2025030418275646400_CIT0053",
+      "doi-asserted-by": "crossref",
+      "first-page": "15132",
+      "DOI": "10.1073/pnas.2004944117",
+      "article-title": "A high-coverage Neandertal genome from Chagyrskaya Cave",
+      "volume": "117",
+      "author": "Mafessoni",
+      "year": "2020",
+      "journal-title": "Proceedings of the National Academy of Sciences"
+    },
+    {
+      "key": "2025030418275646400_CIT0054",
+      "doi-asserted-by": "publisher",
+      "first-page": "1401",
+      "DOI": "10.1093/nsr/nwaa116",
+      "article-title": "Alternative views of biological species: reproductively isolated units or genotypic clusters",
+      "volume": "7",
+      "author": "Mallet",
+      "year": "2020",
+      "journal-title": "National Science Review"
+    },
+    {
+      "key": "2025030418275646400_CIT0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "201",
+      "DOI": "10.1038/nature18964",
+      "article-title": "The Simons genome diversity project: 300 genomes from 142 diverse populations",
+      "volume": "538",
+      "author": "Mallick",
+      "year": "2016",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2025030418275646400_CIT0056",
+      "doi-asserted-by": "crossref",
+      "first-page": "e22018",
+      "DOI": "10.1002/evan.22018",
+      "article-title": "A lineage perspective on hominin taxonomy and evolution",
+      "volume": "33",
+      "author": "Martin",
+      "year": "2024",
+      "journal-title": "Evolutionary Anthropology: Issues, News, and Reviews"
+    },
+    {
+      "key": "2025030418275646400_CIT0057",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1016/j.quascirev.2014.06.012",
+      "article-title": "East African climate pulses and early human evolution",
+      "volume": "101",
+      "author": "Maslin",
+      "year": "2014",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "2025030418275646400_CIT0058",
+      "first-page": "381",
+      "article-title": "A hierarchy of species concepts: the denouement in the saga of the species problem",
+      "volume-title": "Species: The Units of Diversity",
+      "author": "Mayden",
+      "year": "1997"
+    },
+    {
+      "key": "2025030418275646400_CIT0059",
+      "volume-title": "Systematics and the Origin of Species from the Viewpoint of a Zoologist.",
+      "author": "Mayr",
+      "year": "1942"
+    },
+    {
+      "key": "2025030418275646400_CIT0060",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.4159/harvard.9780674865327",
+      "volume-title": "Animal Species and Evolution.",
+      "author": "Mayr",
+      "year": "1963"
+    },
+    {
+      "key": "2025030418275646400_CIT0061",
+      "doi-asserted-by": "publisher",
+      "first-page": "146",
+      "DOI": "10.1016/j.palaeo.2018.01.031",
+      "article-title": "Fragmentation of Neanderthals’ pre-extinction distribution by climate change",
+      "volume": "496",
+      "author": "Melchionna",
+      "year": "2018",
+      "journal-title": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+    },
+    {
+      "key": "2025030418275646400_CIT0062",
+      "volume-title": "The dawning of man: interrogating modern human origins from and evolutionary and epistemic perspective.",
+      "author": "Meneganzin",
+      "year": "2022"
+    },
+    {
+      "key": "2025030418275646400_CIT0063",
+      "doi-asserted-by": "publisher",
+      "first-page": "107975",
+      "DOI": "10.1016/j.quascirev.2023.107975",
+      "article-title": "Were Neanderthals and Homo sapiens ‘good species?’",
+      "volume": "303",
+      "author": "Meneganzin",
+      "year": "2023",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "2025030418275646400_CIT0064",
+      "doi-asserted-by": "crossref",
+      "first-page": "47",
+      "DOI": "10.1007/s11229-022-03491-7",
+      "article-title": "Behavioural modernity, investigative disintegration & Rubicon expectation",
+      "volume": "200",
+      "author": "Meneganzin",
+      "year": "2022",
+      "journal-title": "Synthese"
+    },
+    {
+      "key": "2025030418275646400_CIT0065",
+      "first-page": "1",
+      "article-title": "Beyond reasonable doubt: reconsidering Neanderthal aesthetic capacity",
+      "author": "Meneganzin",
+      "year": "2024",
+      "journal-title": "Phenomenology and the Cognitive Sciences"
+    },
+    {
+      "key": "2025030418275646400_CIT0066",
+      "doi-asserted-by": "publisher",
+      "first-page": "199",
+      "DOI": "10.1002/evan.21955",
+      "article-title": "Pan-Africanism vs. single-origin of Homo sapiens: putting the debate in the light of evolutionary biology",
+      "volume": "31",
+      "author": "Meneganzin",
+      "year": "2022",
+      "journal-title": "Evolutionary Anthropology: Issues, News, and Reviews"
+    },
+    {
+      "key": "2025030418275646400_CIT0067",
+      "doi-asserted-by": "publisher",
+      "first-page": "65",
+      "DOI": "10.1002/jez.b.23249",
+      "article-title": "What is a trait? Lessons from the human chin",
+      "volume": "342",
+      "author": "Meneganzin",
+      "year": "2024",
+      "journal-title": "Journal of Experimental Zoology. Part B. Molecular and Developmental Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0068",
+      "doi-asserted-by": "publisher",
+      "first-page": "222",
+      "DOI": "10.1126/science.1224344",
+      "article-title": "High coverage genome sequence from an archaic Denisovan individual",
+      "volume": "338",
+      "author": "Meyer",
+      "year": "2012",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2025030418275646400_CIT0117",
+      "doi-asserted-by": "crossref",
+      "first-page": "3406",
+      "DOI": "10.1038/s41467-019-11213-w",
+      "article-title": "Deciphering African late middle Pleistocene hominin diversity and the origin of our species",
+      "volume": "10",
+      "author": "Mounier",
+      "year": "2019",
+      "journal-title": "Nature Communications"
+    },
+    {
+      "key": "2025030418275646400_CIT0069",
+      "doi-asserted-by": "crossref",
+      "first-page": "100130",
+      "DOI": "10.1016/j.xinn.2021.100130",
+      "article-title": "Massive cranium from Harbin in northeastern China establishes a new Middle Pleistocene human lineage",
+      "volume": "2",
+      "author": "Ni",
+      "year": "2021",
+      "journal-title": "The Innovation"
+    },
+    {
+      "key": "2025030418275646400_CIT0113",
+      "doi-asserted-by": "crossref",
+      "first-page": "145",
+      "DOI": "10.1016/j.tree.2008.10.011",
+      "article-title": "Ecological explanations for (incomplete) speciation",
+      "volume": "24",
+      "author": "Nosil",
+      "year": "2009",
+      "journal-title": "Trends in Ecology & Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0070",
+      "doi-asserted-by": "publisher",
+      "first-page": "72",
+      "DOI": "10.1016/j.shpsa.2021.03.006",
+      "article-title": "‘Species’ without species",
+      "volume": "87",
+      "author": "Novick",
+      "year": "2021",
+      "journal-title": "Studies in History and Philosophy of Science Part A"
+    },
+    {
+      "key": "2025030418275646400_CIT0071",
+      "doi-asserted-by": "publisher",
+      "first-page": "151",
+      "DOI": "10.1146/annurev-anthro-052621-024752",
+      "article-title": "Rethinking Neandertals",
+      "volume": "52",
+      "author": "Nowell",
+      "year": "2023",
+      "journal-title": "Annual Review of Anthropology"
+    },
+    {
+      "key": "2025030418275646400_CIT0073",
+      "doi-asserted-by": "publisher",
+      "first-page": "313",
+      "DOI": "10.1038/nrg3954",
+      "article-title": "The diverse origins of the human gene pool",
+      "volume": "16",
+      "author": "Pääbo",
+      "year": "2015",
+      "journal-title": "Nature Reviews Genetics"
+    },
+    {
+      "key": "2025030418275646400_CIT0074",
+      "doi-asserted-by": "crossref",
+      "first-page": "238",
+      "DOI": "10.1038/nature19792",
+      "article-title": "Genomic analyses inform on migration events during the peopling of Eurasia",
+      "volume": "538",
+      "author": "Pagani",
+      "year": "2016",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2025030418275646400_CIT0075",
+      "doi-asserted-by": "crossref",
+      "first-page": "1653",
+      "DOI": "10.1126/science.abb6460",
+      "article-title": "The evolutionary history of Neanderthal and Denisovan Y chromosomes",
+      "volume": "369",
+      "author": "Petr",
+      "year": "2020",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2025030418275646400_CIT0076",
+      "doi-asserted-by": "publisher",
+      "first-page": "111420",
+      "DOI": "10.1016/j.cbpa.2023.111420",
+      "article-title": "The different adaptive trajectories in Neanderthals and Homo sapiens and their implications for contemporary human physiological variation",
+      "volume": "280",
+      "author": "Pomeroy",
+      "year": "2023",
+      "journal-title": "Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology"
+    },
+    {
+      "key": "2025030418275646400_CIT0077",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1038/ncomms16046",
+      "article-title": "Deeply divergent archaic mitochondrial genome provides lower time boundary for African gene flow into Neanderthals",
+      "volume": "8",
+      "author": "Posth",
+      "year": "2017",
+      "journal-title": "Nature Communications"
+    },
+    {
+      "key": "2025030418275646400_CIT0078",
+      "doi-asserted-by": "crossref",
+      "first-page": "27",
+      "DOI": "10.1016/j.jhevol.2018.02.009",
+      "article-title": "Dental calculus indicates widespread plant use within the stable Neanderthal dietary niche",
+      "volume": "119",
+      "author": "Power",
+      "year": "2018",
+      "journal-title": "Journal of Human Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0079",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.1038/nature12886",
+      "article-title": "The complete genome sequence of a Neanderthal from the Altai Mountains",
+      "volume": "505",
+      "author": "Prüfer",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2025030418275646400_CIT0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "655",
+      "DOI": "10.1126/science.aao1887",
+      "article-title": "A high-coverage Neandertal genome from Vindija Cave in Croatia",
+      "volume": "358",
+      "author": "Prüfer",
+      "year": "2017",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2025030418275646400_CIT0081",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1038/nrg3936",
+      "article-title": "Evidence for archaic adaptive introgression in humans",
+      "volume": "16",
+      "author": "Racimo",
+      "year": "2015",
+      "journal-title": "Nature Reviews Genetics"
+    },
+    {
+      "key": "2025030418275646400_CIT0083",
+      "doi-asserted-by": "publisher",
+      "first-page": "755",
+      "DOI": "10.1038/s41586-023-06055-y",
+      "article-title": "A weakly structured stem for human origins in Africa",
+      "volume": "617",
+      "author": "Ragsdale",
+      "year": "2023",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2025030418275646400_CIT0082",
+      "doi-asserted-by": "crossref",
+      "first-page": "523",
+      "DOI": "10.1007/978-1-4899-3745-2_20",
+      "article-title": "Morphological variation in Homo neanderthalensis and Homo sapiens in the Levant: a biogeographic model",
+      "volume-title": "Species, Species Concepts and Primate Evolution",
+      "author": "Rak",
+      "year": "1993"
+    },
+    {
+      "key": "2025030418275646400_CIT0084",
+      "doi-asserted-by": "publisher",
+      "first-page": "354",
+      "DOI": "10.1038/nature12961",
+      "article-title": "The genomic landscape of Neanderthal ancestry in present-day humans",
+      "volume": "507",
+      "author": "Sankararaman",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2025030418275646400_CIT0085",
+      "doi-asserted-by": "crossref",
+      "first-page": "582",
+      "DOI": "10.1016/j.tree.2018.05.005",
+      "article-title": "Did our species evolve in subdivided populations across Africa, and why does it matter",
+      "volume": "33",
+      "author": "Scerri",
+      "year": "2018",
+      "journal-title": "Trends in Ecology & Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0086",
+      "doi-asserted-by": "publisher",
+      "first-page": "285",
+      "DOI": "10.2307/2405675",
+      "article-title": "The species concept",
+      "volume": "5",
+      "author": "Simpson",
+      "year": "1951",
+      "journal-title": "Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0087",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.7312/simp92414",
+      "volume-title": "Principles of Animal Taxonomy",
+      "author": "Simpson",
+      "year": "1961"
+    },
+    {
+      "key": "2025030418275646400_CIT0088",
+      "doi-asserted-by": "crossref",
+      "first-page": "915",
+      "DOI": "10.1093/molbev/msr245",
+      "article-title": "The expansion of mtDNA haplogroup L3 within and out of Africa",
+      "volume": "29",
+      "author": "Soares",
+      "year": "2012",
+      "journal-title": "Molecular Biology and Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0089",
+      "doi-asserted-by": "publisher",
+      "first-page": "1256",
+      "DOI": "10.1111/evo.14215",
+      "article-title": "Defining the speciation continuum",
+      "volume": "75",
+      "author": "Stankowski",
+      "year": "2021",
+      "journal-title": "Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0090",
+      "doi-asserted-by": "publisher",
+      "first-page": "310",
+      "DOI": "10.1016/j.quascirev.2018.12.023",
+      "article-title": "Palaeoecological and genetic evidence for Neanderthal power locomotion as an adaptation to a woodland environment",
+      "volume": "217",
+      "author": "Stewart",
+      "year": "2019",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "2025030418275646400_CIT0091",
+      "doi-asserted-by": "publisher",
+      "first-page": "11489",
+      "DOI": "10.1073/pnas.1605881113",
+      "article-title": "Morphology and function of Neandertal and modern human ear ossicles",
+      "volume": "113",
+      "author": "Stoessel",
+      "year": "2016",
+      "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+    },
+    {
+      "key": "2025030418275646400_CIT0092",
+      "doi-asserted-by": "publisher",
+      "first-page": "248",
+      "DOI": "10.1016/j.tree.2014.03.001",
+      "article-title": "Why we are not all multiregionalists now",
+      "volume": "29",
+      "author": "Stringer",
+      "year": "2014",
+      "journal-title": "Trends in Ecology & Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0093",
+      "doi-asserted-by": "publisher",
+      "first-page": "5",
+      "DOI": "10.4436/JASS.10009",
+      "article-title": "The development of ideas about a recent African origin for Homo sapiens",
+      "volume": "100",
+      "author": "Stringer",
+      "year": "2022",
+      "journal-title": "Journal of Anthropological Sciences= Rivista di Antropologia"
+    },
+    {
+      "key": "2025030418275646400_CIT0094",
+      "first-page": "401",
+      "article-title": "Mapping Interactions of H. neanderthalensis and Homo sapiens from the fossil and genetic records",
+      "volume": "2",
+      "author": "Stringer",
+      "year": "2022",
+      "journal-title": "PaleoAnthropology"
+    },
+    {
+      "key": "2025030418275646400_CIT0096",
+      "first-page": "259",
+      "article-title": "Paleoanthropology and evolutionary theory",
+      "volume": "34",
+      "author": "Tattersall",
+      "year": "2012",
+      "journal-title": "History and Philosophy of the Life Sciences"
+    },
+    {
+      "key": "2025030418275646400_CIT0095",
+      "doi-asserted-by": "crossref",
+      "first-page": "9",
+      "DOI": "10.1007/978-1-4020-5121-0_2",
+      "article-title": "The distinctiveness and systematic context of Homo neanderthalensis",
+      "volume-title": "Neanderthals Revisited: New Approaches and Perspectives",
+      "author": "Tattersall",
+      "year": "2006"
+    },
+    {
+      "key": "2025030418275646400_CIT0097",
+      "doi-asserted-by": "crossref",
+      "first-page": "615",
+      "DOI": "10.1007/s13127-021-00495-y",
+      "article-title": "Towards a global list of accepted species I. Why taxonomists sometimes disagree, and why this matters",
+      "volume": "21",
+      "author": "Thiele",
+      "year": "2021",
+      "journal-title": "Organisms Diversity & Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0098",
+      "doi-asserted-by": "crossref",
+      "first-page": "495",
+      "DOI": "10.1038/s41586-022-04600-9",
+      "article-title": "Climate effects on archaic human habitats and species successions",
+      "volume": "604",
+      "author": "Timmermann",
+      "year": "2022",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2025030418275646400_CIT0099",
+      "doi-asserted-by": "publisher",
+      "first-page": "evac045",
+      "DOI": "10.1093/gbe/evac045",
+      "article-title": "Genetics and material culture support repeated expansions into Paleolithic Eurasia from a population hub out of Africa",
+      "volume": "14",
+      "author": "Vallini",
+      "year": "2022",
+      "journal-title": "Genome Biology and Evolution"
+    },
+    {
+      "key": "2025030418275646400_CIT0100",
+      "doi-asserted-by": "crossref",
+      "first-page": "1882",
+      "DOI": "10.1038/s41467-024-46161-7",
+      "article-title": "The Persian plateau served as hub for Homo sapiens after the main out of Africa dispersal",
+      "volume": "15",
+      "author": "Vallini",
+      "year": "2024",
+      "journal-title": "Nature Communications"
+    },
+    {
+      "key": "2025030418275646400_CIT0101",
+      "doi-asserted-by": "publisher",
+      "first-page": "166",
+      "DOI": "10.1002/evan.21946",
+      "article-title": "A process-based approach to hominin taxonomy provides new perspectives on hominin speciation",
+      "volume": "31",
+      "author": "van Holstein",
+      "year": "2022",
+      "journal-title": "Evolutionary Anthropology: Issues, News, and Reviews"
+    },
+    {
+      "key": "2025030418275646400_CIT0102",
+      "doi-asserted-by": "publisher",
+      "first-page": "233",
+      "DOI": "10.2307/1219444",
+      "article-title": "Ecological species, multispecies, and oaks",
+      "volume": "25",
+      "author": "Van Valen",
+      "year": "1976",
+      "journal-title": "Taxon"
+    },
+    {
+      "key": "2025030418275646400_CIT0103",
+      "doi-asserted-by": "publisher",
+      "first-page": "235",
+      "DOI": "10.1126/science.aad9416",
+      "article-title": "Excavating Neandertal and Denisovan DNA from the genomes of Melanesian individuals",
+      "volume": "352",
+      "author": "Vernot",
+      "year": "2016",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2025030418275646400_CIT0104",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1111/j.1096-3642.1865.tb00178.x",
+      "article-title": "On the phenomena of variation and geographic distribution as illustrated by the Papilonidae of Malayan region",
+      "volume": "25",
+      "author": "Wallace",
+      "year": "1865",
+      "journal-title": "Transactions of the Linnean Society of London"
+    },
+    {
+      "key": "2025030418275646400_CIT0105",
+      "doi-asserted-by": "crossref",
+      "first-page": "235",
+      "DOI": "10.1038/s41586-020-2153-8",
+      "article-title": "The dental proteome of Homo antecessor",
+      "volume": "580",
+      "author": "Welker",
+      "year": "2020",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2025030418275646400_CIT0106",
+      "doi-asserted-by": "publisher",
+      "first-page": "32",
+      "DOI": "10.1016/j.jaa.2014.04.004",
+      "article-title": "The place of the Neanderthals in hominin phylogeny",
+      "volume": "35",
+      "author": "White",
+      "year": "2014",
+      "journal-title": "Journal of Anthropological Archaeology"
+    },
+    {
+      "key": "2025030418275646400_CIT0107",
+      "doi-asserted-by": "publisher",
+      "first-page": "17",
+      "DOI": "10.2307/2412809",
+      "article-title": "The evolutionary species concept reconsidered",
+      "volume": "27",
+      "author": "Wiley",
+      "year": "1978",
+      "journal-title": "Systematic Zoology"
+    },
+    {
+      "key": "2025030418275646400_CIT0108",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1201/9780367855604",
+      "volume-title": "Species Problems and Beyond: Contemporary Issues in Philosophy and Practice.",
+      "author": "Wilkins",
+      "year": "2022"
+    },
+    {
+      "key": "2025030418275646400_CIT0109",
+      "doi-asserted-by": "publisher",
+      "first-page": "107722",
+      "DOI": "10.1016/j.quascirev.2022.107722",
+      "article-title": "Towards a more realistic interpretation of the human fossil record",
+      "volume": "295",
+      "author": "Wood",
+      "year": "2022",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "2025030418275646400_CIT0110",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/978-3-319-44966-1",
+      "volume-title": "Species concepts in Biology",
+      "author": "Zachos",
+      "year": "2016"
+    },
+    {
+      "key": "2025030418275646400_CIT0111",
+      "doi-asserted-by": "crossref",
+      "first-page": "315",
+      "DOI": "10.1201/9780367855604-19",
+      "article-title": "Critique of taxonomic reason (ing): nature’s joints in light of an ‘Honest’ species concept and Kurt Hübner’s Historistic philosophy of science",
+      "volume-title": "Species Problems and Beyond",
+      "author": "Zachos",
+      "year": "2022"
+    },
+    {
+      "key": "2025030418275646400_CIT0112",
+      "doi-asserted-by": "publisher",
+      "first-page": "1047",
+      "DOI": "10.1016/j.cell.2023.12.029",
+      "article-title": "The genetic changes that shaped Neandertals, Denisovans, and modern humans",
+      "volume": "187",
+      "author": "Zeberg",
+      "year": "2024",
+      "journal-title": "Cell"
+    }
+  ],
+  "container-title": [
+    "Evolutionary Journal of the Linnean Society"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://academic.oup.com/evolinnean/advance-article-pdf/doi/10.1093/evolinnean/kzae033/60677522/kzae033.pdf",
+      "content-type": "application/pdf",
+      "content-version": "am",
+      "intended-application": "syndication"
+    },
+    {
+      "URL": "https://academic.oup.com/evolinnean/article-pdf/3/1/kzae033/60677522/kzae033.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "syndication"
+    },
+    {
+      "URL": "https://academic.oup.com/evolinnean/article-pdf/3/1/kzae033/60677522/kzae033.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        4
+      ]
+    ],
+    "date-time": "2025-03-04T20:35:38Z",
+    "timestamp": 1741120538000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://academic.oup.com/evolinnean/article/doi/10.1093/evolinnean/kzae033/7900502"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        1
+      ]
+    ]
+  },
+  "references-count": 117,
+  "journal-issue": {
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1093/evolinnean/kzae033",
+  "relation": {},
+  "ISSN": [
+    "2752-938X"
+  ],
+  "issn-type": [
+    {
+      "value": "2752-938X",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published-other": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        1
+      ]
+    ]
+  },
+  "article-number": "kzae033"
+}

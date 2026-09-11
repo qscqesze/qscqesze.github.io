@@ -1,0 +1,1497 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        2
+      ]
+    ],
+    "date-time": "2026-09-02T09:11:47Z",
+    "timestamp": 1788340307076,
+    "version": "build-2803163510"
+  },
+  "reference-count": 100,
+  "publisher": "Public Library of Science (PLoS)",
+  "issue": "6",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            6,
+            21
+          ]
+        ],
+        "date-time": "2023-06-21T00:00:00Z",
+        "timestamp": 1687305600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "name": "French Culture Ministry / Cultural Affairs Regiopnal Direction (DRAC) / Archaeology Regional Service"
+    },
+    {
+      "name": "Regional Council of Centre-Val de Loire Region"
+    },
+    {
+      "name": "Tours University / Letters Faculty / UMR 7324 - Cités, TERritoires, Environnement et Sociétés CITERES / Archaeology and Territories Laboratory LAT"
+    },
+    {
+      "name": "Vinci - Cofiroute Society"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "www.plosone.org"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "PLoS ONE"
+  ],
+  "abstract": "<jats:p>Here we report on Neanderthal engravings on a cave wall at La Roche-Cotard (LRC) in central France, made more than 57±3 thousand years ago. Following human occupation, the cave was completely sealed by cold-period sediments, which prevented access until its discovery in the 19<jats:sup>th</jats:sup>century and first excavation in the early 20<jats:sup>th</jats:sup>century. The timing of the closure of the cave is based on 50 optically stimulated luminescence ages derived from sediment collected inside and from around the cave. The anthropogenic origin of the spatially-structured, non-figurative marks found within the cave is confirmed using taphonomic, traceological and experimental evidence. Cave closure occurred significantly before the regional arrival of<jats:italic>H</jats:italic>.<jats:italic>sapiens</jats:italic>, and all artefacts from within the cave are typical Mousterian lithics; in Western Europe these are uniquely attributed to<jats:italic>H</jats:italic>.<jats:italic>neanderthalensis</jats:italic>. We conclude that the LRC engravings are unambiguous examples of Neanderthal abstract design.</jats:p>",
+  "DOI": "10.1371/journal.pone.0286568",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        21
+      ]
+    ],
+    "date-time": "2023-06-21T22:32:23Z",
+    "timestamp": 1687386743000
+  },
+  "page": "e0286568",
+  "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 46,
+  "title": [
+    "The earliest unambiguous Neanderthal engravings on cave walls: La Roche-Cotard, Loire Valley, France"
+  ],
+  "prefix": "10.1371",
+  "volume": "18",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-6250-4720",
+      "authenticated-orcid": true,
+      "given": "Jean-Claude",
+      "family": "Marquet",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Trine Holm",
+      "family": "Freiesleben",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Kristina Jørkov",
+      "family": "Thomsen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Andrew Sean",
+      "family": "Murray",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Morgane",
+      "family": "Calligaro",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jean-Jacques",
+      "family": "Macaire",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Eric",
+      "family": "Robert",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Michel",
+      "family": "Lorblanchet",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Thierry",
+      "family": "Aubry",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Grégory",
+      "family": "Bayle",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jean-Gabriel",
+      "family": "Bréhéret",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hubert",
+      "family": "Camus",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Pascal",
+      "family": "Chareille",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yves",
+      "family": "Egels",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Émilie",
+      "family": "Guillaud",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6298-5579",
+      "authenticated-orcid": true,
+      "given": "Guillaume",
+      "family": "Guérin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Pascale",
+      "family": "Gautret",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9354-0326",
+      "authenticated-orcid": true,
+      "given": "Morgane",
+      "family": "Liard",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Magen",
+      "family": "O’Farrell",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jean-Baptiste",
+      "family": "Peyrouse",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Edit",
+      "family": "Thamó-Bozsó",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2203-4119",
+      "authenticated-orcid": true,
+      "given": "Pascal",
+      "family": "Verdin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3259-0792",
+      "authenticated-orcid": true,
+      "given": "Dorota",
+      "family": "Wojtczak",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Christine",
+      "family": "Oberlin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jacques",
+      "family": "Jaubert",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "340",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        21
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "pone.0286568.ref001",
+      "doi-asserted-by": "crossref",
+      "first-page": "1273",
+      "DOI": "10.1038/s41559-021-01487-z",
+      "article-title": "A 51,000-year-old engraved bone reveals Neanderthals’ capacity for symbolic behaviour",
+      "volume": "5",
+      "author": "D Leder",
+      "year": "2021",
+      "journal-title": "Nat Ecol Evol"
+    },
+    {
+      "issue": "3",
+      "key": "pone.0286568.ref002",
+      "doi-asserted-by": "crossref",
+      "first-page": "1023",
+      "DOI": "10.1073/pnas.0914088107",
+      "article-title": "Symbolic use of marine shells and mineral pigments by Iberian Neandertals",
+      "volume": "107",
+      "author": "J Zilhão",
+      "year": "2010",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "key": "pone.0286568.ref003",
+      "doi-asserted-by": "crossref",
+      "first-page": "e68572",
+      "DOI": "10.1371/journal.pone.0068572",
+      "article-title": "An ochered fossil marine shell from the Mousterian of Fumane Cave, Italy",
+      "volume": "8",
+      "author": "M Peresani",
+      "year": "2013",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "pone.0286568.ref004",
+      "doi-asserted-by": "crossref",
+      "first-page": "3888",
+      "DOI": "10.1073/pnas.1016212108",
+      "article-title": "Late Neandertals and the intentional removal of feathers as evidenced from bird bone taphonomy at Fumane Cave 44 ky BP, Italy",
+      "volume": "108",
+      "author": "M Peresani",
+      "year": "2011",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "key": "pone.0286568.ref005",
+      "doi-asserted-by": "crossref",
+      "first-page": "1889",
+      "DOI": "10.1073/pnas.1112261109",
+      "article-title": "Use of red ochre by early Neandertals",
+      "volume": "109",
+      "author": "W Roebroeks",
+      "year": "2012",
+      "journal-title": "PNAS"
+    },
+    {
+      "key": "pone.0286568.ref006",
+      "first-page": "157",
+      "volume-title": "Current Themes in Middle Stone Age Research. Goodwin series volume in honour of Lyn Wadley",
+      "author": "F. Le Rouge et le Noir d’Errico",
+      "year": "2008"
+    },
+    {
+      "key": "pone.0286568.ref007",
+      "doi-asserted-by": "crossref",
+      "first-page": "253",
+      "DOI": "10.1016/j.jas.2014.11.040",
+      "article-title": "A new black mineral pigment used during the late Middle Palaeolithic discovered at Scladina Cave (Andenne, Belgium)",
+      "volume": "55",
+      "author": "D Bonjean",
+      "year": "2015",
+      "journal-title": "Journal of Archaeological Science"
+    },
+    {
+      "key": "pone.0286568.ref008",
+      "first-page": "239",
+      "article-title": "Manganese and iron oxide use at Combe-Grenal (Dordogne, France): A proxy for cultural change in Neanderthal communities. Journal of Archaeological Science",
+      "volume": "25",
+      "author": "L Dayet",
+      "year": "2019",
+      "journal-title": "Reports"
+    },
+    {
+      "issue": "7",
+      "key": "pone.0286568.ref009",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0218568",
+      "DOI": "10.1371/journal.pone.0218568",
+      "article-title": "Provenance, modification and use of manganese-rich rocks at Le Moustier (Dordogne, France)",
+      "volume": "14",
+      "author": "A Pitarch Martí",
+      "year": "2019",
+      "journal-title": "PloS one"
+    },
+    {
+      "issue": "298",
+      "key": "pone.0286568.ref010",
+      "doi-asserted-by": "crossref",
+      "first-page": "661",
+      "DOI": "10.1017/S0003598X00061627",
+      "article-title": "A Neanderthal face? The proto-figurine from La Roche-Cotard, Langeais (Indre-et-Loire, France)",
+      "volume": "77",
+      "author": "JC Marquet",
+      "year": "2003",
+      "journal-title": "Antiquity"
+    },
+    {
+      "key": "pone.0286568.ref011",
+      "first-page": "253",
+      "article-title": "Nouvelle datation du \"masque\" de la Roche-Cotard (Langeais, Indre-et-Loire, France)",
+      "volume": "27",
+      "author": "JC Marquet",
+      "year": "2016",
+      "journal-title": "Paleo"
+    },
+    {
+      "key": "pone.0286568.ref012",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1038/nature18291",
+      "article-title": "Early Neanderthal constructions deep in Bruniquel Cave in southwestern France",
+      "volume": "534",
+      "author": "J Jaubert",
+      "year": "2016",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "pone.0286568.ref013",
+      "first-page": "311",
+      "volume-title": "Les Néandertaliens: Biologie et Cultures",
+      "author": "B Maureille",
+      "year": "2007"
+    },
+    {
+      "issue": "1",
+      "key": "pone.0286568.ref014",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1038/s41598-020-77611-z",
+      "article-title": "Pluridisciplinary evidence for burial for the La Ferrassie 8 Neandertal child",
+      "volume": "10",
+      "author": "A Balzeau",
+      "year": "2020",
+      "journal-title": "Scientific reports"
+    },
+    {
+      "key": "pone.0286568.ref015",
+      "volume-title": "The Neanderthal Child of Roc de Marsal. Prehistoric Mystery",
+      "author": "H Dibble",
+      "year": "2015",
+      "edition": "2"
+    },
+    {
+      "issue": "1",
+      "key": "pone.0286568.ref016",
+      "doi-asserted-by": "crossref",
+      "first-page": "81",
+      "DOI": "10.1073/pnas.1316780110",
+      "article-title": "Evidence supporting an intentional Neandertal burial at La Chapelle-aux-Saints",
+      "volume": "111",
+      "author": "W Rendu",
+      "year": "2014",
+      "journal-title": "Proceedings of the National Academy of Sciences"
+    },
+    {
+      "key": "pone.0286568.ref017",
+      "doi-asserted-by": "crossref",
+      "first-page": "649",
+      "DOI": "10.1016/j.jas.2014.04.019",
+      "article-title": "A critical look at evidence from La Chapelle-aux-Saints supporting an intentional Neandertal burial",
+      "volume": "53",
+      "author": "HL Dibble",
+      "year": "2015",
+      "journal-title": "Journal of Archaeological Science"
+    },
+    {
+      "key": "pone.0286568.ref018",
+      "volume-title": "The First Artists, in search of the world’s oldest art",
+      "author": "M Lorblanchet",
+      "year": "2017"
+    },
+    {
+      "key": "pone.0286568.ref019",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0119802",
+      "DOI": "10.1371/journal.pone.0119802",
+      "article-title": "Evidence for Neandertal jewelry: Modified white-tailed eagle claws at Krapina",
+      "volume": "10",
+      "author": "D Radovčić",
+      "year": "2015",
+      "journal-title": "PLOS ONE"
+    },
+    {
+      "key": "pone.0286568.ref020",
+      "unstructured": "Majkić A. The Emergence of Symbolically Mediated Behavior in Eastern Europe. Doctorat Thesis Préhistory, PACEA Bordeaux University. 2017. Available from: ttps://oskar-bordeaux.fr/handle/20.500.12278/5470"
+    },
+    {
+      "key": "pone.0286568.ref021",
+      "doi-asserted-by": "crossref",
+      "first-page": "713",
+      "DOI": "10.1086/712088",
+      "article-title": "Krapina and the Case for Neandertal Symbolic Behavior",
+      "volume": "61",
+      "author": "DW Frayer",
+      "year": "2020",
+      "journal-title": "Current Anthropology"
+    },
+    {
+      "key": "pone.0286568.ref022",
+      "first-page": "519",
+      "article-title": "Krapina 3: Cut Marks and Ritual Behavior?",
+      "volume": "108",
+      "author": "DW Frayer",
+      "year": "2006",
+      "journal-title": "Periodicum Biologorum"
+    },
+    {
+      "key": "pone.0286568.ref023",
+      "article-title": "Neanderthal scraping and manual handling of raptors wing bones: Evidence from Fumane Cave. Experimental activities and comparison",
+      "author": "M Romandini",
+      "year": "2016",
+      "journal-title": "Quaternary International"
+    },
+    {
+      "issue": "3",
+      "key": "pone.0286568.ref024",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0173435",
+      "DOI": "10.1371/journal.pone.0173435",
+      "article-title": "A decorated raven bone from the Zskalnaya VI (Kolosovskaya) Neanderthal site, Crimea",
+      "volume": "12",
+      "author": "A Majkić",
+      "year": "2017",
+      "journal-title": "PLOS ONE"
+    },
+    {
+      "issue": "2",
+      "key": "pone.0286568.ref025",
+      "doi-asserted-by": "crossref",
+      "first-page": "eaar5255",
+      "DOI": "10.1126/sciadv.aar5255",
+      "article-title": "Symbolic use of marine shells and mineral pigments by Iberian Neandertals 115,000 years ago",
+      "volume": "4",
+      "author": "DL Hoffmann",
+      "year": "2018",
+      "journal-title": "Science Advances"
+    },
+    {
+      "key": "pone.0286568.ref026",
+      "first-page": "35",
+      "volume-title": "Developments in Quaternary Sciences",
+      "author": "J. Zilhão",
+      "year": "2012"
+    },
+    {
+      "issue": "2",
+      "key": "pone.0286568.ref027",
+      "doi-asserted-by": "crossref",
+      "first-page": "357",
+      "DOI": "10.1086/204499",
+      "article-title": "A Middle Paleolithic Symbolic Composition from the Golan Heights: the earliest Known Depictive Image",
+      "volume": "37",
+      "author": "A. Marshack",
+      "year": "1996",
+      "journal-title": "Current Anthropology"
+    },
+    {
+      "key": "pone.0286568.ref028",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1023/A:1023980201043",
+      "article-title": "Archaeological Evidence for the Emergence of Language, Symbolism, and Music–An Alternative Multidisciplinary Perspective",
+      "volume": "17",
+      "author": "F d’Errico",
+      "year": "2003",
+      "journal-title": "Journal of World Prehistory"
+    },
+    {
+      "key": "pone.0286568.ref029",
+      "doi-asserted-by": "crossref",
+      "first-page": "708",
+      "DOI": "10.1086/705677",
+      "article-title": "A Mousterian Engraved Bone: Principles of Perception in Middle Paleolithic Art",
+      "volume": "60",
+      "author": "D Shaham",
+      "year": "2019",
+      "journal-title": "Current Anthropology"
+    },
+    {
+      "issue": "37",
+      "key": "pone.0286568.ref030",
+      "doi-asserted-by": "crossref",
+      "first-page": "13301",
+      "DOI": "10.1073/pnas.1411529111",
+      "article-title": "A rock engraving made by Neanderthals in Gibraltar",
+      "volume": "111",
+      "author": "J Rodríguez-Vidal",
+      "year": "2014",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "key": "pone.0286568.ref031",
+      "article-title": "La Cueva de Ardales: Arte Prehistórico y Ocupación en el Paleolítico Superior",
+      "author": "P Cantalejo",
+      "year": "2007",
+      "journal-title": "Journal of Anthropological Research"
+    },
+    {
+      "issue": "40",
+      "key": "pone.0286568.ref032",
+      "first-page": "383",
+      "article-title": "Handprints in Maltravieso Cave (Cáceres, Spain): Typology, Distribution, Techniques and Chronological Context",
+      "author": "H Collado",
+      "year": "2013",
+      "journal-title": "IFRAO 2013 Proceedings. American Indian Rock Art"
+    },
+    {
+      "key": "pone.0286568.ref033",
+      "doi-asserted-by": "crossref",
+      "first-page": "1409",
+      "DOI": "10.1126/science.1219957",
+      "article-title": "U-series dating of Paleolithic art in 11 caves in Spain",
+      "volume": "336",
+      "author": "AWG Pike",
+      "year": "2012",
+      "journal-title": "Science"
+    },
+    {
+      "key": "pone.0286568.ref034",
+      "doi-asserted-by": "crossref",
+      "first-page": "104",
+      "DOI": "10.1016/j.quageo.2016.07.004",
+      "article-title": "Methods for U-series dating of CaCO3 crusts associated with Palaeolithic cave art and application to Iberian sites",
+      "volume": "36",
+      "author": "DL Hoffmann",
+      "year": "2016",
+      "journal-title": "Quat. Geochronol"
+    },
+    {
+      "key": "pone.0286568.ref035",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1016/j.quaint.2015.12.013",
+      "article-title": "Dating Palaeolithic cave art: Why U–Th is the way to go",
+      "volume": "432",
+      "author": "AWG Pike",
+      "year": "2017",
+      "journal-title": "Quat. Int"
+    },
+    {
+      "issue": "6378",
+      "key": "pone.0286568.ref036",
+      "doi-asserted-by": "crossref",
+      "first-page": "912",
+      "DOI": "10.1126/science.aap7778",
+      "article-title": "U-Th dating of carbonate crusts reveals Neandertal origin of Iberian cave art",
+      "volume": "359",
+      "author": "DL Hoffmann",
+      "year": "2018",
+      "journal-title": "Science"
+    },
+    {
+      "key": "pone.0286568.ref037",
+      "doi-asserted-by": "crossref",
+      "first-page": "925",
+      "DOI": "10.1038/s41559-018-0540-4",
+      "article-title": "Trouble on the dating scene",
+      "volume": "2",
+      "author": "DG Pearce",
+      "year": "2018",
+      "journal-title": "Nat Ecol Evol"
+    },
+    {
+      "key": "pone.0286568.ref038",
+      "doi-asserted-by": "crossref",
+      "first-page": "215",
+      "DOI": "10.1016/j.jhevol.2018.08.004",
+      "article-title": "Early dates for ‘Neanderthal cave art’ may be wrong",
+      "volume": "125",
+      "author": "M Aubert",
+      "year": "2018",
+      "journal-title": "J. Hum. Evol"
+    },
+    {
+      "key": "pone.0286568.ref039",
+      "doi-asserted-by": "crossref",
+      "first-page": "1044",
+      "DOI": "10.1038/s41559-018-0598-z",
+      "article-title": "Dates for Neanderthal art and symbolic behaviour are reliable",
+      "volume": "2",
+      "author": "DL Hoffmann",
+      "year": "2018",
+      "journal-title": "Nat Ecol Evol"
+    },
+    {
+      "key": "pone.0286568.ref040",
+      "first-page": "144",
+      "article-title": "Still no archaeological evidence that Neanderthals created Iberian cave art",
+      "author": "R White",
+      "year": "2019",
+      "journal-title": "J. Hum. Evol"
+    },
+    {
+      "issue": "102810",
+      "key": "pone.0286568.ref041",
+      "article-title": "Response to White et al.’s reply: ’Still no archaeological evidence that Neanderthals created Iberian cave art’",
+      "volume": "144",
+      "author": "DL Hoffmann",
+      "year": "2020",
+      "journal-title": "Journal of Human Evolution"
+    },
+    {
+      "issue": "33",
+      "key": "pone.0286568.ref042",
+      "doi-asserted-by": "crossref",
+      "first-page": "e2021495118",
+      "DOI": "10.1073/pnas.2021495118",
+      "article-title": "The symbolic role of the underground world among Middle Paleolithic Neanderthals",
+      "volume": "118",
+      "author": "A Pitarch-Martí",
+      "year": "2021",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "issue": "4",
+      "key": "pone.0286568.ref043",
+      "first-page": "125",
+      "article-title": "Au pays des châteaux. La Roche-Cotard",
+      "author": "F. D’Achon",
+      "year": "1913",
+      "journal-title": "Sa grotte préhistorique. La Touraine"
+    },
+    {
+      "key": "pone.0286568.ref044",
+      "first-page": "1997",
+      "article-title": "Le Site Préhistorique de La Roche-Cotard à Langeais (Indre-et-Loire)",
+      "volume": "127",
+      "author": "JC Marquet",
+      "journal-title": "CLD, Chambray-les-Tours"
+    },
+    {
+      "key": "pone.0286568.ref045",
+      "first-page": "169",
+      "article-title": "Les productions à caractère symbolique du site moustérien de La Roche-Cotard à Langeais (Indre-et-Loire, France) dans leur contexte géologique",
+      "volume": "25",
+      "author": "JC Marquet",
+      "year": "2014",
+      "journal-title": "Paleo"
+    },
+    {
+      "key": "pone.0286568.ref046",
+      "volume-title": "Feuille Langeais n° 487, notice 12 p",
+      "author": "G Alcaydé",
+      "year": "1971"
+    },
+    {
+      "key": "pone.0286568.ref047",
+      "volume-title": "Stratotype Turonien",
+      "author": "F Amédro"
+    },
+    {
+      "key": "pone.0286568.ref048",
+      "first-page": "43",
+      "article-title": "Apport de l’altération superficielle à la stratigraphie: exemple des formations alluviales et éoliennes plio-quaternaires de Touraine (France)",
+      "volume": "3–4",
+      "author": "JJ Macaire",
+      "year": "1986",
+      "journal-title": "Bulletin Association Française d’Étude du Quaternaire"
+    },
+    {
+      "issue": "3",
+      "key": "pone.0286568.ref049",
+      "doi-asserted-by": "crossref",
+      "first-page": "195",
+      "DOI": "10.1016/S0195-6671(84)80019-1",
+      "article-title": "The late cretaceous transgression in the SW Anglo-Paris Basin: Stratigraphy of the Craie de Villedieu Formation",
+      "volume": "5",
+      "author": "I Jarvis",
+      "year": "1984",
+      "journal-title": "Cretaceous Research"
+    },
+    {
+      "issue": "2",
+      "key": "pone.0286568.ref050",
+      "doi-asserted-by": "crossref",
+      "first-page": "185",
+      "DOI": "10.4000/quaternaire.11746",
+      "article-title": "Le site préhistorique de La Roche-Cotard IV (Indre-et-Loire, France): une séquence du Pléistocène moyen et supérieur, référence pour le val de Loire tourangeau",
+      "volume": "30",
+      "author": "JC Marquet",
+      "year": "2019",
+      "journal-title": "Quaternaire"
+    },
+    {
+      "key": "pone.0286568.ref051",
+      "first-page": "9",
+      "article-title": "Les restes osseux des grands mammifères découverts à La Roche-Cotard III (Langeais, Indre-et-Loire)",
+      "volume": "59",
+      "author": "G. Bayle",
+      "year": "2008",
+      "journal-title": "Bulletin.du Musée de Préh. du Grand-Pressigny"
+    },
+    {
+      "key": "pone.0286568.ref052",
+      "volume-title": "Érosion, Transfert et Stockage dans les Environnements Continentaux",
+      "author": "M Campy",
+      "year": "2013",
+      "edition": "3"
+    },
+    {
+      "key": "pone.0286568.ref053",
+      "doi-asserted-by": "crossref",
+      "first-page": "183",
+      "DOI": "10.3406/quate.1983.1464",
+      "article-title": "Evolution du réseau hydrographique dans le sud-ouest de Bassin de Paris pendant le Pliocène et le Quaternaire",
+      "volume": "4",
+      "author": "JJ Macaire",
+      "year": "1983",
+      "journal-title": "Bulletin Association Française pour l’Étude du Quaternaire"
+    },
+    {
+      "key": "pone.0286568.ref054",
+      "first-page": "343",
+      "volume-title": "Settement dynamics of the Middle Paleolithic and Middle Stone Age",
+      "author": "M. Soressi",
+      "year": "2004"
+    },
+    {
+      "key": "pone.0286568.ref055",
+      "first-page": "41",
+      "volume-title": "The Definition and Interpretation of Levallois Technology. Monographs in World Archaeology Press(23)",
+      "author": "E. Boëda",
+      "year": "1995"
+    },
+    {
+      "key": "pone.0286568.ref056",
+      "first-page": "213",
+      "volume-title": "Les Néandertaliens: Biologie et Culture",
+      "author": "A Delagne",
+      "year": "2007"
+    },
+    {
+      "key": "pone.0286568.ref057",
+      "doi-asserted-by": "crossref",
+      "first-page": "233",
+      "DOI": "10.1016/j.quaint.2016.02.049",
+      "article-title": "The emergence of the Middle Palaeolithic in north-western Europe and its southern fringes",
+      "volume": "411",
+      "author": "D Hérisson",
+      "year": "2016",
+      "journal-title": "Quaternary International"
+    },
+    {
+      "key": "pone.0286568.ref058",
+      "doi-asserted-by": "crossref",
+      "first-page": "299",
+      "DOI": "10.1038/s41586-020-2259-z",
+      "article-title": "Initial Upper Paleolithic Homo sapiens from Bacho Kiro cave, Bulgaria",
+      "volume": "581",
+      "author": "JJ Hublin",
+      "year": "2020",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "pone.0286568.ref059",
+      "doi-asserted-by": "crossref",
+      "first-page": "794",
+      "DOI": "10.1038/s41559-020-1136-3",
+      "article-title": "A 14C chronology for the Middle to Upper Paleolitic transition at Bacho Kiro cave, Bulgaria",
+      "volume": "4",
+      "author": "H Fewlass",
+      "year": "2020",
+      "journal-title": "Nat Ecol Evol"
+    },
+    {
+      "issue": "4",
+      "key": "pone.0286568.ref060",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.18637/jss.v022.i04",
+      "article-title": "The ade4 Package: Implementing the Duality Diagram for Ecologists",
+      "volume": "22",
+      "author": "S Dray",
+      "year": "2007",
+      "journal-title": "Journal of Statistical Software"
+    },
+    {
+      "issue": "2",
+      "key": "pone.0286568.ref061",
+      "doi-asserted-by": "crossref",
+      "first-page": "198",
+      "DOI": "10.32614/RJ-2017-042",
+      "article-title": "Adegraphics: An S4 Lattice-Based Package for the Representation of Multivariate Data",
+      "volume": "9",
+      "author": "A Siberchicot",
+      "year": "2017",
+      "journal-title": "R Journal"
+    },
+    {
+      "issue": "1",
+      "key": "pone.0286568.ref062",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1038/s43586-021-00068-5",
+      "article-title": "Optically stimulated luminescence dating using quartz",
+      "volume": "1",
+      "author": "A. Murray",
+      "year": "2021",
+      "journal-title": "Nature Reviews Methods Primers"
+    },
+    {
+      "issue": "1",
+      "key": "pone.0286568.ref063",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1038/s43586-021-00058-7",
+      "article-title": "Radiocarbon dating",
+      "volume": "1",
+      "author": "I Hajdas",
+      "year": "2021",
+      "journal-title": "Nature Reviews Methods Primers"
+    },
+    {
+      "key": "pone.0286568.ref064",
+      "first-page": "208",
+      "volume-title": "Fossils in the making, Vertebrate taphonomy and paleoecology",
+      "author": "PE Hare",
+      "year": "1980"
+    },
+    {
+      "issue": "3",
+      "key": "pone.0286568.ref065",
+      "doi-asserted-by": "crossref",
+      "first-page": "281",
+      "DOI": "10.1016/0883-2927(89)90030-9",
+      "article-title": "Detection of bone preservation in archaeological and fossil samples",
+      "volume": "4",
+      "author": "MJ Schoeninger",
+      "year": "1989",
+      "journal-title": "Applied Geochemistry"
+    },
+    {
+      "issue": "2",
+      "key": "pone.0286568.ref066",
+      "doi-asserted-by": "crossref",
+      "first-page": "171",
+      "DOI": "10.1017/S0033822200044118",
+      "article-title": "Improved Collagen Extraction by Modified Longin Method",
+      "volume": "30",
+      "author": "T Brown",
+      "year": "1988",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "issue": "2",
+      "key": "pone.0286568.ref067",
+      "doi-asserted-by": "crossref",
+      "first-page": "179",
+      "DOI": "10.1017/S0033822200066388",
+      "article-title": "AMS radiocarbon dating of ancient bone using ultrafiltration",
+      "volume": "48",
+      "author": "TFG Higham",
+      "year": "2006",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "pone.0286568.ref068",
+      "doi-asserted-by": "crossref",
+      "first-page": "57",
+      "DOI": "10.1016/S1350-4487(99)00253-X",
+      "article-title": "Luminescence dating of quartz using an improved single-aliquot regenerative-dose protocol",
+      "volume": "32",
+      "author": "AS Murray",
+      "year": "2000",
+      "journal-title": "Radiation Measurements"
+    },
+    {
+      "key": "pone.0286568.ref069",
+      "doi-asserted-by": "crossref",
+      "first-page": "373",
+      "DOI": "10.1016/0277-3791(88)90032-7",
+      "article-title": "Optically dating studies of quartz and feldspar sediment extracts",
+      "volume": "7",
+      "author": "DL Godfrey-Smith",
+      "year": "1988",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "pone.0286568.ref070",
+      "doi-asserted-by": "crossref",
+      "first-page": "1474",
+      "DOI": "10.1016/j.radmeas.2008.06.002",
+      "article-title": "Laboratory fading rates of various luminescence signals from feldspar-rich sediment extracts",
+      "volume": "43",
+      "author": "KJ Thomsen",
+      "year": "2008",
+      "journal-title": "Radiation Measurements"
+    },
+    {
+      "key": "pone.0286568.ref071",
+      "doi-asserted-by": "crossref",
+      "first-page": "688",
+      "DOI": "10.1016/j.radmeas.2012.05.006",
+      "article-title": "Identifying well-bleached quartz using the different bleaching rates of quartz and feldspar luminescence signals",
+      "volume": "47",
+      "author": "AS Murray",
+      "year": "2012",
+      "journal-title": "Radiation Measurements"
+    },
+    {
+      "key": "pone.0286568.ref072",
+      "doi-asserted-by": "crossref",
+      "first-page": "435",
+      "DOI": "10.1111/j.1502-3885.2012.00248.x",
+      "article-title": "A robust feldspar luminescence dating method for Middle and Late Pleistocene sediments",
+      "volume": "419",
+      "author": "JP Buylaert",
+      "year": "2012",
+      "journal-title": "Boreas"
+    },
+    {
+      "issue": "1",
+      "key": "pone.0286568.ref073",
+      "doi-asserted-by": "crossref",
+      "first-page": "47",
+      "DOI": "10.1016/j.radmeas.2004.01.039",
+      "article-title": "Sources of variability in OSL dose measurements using single grains of quartz",
+      "volume": "39",
+      "author": "KJ Thomsen",
+      "year": "2005",
+      "journal-title": "Radiation Measurements"
+    },
+    {
+      "key": "pone.0286568.ref074",
+      "doi-asserted-by": "crossref",
+      "first-page": "163",
+      "DOI": "10.1016/j.quageo.2017.04.002",
+      "article-title": "Absorbed dose, equivalent dose, measured dose rates, and implications for OSL age estimates: Introducing the Average Dose Model",
+      "volume": "41",
+      "author": "G Guérin",
+      "year": "2017",
+      "journal-title": "Quaternary Geochronology"
+    },
+    {
+      "key": "pone.0286568.ref075",
+      "doi-asserted-by": "crossref",
+      "first-page": "339",
+      "DOI": "10.1111/j.1475-4754.1999.tb00987.x",
+      "article-title": "Optical dating of single and multiple grains of quartz from Jinmium rock shelter, northern Australia: Part I, experimental design and statistical models",
+      "volume": "41",
+      "author": "RF Galbraith",
+      "year": "1999",
+      "journal-title": "Archaeometry"
+    },
+    {
+      "key": "pone.0286568.ref076",
+      "doi-asserted-by": "crossref",
+      "first-page": "62",
+      "DOI": "10.1016/j.quageo.2015.04.001",
+      "article-title": "Bayesian central equivalent dose model for optically stimulated luminescence dating",
+      "volume": "28",
+      "author": "B Combès",
+      "year": "2015",
+      "journal-title": "Quaternary Geochronology"
+    },
+    {
+      "key": "pone.0286568.ref077",
+      "doi-asserted-by": "crossref",
+      "first-page": "16",
+      "DOI": "10.1016/j.quageo.2018.05.009",
+      "article-title": "BayLum–An R package for Bayesian analysis of OSL ages: An introduction",
+      "volume": "49",
+      "author": "A Philippe",
+      "year": "2019",
+      "journal-title": "Quaternary Geochronology"
+    },
+    {
+      "key": "pone.0286568.ref078",
+      "doi-asserted-by": "crossref",
+      "first-page": "62",
+      "DOI": "10.1016/j.radmeas.2015.04.002",
+      "article-title": "Testing the accuracy of a single grain OSL Bayesian central dose model with known-age samples",
+      "volume": "81",
+      "author": "G Guérin",
+      "year": "2015",
+      "journal-title": "Radiation Measurements"
+    },
+    {
+      "key": "pone.0286568.ref079",
+      "volume-title": "BayLum: Chronological Bayesian Models Integrating Optically Stimulated Luminescence and Radiocarbon Age Dating",
+      "author": "C Christophe",
+      "year": "2022"
+    },
+    {
+      "key": "pone.0286568.ref080",
+      "doi-asserted-by": "crossref",
+      "first-page": "24",
+      "DOI": "10.1016/j.quageo.2017.02.003",
+      "article-title": "Bayesian analysis of individual and systematic multiplicative errors for estimating ages with stratigraphic constraints in optically stimulated luminescence dating",
+      "volume": "39",
+      "author": "B Combès",
+      "year": "2017",
+      "journal-title": "Quaternary Geochronology"
+    },
+    {
+      "key": "pone.0286568.ref081",
+      "doi-asserted-by": "crossref",
+      "first-page": "77",
+      "DOI": "10.1016/j.quageo.2015.11.002",
+      "article-title": "Testing single-grain quartz OSL methods using known age samples from the Bordes-Fitte rock shelter (Roches d’Abilly site, Central France)",
+      "volume": "31",
+      "author": "KJ Thomsen",
+      "year": "2016",
+      "journal-title": "Quaternary Geochronology"
+    },
+    {
+      "key": "pone.0286568.ref082",
+      "doi-asserted-by": "crossref",
+      "first-page": "215",
+      "DOI": "10.1016/j.radmeas.2018.04.006",
+      "article-title": "Measurement of natural radioactivity: Calibration and performance of a high-resolution gamma spectrometry facility",
+      "volume": "120",
+      "author": "AS Murray",
+      "year": "2018",
+      "journal-title": "Radiation Measurements"
+    },
+    {
+      "key": "pone.0286568.ref083",
+      "volume-title": "Thermoluminescence Dating",
+      "author": "MJ Aitken",
+      "year": "1985"
+    },
+    {
+      "issue": "1",
+      "key": "pone.0286568.ref084",
+      "first-page": "5",
+      "article-title": "Dose-rate conversion factors: update",
+      "volume": "29",
+      "author": "G Guérin",
+      "year": "2011",
+      "journal-title": "Ancient TL"
+    },
+    {
+      "issue": "9",
+      "key": "pone.0286568.ref085",
+      "doi-asserted-by": "crossref",
+      "first-page": "778",
+      "DOI": "10.1016/j.radmeas.2012.04.004",
+      "article-title": "On the use of the infinite matrix assumption and associated concepts: a critical review",
+      "volume": "47",
+      "author": "G Guérin",
+      "year": "2012",
+      "journal-title": "Radiation Measurements"
+    },
+    {
+      "key": "pone.0286568.ref086",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1093/oso/9780198540922.001.0001",
+      "volume-title": "An Introduction to Optical Dating",
+      "author": "MJ Aitken",
+      "year": "1998"
+    },
+    {
+      "key": "pone.0286568.ref087",
+      "first-page": "131",
+      "article-title": "Griffades d’ours et pseudo-griffades paléolithiques en Dordogne",
+      "volume": "10",
+      "author": "B Delluc",
+      "year": "2003",
+      "journal-title": "Préhistoire du Sud-Ouest"
+    },
+    {
+      "issue": "12",
+      "key": "pone.0286568.ref088",
+      "doi-asserted-by": "crossref",
+      "first-page": "e2022466118",
+      "DOI": "10.1073/pnas.2022466118",
+      "article-title": "Reevaluating the timing of Neanderthal disappearance in Northwest Europe.",
+      "volume": "118",
+      "author": "T Devièse",
+      "year": "2021",
+      "journal-title": "PNAS"
+    },
+    {
+      "key": "pone.0286568.ref089",
+      "doi-asserted-by": "crossref",
+      "first-page": "457",
+      "DOI": "10.1214/ba/1339616472",
+      "article-title": "Flexible paleoclimate age-depth models using an autoregressive gamma process",
+      "volume": "6",
+      "author": "M Blaauw",
+      "year": "2011",
+      "journal-title": "Bayesian Anal"
+    },
+    {
+      "key": "pone.0286568.ref090",
+      "first-page": "233",
+      "article-title": "Symbolic or utilitarian? Juggling interpretations of Neanderthal behavior: new inferences from the study of engraved stone surfaces",
+      "volume": "92",
+      "author": "M Peresani",
+      "year": "2014",
+      "journal-title": "Journal of Anthropological Sciences"
+    },
+    {
+      "issue": "7374",
+      "key": "pone.0286568.ref091",
+      "doi-asserted-by": "crossref",
+      "first-page": "525",
+      "DOI": "10.1038/nature10617",
+      "article-title": "Early dispersal of modern humans in Europe and implications for Neanderthal behaviour.",
+      "volume": "479",
+      "author": "S Benazzi",
+      "year": "2011",
+      "journal-title": "Nature"
+    },
+    {
+      "issue": "7374",
+      "key": "pone.0286568.ref092",
+      "doi-asserted-by": "crossref",
+      "first-page": "521",
+      "DOI": "10.1038/nature10484",
+      "article-title": "The earliest evidence for anatomically modern humans in northwestern Europe.",
+      "volume": "479",
+      "author": "T Higham",
+      "year": "2011",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "pone.0286568.ref093",
+      "volume-title": "Quneitra: A Mousterian site on the Golan Heights. Jerusalem: Qedem, Monographs of the Institute of Archaeology",
+      "author": "N. Goren-Inbar",
+      "year": "1990"
+    },
+    {
+      "key": "pone.0286568.ref094",
+      "doi-asserted-by": "crossref",
+      "first-page": "115",
+      "DOI": "10.1038/s41586-018-0514-3",
+      "article-title": "An abstract drawing from the 73,000-year-old levels at Blombos Cave, South Africa",
+      "volume": "562",
+      "author": "CS Henshilwood",
+      "year": "2018",
+      "journal-title": "Nature"
+    },
+    {
+      "issue": "17",
+      "key": "pone.0286568.ref095",
+      "doi-asserted-by": "crossref",
+      "first-page": "4670",
+      "DOI": "10.1073/pnas.1523158113",
+      "article-title": "A high-precision chronological model for the decorated Upper Paleolithic cave of Chauvet-Pont d’Arc, Ardèche, France",
+      "volume": "113",
+      "author": "A Quiles",
+      "year": "2016",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "pone.0286568.ref096",
+      "doi-asserted-by": "crossref",
+      "first-page": "223",
+      "DOI": "10.1038/nature13422",
+      "article-title": "Pleistocene cave art from Sulawesi, Indonesia",
+      "volume": "514",
+      "author": "M Aubert",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "pone.0286568.ref097",
+      "doi-asserted-by": "crossref",
+      "first-page": "442",
+      "DOI": "10.1038/s41586-019-1806-y",
+      "article-title": "Earliest hunting scene in prehistoric art",
+      "volume": "576",
+      "author": "M Aubert",
+      "year": "2019",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "pone.0286568.ref098",
+      "first-page": "7",
+      "article-title": "Oldest cave art found in Sulawesi",
+      "author": "A Brumm",
+      "year": "2021",
+      "journal-title": "Science Advances"
+    },
+    {
+      "key": "pone.0286568.ref099",
+      "volume-title": "World Prehistory: a New Synthesis",
+      "author": "G. Clark",
+      "year": "1969"
+    },
+    {
+      "key": "pone.0286568.ref100",
+      "doi-asserted-by": "crossref",
+      "first-page": "94",
+      "DOI": "10.1016/j.quascirev.2015.01.012",
+      "article-title": "An optimized scheme of lettered marine isotope substages for the last 1.0 million years, and the climatostratigraphic nature of isotope stages and substages",
+      "volume": "111",
+      "author": "LB Railsback",
+      "year": "2015",
+      "journal-title": "Quaternary Science Reviews"
+    }
+  ],
+  "container-title": [
+    "PLOS ONE"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://dx.plos.org/10.1371/journal.pone.0286568",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        15
+      ]
+    ],
+    "date-time": "2023-12-15T13:27:31Z",
+    "timestamp": 1702646851000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://dx.plos.org/10.1371/journal.pone.0286568"
+    }
+  },
+  "subtitle": [],
+  "editor": [
+    {
+      "given": "Marco",
+      "family": "Peresani",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "editor"
+        }
+      ]
+    }
+  ],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        21
+      ]
+    ]
+  },
+  "references-count": 100,
+  "journal-issue": {
+    "issue": "6",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          21
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1371/journal.pone.0286568",
+  "relation": {},
+  "ISSN": [
+    "1932-6203"
+  ],
+  "issn-type": [
+    {
+      "value": "1932-6203",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        21
+      ]
+    ]
+  }
+}

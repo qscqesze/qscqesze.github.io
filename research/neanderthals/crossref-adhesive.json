@@ -1,0 +1,1262 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        2
+      ]
+    ],
+    "date-time": "2026-07-02T17:47:19Z",
+    "timestamp": 1783014439204,
+    "version": "3.54.6"
+  },
+  "reference-count": 81,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            19
+          ]
+        ],
+        "date-time": "2022-10-19T00:00:00Z",
+        "timestamp": 1666137600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            19
+          ]
+        ],
+        "date-time": "2022-10-19T00:00:00Z",
+        "timestamp": 1666137600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100006769",
+      "name": "Russian Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "17-78-20082"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "17-78-20082"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100006769",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100006769",
+      "name": "Russian Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "17-78-20082"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "17-78-20082"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100006769",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100006769",
+      "name": "Russian Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "17-78-20082"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "17-78-20082"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100006769",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100006769",
+      "name": "Russian Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "20-18-00060"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "20-18-00060"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100006769",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100006769",
+      "name": "Russian Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "20-18-00060"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "20-18-00060"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100006769",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100006769",
+      "name": "Russian Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "17-78-20082"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "17-78-20082"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100006769",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Sci Rep"
+  ],
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>The authors discuss functional characterization of Mousterian tools on the basis of their use-wear and residue analysis of five lithic tools from Mezmaiskaya cave and Saradj-Chuko grotto in the North Caucasus. The results represent the first comprehensive use-wear and residue analysis carried out on Mousterian stone artefacts in the Caucasus. This study unequivocally confirms the use of bitumen for hafting stone tools in two different Middle Paleolithic cultural contexts defined in the Caucasus, Eastern Micoquian and Zagros Mousterian.</jats:p>",
+  "DOI": "10.1038/s41598-022-20612-x",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        19
+      ]
+    ],
+    "date-time": "2022-10-19T10:02:54Z",
+    "timestamp": 1666173774000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 15,
+  "title": [
+    "Functional characterization of Mousterian tools from the Caucasus using comprehensive use-wear and residue analysis"
+  ],
+  "prefix": "10.1038",
+  "volume": "12",
+  "author": [
+    {
+      "given": "E. V.",
+      "family": "Doronicheva",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "L. V.",
+      "family": "Golovanova",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "J. V.",
+      "family": "Kostina",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "S. A.",
+      "family": "Legkov",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "G. N.",
+      "family": "Poplevko",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "E. I.",
+      "family": "Revina",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "O. Y.",
+      "family": "Rusakova",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "V. B.",
+      "family": "Doronichev",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        19
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "20612_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "9590",
+      "DOI": "10.1073/pnas.0900957106",
+      "volume": "106",
+      "author": "L Wadley",
+      "year": "2009",
+      "unstructured": "Wadley, L., Hodgskiss, T. & Grant, M. Implications for complex cognition from the hafting of tools with compound adhesives in the Middle Stone Age, South Africa. Proc. Natl. Acad. Sci. U.S.A. 106, 9590–9594. https://doi.org/10.1073/pnas.0900957106 (2009).",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "20612_CR2",
+      "volume-title": "Cognitive Models in Paleolithic Archaeology",
+      "author": "T Wynn",
+      "year": "2017",
+      "unstructured": "Wynn, T., Haidle, M. N., Lombard, M. & Coolidge, F. L. The expert cognition model in human evolutionary studies. In Cognitive Models in Paleolithic Archaeology (eds Wynn, T. & Coolidge, F. L.) (Oxford University Press, 2017)."
+    },
+    {
+      "key": "20612_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "6372",
+      "DOI": "10.1073/pnas.1521269113",
+      "volume": "113",
+      "author": "W Roebroeks",
+      "year": "2016",
+      "unstructured": "Roebroeks, W. & Soressi, M. Neanderthals revised. Proc. Natl. Acad. Sci. U.S.A. 113, 6372–6379. https://doi.org/10.1073/pnas.1521269113 (2016).",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "20612_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "1959",
+      "DOI": "10.1073/pnas.1800461115",
+      "volume": "115",
+      "author": "JF Hoffecker",
+      "year": "2018",
+      "unstructured": "Hoffecker, J. F. The complexity of Neanderthal technology. Proc. Natl. Acad. Sci. U.S.A. 115, 1959–1961. https://doi.org/10.1073/pnas.1800461115 (2018).",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "20612_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "108",
+      "DOI": "10.1038/scientificamerican1177-108",
+      "volume": "237",
+      "author": "LH Keeley",
+      "year": "1977",
+      "unstructured": "Keeley, L. H. The functions of Palaeolithic flint tools. Sci. Am. 237, 108–126 (1977).",
+      "journal-title": "Sci. Am."
+    },
+    {
+      "key": "20612_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "19",
+      "DOI": "10.1080/0108464X.1984.10589910",
+      "volume": "3",
+      "author": "A Fischer",
+      "year": "1984",
+      "unstructured": "Fischer, A., Hansen, P. V. & Rasmussen, P. Macro and micro wear traces on lithic projectile points. Experimental results and prehistoric examples. J. Dan. Archaeol. 3, 19–46 (1984).",
+      "journal-title": "J. Dan. Archaeol."
+    },
+    {
+      "key": "20612_CR7",
+      "volume-title": "Before Lascaux: The Complex Record of the Early Upper Paleolithic",
+      "author": "J-M Geneste",
+      "year": "1993",
+      "unstructured": "Geneste, J.-M. & Plisson, H. Hunting technologies and Human behavior: lithic analysis of Solutrean shouldered points. In Before Lascaux: The Complex Record of the Early Upper Paleolithic (eds Knecht, H. et al.) (CRC Press, 1993)."
+    },
+    {
+      "key": "20612_CR8",
+      "first-page": "115",
+      "volume": "60",
+      "author": "M Lombard",
+      "year": "2005",
+      "unstructured": "Lombard, M. A method for identifying Stone Age hunting tools. South African Archaeological Bulletin 60, 115–120 (2005).",
+      "journal-title": "South African Archaeological Bulletin"
+    },
+    {
+      "key": "20612_CR9",
+      "volume-title": "A Student Guide to Archaeological Analysis",
+      "author": "R Fullagar",
+      "year": "2006",
+      "unstructured": "Fullagar, R. Residues and usewear. In A Student Guide to Archaeological Analysis (eds Balme, J. & Paterson, A.) (Blackwell, 2006)."
+    },
+    {
+      "key": "20612_CR10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/j.ctt9qf05s",
+      "volume-title": "Prehension and Hafting Traces on Flint Tools. A Methodology",
+      "author": "V Rots",
+      "year": "2010",
+      "unstructured": "Rots, V. Prehension and Hafting Traces on Flint Tools. A Methodology (Leuven University Press, 2010)."
+    },
+    {
+      "key": "20612_CR11",
+      "first-page": "67",
+      "volume": "56",
+      "author": "K Sano",
+      "year": "2009",
+      "unstructured": "Sano, K. Hunting evidence from stone artefacts from the Magdalenian cave site Bois Laiterie, Belgium: A fracture analysis. Quartär 56, 67–86 (2009).",
+      "journal-title": "Quartär"
+    },
+    {
+      "key": "20612_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "368",
+      "DOI": "10.1016/j.jas.2009.09.050",
+      "volume": "37",
+      "author": "A Yaroshevich",
+      "year": "2010",
+      "unstructured": "Yaroshevich, A., Kaufman, D., Nuzhnyy, D., Bar-Yosef, O. & Weinstein-Evron, M. Design and performance of microlith implemented projectiles during the Middle and Late Epipaleolithic of the Levant: Experimental and archaeological evidence. J. Archaeol. Sci. 37, 368–388. https://doi.org/10.1016/j.jas.2009.09.050 (2010).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "20612_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "4009",
+      "DOI": "10.1016/j.jas.2013.05.017",
+      "volume": "40",
+      "author": "A Yaroshevich",
+      "year": "2013",
+      "unstructured": "Yaroshevich, A., Nadel, D. & Tsatskin, A. Composite projectiles and hafting technologies at Ohalo II (23 ka, Israel): Analyses of impact fractures, morphometric characteristics and adhesive remains on microlithic tools. J. Archaeol. Sci. 40, 4009–4023. https://doi.org/10.1016/j.jas.2013.05.017 (2013).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "20612_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "1266",
+      "DOI": "10.1016/j.jas.2011.01.002",
+      "volume": "38",
+      "author": "J-M Pétillon",
+      "year": "2011",
+      "unstructured": "Pétillon, J.-M. Hard core and cutting edge: Experimental manufacture and use of Magdalenian composite projectile tips. J. Archaeol. Sci. 38, 1266–1283. https://doi.org/10.1016/j.jas.2011.01.002 (2011).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "20612_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "13",
+      "DOI": "10.1016/j.jas.2015.08.005",
+      "volume": "63",
+      "author": "K Sano",
+      "year": "2015",
+      "unstructured": "Sano, K. & Oba, M. Backed point experiments for identifying mechanically-delivered armatures. J. Archaeol. Sci. 63, 13–23. https://doi.org/10.1016/j.jas.2015.08.005 (2015).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "20612_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "1389",
+      "DOI": "10.1007/s12520-016-0448-3",
+      "volume": "10",
+      "author": "S Tomasso",
+      "year": "2018",
+      "unstructured": "Tomasso, S. & Rots, V. What is the use of shaping a tang? Tool use and hafting of tanged tools in the Aterian of Northern Africa. Archaeol. Anthropol. Sci. 10, 1389–1417. https://doi.org/10.1007/s12520-016-0448-3 (2018).",
+      "journal-title": "Archaeol. Anthropol. Sci."
+    },
+    {
+      "key": "20612_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "154",
+      "DOI": "10.1016/j.jas.2013.10.027",
+      "volume": "48",
+      "author": "V Rots",
+      "year": "2014",
+      "unstructured": "Rots, V. & Plisson, H. Projectiles and the abuse of the use-wear method in a search for impact. J. Archaeol. Sci. 48, 154–165. https://doi.org/10.1016/j.jas.2013.10.027 (2014).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "20612_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "109",
+      "DOI": "10.1016/j.jasrep.2017.01.010",
+      "volume": "12",
+      "author": "J Coppe",
+      "year": "2017",
+      "unstructured": "Coppe, J. & Rots, V. Focus on the target. The importance of a transparent fracture terminology for understanding projectile points and projecting modes. J. Archaeol. Sci. Reports 12, 109–123. https://doi.org/10.1016/j.jasrep.2017.01.010 (2017).",
+      "journal-title": "J. Archaeol. Sci. Reports"
+    },
+    {
+      "key": "20612_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "1310",
+      "DOI": "10.1016/j.jas.2006.01.006",
+      "volume": "33",
+      "author": "PPA Mazza",
+      "year": "2006",
+      "unstructured": "Mazza, P. P. A. et al. A new Palaeolithic discovery: Tar-hafted stone tools in a European Mid-Pleistocene bone-bearing bed. J. Archaeol. Sci. 33, 1310–1318. https://doi.org/10.1016/j.jas.2006.01.006 (2006).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "issue": "44",
+      "key": "20612_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "22081",
+      "DOI": "10.1073/pnas.1907828116",
+      "volume": "116",
+      "author": "MJLT Niekus",
+      "year": "2019",
+      "unstructured": "Niekus, M. J. L. T. et al. Middle Paleolithic complex technology and a Neandertal tar-backed tool from the Dutch North Sea. Proc. Natl. Acad. Sci. U.S.A. 116(44), 22081–22087. https://doi.org/10.1073/pnas.1907828116 (2019).",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "20612_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "385",
+      "DOI": "10.1179/eja.2001.4.3.385",
+      "volume": "4",
+      "author": "J Koller",
+      "year": "2001",
+      "unstructured": "Koller, J., Baumer, U. & Mania, D. High-tech in the Middle Palaeolithic: Neandertal manufactured pitch identified. Eur. J. Archaeol. 4, 385–397 (2001).",
+      "journal-title": "Eur. J. Archaeol."
+    },
+    {
+      "key": "20612_CR22",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pone.0213473",
+      "volume": "14",
+      "author": "I Degano",
+      "year": "2019",
+      "unstructured": "Degano, I. et al. Hafting of Middle Paleolithic tools in Latium (central Italy): New data from Fossellone and Sant’Agostino caves. PLoS ONE 14, e0213473. https://doi.org/10.1371/journal.pone.0213473 (2019).",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "20612_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "336",
+      "DOI": "10.1038/380336a0",
+      "volume": "380",
+      "author": "E Boëda",
+      "year": "1996",
+      "unstructured": "Boëda, E. et al. Bitumen as a hafting material on Middle Paleolithic artefacts. Nature 380, 336–338 (1996).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "20612_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "67",
+      "DOI": "10.3406/paleo.2008.5257",
+      "volume": "34",
+      "author": "E Boëda",
+      "year": "2008",
+      "unstructured": "Boëda, E. et al. New evidence for significant use of bitumen in Middle Palaeolithic technical systems at Umm el Tlel (Syria) around 70,000 BP. Paéorient 34, 67–83 (2008).",
+      "journal-title": "Paéorient"
+    },
+    {
+      "key": "20612_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "39",
+      "DOI": "10.3406/paleo.2007.5219",
+      "volume": "33",
+      "author": "S Bonilauri",
+      "year": "2007",
+      "unstructured": "Bonilauri, S., Boëda, É., Griggo, C., Al-Sakhel, H. & Muhesen, S. Un éclat de silex moustérien coincé dans un bassin d’autruche (Struthio camelus) à Umm el Tlel (Syrie centrale). Paéorient 33, 39–46 (2007).",
+      "journal-title": "Paéorient"
+    },
+    {
+      "key": "20612_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "3252",
+      "DOI": "10.1016/j.jas.2013.03.022",
+      "volume": "40",
+      "author": "TC Hauck",
+      "year": "2013",
+      "unstructured": "Hauck, T. C., Connan, J., Charrié-Duhaut, A., Le Tensorer, J.-M. & Al Sakhel, H. Molecular evidence of bitumen in the mousterian lithic assemblage of hummal (Central Syria). J. Archaeol. Sci. 40, 3252–3262. https://doi.org/10.1016/j.jas.2013.03.022 (2013).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "issue": "2",
+      "key": "20612_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "254",
+      "DOI": "10.1016/j.anthro.2015.04.003",
+      "volume": "119",
+      "author": "LV Golovanova",
+      "year": "2015",
+      "unstructured": "Golovanova, L. V. Les hommes de Néandertal du Caucase du Nord: Entre l’Ouest et est. l’Anthropologie 119(2), 254–301 (2015).",
+      "journal-title": "l’Anthropologie"
+    },
+    {
+      "key": "20612_CR28",
+      "volume-title": "Saradj-Chuko Grotto in the Elbrus Region (results of 2017–2019 interdisciplinary research)",
+      "author": "EV Doronicheva",
+      "year": "2020",
+      "unstructured": "Doronicheva, E. V. et al. Saradj-Chuko Grotto in the Elbrus Region (results of 2017–2019 interdisciplinary research) (RIPOLL Classic Publishing, 2020)."
+    },
+    {
+      "key": "20612_CR29",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Moss, E.H. The functional analysis of flint implements: Pincevent and Pont d'Ambon: two case studies from the French final palaeolithic (BAR International Series, 1983).",
+      "DOI": "10.30861/9780860542278"
+    },
+    {
+      "key": "20612_CR30",
+      "unstructured": "Moss, E. Polish G and the question of hafting, In: La Main et l’outil: Manches et Emmanchements Prehistoriques: Table Ronde CNRS Tenue a Lyon Du 26 Au 29 Novembre 1984. G.S. Maison de l’Orient, Lyon, pp. 97–102 (1987)."
+    },
+    {
+      "key": "20612_CR31",
+      "volume-title": "Works in Stone",
+      "author": "V Rots",
+      "year": "2015",
+      "unstructured": "Rots, V. Towards a more behavioral approach: the contribution of wear studies. In Works in Stone (ed. Shott, M. J.) (Utah University Press, 2015)."
+    },
+    {
+      "key": "20612_CR32",
+      "unstructured": "Kazitsyna, L.A., Kupletskaya, N.B. Primeneniye UF-, IK-i YAMR-Spektroskopii v Organicheskoy Khimii (Vysshaya Shkola, 1971)."
+    },
+    {
+      "key": "20612_CR33",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-1-4684-1872-9",
+      "volume-title": "Applications of Infrared Spectroscopy in Biochemistry, Biology, and Medicine",
+      "author": "FS Parker",
+      "year": "1971",
+      "unstructured": "Parker, F. S. Applications of Infrared Spectroscopy in Biochemistry, Biology, and Medicine (Higler, 1971)."
+    },
+    {
+      "key": "20612_CR34",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-94-011-6017-9",
+      "volume-title": "The Infrared Spectra of Complex Molecules",
+      "author": "LJ Bellamy",
+      "year": "1975",
+      "unstructured": "Bellamy, L. J. The Infrared Spectra of Complex Molecules 3rd edn. (Wiley, 1975).",
+      "edition": "3"
+    },
+    {
+      "key": "20612_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "440",
+      "DOI": "10.1016/j.carbon.2016.07.039",
+      "volume": "180",
+      "author": "N Ferralis",
+      "year": "2016",
+      "unstructured": "Ferralis, N., Matys, E. D., Knoll, A. H., Hallmann, C. & Summons, R. E. Rapid, direct and non-destructive assessment of fossil organic matter via microRaman spectroscopy. Carbon 180, 440–449. https://doi.org/10.1016/j.carbon.2016.07.039 (2016).",
+      "journal-title": "Carbon"
+    },
+    {
+      "key": "20612_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "679",
+      "DOI": "10.3390/min10080679",
+      "volume": "10",
+      "author": "S Khatibi",
+      "year": "2020",
+      "unstructured": "Khatibi, S. et al. Backtracking to parent maceral from produced bitumen with Raman spectroscopy. Minerals 10, 679 (2020).",
+      "journal-title": "Minerals"
+    },
+    {
+      "issue": "33",
+      "key": "20612_CR37",
+      "first-page": "42",
+      "volume": "3",
+      "author": "EV Doronicheva",
+      "year": "2020",
+      "unstructured": "Doronicheva, E. V., Golovanova, L. V., Doronichev, V. B., Poplevko, G. N. & Spassovsky, Yu. N. Obsidian spearhead in the Middle Paleolithic of the Elbrus region. Preliminary data on the hunting strategies. Povolz. Arkheologiya 3(33), 42–63 (2020).",
+      "journal-title": "Povolz. Arkheologiya"
+    },
+    {
+      "issue": "37",
+      "key": "20612_CR38",
+      "doi-asserted-by": "publisher",
+      "first-page": "70",
+      "DOI": "10.24852/pa2021.3.37.70.84",
+      "volume": "3",
+      "author": "EV Doronicheva",
+      "year": "2021",
+      "unstructured": "Doronicheva, E. V., Poplevko, G. N. & Ivanov, V. V. Organization of the living space and the inferred economic activity at the middle Paleolithic Site in Saradj-Chuko Grotto (based on materials of layer 6B). Povolz. Arkheologiya 3(37), 70–84. https://doi.org/10.24852/pa2021.3.37.70.84 (2021).",
+      "journal-title": "Povolz. Arkheologiya"
+    },
+    {
+      "key": "20612_CR39",
+      "doi-asserted-by": "publisher",
+      "first-page": "304",
+      "DOI": "10.1002/sca.20273",
+      "volume": "33",
+      "author": "NR Faulks",
+      "year": "2011",
+      "unstructured": "Faulks, N. R., Kimball, L. R., Hidjrati, N. & Coffey, T. S. Atomic force microscopy of microwear traces on Mousterian tools from Myshtylagty Lagat (Weasel Cave), Russia. Scanning 33, 304–315 (2011).",
+      "journal-title": "Scanning"
+    },
+    {
+      "issue": "2–3",
+      "key": "20612_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "61",
+      "DOI": "10.1080/01977261.2017.1305482",
+      "volume": "42",
+      "author": "LR Kimball",
+      "year": "2017",
+      "unstructured": "Kimball, L. R. et al. A Multi-instrument study of microwear polishes on mousterian tools from weasel cave (Myshtulagty Lagat) Russia. Lithic Technol. 42(2–3), 61–76 (2017).",
+      "journal-title": "Lithic Technol."
+    },
+    {
+      "issue": "1",
+      "key": "20612_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "71",
+      "DOI": "10.1023/A:1023960217881",
+      "volume": "17",
+      "author": "LV Golovanova",
+      "year": "2003",
+      "unstructured": "Golovanova, L. V. & Doronichev, V. B. The Middle Paleolithic of the Caucasus. J. World Prehist. 17(1), 71–140 (2003).",
+      "journal-title": "J. World Prehist."
+    },
+    {
+      "key": "20612_CR42",
+      "unstructured": "Doronicheva, E.V., Kulkova, M.A., Shackley, M.S. Raw material exploitation, transport, and mobility in the Northern Caucasus Eastern Micoquian. PaleoAnthropology, 1–45 (2016)."
+    },
+    {
+      "key": "20612_CR43",
+      "first-page": "51",
+      "volume": "141",
+      "author": "VE Shchelinsky",
+      "year": "1975",
+      "unstructured": "Shchelinsky, V. E. A traceological studing the functions of stone tools of the Gubs Mousterian site in the Kuban region. Kratkiye Soobshcheniya Instituta Arkheologii 141, 51–57 (1975).",
+      "journal-title": "Kratkiye Soobshcheniya Instituta Arkheologii"
+    },
+    {
+      "key": "20612_CR44",
+      "unstructured": "Golovanova, L.V., Doronicheva, E.V., Poplevko, G.N., Doronichev, V.B. New data on hunting weapons of the North Caucasus Neanderthals. Questions of Adygea Archeology, 5–16 (2020)."
+    },
+    {
+      "key": "20612_CR45",
+      "first-page": "32",
+      "volume": "126",
+      "author": "BG Yeritsyan",
+      "year": "1971",
+      "unstructured": "Yeritsyan, B. G. & Semenov, S. A. A new Lower Paleolithic cave of “Yerevan”. Kratk. Soobshcheniya Inst. Arkheol. 126, 32–36 (1971).",
+      "journal-title": "Kratk. Soobshcheniya Inst. Arkheol."
+    },
+    {
+      "issue": "4",
+      "key": "20612_CR46",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pone.0266362",
+      "volume": "17",
+      "author": "E Frahm",
+      "year": "2022",
+      "unstructured": "Frahm, E. et al. Every contact leaves a trace: Documenting contamination in lithic residue studies at the Middle Palaeolithic sites of Lusakert Cave 1 (Armenia) and Crvena Stijena (Montenegro). PLoS ONE 17(4), e0266362. https://doi.org/10.1371/journal.pone.0266362 (2022).",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "issue": "7",
+      "key": "20612_CR47",
+      "doi-asserted-by": "publisher",
+      "first-page": "1699",
+      "DOI": "10.1016/j.jas.2011.03.001",
+      "volume": "38",
+      "author": "AF Pawlik",
+      "year": "2011",
+      "unstructured": "Pawlik, A. F. & Thissen, J. P. Hafted armatures and multi-component tool design at the Micoquian site of Inden-Altdorf, Germany. J. Archaeol. Sci. 38(7), 1699–1708. https://doi.org/10.1016/j.jas.2011.03.001 (2011).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "issue": "7",
+      "key": "20612_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "1942",
+      "DOI": "10.1016/j.jas.2012.02.016",
+      "volume": "39",
+      "author": "M Carciumaru",
+      "year": "2012",
+      "unstructured": "Carciumaru, M., Ion, R., Nitu, E. & Stefanescu, R. New evidence of adhesive as hafting material on Middle and Upper Palaeolithic artefacts from Gura Cheii-Rasnov cave (Romania). J. Archaeol. Sci. 39(7), 1942–1950 (2012).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "20612_CR49",
+      "doi-asserted-by": "publisher",
+      "first-page": "3722",
+      "DOI": "10.1016/j.jas.2013.03.018",
+      "volume": "40",
+      "author": "GF Monnier",
+      "year": "2013",
+      "unstructured": "Monnier, G. F. et al. A multi-analytical methodology of lithic residue analysis applied to Paleolithic tools from Hummal, Syria. J. Archaeol. Sci. 40, 3722–3739 (2013).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "20612_CR50",
+      "doi-asserted-by": "publisher",
+      "first-page": "219",
+      "DOI": "10.1016/j.apradiso.2004.08.008",
+      "volume": "62",
+      "author": "AR Skinner",
+      "year": "2005",
+      "unstructured": "Skinner, A. R. et al. ESR dating at Mezmaiskaya Cave, Russia. Appl. Radiat. Isot. 62, 219–224 (2005).",
+      "journal-title": "Appl. Radiat. Isot."
+    },
+    {
+      "issue": "21",
+      "key": "20612_CR51",
+      "doi-asserted-by": "publisher",
+      "first-page": "8611",
+      "DOI": "10.1073/pnas.1018938108",
+      "volume": "108",
+      "author": "R Pinhasi",
+      "year": "2011",
+      "unstructured": "Pinhasi, R., Higham, T. F. G., Golovanova, L. V. & Doronichev, V. B. Revised age of late Neanderthal occupation and the end of the Middle Paleolithic in the northern Caucasus. Proc. Natl. Acad. Sci. U.S.A. 108(21), 8611–8616 (2011).",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "20612_CR52",
+      "volume-title": "Environment, Culture and Subsistence of Humans in the Caucasus between 40,000 and 10,000 Years Ago",
+      "author": "LV Golovanova",
+      "year": "2020",
+      "unstructured": "Golovanova, L. V. & Doronichev, V. B. Environment, Culture and Subsistence of Humans in the Caucasus between 40,000 and 10,000 Years Ago (Cambridge Scholars Publishing, 2020)."
+    },
+    {
+      "issue": "5",
+      "key": "20612_CR53",
+      "doi-asserted-by": "publisher",
+      "first-page": "655",
+      "DOI": "10.1086/656185",
+      "volume": "51",
+      "author": "LV Golovanova",
+      "year": "2010",
+      "unstructured": "Golovanova, L. V., Doronichev, V. B., Kulkova, M. A., Cleghorn, N. & Sapelko, T. V. Significance of ecological factors in the Middle to Upper Paleolithic transition. Curr. Anthropol. 51(5), 655–691 (2010).",
+      "journal-title": "Curr. Anthropol."
+    },
+    {
+      "key": "20612_CR54",
+      "doi-asserted-by": "publisher",
+      "first-page": "49",
+      "DOI": "10.1016/j.quaint.2015.12.069",
+      "volume": "428",
+      "author": "LV Golovanova",
+      "year": "2017",
+      "unstructured": "Golovanova, L. V., Doronicheva, E. V., Doronichev, V. B. & Shirobokov, I. G. Bifacial scraper-knives in the Micoquian sites in the North-Western Caucasus: Typology, technology, and reduction. Quatern. Int. 428, 49–65 (2017).",
+      "journal-title": "Quatern. Int."
+    },
+    {
+      "issue": "70",
+      "key": "20612_CR55",
+      "doi-asserted-by": "publisher",
+      "first-page": "781",
+      "DOI": "10.1134/S0001433821070070",
+      "volume": "57",
+      "author": "LV Golovanova",
+      "year": "2021",
+      "unstructured": "Golovanova, L. V., Doronicheva, E. V., Doronichev, V. B., Tselmovich, V. A. & Shirobokov, I. G. Impact of climatic stresses and volcanism on the tendencies of the cultural process in the North Caucasus during the late Pleistocene. Izv. Atmos. Ocean. Phys. 57(70), 781–802 (2021).",
+      "journal-title": "Izv. Atmos. Ocean. Phys."
+    },
+    {
+      "key": "20612_CR56",
+      "doi-asserted-by": "publisher",
+      "first-page": "26",
+      "DOI": "10.1016/j.quaint.2015.11.062",
+      "volume": "428",
+      "author": "LV Golovanova",
+      "year": "2017",
+      "unstructured": "Golovanova, L. V. & Doronichev, V. B. The dynamics of stone industry transformation at the interface of Lower and Middle Paleolithic in the Northwestern Caucasus. Quatern. Int. 428, 26–48 (2017).",
+      "journal-title": "Quatern. Int."
+    },
+    {
+      "key": "20612_CR57",
+      "doi-asserted-by": "publisher",
+      "first-page": "378",
+      "DOI": "10.1016/j.anthro.2012.05.005",
+      "volume": "116",
+      "author": "EV Doronicheva",
+      "year": "2012",
+      "unstructured": "Doronicheva, E. V., Kulkova, M. A. & Grégoire, S. L. grotte Mézmayskaya (Nord-ouest du Caucase): Exemple de l’utilisation des matières premières lithiques au Paléolithique moyen et supérieur. L’Anthropologie 116, 378–404. https://doi.org/10.1016/j.anthro.2012.05.005 (2012).",
+      "journal-title": "L’Anthropologie"
+    },
+    {
+      "issue": "2",
+      "key": "20612_CR58",
+      "doi-asserted-by": "publisher",
+      "first-page": "40",
+      "DOI": "10.1016/j.aeae.2013.11.004",
+      "volume": "41",
+      "author": "EV Doronicheva",
+      "year": "2013",
+      "unstructured": "Doronicheva, E. V., Kulkova, M. A. & Shackley, M. S. Exploitation of lithic raw material in the Northwestern Caucasus Upper Paleolithic. Archaeol. Ethnol. Anthropol. Eurasia 41(2), 40–53. https://doi.org/10.1016/j.aeae.2013.11.004 (2013).",
+      "journal-title": "Archaeol. Ethnol. Anthropol. Eurasia"
+    },
+    {
+      "issue": "1",
+      "key": "20612_CR59",
+      "doi-asserted-by": "publisher",
+      "first-page": "77",
+      "DOI": "10.1086/515805",
+      "volume": "40",
+      "author": "LV Golovanova",
+      "year": "1999",
+      "unstructured": "Golovanova, L. V., Hoffecker, J. F., Kharitonov, V. M. & Romanova, G. P. Mezmaiskaya cave: A Neanderthal Occupation in the Northern Caucasus. Curr. Anthropol. 40(1), 77–86 (1999).",
+      "journal-title": "Curr. Anthropol."
+    },
+    {
+      "issue": "37",
+      "key": "20612_CR60",
+      "doi-asserted-by": "publisher",
+      "first-page": "13764",
+      "DOI": "10.1073/pnas.0803917105",
+      "volume": "105",
+      "author": "MS Ponce de Leon",
+      "year": "2008",
+      "unstructured": "Ponce de Leon, M. S. et al. Neanderthal brain size at birth provides insights into the evolution of human life history. Proc. Natl. Acad. Sci. U.S.A. 105(37), 13764–13768 (2008).",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "issue": "23",
+      "key": "20612_CR61",
+      "doi-asserted-by": "publisher",
+      "first-page": "6472",
+      "DOI": "10.1073/pnas.152367711",
+      "volume": "113",
+      "author": "TD Weaver",
+      "year": "2016",
+      "unstructured": "Weaver, T. D. et al. Neonatal postcrania from Mezmaiskaya, Russia, and Le Moustier, France, and the development of Neandertal body form. Proc. Natl. Acad. Sci. U.S.A. 113(23), 6472–6477. https://doi.org/10.1073/pnas.152367711 (2016).",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "20612_CR62",
+      "doi-asserted-by": "publisher",
+      "first-page": "652",
+      "DOI": "10.1038/nature26151",
+      "volume": "555",
+      "author": "M Hajdinjak",
+      "year": "2018",
+      "unstructured": "Hajdinjak, M. et al. Reconstructing the genetic history of late Neanderthals. Nature 555, 652–656. https://doi.org/10.1038/nature26151 (2018).",
+      "journal-title": "Nature"
+    },
+    {
+      "issue": "41",
+      "key": "20612_CR63",
+      "doi-asserted-by": "publisher",
+      "first-page": "eabb4377",
+      "DOI": "10.1126/sciadv.abb4377",
+      "volume": "6",
+      "author": "D García-Martínez",
+      "year": "2020",
+      "unstructured": "García-Martínez, D. et al. Early development of the Neanderthal ribcage reveals a different body shape at birth compared to modern humans. Sci. Adv. 6(41), eabb4377 (2020).",
+      "journal-title": "Sci. Adv."
+    },
+    {
+      "issue": "359",
+      "key": "20612_CR64",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.15184/aqy.2017.171",
+      "volume": "91",
+      "author": "EV Doronicheva",
+      "year": "2017",
+      "unstructured": "Doronicheva, E. V., Golovanova, L. V., Doronichev, V. B., Nedomolkin, A. G. & Shackley, M. S. The first Middle Paleolithic site exhibiting obsidian industry on the northern slopes of the Central Caucasus. Antiquity 91(359), 1–6. https://doi.org/10.15184/aqy.2017.171 (2017).",
+      "journal-title": "Antiquity"
+    },
+    {
+      "key": "20612_CR65",
+      "doi-asserted-by": "publisher",
+      "first-page": "82",
+      "DOI": "10.1016/j.ara.2019.03.001",
+      "volume": "18",
+      "author": "EV Doronicheva",
+      "year": "2019",
+      "unstructured": "Doronicheva, E. V. et al. The first laminar Mousterian obsidian industry in the north-central Caucasus, Russia (preliminary results of a multi-disciplinary research at Saradj-Chuko Grotto). Archaeol. Res. Asia 18, 82–99. https://doi.org/10.1016/j.ara.2019.03.001 (2019).",
+      "journal-title": "Archaeol. Res. Asia"
+    },
+    {
+      "key": "20612_CR66",
+      "volume-title": "Pervobitaya Teknika",
+      "author": "SA Semenov",
+      "year": "1957",
+      "unstructured": "Semenov, S. A. Pervobitaya Teknika (Institute of Arhaeology, 1957)."
+    },
+    {
+      "key": "20612_CR67",
+      "volume-title": "Prehistoric Technology: An Experimental Study of the Oldest Tools and Artifacts from Traces of Manufacture and Wear",
+      "author": "SA Semenov",
+      "year": "1964",
+      "unstructured": "Semenov, S. A. Prehistoric Technology: An Experimental Study of the Oldest Tools and Artifacts from Traces of Manufacture and Wear (Barnes and Noble, Berlin, 1964)."
+    },
+    {
+      "key": "20612_CR68",
+      "volume-title": "Methodology of Micro- and Macroanalysis of Ancient Tools. Part 1",
+      "author": "GF Korobkova",
+      "year": "1996",
+      "unstructured": "Korobkova, G. F. & Shchelinsky, V. E. Methodology of Micro- and Macroanalysis of Ancient Tools. Part 1 (IIMK RAS, 1996)."
+    },
+    {
+      "key": "20612_CR69",
+      "volume-title": "Methodology of complex research of stone industries",
+      "author": "GN Poplevko",
+      "year": "2007",
+      "unstructured": "Poplevko, G. N. Methodology of complex research of stone industries (Dm. Bulanin, 2007)."
+    },
+    {
+      "key": "20612_CR70",
+      "unstructured": "Plisson, H. Etude fonctionnells d’outillages litihiques prehistoriques par l’analyse des micro-useres recherché methodologique et archeologique (1985)."
+    },
+    {
+      "key": "20612_CR71",
+      "volume-title": "Development of the Microlithic Technique in the Stone Age: Improvement of the Weapons of the Primitive Hunters",
+      "author": "D Nuzhnyj",
+      "year": "2007",
+      "unstructured": "Nuzhnyj, D. Development of the Microlithic Technique in the Stone Age: Improvement of the Weapons of the Primitive Hunters 2nd edn. (KNT Press, 2007).",
+      "edition": "2"
+    },
+    {
+      "key": "20612_CR72",
+      "volume-title": "Before Lascaux: The Complex Record of the Early Upper Paleolithic",
+      "author": "J-M Geneste",
+      "year": "1993",
+      "unstructured": "Geneste, J.-M. & Plisson, H. Hunting technologies and Human behavior: lithic analysis of Solutrean shouldered points. In Before Lascaux: The Complex Record of the Early Upper Paleolithic (eds Knecht, H. et al.) (CRC Press, 1993)."
+    },
+    {
+      "key": "20612_CR73",
+      "doi-asserted-by": "publisher",
+      "first-page": "2341",
+      "DOI": "10.1016/S1386-1425(03)00077-5",
+      "volume": "59",
+      "author": "J Jehlicka",
+      "year": "2003",
+      "unstructured": "Jehlicka, J., Urban, O. & Pokorny, J. Raman spectroscopy of carbon and solid bitumens in sedimentary and metamorphic rocks. Spectrochim. Acta A 59, 2341–2352 (2003).",
+      "journal-title": "Spectrochim. Acta A"
+    },
+    {
+      "key": "20612_CR74",
+      "doi-asserted-by": "publisher",
+      "first-page": "28",
+      "DOI": "10.1016/j.microc.2011.11.005",
+      "volume": "102",
+      "author": "E Tomasini",
+      "year": "2012",
+      "unstructured": "Tomasini, E., Siracusano, G. & Maier, M. S. Spectroscopic, morphological and chemical characterization of historic pigments based on carbon. Paths for the identification of an artistic pigment. Microchem. J. 102, 28–37. https://doi.org/10.1016/j.microc.2011.11.005 (2012).",
+      "journal-title": "Microchem. J."
+    },
+    {
+      "key": "20612_CR75",
+      "doi-asserted-by": "publisher",
+      "first-page": "1036",
+      "DOI": "10.1134/S0030400X13040231",
+      "volume": "114",
+      "author": "VM Zolotarev",
+      "year": "2013",
+      "unstructured": "Zolotarev, V. M. & Khlopachev, G. A. Features of the application of IR reflection spectroscopy methods for research in archaeology and paleontology. Opt. Spectrosc. 114, 1036–1050. https://doi.org/10.1134/S0030400X13040231 (2013).",
+      "journal-title": "Opt. Spectrosc."
+    },
+    {
+      "key": "20612_CR76",
+      "doi-asserted-by": "publisher",
+      "first-page": "31",
+      "DOI": "10.1016/j.microc.2015.07.018",
+      "volume": "124",
+      "author": "D Pellegrini",
+      "year": "2016",
+      "unstructured": "Pellegrini, D. et al. Fourier transform infrared spectroscopic study of rabbit glue/inorganic pigments mixtures in fresh and aged reference paint reconstructions. Microchem. J. 124, 31–35 (2016).",
+      "journal-title": "Microchem. J."
+    },
+    {
+      "key": "20612_CR77",
+      "doi-asserted-by": "publisher",
+      "first-page": "2038",
+      "DOI": "10.1021/ac00217a026",
+      "volume": "62",
+      "author": "EWH Hayek",
+      "year": "1990",
+      "unstructured": "Hayek, E. W. H. et al. Identifcation of archaeological and recent wood tar pitches using gas chromatography/mass spectrometry and pattern recognition. Anal. Chem. 62, 2038–2043 (1990).",
+      "journal-title": "Anal. Chem."
+    },
+    {
+      "key": "20612_CR78",
+      "doi-asserted-by": "publisher",
+      "first-page": "1231",
+      "DOI": "10.1006/jasc.1998.0300",
+      "volume": "25",
+      "author": "H Barton",
+      "year": "1998",
+      "unstructured": "Barton, H., Torrence, R. & Fullagar, R. Clues to stone tool function re-examined: Comparing starch grain frequencies on used and unused obsidian artefacts. J. Archaeol. Sci. 25, 1231–1238 (1998).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "20612_CR79",
+      "doi-asserted-by": "publisher",
+      "first-page": "177",
+      "DOI": "10.1006/jasc.1997.0234",
+      "volume": "25",
+      "author": "BL Hardy",
+      "year": "1998",
+      "unstructured": "Hardy, B. L. & Garufi, G. T. Identification of woodworking on stone tools through residue and use-wear analyses: experimental results. J. Archaeol. Sci. 25, 177–184 (1998).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "20612_CR80",
+      "doi-asserted-by": "publisher",
+      "first-page": "37",
+      "DOI": "10.2307/3889241",
+      "volume": "59",
+      "author": "M Lombard",
+      "year": "2004",
+      "unstructured": "Lombard, M. Distribution patterns of organic residues on Middle Stone Age points from Sibudu cave, Kwazulu-Natal, South Africa. South Afr. Archaeol. Bull. 59, 37–44 (2004).",
+      "journal-title": "South Afr. Archaeol. Bull."
+    },
+    {
+      "key": "20612_CR81",
+      "doi-asserted-by": "publisher",
+      "first-page": "155",
+      "DOI": "10.1016/j.jas.2006.04.008",
+      "volume": "34",
+      "author": "M Lombard",
+      "year": "2007",
+      "unstructured": "Lombard, M. & Wadley, L. The morphological identification of micro-residues on stone tools using light microscopy: Progress and difficulties based on blind tests. J. Archaeol. Sci. 34, 155–165 (2007).",
+      "journal-title": "J. Archaeol. Sci."
+    }
+  ],
+  "container-title": [
+    "Scientific Reports"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41598-022-20612-x.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41598-022-20612-x",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41598-022-20612-x.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        19
+      ]
+    ],
+    "date-time": "2022-10-19T10:07:41Z",
+    "timestamp": 1666174061000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41598-022-20612-x"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        19
+      ]
+    ]
+  },
+  "references-count": 81,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "20612"
+  ],
+  "URL": "https://doi.org/10.1038/s41598-022-20612-x",
+  "relation": {},
+  "ISSN": [
+    "2045-2322"
+  ],
+  "issn-type": [
+    {
+      "value": "2045-2322",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        19
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "25 April 2022",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "15 September 2022",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "19 October 2022",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ],
+  "article-number": "17421"
+}

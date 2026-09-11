@@ -1,0 +1,964 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        17
+      ]
+    ],
+    "date-time": "2026-08-17T22:28:38Z",
+    "timestamp": 1787005718153,
+    "version": "build-2736575974"
+  },
+  "reference-count": 89,
+  "publisher": "National Academy of Sciences",
+  "issue": "12",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2021-09-08T00:00:00Z",
+        "timestamp": 1631059200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 184,
+      "URL": "https://www.pnas.org/site/aboutpnas/licenses.xhtml"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/100011199",
+      "name": "EC | FP7 | FP7 Ideas: European Research Council",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "324139"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "324139"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/100011199",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100000704",
+      "name": "Royal Society of Chemistry",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "RM1802-6433"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "RM1802-6433"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100000704",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "www.pnas.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Proc. Natl. Acad. Sci. U.S.A."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        23
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Significance</jats:title>\n                  <jats:p>Understanding when Neanderthals disappeared is a hotly debated topic. When radiocarbon dating placed the Spy Neanderthals amongst the latest surviving in Northwest Europe, questions were raised regarding the reliability of the dates. Using a procedure more efficient in removing contamination and ancient genomic analysis, we show that previous dates produced on Neanderthal specimens from Spy are too young by up to 10,000 y. Our direct radiocarbon dates on the Neanderthals from Spy and those from Engis and Fonds-de-Forêt show a reduction of the uncertainty for the time window corresponding to Neanderthal disappearance in Northwest Europe. This population disappeared at 44,200 to 40,600 cal B.P. (at 95.4% probability). This is also earlier than previous suggestions based on dates on bulk collagen.</jats:p>",
+  "DOI": "10.1073/pnas.2022466118",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        8
+      ]
+    ],
+    "date-time": "2021-03-08T16:25:21Z",
+    "timestamp": 1615220721000
+  },
+  "update-policy": "https://doi.org/10.1073/pnas.cm10313",
+  "source": "Crossref",
+  "is-referenced-by-count": 74,
+  "title": [
+    "Reevaluating the timing of Neanderthal disappearance in Northwest Europe"
+  ],
+  "prefix": "10.1073",
+  "volume": "118",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-0495-7398",
+      "authenticated-orcid": false,
+      "given": "Thibaut",
+      "family": "Devièse",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Oxford Radiocarbon Accelerator Unit, Research Laboratory for Archaeology and the History of Art, University of Oxford, OX1 3QY Oxford, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0616-4335",
+      "authenticated-orcid": false,
+      "given": "Grégory",
+      "family": "Abrams",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Scladina Cave Archaeological Centre, 5300 Andenne, Belgium;"
+        },
+        {
+          "name": "Faculty of Archaeology, Leiden University, 2311 EZ Leiden, The Netherlands;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mateja",
+      "family": "Hajdinjak",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2955-0383",
+      "authenticated-orcid": false,
+      "given": "Stéphane",
+      "family": "Pirson",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Direction Scientifique et Technique, Agence wallonne du Patrimoine, 5100 Namur, Belgium;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9860-0180",
+      "authenticated-orcid": false,
+      "given": "Isabelle",
+      "family": "De Groote",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Archaeology, Ghent University, 9000 Ghent, Belgium;"
+        },
+        {
+          "name": "School of Biological and Environmental Sciences, Liverpool John Moores University, L2 2QP Liverpool, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Kévin",
+      "family": "Di Modica",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Scladina Cave Archaeological Centre, 5300 Andenne, Belgium;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Michel",
+      "family": "Toussaint",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Association Wallonne d'Études Mégalithiques, 4000 Liège, Belgium;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8808-6747",
+      "authenticated-orcid": false,
+      "given": "Valentin",
+      "family": "Fischer",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Evolution and Diversity Dynamics Lab, University of Liège, 4000 Liège, Belgium;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Dan",
+      "family": "Comeskey",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Oxford Radiocarbon Accelerator Unit, Research Laboratory for Archaeology and the History of Art, University of Oxford, OX1 3QY Oxford, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Luke",
+      "family": "Spindler",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Oxford Radiocarbon Accelerator Unit, Research Laboratory for Archaeology and the History of Art, University of Oxford, OX1 3QY Oxford, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Matthias",
+      "family": "Meyer",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Patrick",
+      "family": "Semal",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Scientific Service Heritage, Royal Belgian Institute of Natural Sciences, 1000 Brussels, Belgium"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Tom",
+      "family": "Higham",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Oxford Radiocarbon Accelerator Unit, Research Laboratory for Archaeology and the History of Art, University of Oxford, OX1 3QY Oxford, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "341",
+  "published-online": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        8
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_4_1_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1714533114"
+    },
+    {
+      "key": "e_1_3_4_2_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature13621"
+    },
+    {
+      "key": "e_1_3_4_3_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2015.12.072"
+    },
+    {
+      "key": "e_1_3_4_4_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2011.03.035"
+    },
+    {
+      "key": "e_1_3_4_5_2",
+      "first-page": "331",
+      "volume-title": "Spy Cave. 125 Years of Multidisciplinary Research at the Betche aux Rotches (Jemeppe-sur-Sambre, Province of Namur, Belgium)",
+      "author": "Semal P.",
+      "year": "2013",
+      "unstructured": "P. Semal ., “Radiocarbon dating of human remains and associated archaeological material” in Spy Cave. 125 Years of Multidisciplinary Research at the Betche aux Rotches (Jemeppe-sur-Sambre, Province of Namur, Belgium), H. Rougier, P. Semal, Eds. (Bull. Soc. Roy. Belge Anthrop. Préhist., 2013), vol. 123/2012, pp. 331–356."
+    },
+    {
+      "key": "e_1_3_4_6_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ajpa.20954"
+    },
+    {
+      "key": "e_1_3_4_7_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00438243.2011.624725"
+    },
+    {
+      "key": "e_1_3_4_8_2",
+      "first-page": "181",
+      "article-title": "Collections de la Grotte de Spy: (re)découvertes et inventaire anthropologique",
+      "volume": "24",
+      "author": "Rougier H.",
+      "year": "2004",
+      "unstructured": "H. Rougier ., Collections de la Grotte de Spy: (re)découvertes et inventaire anthropologique. Notae Praehistoricae 24, 181–190 (2004).",
+      "journal-title": "Notae Praehistoricae"
+    },
+    {
+      "key": "e_1_3_4_9_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2010.07.022"
+    },
+    {
+      "key": "e_1_3_4_10_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0033822200045069"
+    },
+    {
+      "key": "e_1_3_4_11_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/RDC.2019.101"
+    },
+    {
+      "key": "e_1_3_4_12_2",
+      "first-page": "373",
+      "article-title": "Neandertal studies in Belgium: 2000–2005",
+      "volume": "108",
+      "author": "Toussaint M.",
+      "year": "2006",
+      "unstructured": "M. Toussaint, S. Pirson, Neandertal studies in Belgium: 2000–2005. Period. Biol. 108, 373–387 (2006).",
+      "journal-title": "Period. Biol."
+    },
+    {
+      "key": "e_1_3_4_13_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/rcm.8047"
+    },
+    {
+      "key": "e_1_3_4_14_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-1-4939-9639-1_7"
+    },
+    {
+      "key": "e_1_3_4_15_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1709235114"
+    },
+    {
+      "key": "e_1_3_4_16_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2016.09.063"
+    },
+    {
+      "key": "e_1_3_4_17_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1803624115"
+    },
+    {
+      "key": "e_1_3_4_18_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quascirev.2018.08.023"
+    },
+    {
+      "key": "e_1_3_4_19_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2018.11.012"
+    },
+    {
+      "key": "e_1_3_4_20_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41559-018-0722-0"
+    },
+    {
+      "key": "e_1_3_4_21_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41467-018-08018-8"
+    },
+    {
+      "key": "e_1_3_4_22_2",
+      "volume-title": "Spy Cave: 125 Years of Multidisciplinary Research at the Betche Aux Rotches (Jemeppe-sur-Sambre, Province of Namur, Belgium)",
+      "author": "Rougier H.",
+      "year": "2013",
+      "unstructured": "H. Rougier, P. Semal, Eds., Spy Cave: 125 Years of Multidisciplinary Research at the Betche Aux Rotches (Jemeppe-sur-Sambre, Province of Namur, Belgium), (Bull. Soc. Roy. Belge Anthrop. Préhist., Brussels, 2013), vol. 123/2012."
+    },
+    {
+      "key": "e_1_3_4_23_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1179/sic.2007.52.Supplement-1.55"
+    },
+    {
+      "key": "e_1_3_4_24_2",
+      "volume-title": "Ancient Binding Media, Varnishes and Adhesives",
+      "author": "Masschelein-Kleiner L.",
+      "year": "1995",
+      "unstructured": "L. Masschelein-Kleiner, Ancient Binding Media, Varnishes and Adhesives (A & J Servizi Grafici Editoriali, Rome, Italy, ed. 2, 1995).",
+      "edition": "2"
+    },
+    {
+      "key": "e_1_3_4_25_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41596-018-0050-5"
+    },
+    {
+      "key": "e_1_3_4_26_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41596-020-0338-0"
+    },
+    {
+      "key": "e_1_3_4_27_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1221359110"
+    },
+    {
+      "key": "e_1_3_4_28_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/sciadv.1700186"
+    },
+    {
+      "key": "e_1_3_4_29_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0704665104"
+    },
+    {
+      "key": "e_1_3_4_30_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.nimb.2007.01.309"
+    },
+    {
+      "key": "e_1_3_4_31_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/RDC.2017.68"
+    },
+    {
+      "key": "e_1_3_4_32_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1039/C9AN00859D"
+    },
+    {
+      "key": "e_1_3_4_33_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.15184/aqy.2019.89"
+    },
+    {
+      "key": "e_1_3_4_34_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quascirev.2020.106331"
+    },
+    {
+      "key": "e_1_3_4_35_2",
+      "first-page": "217",
+      "volume-title": "Spy Cave. 125 Years of Multidisciplinary Research at the Betche aux Rotches (Jemeppe-sur-Sambre, Province of Namur, Belgium)",
+      "author": "Flas D.",
+      "year": "2013",
+      "unstructured": "D. Flas, “Jerzmanowice points from Spy and the issue of the Lincombian-Ranisian-Jerzmanowician” in Spy Cave. 125 Years of Multidisciplinary Research at the Betche aux Rotches (Jemeppe-sur-Sambre, Province of Namur, Belgium), H. Rougier, P. Semal, Eds. (Bull. Soc. Roy. Belge Anthrop. Préhist., 2013), vol. 123/2012, pp. 217–230."
+    },
+    {
+      "key": "e_1_3_4_36_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature14558"
+    },
+    {
+      "key": "e_1_3_4_37_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature10617"
+    },
+    {
+      "key": "e_1_3_4_38_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-020-2259-z"
+    },
+    {
+      "key": "e_1_3_4_39_2",
+      "first-page": "586",
+      "article-title": "La race humaine de Néanderthal ou de Canstadt en Belgique: Recherches ethnographiques sur des ossements humains découverts dans les dépôts quaternaires d’une grotte à Spy et détermination de leur âge géologique",
+      "volume": "7",
+      "author": "Fraipont J.",
+      "year": "1887",
+      "unstructured": "J. Fraipont, M. Lohest, La race humaine de Néanderthal ou de Canstadt en Belgique: Recherches ethnographiques sur des ossements humains découverts dans les dépôts quaternaires d’une grotte à Spy et détermination de leur âge géologique. Arch. Biol. (Liege) 7, 586–757 (1887).",
+      "journal-title": "Arch. Biol. (Liege)"
+    },
+    {
+      "key": "e_1_3_4_40_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/504165"
+    },
+    {
+      "key": "e_1_3_4_41_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0702214104"
+    },
+    {
+      "key": "e_1_3_4_42_2",
+      "first-page": "13",
+      "volume-title": "Spy Cave. 125 Years of Multidisciplinary Research at the Betche aux Rotches (Jemeppe-sur-Sambre, Province of Namur, Belgium)",
+      "author": "Semal P.",
+      "year": "2013",
+      "unstructured": "P. Semal ., “History of excavations, discoveries and collections” in Spy Cave. 125 Years of Multidisciplinary Research at the Betche aux Rotches (Jemeppe-sur-Sambre, Province of Namur, Belgium), H. Rougier, P. Semal, Eds. (Bull. Soc. Roy. Belge Anthrop. Préhist., 2013), vol. 123/2012, pp. 13–39."
+    },
+    {
+      "key": "e_1_3_4_43_2",
+      "first-page": "91",
+      "volume-title": "Spy Cave. 125 Years of Multidisciplinary Research at the Betche aux Rotches (Jemeppe-sur-Sambre, Province of Namur, Belgium)",
+      "author": "Pirson S.",
+      "year": "2013",
+      "unstructured": "S. Pirson ., “The stratigraphy of Spy Cave. A review of the available lithostratigraphic and archaeostratigraphic information” in Spy Cave. 125 Years of Multidisciplinary Research at the Betche aux Rotches (Jemeppe-sur-Sambre, Province of Namur, Belgium), H. Rougier, P. Semal, Eds. (Bull. Soc. Roy. Belge Anthrop. Préhist., 2013), vol. 123/2012, pp. 91–131."
+    },
+    {
+      "key": "e_1_3_4_44_2",
+      "volume-title": "Recherches Sur les Ossemens Fossiles Découverts Dans les Cavernes de la Province de Liége",
+      "author": "Schmerling P.-C.",
+      "year": "1834",
+      "unstructured": "P.-C. Schmerling, Recherches Sur les Ossemens Fossiles Découverts Dans les Cavernes de la Province de Liége (Collardin, Liège, 1834), vol. 2."
+    },
+    {
+      "key": "e_1_3_4_45_2",
+      "volume-title": "Recherches Sur les Ossemens Fossiles Découverts Dans les Cavernes de la Province de Liège",
+      "author": "Schmerling P.-C.",
+      "year": "1833",
+      "unstructured": "P.-C. Schmerling, Recherches Sur les Ossemens Fossiles Découverts Dans les Cavernes de la Province de Liège (Collardin, Liège, 1833), vol. 1."
+    },
+    {
+      "key": "e_1_3_4_46_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1010906107"
+    },
+    {
+      "key": "e_1_3_4_47_2",
+      "volume-title": "Les Hommes Fossiles d’Engis",
+      "author": "Fraipont C.",
+      "year": "1936",
+      "unstructured": "C. Fraipont, Les Hommes Fossiles d’Engis (Archi. Inst. Paléonto. Hum, Paris, France, 1936), vol. 16."
+    },
+    {
+      "key": "e_1_3_4_48_2",
+      "first-page": "51",
+      "article-title": "Le crâne d’enfant d’Engis 2: Un exemple de distribution des caractères juvéniles, primitifs et néanderthaliens",
+      "volume": "94",
+      "author": "Tillier A. M.",
+      "year": "1983",
+      "unstructured": "A. M. Tillier, Le crâne d’enfant d’Engis 2: Un exemple de distribution des caractères juvéniles, primitifs et néanderthaliens. Bull. Soc. Roy. Bel. Anthrop. Préhist 94, 51–75 (1983).",
+      "journal-title": "Bull. Soc. Roy. Bel. Anthrop. Préhist"
+    },
+    {
+      "key": "e_1_3_4_49_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pbio.0020057"
+    },
+    {
+      "key": "e_1_3_4_50_2",
+      "first-page": "145",
+      "article-title": "Les cavernes préhistoriques de la vallée de la Vesdre. Fouilles à Fond-de-Forêt (2ème article)",
+      "volume": "12",
+      "author": "Tihon F.",
+      "year": "1898",
+      "unstructured": "F. Tihon, Les cavernes préhistoriques de la vallée de la Vesdre. Fouilles à Fond-de-Forêt (2ème article). Ann. Soci. Archéo. Bruxelles. 12, 145–173 (1898).",
+      "journal-title": "Ann. Soci. Archéo. Bruxelles."
+    },
+    {
+      "key": "e_1_3_4_51_2",
+      "first-page": "149",
+      "volume-title": "Le Paléolithique Moyen en Belgique. Mélanges Marguerite Ulrix-Closset",
+      "author": "Toussaint M.",
+      "year": "2011",
+      "unstructured": "M. Toussaint, P. Semal, S. Pirson, “Les néandertaliens du bassin mosan belge: Bilan 2006-2011” in Le Paléolithique Moyen en Belgique. Mélanges Marguerite Ulrix-Closset, M. Toussaint, K. Di Modica, S. Pirson, Eds. (Etu. Rech. Archéo. Univ., Liège, Liège, 2011), vol. 128, pp. 149–196."
+    },
+    {
+      "key": "e_1_3_4_52_2",
+      "volume-title": "Le Fémur Néanderthalien de Fond-de-Forêt (Province de Liège)",
+      "author": "Twiesselmann F.",
+      "year": "1961",
+      "unstructured": "F. Twiesselmann, Le Fémur Néanderthalien de Fond-de-Forêt (Province de Liège) (Mém. Inst. Roy. Sci. Nat. Bel, Brussels, 1961), vol. 148."
+    },
+    {
+      "key": "e_1_3_4_53_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/oa.2584"
+    },
+    {
+      "key": "e_1_3_4_54_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1101/gr.219675.116"
+    },
+    {
+      "key": "e_1_3_4_55_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2144/000113809"
+    },
+    {
+      "key": "e_1_3_4_56_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2144/000114320"
+    },
+    {
+      "key": "e_1_3_4_57_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/nar/gkr771"
+    },
+    {
+      "key": "e_1_3_4_58_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pone.0014004"
+    },
+    {
+      "key": "e_1_3_4_59_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/nar/gku699"
+    },
+    {
+      "key": "e_1_3_4_60_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/bioinformatics/btp698"
+    },
+    {
+      "key": "e_1_3_4_61_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1224344"
+    },
+    {
+      "key": "e_1_3_4_62_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2015.03.039"
+    },
+    {
+      "key": "e_1_3_4_63_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aam9695"
+    },
+    {
+      "key": "e_1_3_4_64_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0022-2836(05)80360-2"
+    },
+    {
+      "key": "e_1_3_4_65_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1101/gr.5969107"
+    },
+    {
+      "key": "e_1_3_4_66_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature17405"
+    },
+    {
+      "key": "e_1_3_4_67_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature12788"
+    },
+    {
+      "key": "e_1_3_4_68_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cell.2008.06.021"
+    },
+    {
+      "key": "e_1_3_4_69_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1174462"
+    },
+    {
+      "key": "e_1_3_4_70_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1101/gr.174201.114"
+    },
+    {
+      "key": "e_1_3_4_71_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1188021"
+    },
+    {
+      "key": "e_1_3_4_72_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature26151"
+    },
+    {
+      "key": "e_1_3_4_73_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/ncomms16046"
+    },
+    {
+      "key": "e_1_3_4_74_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature12886"
+    },
+    {
+      "key": "e_1_3_4_75_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/srep29005"
+    },
+    {
+      "key": "e_1_3_4_76_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1318934111"
+    },
+    {
+      "key": "e_1_3_4_77_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/sciadv.aaw5873"
+    },
+    {
+      "key": "e_1_3_4_78_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/srep23559"
+    },
+    {
+      "key": "e_1_3_4_79_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-018-0870-z"
+    },
+    {
+      "key": "e_1_3_4_80_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature08976"
+    },
+    {
+      "key": "e_1_3_4_81_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1519905112"
+    },
+    {
+      "key": "e_1_3_4_82_2",
+      "first-page": "89",
+      "article-title": "Man’s place in Hominoidea revealed by mitochondrial DNA genealogy",
+      "volume": "37",
+      "author": "Horai S.",
+      "year": "1993",
+      "unstructured": "S. Horai ., Man’s place in Hominoidea revealed by mitochondrial DNA genealogy. J. Mol. Evol. 37, 89 (1993).",
+      "journal-title": "J. Mol. Evol."
+    },
+    {
+      "key": "e_1_3_4_83_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/molbev/mst010"
+    },
+    {
+      "key": "e_1_3_4_84_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nmeth.2109"
+    },
+    {
+      "key": "e_1_3_4_85_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/sysbio/syq010"
+    },
+    {
+      "key": "e_1_3_4_86_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/molbev/msw054"
+    },
+    {
+      "key": "e_1_3_4_87_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0033822200033865"
+    },
+    {
+      "key": "e_1_3_4_88_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/RDC.2020.41"
+    },
+    {
+      "key": "e_1_3_4_89_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2005JD006079"
+    }
+  ],
+  "container-title": [
+    "Proceedings of the National Academy of Sciences"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://www.pnas.org/syndication/doi/10.1073/pnas.2022466118",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "syndication"
+    },
+    {
+      "URL": "https://pnas.org/doi/pdf/10.1073/pnas.2022466118",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        4,
+        13
+      ]
+    ],
+    "date-time": "2022-04-13T06:51:05Z",
+    "timestamp": 1649832665000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://pnas.org/doi/full/10.1073/pnas.2022466118"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        8
+      ]
+    ]
+  },
+  "references-count": 89,
+  "journal-issue": {
+    "issue": "12",
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          23
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1073/pnas.2022466118"
+  ],
+  "URL": "https://doi.org/10.1073/pnas.2022466118",
+  "relation": {},
+  "ISSN": [
+    "0027-8424",
+    "1091-6490"
+  ],
+  "issn-type": [
+    {
+      "value": "0027-8424",
+      "type": "print"
+    },
+    {
+      "value": "1091-6490",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        8
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2021-03-08",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ],
+  "article-number": "e2022466118"
+}

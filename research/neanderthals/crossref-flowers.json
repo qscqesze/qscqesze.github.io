@@ -1,0 +1,655 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        12
+      ]
+    ],
+    "date-time": "2026-08-12T04:04:08Z",
+    "timestamp": 1786507448441,
+    "version": "build-2736575974"
+  },
+  "reference-count": 36,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            1
+          ]
+        ],
+        "date-time": "2023-11-01T00:00:00Z",
+        "timestamp": 1698796800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            1
+          ]
+        ],
+        "date-time": "2023-11-01T00:00:00Z",
+        "timestamp": 1698796800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            7,
+            13
+          ]
+        ],
+        "date-time": "2023-07-13T00:00:00Z",
+        "timestamp": 1689206400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Archaeological Science"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.jas.2023.105822",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        28
+      ]
+    ],
+    "date-time": "2023-08-28T02:03:20Z",
+    "timestamp": 1693188200000
+  },
+  "page": "105822",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 16,
+  "special_numbering": "C",
+  "title": [
+    "Shanidar et ses fleurs? Reflections on the palynology of the Neanderthal ‘Flower Burial’ hypothesis"
+  ],
+  "prefix": "10.1016",
+  "volume": "159",
+  "author": [
+    {
+      "given": "Chris O.",
+      "family": "Hunt",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Emma",
+      "family": "Pomeroy",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Tim",
+      "family": "Reynolds",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Emily",
+      "family": "Tilby",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Graeme",
+      "family": "Barker",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "issue": "2",
+      "key": "10.1016/j.jas.2023.105822_bib2",
+      "first-page": "6",
+      "article-title": "Pollen morphology of six Achillea L. sect. Achillea (Asteraceae) species in Turkey",
+      "volume": "35",
+      "author": "Akyalçin",
+      "year": "2011",
+      "journal-title": "Turk. J. Bot."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jas.2023.105822_bib3",
+      "doi-asserted-by": "crossref",
+      "first-page": "129",
+      "DOI": "10.1080/12538078.2014.899158",
+      "article-title": "Pollen morphology of some Achillea L. sect. Babounya (DC.) O. Hoffm. (Asteraceae) species from Turkey",
+      "volume": "161",
+      "author": "Akyalçin",
+      "year": "2014",
+      "journal-title": "Acta Bot. Gall."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jas.2023.105822_bib4",
+      "first-page": "213",
+      "article-title": "Morphological and palynological studies in some Achillea L. species (Asteraceae) of Iran",
+      "volume": "15",
+      "author": "Azani",
+      "year": "2009",
+      "journal-title": "Iran. J. Bot."
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib5",
+      "series-title": "Sentient Archaeologies: Global perspectives on places, objects and practice",
+      "first-page": "39",
+      "article-title": "Storied landscapes in the Palaeolithic? The view from the cave",
+      "author": "Barker",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib6",
+      "doi-asserted-by": "crossref",
+      "first-page": "6",
+      "DOI": "10.1016/j.forsciint.2006.06.075",
+      "article-title": "The forensic analysis of soils and sediment taken from the cast of a footprint",
+      "volume": "162",
+      "author": "Bull",
+      "year": "2006",
+      "journal-title": "Forensic Sci. Int."
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib7",
+      "first-page": "17",
+      "article-title": "The interpretation of pollen spectra from prehistoric settlements (with special attention to Liguliflorae)",
+      "volume": "17",
+      "author": "Bottema",
+      "year": "1975",
+      "journal-title": "Palaeohistoria"
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib8",
+      "doi-asserted-by": "crossref",
+      "first-page": "263",
+      "DOI": "10.1016/0278-4165(87)90003-1",
+      "article-title": "Middle Palaeolithic symbolism: a review of current evidence and interpretation",
+      "volume": "6",
+      "author": "Chase",
+      "year": "1987",
+      "journal-title": "J. Anthropol. Archaeol."
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib9",
+      "doi-asserted-by": "crossref",
+      "first-page": "2692",
+      "DOI": "10.1002/jemt.24123",
+      "article-title": "The comparative palynomorphological studies on Turkish Muscari genera and close relatives (Asparagaceae-scilloideae) with their taxonomic implications",
+      "volume": "85",
+      "author": "Citak",
+      "year": "2022",
+      "journal-title": "Microsc. Res. Tech."
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib10",
+      "doi-asserted-by": "crossref",
+      "first-page": "87",
+      "DOI": "10.1016/j.revpalbo.2015.09.003",
+      "article-title": "Pollen taphonomy at Shanidar Cave (Kurdish Iraq): an initial evaluation",
+      "volume": "233",
+      "author": "Fiacconi",
+      "year": "2015",
+      "journal-title": "Rev. Palaeobot. Palynol."
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib11",
+      "doi-asserted-by": "crossref",
+      "first-page": "395",
+      "DOI": "10.2307/2978",
+      "article-title": "The flower constancy of bumblebees",
+      "volume": "39",
+      "author": "Free",
+      "year": "1970",
+      "journal-title": "J. Anim. Ecol."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jas.2023.105822_bib12",
+      "doi-asserted-by": "crossref",
+      "first-page": "157",
+      "DOI": "10.1086/203725",
+      "article-title": "Grave shortcomings: the evidence for Neanderthal burial",
+      "volume": "30",
+      "author": "Gargett",
+      "year": "1989",
+      "journal-title": "Curr. Anthropol."
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib15",
+      "first-page": "318",
+      "article-title": "An incised shell object from Baradostian (Early Upper Palaeolithic) layers in Shanidar Cave, Iraqi Kurdistan",
+      "volume": "14",
+      "author": "Hunt",
+      "year": "2017",
+      "journal-title": "J. Archaeol. Sci.: Rep."
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib16",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.revpalbo.2020.104278",
+      "article-title": "Are your hands clean? Pollen retention on the human hand after washing",
+      "volume": "280",
+      "author": "Hunt",
+      "year": "2020",
+      "journal-title": "Rev. Palaeobot. Palynol."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jas.2023.105822_bib18",
+      "doi-asserted-by": "crossref",
+      "first-page": "633",
+      "DOI": "10.3329/bjb.v49i3.50003",
+      "article-title": "Morphology, anatomy, palynology and conservation status of Achillea ketenoglui H. Duman",
+      "volume": "49",
+      "author": "Koyuncu",
+      "year": "2020",
+      "journal-title": "Bangladesh J. Bot."
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib19",
+      "doi-asserted-by": "crossref",
+      "first-page": "614",
+      "DOI": "10.1016/j.jaa.2013.10.001",
+      "article-title": "Storied landscapes make us (Modern) Human: landscape socialisation in the Palaeolithic and consequences for the archaeological record",
+      "volume": "32",
+      "author": "Langley",
+      "year": "2013",
+      "journal-title": "J. Anthropol. Archaeol."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jas.2023.105822_bib20",
+      "first-page": "79",
+      "article-title": "Le néandertalien IV de Shanidar",
+      "volume": "65",
+      "author": "Leroi-Gourhan",
+      "year": "1968",
+      "journal-title": "Bull. Soc. Prehist. Fr."
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib21",
+      "doi-asserted-by": "crossref",
+      "first-page": "562",
+      "DOI": "10.1126/science.190.4214.562",
+      "article-title": "The flowers found with Shanidar IV, a Neanderthal burial in Iraq",
+      "volume": "190",
+      "author": "Leroi-Gourhan",
+      "year": "1975",
+      "journal-title": "Science"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jas.2023.105822_bib22",
+      "doi-asserted-by": "crossref",
+      "first-page": "79",
+      "DOI": "10.3406/paleo.1998.4679",
+      "article-title": "Shanidar et ses fleurs",
+      "volume": "24",
+      "author": "Leroi-Gourhan",
+      "year": "1998",
+      "journal-title": "Paleorient"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jas.2023.105822_bib23",
+      "doi-asserted-by": "crossref",
+      "first-page": "291",
+      "DOI": "10.3406/bspf.2000.11093",
+      "article-title": "Rites et Langage à Shanidar?",
+      "volume": "97",
+      "author": "Leroi-Gourhan",
+      "year": "2000",
+      "journal-title": "Bull. Soc. Prehist. Fr."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jas.2023.105822_bib24",
+      "doi-asserted-by": "crossref",
+      "first-page": "263",
+      "DOI": "10.1016/0378-8741(92)90023-K",
+      "article-title": "Medicinal plants in a Middle Palaeolithic grave Shanidar IV?",
+      "volume": "35",
+      "author": "Lietava",
+      "year": "1992",
+      "journal-title": "J. Ethnopharmacol."
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib25",
+      "doi-asserted-by": "crossref",
+      "first-page": "231",
+      "DOI": "10.1016/j.forsciint.2005.11.028",
+      "article-title": "Hypericum pollen determines the presence of burglars at the scene of a crime: an example of forensic palynology",
+      "volume": "163",
+      "author": "Mildenhall",
+      "year": "2006",
+      "journal-title": "Forensic Sci. Int."
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib40",
+      "series-title": "An illustrated guide to Pollen Analysis",
+      "author": "Moore",
+      "year": "1978"
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib26",
+      "doi-asserted-by": "crossref",
+      "first-page": "102",
+      "DOI": "10.1016/j.jhevol.2017.07.001",
+      "article-title": "Newly-discovered Neanderthal remains from Shanidar Cave, Iraqi Kurdistan, and their attribution to Shanidar 5",
+      "volume": "111",
+      "author": "Pomeroy",
+      "year": "2017",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "issue": "373",
+      "key": "10.1016/j.jas.2023.105822_bib27",
+      "doi-asserted-by": "crossref",
+      "first-page": "11",
+      "DOI": "10.15184/aqy.2019.207",
+      "article-title": "New Neanderthal remains associated with the ‘Flower Burial’ at Shanidar Cave, Iraqi Kurdistan",
+      "volume": "94",
+      "author": "Pomeroy",
+      "year": "2020",
+      "journal-title": "Antiquity"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jas.2023.105822_bib28",
+      "doi-asserted-by": "crossref",
+      "first-page": "263",
+      "DOI": "10.1002/evan.21854",
+      "article-title": "Issues of theory and method in the analysis of Paleolithic mortuary behavior: a view from Shanidar Cave",
+      "volume": "29",
+      "author": "Pomeroy",
+      "year": "2020",
+      "journal-title": "Evol. Anthropol."
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib29",
+      "doi-asserted-by": "crossref",
+      "first-page": "239",
+      "DOI": "10.1080/00173139409429005",
+      "article-title": "Pollen harvest by stingless bee foragers (Hymenoptera, Apidae, Meliponinae)",
+      "volume": "33",
+      "author": "Ramalho",
+      "year": "1994",
+      "journal-title": "Grana"
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib30",
+      "article-title": "New investigations at Shanidar Cave, Kurdistan",
+      "author": "Reynolds",
+      "year": "2015",
+      "journal-title": "Antiq. December proj. gallery"
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib31",
+      "doi-asserted-by": "crossref",
+      "first-page": "137",
+      "DOI": "10.1016/j.anthro.2018.10.007",
+      "article-title": "Shanidar cave and the Baradostian, a Zagros Aurignacian industry",
+      "volume": "122",
+      "author": "Reynolds",
+      "year": "2018",
+      "journal-title": "L'Anthropologie"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jas.2023.105822_bib32",
+      "article-title": "Le Moustérien du Zagros: une vision synthétique à partir de la grotte de Shanidar",
+      "volume": "126",
+      "author": "Reynolds",
+      "year": "2022",
+      "journal-title": "L’Anthropologie"
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib33",
+      "doi-asserted-by": "crossref",
+      "first-page": "690",
+      "DOI": "10.1111/j.2164-0947.1961.tb01403.x",
+      "article-title": "New anthropological discoveries at Shanidar, northern Iraq",
+      "volume": "23",
+      "author": "Solecki",
+      "year": "1961",
+      "journal-title": "Trans. N. Y. Acad. Sci."
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib34",
+      "series-title": "Shanidar, the First Flower People",
+      "author": "Solecki",
+      "year": "1971"
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib35",
+      "doi-asserted-by": "crossref",
+      "first-page": "880",
+      "DOI": "10.1126/science.190.4217.880",
+      "article-title": "Shanidar IV: a Neanderthal flower burial in northern Iraq",
+      "volume": "190",
+      "author": "Solecki",
+      "year": "1975",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.jas.2023.105822_bib36",
+      "doi-asserted-by": "crossref",
+      "first-page": "114",
+      "DOI": "10.1111/j.1749-6632.1977.tb41808.x",
+      "article-title": "The implications of the Shanidar Cave Neanderthal Flower Burial",
+      "volume": "293",
+      "author": "Solecki",
+      "year": "1977",
+      "journal-title": "Proc. Acad. Polit. Sci. City N. Y."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jas.2023.105822_bib37",
+      "doi-asserted-by": "crossref",
+      "first-page": "127",
+      "DOI": "10.1017/S0959774300015249",
+      "article-title": "The Shanidar IV ‘Flower burial’: a reevaluation of Neanderthal burial ritual",
+      "volume": "9",
+      "author": "Sommer",
+      "year": "1999",
+      "journal-title": "Camb. Archaeol. J."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jas.2023.105822_bib38",
+      "doi-asserted-by": "crossref",
+      "first-page": "4",
+      "DOI": "10.3390/quat5010004",
+      "article-title": "The microvertebrates of Shanidar Cave: preliminary taphonomic findings",
+      "volume": "5",
+      "author": "Tilby",
+      "year": "2022",
+      "journal-title": "Quaternary"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jas.2023.105822_bib41",
+      "doi-asserted-by": "crossref",
+      "first-page": "141",
+      "DOI": "10.3406/paleo.1981.4293",
+      "article-title": "Les Fragments ligneux würmiens de la grotte de Shanidar (Iraq)",
+      "volume": "7",
+      "author": "Vernet",
+      "year": "1981",
+      "journal-title": "Paléorient"
+    }
+  ],
+  "container-title": [
+    "Journal of Archaeological Science"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0305440323001024?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0305440323001024?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        5
+      ]
+    ],
+    "date-time": "2025-10-05T09:17:36Z",
+    "timestamp": 1759655856000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0305440323001024"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11
+      ]
+    ]
+  },
+  "references-count": 36,
+  "alternative-id": [
+    "S0305440323001024"
+  ],
+  "URL": "https://doi.org/10.1016/j.jas.2023.105822",
+  "relation": {},
+  "ISSN": [
+    "0305-4403"
+  ],
+  "issn-type": [
+    {
+      "value": "0305-4403",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        11
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Shanidar et ses fleurs? Reflections on the palynology of the Neanderthal ‘Flower Burial’ hypothesis",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Journal of Archaeological Science",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.jas.2023.105822",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2023 The Authors. Published by Elsevier Ltd.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "105822"
+}

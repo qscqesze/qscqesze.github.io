@@ -1,0 +1,1669 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        26
+      ]
+    ],
+    "date-time": "2026-08-26T04:24:58Z",
+    "timestamp": 1787718298470,
+    "version": "build-2784847793"
+  },
+  "reference-count": 177,
+  "publisher": "American Association for the Advancement of Science (AAAS)",
+  "issue": "6190",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Science"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2014,
+        6,
+        20
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Neandertal ancestors from Pleistocene Spain</jats:title><jats:p>The Sima de los Huesos site in Atapuerca, northern Spain, is a rich source of fossil hominin specimens. The site has now yielded further skull specimens that illuminate patterns of human evolution in Europe nearly half a million years ago. Arsuaga<jats:italic>et al.</jats:italic>studied 17 crania, including 7 that are new specimens and 6 that are more complete than before (see the Perspective by Hublin). This assemblage of specimens reveals the cranial, facial, and dental features of the Atapuerca hominins, which allows more precise evolutionary positioning of these Neandertal ancestors.</jats:p><jats:p><jats:italic>Science</jats:italic>, this issue p.<jats:related-article xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"doi\" issue=\"6190\" page=\"1358\" related-article-type=\"in-this-issue\" vol=\"344\" xlink:href=\"10.1126/science.1253958\">1358</jats:related-article>; see also p.<jats:related-article xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"doi\" issue=\"6190\" page=\"1338\" related-article-type=\"in-this-issue\" vol=\"344\" xlink:href=\"10.1126/science.1255554\">1338</jats:related-article></jats:p>",
+  "DOI": "10.1126/science.1253958",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        6,
+        20
+      ]
+    ],
+    "date-time": "2014-06-20T03:36:24Z",
+    "timestamp": 1403235384000
+  },
+  "page": "1358-1363",
+  "source": "Crossref",
+  "is-referenced-by-count": 428,
+  "title": [
+    "Neandertal roots: Cranial and chronological evidence from Sima de los Huesos"
+  ],
+  "prefix": "10.1126",
+  "volume": "344",
+  "author": [
+    {
+      "given": "J. L.",
+      "family": "Arsuaga",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Centro Mixto UCM-ISCIII de Evolución y Comportamiento Humanos, Madrid, Spain."
+        },
+        {
+          "name": "Departamento de Paleontología, Facultad Ciencias Geológicas, Universidad Complutense de Madrid, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "I.",
+      "family": "Martínez",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Mixto UCM-ISCIII de Evolución y Comportamiento Humanos, Madrid, Spain."
+        },
+        {
+          "name": "Área de Paleontología, Departamento de Geología, Geografía y Medio Ambiente, Universidad de Alcalá, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "L. J.",
+      "family": "Arnold",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Nacional de Investigación sobre la Evolución Humana Burgos, Spain."
+        },
+        {
+          "name": "School of Earth and Environmental Sciences, the Environment Institute, and the Institute for Photonics and Advanced Sensing (IPAS), University of Adelaide, Australia."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "A.",
+      "family": "Aranburu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Departamento Mineralogía y Petrología, Facultad de Ciencia y Tecnología, Universidad del País Vasco, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "A.",
+      "family": "Gracia-Téllez",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Mixto UCM-ISCIII de Evolución y Comportamiento Humanos, Madrid, Spain."
+        },
+        {
+          "name": "Área de Paleontología, Departamento de Geología, Geografía y Medio Ambiente, Universidad de Alcalá, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "W. D.",
+      "family": "Sharp",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Berkeley Geochronology Center, Berkeley, CA, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "R. M.",
+      "family": "Quam",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Mixto UCM-ISCIII de Evolución y Comportamiento Humanos, Madrid, Spain."
+        },
+        {
+          "name": "Department of Anthropology, Binghamton University (State University of New York), Binghamton, NY, USA."
+        },
+        {
+          "name": "Division of Anthropology, American Museum of Natural History, New York, NY, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "C.",
+      "family": "Falguères",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Département de Préhistoire, Muséum National d'Histoire Naturelle, Paris, France."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "A.",
+      "family": "Pantoja-Pérez",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Mixto UCM-ISCIII de Evolución y Comportamiento Humanos, Madrid, Spain."
+        },
+        {
+          "name": "Departamento de Paleontología, Facultad Ciencias Geológicas, Universidad Complutense de Madrid, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "J.",
+      "family": "Bischoff",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "U.S. Geological Survey, Menlo Park, CA,USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "E.",
+      "family": "Poza-Rey",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Mixto UCM-ISCIII de Evolución y Comportamiento Humanos, Madrid, Spain."
+        },
+        {
+          "name": "Departamento de Paleontología, Facultad Ciencias Geológicas, Universidad Complutense de Madrid, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "J. M.",
+      "family": "Parés",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Nacional de Investigación sobre la Evolución Humana Burgos, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "J. M.",
+      "family": "Carretero",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Laboratorio de Evolución Humana, Departamento de Ciencias Históricas y Geografía, Universidad de Burgos, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "M.",
+      "family": "Demuro",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Nacional de Investigación sobre la Evolución Humana Burgos, Spain."
+        },
+        {
+          "name": "Institute for Photonics and Advanced Sensing (IPAS), School of Chemistry and Physics, University of Adelaide, Australia."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "C.",
+      "family": "Lorenzo",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Mixto UCM-ISCIII de Evolución y Comportamiento Humanos, Madrid, Spain."
+        },
+        {
+          "name": "Àrea de Prehistòria, Departamento d’Història i Història de l’Art, Universitat Rovira i Virgili (URV), Tarragona, Spain."
+        },
+        {
+          "name": "Institut Català de Paleoecologia Humana i Evolució Social, Tarragona, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "N.",
+      "family": "Sala",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Mixto UCM-ISCIII de Evolución y Comportamiento Humanos, Madrid, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "M.",
+      "family": "Martinón-Torres",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Nacional de Investigación sobre la Evolución Humana Burgos, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "N.",
+      "family": "García",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Mixto UCM-ISCIII de Evolución y Comportamiento Humanos, Madrid, Spain."
+        },
+        {
+          "name": "Departamento de Paleontología, Facultad Ciencias Geológicas, Universidad Complutense de Madrid, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "A.",
+      "family": "Alcázar de Velasco",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Mixto UCM-ISCIII de Evolución y Comportamiento Humanos, Madrid, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "G.",
+      "family": "Cuenca-Bescós",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Paleontología, Aragosaurus-IUCA and Facultad Ciencias, Universidad de Zaragoza, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "A.",
+      "family": "Gómez-Olivencia",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Mixto UCM-ISCIII de Evolución y Comportamiento Humanos, Madrid, Spain."
+        },
+        {
+          "name": "Département de Préhistoire, Muséum National d'Histoire Naturelle, Paris, France."
+        },
+        {
+          "name": "PAVE Research Group, Division of Biological Anthropology, Cambridge, UK."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "D.",
+      "family": "Moreno",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Département de Préhistoire, Muséum National d'Histoire Naturelle, Paris, France."
+        },
+        {
+          "name": "Laboratorio de Evolución Humana, Departamento de Ciencias Históricas y Geografía, Universidad de Burgos, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "A.",
+      "family": "Pablos",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Mixto UCM-ISCIII de Evolución y Comportamiento Humanos, Madrid, Spain."
+        },
+        {
+          "name": "Centro Nacional de Investigación sobre la Evolución Humana Burgos, Spain."
+        },
+        {
+          "name": "Laboratorio de Evolución Humana, Departamento de Ciencias Históricas y Geografía, Universidad de Burgos, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "C.-C.",
+      "family": "Shen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "High-Precision Mass Spectrometry and Environment Change Laboratory (HISPEC), Department of Geosciences, National Taiwan University, Taiwan ROC."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "L.",
+      "family": "Rodríguez",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Laboratorio de Evolución Humana, Departamento de Ciencias Históricas y Geografía, Universidad de Burgos, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "A. I.",
+      "family": "Ortega",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Nacional de Investigación sobre la Evolución Humana Burgos, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "R.",
+      "family": "García",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Laboratorio de Evolución Humana, Departamento de Ciencias Históricas y Geografía, Universidad de Burgos, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "A.",
+      "family": "Bonmatí",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Mixto UCM-ISCIII de Evolución y Comportamiento Humanos, Madrid, Spain."
+        },
+        {
+          "name": "Departamento de Paleontología, Facultad Ciencias Geológicas, Universidad Complutense de Madrid, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "J. M.",
+      "family": "Bermúdez de Castro",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centro Nacional de Investigación sobre la Evolución Humana Burgos, Spain."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "E.",
+      "family": "Carbonell",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Àrea de Prehistòria, Departamento d’Història i Història de l’Art, Universitat Rovira i Virgili (URV), Tarragona, Spain."
+        },
+        {
+          "name": "Institut Català de Paleoecologia Humana i Evolució Social, Tarragona, Spain."
+        },
+        {
+          "name": "Institute of Vertebrate Paleontology and Paleoanthropology of Beijing (IVPP), China."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "221",
+  "reference": [
+    {
+      "key": "e_1_3_2_2_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0016-6995(82)80124-1"
+    },
+    {
+      "key": "e_1_3_2_3_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/evan.20160"
+    },
+    {
+      "key": "e_1_3_2_4_2",
+      "unstructured": "C. B. Stringer in Ancestors: The Hard Evidence E. Delson Ed. (Liss New York 1985) pp. 285–295."
+    },
+    {
+      "key": "e_1_3_2_5_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ajpa.21443"
+    },
+    {
+      "key": "e_1_3_2_6_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0904119106"
+    },
+    {
+      "key": "e_1_3_2_7_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/(SICI)1520-6505(1998)6:6<218::AID-EVAN4>3.0.CO;2-6"
+    },
+    {
+      "key": "e_1_3_2_8_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/evan.21311"
+    },
+    {
+      "key": "e_1_3_2_9_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0903207106"
+    },
+    {
+      "key": "e_1_3_2_10_2",
+      "unstructured": "M. H. Wolpoff in The Human Revolution: Behavioural and Biological Perspectives in the Origins of Modern Humans P. Mellars C. Stringer Eds. (Edinburgh Univ. Press Edinburgh 1989) pp. 62–108."
+    },
+    {
+      "key": "e_1_3_2_11_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1998.0214"
+    },
+    {
+      "key": "e_1_3_2_12_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1999.0367"
+    },
+    {
+      "key": "e_1_3_2_14_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1997.0132"
+    },
+    {
+      "key": "e_1_3_2_15_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/(SICI)1096-8644(200004)111:4<451::AID-AJPA2>3.0.CO;2-J"
+    },
+    {
+      "key": "e_1_3_2_16_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0003-5521(01)80011-X"
+    },
+    {
+      "key": "e_1_3_2_17_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/362534a0"
+    },
+    {
+      "key": "e_1_3_2_18_2",
+      "first-page": "167",
+      "article-title": "An alternative interpretation of the characters used to define Homo erectus",
+      "volume": "69",
+      "author": "Andrews P.",
+      "year": "1984",
+      "unstructured": "Andrews P., An alternative interpretation of the characters used to define Homo erectus. Cour. Forsch. Inst. Senckenberg 69, 167–175 (1984).",
+      "journal-title": "Cour. Forsch. Inst. Senckenberg"
+    },
+    {
+      "key": "e_1_3_2_19_2",
+      "first-page": "99",
+      "article-title": "The origin of Homo erectus",
+      "volume": "69",
+      "author": "Wood B. A.",
+      "year": "1984",
+      "unstructured": "Wood B. A., The origin of Homo erectus. Cour. Forsch. Inst. Senckenberg 69, 99–111 (1984).",
+      "journal-title": "Cour. Forsch. Inst. Senckenberg"
+    },
+    {
+      "key": "e_1_3_2_20_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1997.0133"
+    },
+    {
+      "key": "e_1_3_2_21_2",
+      "unstructured": "J. J. Hublin Quelques caractères apomorphes du crâne néandertalien et leur interprétation phylogénétique. C. R. Acad. Sci. Paris Ser. D 287 923-926 (1978)."
+    },
+    {
+      "key": "e_1_3_2_22_2",
+      "unstructured": "C. B. Stringer J. J. Hublin B. Vandermeersch in The Origin of Modern Humans: A World Survey of the Fossil Evidence F. H. Smith F. Spencer Eds. (Liss New York 1984) pp. 51–135."
+    },
+    {
+      "key": "e_1_3_2_23_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.93.20.10852"
+    },
+    {
+      "key": "e_1_3_2_24_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ar.20776"
+    },
+    {
+      "key": "e_1_3_2_25_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0047-2484(03)00062-9"
+    },
+    {
+      "key": "e_1_3_2_26_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1997.0155"
+    },
+    {
+      "key": "e_1_3_2_27_2",
+      "unstructured": "M. Elyatqine thesis Université Bordeaux I France (1995)."
+    },
+    {
+      "key": "e_1_3_2_28_2",
+      "unstructured": "S. Condemi in L'Homme de Neandertal E. Trinkaus Ed. (Etudes et Recherche Archéologiques de l'Université de Liége Liège France) 1988) vol. 3 pp. 49–53."
+    },
+    {
+      "key": "e_1_3_2_29_2",
+      "first-page": "309",
+      "article-title": "Evolutionary trends in the temporal bone in the Neandertal lineage: a comparative study between the Sima de los Huesos (Sierra de Atapuerca) and Krapina samples",
+      "volume": "108",
+      "author": "Martínez I.",
+      "year": "2006",
+      "unstructured": "Martínez I., Quam R., Arsuaga J. L., Evolutionary trends in the temporal bone in the Neandertal lineage: a comparative study between the Sima de los Huesos (Sierra de Atapuerca) and Krapina samples. Period. Biol. 108, 309–317 (2006).",
+      "journal-title": "Period. Biol."
+    },
+    {
+      "key": "e_1_3_2_30_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ajpa.10131"
+    },
+    {
+      "key": "e_1_3_2_31_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2005.03.004"
+    },
+    {
+      "key": "e_1_3_2_32_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/1096-8644(200101)114:1<74::AID-AJPA1007>3.0.CO;2-U"
+    },
+    {
+      "key": "e_1_3_2_33_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2011.08.007"
+    },
+    {
+      "key": "e_1_3_2_34_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/joa.12090"
+    },
+    {
+      "key": "e_1_3_2_35_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0047-2484(86)80054-9"
+    },
+    {
+      "key": "e_1_3_2_36_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ajpa.1330960403"
+    },
+    {
+      "key": "e_1_3_2_37_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2012.06.002"
+    },
+    {
+      "key": "e_1_3_2_38_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jas.2006.08.003"
+    },
+    {
+      "key": "e_1_3_2_39_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2010.04.005"
+    },
+    {
+      "key": "e_1_3_2_40_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1302653110"
+    },
+    {
+      "key": "e_1_3_2_41_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0047-2484(91)90073-5"
+    },
+    {
+      "key": "e_1_3_2_42_2",
+      "first-page": "247",
+      "volume": "144",
+      "author": "Rak Y.",
+      "year": "2011",
+      "unstructured": "Rak Y., et al.., Am. J. Phys. Anthropol. 144, 247 (2011).",
+      "journal-title": "Am. J. Phys. Anthropol."
+    },
+    {
+      "key": "e_1_3_2_43_2",
+      "unstructured": "I. Tattersall in Continuity and Discontinuity in the Peopling of Europe: One Hundred Fifty Years of Neanderthal Study S. Condemi G.-C. Weniger Eds. (Springer Science+Business Media B.V. New York 2011) chap. 4."
+    },
+    {
+      "key": "e_1_3_2_44_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature12788"
+    },
+    {
+      "key": "e_1_3_2_45_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1224344"
+    },
+    {
+      "key": "e_1_3_2_46_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2013.12.001"
+    },
+    {
+      "key": "e_1_3_2_47_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0900965106"
+    },
+    {
+      "key": "e_1_3_2_48_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.geomorph.2012.05.031"
+    },
+    {
+      "key": "e_1_3_2_49_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1997.0130"
+    },
+    {
+      "key": "e_1_3_2_50_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2008.02.012"
+    },
+    {
+      "key": "e_1_3_2_51_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2013.05.005"
+    },
+    {
+      "key": "e_1_3_2_52_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1999.0326"
+    },
+    {
+      "key": "e_1_3_2_53_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1314445110"
+    },
+    {
+      "key": "e_1_3_2_54_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jasc.2002.0834"
+    },
+    {
+      "key": "e_1_3_2_55_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1306/022900701183"
+    },
+    {
+      "key": "e_1_3_2_56_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/ac026247r"
+    },
+    {
+      "key": "e_1_3_2_57_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.gca.2012.09.018"
+    },
+    {
+      "key": "e_1_3_2_58_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevC.4.1889"
+    },
+    {
+      "key": "e_1_3_2_59_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1351/pac199062050941"
+    },
+    {
+      "key": "e_1_3_2_60_2",
+      "first-page": "99",
+      "article-title": "Biostratigraphic succession of the Early and Middle Pleistocene mammal faunas of the Atapuerca cave sites (Burgos, spain)",
+      "volume": "259",
+      "author": "Cuenca-Bescós G.",
+      "year": "2007",
+      "unstructured": "Cuenca-Bescós G., García N., Biostratigraphic succession of the Early and Middle Pleistocene mammal faunas of the Atapuerca cave sites (Burgos, spain).Cour. Forsch. Inst. Senckenberg 259, 99–110 (2007).",
+      "journal-title": "Cour. Forsch. Inst. Senckenberg"
+    },
+    {
+      "key": "e_1_3_2_61_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quascirev.2010.11.008"
+    },
+    {
+      "key": "e_1_3_2_62_2",
+      "unstructured": "N. García Osos y otros carnívoros de la sierra de Atapuerca (Fundación Oso de Asturias Asturias Spain 2003)."
+    },
+    {
+      "key": "e_1_3_2_63_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1997.0154"
+    },
+    {
+      "key": "e_1_3_2_64_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jas.2003.12.008"
+    },
+    {
+      "key": "e_1_3_2_65_2",
+      "unstructured": "W. von Koenigswald in Schichten von Mauer e 85 Jahre Homo erectus heidelbergensis K. W. Beinhauer G. A. Wagner Eds. (Mannheim Germany 1992) pp. 101–110."
+    },
+    {
+      "key": "e_1_3_2_66_2",
+      "first-page": "227",
+      "volume": "115",
+      "author": "Koenigswald W. von",
+      "year": "1987",
+      "unstructured": "Koenigswald W. von, Tobien H., Geol. Jahrb. Hessen. 115, 227–237 (1987).",
+      "journal-title": "Geol. Jahrb. Hessen."
+    },
+    {
+      "key": "e_1_3_2_67_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2004.07.004"
+    },
+    {
+      "key": "e_1_3_2_68_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0016-6995(06)80051-3"
+    },
+    {
+      "key": "e_1_3_2_69_2",
+      "first-page": "192",
+      "volume": "2",
+      "author": "Schütt G.",
+      "year": "1969",
+      "unstructured": "Schütt G., Neues Jahrb. Geol. Palaontol. Abh. 2, 192–220 (1969).",
+      "journal-title": "Neues Jahrb. Geol. Palaontol. Abh."
+    },
+    {
+      "key": "e_1_3_2_70_2",
+      "first-page": "228",
+      "article-title": "Zur Evolution des Löwen (Panthera leo L.) in europäischen Pleistozän",
+      "volume": "4",
+      "author": "Schütt G.",
+      "year": "1978",
+      "unstructured": "Schütt G., Hemmer H., Zur Evolution des Löwen (Panthera leo L.) in europäischen Pleistozän. Neues Jahrb. Geol. Palaeontol. Monatshefte 4, 228–255 (1978).",
+      "journal-title": "Neues Jahrb. Geol. Palaeontol. Monatshefte"
+    },
+    {
+      "key": "e_1_3_2_71_2",
+      "unstructured": "M. Sotnikova in Das Pleistozän von Untermassfeld bei Meiningen (Thüringen). Monogr. Römisch-Germanisches Zentralmuseum Mainz R.-D. Kahlke Ed. (Teil 2. Habelt Verlag Bonn 2001) vol. 40 pp. 607–632."
+    },
+    {
+      "key": "e_1_3_2_72_2",
+      "unstructured": "R.-D. Kahlke British Archaeol. Rep. Int. Ser. 1578 1e144.115 foldouts (2006)."
+    },
+    {
+      "key": "e_1_3_2_73_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0003-5521(01)80009-1"
+    },
+    {
+      "key": "e_1_3_2_74_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1997.0153"
+    },
+    {
+      "key": "e_1_3_2_75_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.geobios.2010.08.003"
+    },
+    {
+      "key": "e_1_3_2_76_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2009.06.007"
+    },
+    {
+      "key": "e_1_3_2_77_2",
+      "first-page": "29",
+      "article-title": "Small-mammals from the Middle Pleistocene layers of the Sima del Elefante (Sierra de Atapuerca, Burgos, northwestern Spain)",
+      "volume": "9",
+      "author": "López-García J. M.",
+      "year": "2011",
+      "unstructured": "López-García J. M., et al.., Small-mammals from the Middle Pleistocene layers of the Sima del Elefante (Sierra de Atapuerca, Burgos, northwestern Spain). Geol. Acta 9, 29–43 (2011).",
+      "journal-title": "Geol. Acta"
+    },
+    {
+      "key": "e_1_3_2_78_2",
+      "first-page": "541",
+      "article-title": "Evolution of bank voles (Clethrionomys, Arvicolinae) in the late Pliocene and early Pleistocene of eastern Europe",
+      "volume": "39",
+      "author": "Tesakov A.",
+      "year": "1996",
+      "unstructured": "Tesakov A., Evolution of bank voles (Clethrionomys, Arvicolinae) in the late Pliocene and early Pleistocene of eastern Europe. Acta Zool. Cracoviensia 39, 541–547 (1996).",
+      "journal-title": "Acta Zool. Cracoviensia"
+    },
+    {
+      "key": "e_1_3_2_79_2",
+      "first-page": "95",
+      "article-title": "Análisis filogenético de Allocricetus del Pleistoceno (Cricetidae, Rodentia, Mammalia)",
+      "volume": "1",
+      "author": "Cuenca-Bescós G.",
+      "year": "2003",
+      "unstructured": "Cuenca-Bescós G., Análisis filogenético de Allocricetus del Pleistoceno (Cricetidae, Rodentia, Mammalia). Col. Paleontol. Ext. 1, 95–113 (2003).",
+      "journal-title": "Col. Paleontol. Ext."
+    },
+    {
+      "key": "e_1_3_2_80_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.crpv.2008.03.003"
+    },
+    {
+      "key": "e_1_3_2_81_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF00311472"
+    },
+    {
+      "key": "e_1_3_2_82_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0735-245X(85)90109-7"
+    },
+    {
+      "key": "e_1_3_2_83_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/1359-0189(91)90107-S"
+    },
+    {
+      "key": "e_1_3_2_84_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3406/quate.2004.1761"
+    },
+    {
+      "key": "e_1_3_2_85_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0277-3791(03)00062-3"
+    },
+    {
+      "key": "e_1_3_2_86_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quageo.2009.05.006"
+    },
+    {
+      "key": "e_1_3_2_87_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3989/tp.2011.11056"
+    },
+    {
+      "key": "e_1_3_2_88_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quageo.2012.04.018"
+    },
+    {
+      "key": "e_1_3_2_89_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.radmeas.2009.03.017"
+    },
+    {
+      "key": "e_1_3_2_90_2",
+      "unstructured": "Y. Yokoyama H. Nguyen in Isotope Marine Chemistry E. D. Goldberg Y. Horibe K. Saruhashi Eds. (Uchida Rokakuho Tokyo 1980) pp. 259–289."
+    },
+    {
+      "key": "e_1_3_2_91_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "37",
+      "DOI": "10.26034/la.atl.1998.292",
+      "volume": "16",
+      "author": "Adamiec G.",
+      "year": "1998",
+      "unstructured": "Adamiec G., Aitken M., Anc. TL 16, 37–50 (1998).",
+      "journal-title": "Anc. TL"
+    },
+    {
+      "key": "e_1_3_2_92_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/1359-0189(91)90119-3"
+    },
+    {
+      "key": "e_1_3_2_93_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S1350-4487(03)00011-8"
+    },
+    {
+      "key": "e_1_3_2_94_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/1350-4487(94)90086-8"
+    },
+    {
+      "key": "e_1_3_2_95_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0883-2927(88)90002-9"
+    },
+    {
+      "key": "e_1_3_2_96_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quageo.2007.09.004"
+    },
+    {
+      "key": "e_1_3_2_97_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quageo.2008.12.005"
+    },
+    {
+      "key": "e_1_3_2_98_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "35",
+      "DOI": "10.26034/la.atl.1994.225",
+      "volume": "12",
+      "author": "Grün R.",
+      "year": "1994",
+      "unstructured": "Grün R., Katzenberger-Apel O., Anc. TL 12, 35–38 (1994).",
+      "journal-title": "Anc. TL"
+    },
+    {
+      "key": "e_1_3_2_99_2",
+      "unstructured": "R. Marsh McMaster University Hamilton (1999)."
+    },
+    {
+      "key": "e_1_3_2_100_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "M. J. Aitken An Introduction to Optical Dating: The Dating of Quaternary Sediments by the Use of Photon-Stimulated Luminescence (Oxford Univ. Press Oxford 1998).",
+      "DOI": "10.1093/oso/9780198540922.001.0001"
+    },
+    {
+      "key": "e_1_3_2_101_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0277-3791(92)90069-K"
+    },
+    {
+      "key": "e_1_3_2_102_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1997.0110"
+    },
+    {
+      "key": "e_1_3_2_103_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0277-3791(96)00095-9"
+    },
+    {
+      "key": "e_1_3_2_104_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quageo.2012.02.009"
+    },
+    {
+      "key": "e_1_3_2_105_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/313105a0"
+    },
+    {
+      "key": "e_1_3_2_106_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.radmeas.2009.02.007"
+    },
+    {
+      "key": "e_1_3_2_107_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quageo.2006.05.020"
+    },
+    {
+      "key": "e_1_3_2_108_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.radmeas.2006.01.001"
+    },
+    {
+      "key": "e_1_3_2_109_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.radmeas.2012.02.005"
+    },
+    {
+      "key": "e_1_3_2_110_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1502-3885.2012.00262.x"
+    },
+    {
+      "key": "e_1_3_2_111_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S1350-4487(99)00253-X"
+    },
+    {
+      "key": "e_1_3_2_112_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quageo.2012.11.003"
+    },
+    {
+      "key": "e_1_3_2_113_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.radmeas.2009.02.015"
+    },
+    {
+      "key": "e_1_3_2_114_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.radmeas.2011.09.001"
+    },
+    {
+      "key": "e_1_3_2_115_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "L. Bøtter-Jensen V. Mejdahl Nucl. Tracks Rad. Meas. 14 187–191 (1988).",
+      "DOI": "10.1016/1359-0189(88)90062-3"
+    },
+    {
+      "key": "e_1_3_2_116_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature01383"
+    },
+    {
+      "key": "e_1_3_2_117_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "11",
+      "DOI": "10.26034/la.atl.1997.271",
+      "volume": "15",
+      "author": "Huntley D. J.",
+      "year": "1997",
+      "unstructured": "Huntley D. J., Baril M. R., Anc. TL 15, 11–13 (1997).",
+      "journal-title": "Anc. TL"
+    },
+    {
+      "key": "e_1_3_2_118_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/qres.1996.0053"
+    },
+    {
+      "key": "e_1_3_2_119_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.26034/la.atl.2001.333",
+      "volume": "19",
+      "author": "Huntley D. J.",
+      "year": "2001",
+      "unstructured": "Huntley D. J., Hancock R. G. V., Anc. TL 19, 43–46 (2001).",
+      "journal-title": "Anc. TL"
+    },
+    {
+      "key": "e_1_3_2_120_2",
+      "first-page": "211",
+      "volume": "534",
+      "author": "Huntley D. J.",
+      "year": "1999",
+      "unstructured": "Huntley D. J., Lian O. B., Geol. Surv. Canada Bull. 534, 211–222 (1999).",
+      "journal-title": "Geol. Surv. Canada Bull."
+    },
+    {
+      "key": "e_1_3_2_121_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0277-3791(96)00106-0"
+    },
+    {
+      "key": "e_1_3_2_122_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "10",
+      "DOI": "10.26034/la.atl.1987.119",
+      "volume": "5",
+      "author": "Mejdahl V.",
+      "year": "1987",
+      "unstructured": "Mejdahl V., Anc. TL 5, 10–17 (1987).",
+      "journal-title": "Anc. TL"
+    },
+    {
+      "key": "e_1_3_2_123_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "9",
+      "DOI": "10.26034/la.atl.1995.242",
+      "volume": "13",
+      "author": "Rees-Jones J.",
+      "year": "1995",
+      "unstructured": "Rees-Jones J., Anc. TL 13, 9–14 (1995).",
+      "journal-title": "Anc. TL"
+    },
+    {
+      "key": "e_1_3_2_124_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "5",
+      "DOI": "10.26034/la.atl.2011.443",
+      "volume": "29",
+      "author": "Guérin G.",
+      "year": "2011",
+      "unstructured": "Guérin G., Mercier N., Adamiec G., Anc. TL 29, 5–8 (2011).",
+      "journal-title": "Anc. TL"
+    },
+    {
+      "key": "e_1_3_2_125_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "25",
+      "DOI": "10.26034/la.atl.2002.342",
+      "volume": "20",
+      "author": "Readhead M. L.",
+      "year": "2002",
+      "unstructured": "Readhead M. L., Anc. TL 20, 25–28 (2002).",
+      "journal-title": "Anc. TL"
+    },
+    {
+      "key": "e_1_3_2_126_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1475-4754.1979.tb00241.x"
+    },
+    {
+      "key": "e_1_3_2_127_2",
+      "unstructured": "M. J. Aitken Thermoluminescence Dating (Academic Press London 1985)."
+    },
+    {
+      "key": "e_1_3_2_128_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.radmeas.2010.03.009"
+    },
+    {
+      "key": "e_1_3_2_129_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.gloplacha.2011.02.002"
+    },
+    {
+      "key": "e_1_3_2_130_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1502-3885.2012.00248.x"
+    },
+    {
+      "key": "e_1_3_2_131_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2010.05.018"
+    },
+    {
+      "key": "e_1_3_2_132_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s12520-011-0085-9"
+    },
+    {
+      "key": "e_1_3_2_133_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quageo.2011.12.003"
+    },
+    {
+      "key": "e_1_3_2_134_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.radmeas.2012.03.022"
+    },
+    {
+      "key": "e_1_3_2_135_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quageo.2012.02.014"
+    },
+    {
+      "key": "e_1_3_2_136_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quascirev.2005.09.012"
+    },
+    {
+      "key": "e_1_3_2_137_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quageo.2009.02.017"
+    },
+    {
+      "key": "e_1_3_2_138_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quageo.2006.04.006"
+    },
+    {
+      "key": "e_1_3_2_139_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0969-8043(00)00095-6"
+    },
+    {
+      "key": "e_1_3_2_140_2",
+      "first-page": "491",
+      "volume": "6",
+      "author": "Jacobs Z.",
+      "year": "2011",
+      "unstructured": "Jacobs Z., et al.., Quat. Geochronol. 6, 491–513 (2011).",
+      "journal-title": "Quat. Geochronol."
+    },
+    {
+      "key": "e_1_3_2_141_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/cercor/6.5.726"
+    },
+    {
+      "key": "e_1_3_2_142_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.neubiorev.2006.06.001"
+    },
+    {
+      "key": "e_1_3_2_143_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.288.5468.1019"
+    },
+    {
+      "key": "e_1_3_2_144_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "R. L. Holloway D. C. Broadfield M. S. Yuan The Human fossil record: Brain endocasts The Paleoneurological Evidende . J. H. Schwartz I. Tattersall Eds. The Human Fossil Record (Wiley New York 2004) vol. 3 pp. 320.",
+      "DOI": "10.1002/0471663573"
+    },
+    {
+      "key": "e_1_3_2_145_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ar.a.20379"
+    },
+    {
+      "key": "e_1_3_2_146_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1072953"
+    },
+    {
+      "key": "e_1_3_2_147_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jchb.2010.05.002"
+    },
+    {
+      "key": "e_1_3_2_148_2",
+      "unstructured": "M. A. Lumley D. Dominique Grimaud-Hervé L. Tianyuan X. Feng W. Zhenghua in Le site de l’Homme de Yunxian. Quyuanhekou Quingqu Province du Hubei (CNRS éditions et Éditions Recherche sur les civilisations 2008) pp. 381–466."
+    },
+    {
+      "key": "e_1_3_2_149_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ajpa.10346"
+    },
+    {
+      "key": "e_1_3_2_150_2",
+      "first-page": "1",
+      "volume": "10",
+      "author": "Weidenreich F.",
+      "year": "1943",
+      "unstructured": "Weidenreich F., Paleontol. Sin. New Series D 10, 1–484 (1943).",
+      "journal-title": "Paleontol. Sin. New Series D"
+    },
+    {
+      "key": "e_1_3_2_151_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/oa.694"
+    },
+    {
+      "key": "e_1_3_2_152_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2009.07.002"
+    },
+    {
+      "key": "e_1_3_2_153_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s12110-008-9054-0"
+    },
+    {
+      "key": "e_1_3_2_154_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ar.a.90122"
+    },
+    {
+      "key": "e_1_3_2_155_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/jmor.10060"
+    },
+    {
+      "key": "e_1_3_2_156_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1997.0163"
+    },
+    {
+      "key": "e_1_3_2_157_2",
+      "unstructured": "M. Cartmill F. Smith The Human Lineage (Wiley Hoboken NJ 2009)."
+    },
+    {
+      "key": "e_1_3_2_158_2",
+      "first-page": "1474",
+      "volume": "55",
+      "author": "Hawks J. D.",
+      "year": "2001",
+      "unstructured": "Hawks J. D., Wolpoff M. H., Evol. Hum. Behav. 55, 1474–1485 (2001).",
+      "journal-title": "Evol. Hum. Behav."
+    },
+    {
+      "key": "e_1_3_2_159_2",
+      "first-page": "1",
+      "volume": "67",
+      "author": "Howells W. W.",
+      "year": "1973",
+      "unstructured": "Howells W. W., Paper Peabody Mus. Archaeol. Enthnol. 67, 1–259 (1973).",
+      "journal-title": "Paper Peabody Mus. Archaeol. Enthnol."
+    },
+    {
+      "key": "e_1_3_2_160_2",
+      "unstructured": "W. W. Howells in Paleoanthropology: Morphology and Paleoecology R. H. Tuttle Ed. (Mouton The Hague 1975)."
+    },
+    {
+      "key": "e_1_3_2_161_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "E. Trinkaus The Shanidar Neandertals (Academic Press New York 1983) pp. 1–502.",
+      "DOI": "10.1016/B978-0-12-700550-8.50008-1"
+    },
+    {
+      "key": "e_1_3_2_162_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0047-2484(87)90071-6"
+    },
+    {
+      "key": "e_1_3_2_163_2",
+      "unstructured": "S. Condemi Les Hommes Fossiles de Saccopastore et leurs Relations Phylogénétiques (Cahiers de Paléoanthropologie CNRS Paris 1992)."
+    },
+    {
+      "key": "e_1_3_2_164_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0047-2484(83)80128-6"
+    },
+    {
+      "key": "e_1_3_2_165_2",
+      "unstructured": "A. Gómez-Olivencia thesis Universidad de Burgos Burgos Spain (2009)."
+    },
+    {
+      "key": "e_1_3_2_166_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/jar.60.1.3631006"
+    },
+    {
+      "key": "e_1_3_2_167_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1999.0362"
+    },
+    {
+      "key": "e_1_3_2_168_2",
+      "unstructured": "K. M. Cohen P. Gibbard Global chronostratigraphical correlation table for the last 2.7 million years. Subcommission on Quaternary Stratigraphy (International Commission on Stratigraphy) Cambridge England (2011)."
+    },
+    {
+      "key": "e_1_3_2_169_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.7638599"
+    },
+    {
+      "key": "e_1_3_2_170_2",
+      "unstructured": "G. Bräuer in Anthropologie R. M. R. R. Knussmann Eds. (Gustav Fischer Stuttgart 1988)."
+    },
+    {
+      "key": "e_1_3_2_171_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ajpa.1330970207"
+    },
+    {
+      "key": "e_1_3_2_172_2",
+      "unstructured": "R. D. Martin Primate origins and evolution . (Princeton Univ. Press Princeton 1990)."
+    },
+    {
+      "key": "e_1_3_2_173_2",
+      "unstructured": "L. C. Aiello C. Dean An Introduction to Human Evolutionary Anatomy (Elsevier. Academic Press London 1990)."
+    },
+    {
+      "key": "e_1_3_2_174_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1997.0139"
+    },
+    {
+      "key": "e_1_3_2_175_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.epsl.2013.04.006"
+    },
+    {
+      "key": "e_1_3_2_176_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "B. Kurtén Commentationes Biologicae 62 1–23 (1973).",
+      "DOI": "10.1093/bioscience/23.1.62"
+    },
+    {
+      "key": "e_1_3_2_177_2",
+      "unstructured": "A. Testú thesis University of Perpignan France (2006)."
+    },
+    {
+      "key": "e_1_3_2_178_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2478/v10003-010-0025-1"
+    },
+    {
+      "key": "e_1_3_2_179_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1475-4754.1999.tb00987.x"
+    }
+  ],
+  "container-title": [
+    "Science"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.science.org/doi/pdf/10.1126/science.1253958",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        3
+      ]
+    ],
+    "date-time": "2025-05-03T11:58:02Z",
+    "timestamp": 1746273482000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.science.org/doi/10.1126/science.1253958"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        6,
+        20
+      ]
+    ]
+  },
+  "references-count": 177,
+  "journal-issue": {
+    "issue": "6190",
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          20
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1126/science.1253958"
+  ],
+  "URL": "https://doi.org/10.1126/science.1253958",
+  "relation": {},
+  "ISSN": [
+    "0036-8075",
+    "1095-9203"
+  ],
+  "issn-type": [
+    {
+      "value": "0036-8075",
+      "type": "print"
+    },
+    {
+      "value": "1095-9203",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2014,
+        6,
+        20
+      ]
+    ]
+  }
+}

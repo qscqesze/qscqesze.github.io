@@ -1,0 +1,1269 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        8
+      ]
+    ],
+    "date-time": "2026-09-08T11:04:18Z",
+    "timestamp": 1788865458630,
+    "version": "build-2803163510"
+  },
+  "reference-count": 107,
+  "publisher": "Public Library of Science (PLoS)",
+  "issue": "5",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            29
+          ]
+        ],
+        "date-time": "2019-05-29T00:00:00Z",
+        "timestamp": 1559088000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "www.plosone.org"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "PLoS ONE"
+  ],
+  "DOI": "10.1371/journal.pone.0216742",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2019,
+        5,
+        29
+      ]
+    ],
+    "date-time": "2019-05-29T17:28:42Z",
+    "timestamp": 1559150922000
+  },
+  "page": "e0216742",
+  "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 42,
+  "title": [
+    "Living on the edge: Was demographic weakness the cause of Neanderthal demise?"
+  ],
+  "prefix": "10.1371",
+  "volume": "14",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-9355-4744",
+      "authenticated-orcid": true,
+      "given": "Anna",
+      "family": "Degioanni",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Christophe",
+      "family": "Bonenfant",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sandrine",
+      "family": "Cabut",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Silvana",
+      "family": "Condemi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "340",
+  "published-online": {
+    "date-parts": [
+      [
+        2019,
+        5,
+        29
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref1",
+      "doi-asserted-by": "crossref",
+      "first-page": "1358",
+      "DOI": "10.1126/science.1253958",
+      "article-title": "Neandertal roots: Cranial and chronological evidence from Sima de los Huesos",
+      "volume": "344",
+      "author": "JL Arsuaga",
+      "year": "2014",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref2",
+      "author": "SE Churchill",
+      "year": "2014"
+    },
+    {
+      "key": "ref3",
+      "doi-asserted-by": "crossref",
+      "first-page": "7",
+      "DOI": "10.1016/j.jhevol.2011.08.007",
+      "article-title": "Morphological description and comparison of the dental remains from Atapuerca-Sima de los Huesos site (Spain).",
+      "volume": "62",
+      "author": "M Martinón-Torres",
+      "year": "2012",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "crossref",
+      "first-page": "504",
+      "DOI": "10.1038/nature17405",
+      "article-title": "Nuclear DNA sequences from the Middle Pleistocene Sima de los Huesos hominins",
+      "volume": "531",
+      "author": "M Meyer",
+      "year": "2016",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref5",
+      "doi-asserted-by": "crossref",
+      "first-page": "219",
+      "DOI": "10.1016/j.jhevol.2008.12.006",
+      "article-title": "Is Homo heidelbergensis a distinct species? New insight on the Mauer mandible",
+      "volume": "56",
+      "author": "A Mounier",
+      "year": "2009",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "ref6",
+      "author": "S. Condemi",
+      "year": "2001"
+    },
+    {
+      "key": "ref7",
+      "doi-asserted-by": "crossref",
+      "first-page": "16022",
+      "DOI": "10.1073/pnas.0904119106",
+      "article-title": "Out of Africa: modern human origins special feature: the origin of Neandertals",
+      "volume": "106",
+      "author": "JJ Hublin",
+      "year": "2009",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "crossref",
+      "first-page": "16028",
+      "DOI": "10.1073/pnas.0903864106",
+      "article-title": "Out of Africa: modern human origins special feature: the meaning of neandertal skeletal morphology",
+      "volume": "106",
+      "author": "TD Weaver",
+      "year": "2009",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "crossref",
+      "first-page": "16",
+      "DOI": "10.1016/j.jas.2018.09.012",
+      "article-title": "Modeling the disappearance of the Neanderthals using principles of population dynamics and ecology",
+      "volume": "100",
+      "author": "MF Roberts",
+      "year": "2018",
+      "journal-title": "J Archaeol Sci"
+    },
+    {
+      "key": "ref10",
+      "doi-asserted-by": "crossref",
+      "first-page": "1525",
+      "DOI": "10.1126/science.1082025",
+      "article-title": "Paleoanthropology. Whither the Neanderthals?",
+      "volume": "299",
+      "author": "RG Klein",
+      "year": "2003",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref11",
+      "doi-asserted-by": "crossref",
+      "first-page": "20130168",
+      "DOI": "10.1098/rspb.2013.0168",
+      "article-title": "New insights into differences in brain organization between Neanderthals and anatomically modern humans",
+      "volume": "280",
+      "author": "E Pearce",
+      "year": "2013",
+      "journal-title": "Proc Biol Sci"
+    },
+    {
+      "key": "ref12",
+      "doi-asserted-by": "crossref",
+      "first-page": "R921",
+      "DOI": "10.1016/j.cub.2010.10.018",
+      "article-title": "Brain development after birth differs between Neanderthals and modern humans",
+      "volume": "20",
+      "author": "P Gunz",
+      "year": "2010",
+      "journal-title": "Curr Biol CB"
+    },
+    {
+      "key": "ref13",
+      "first-page": "130",
+      "article-title": "Innovation and the Evolution of Human Behavior.Brain Evolution, Innovation, and Endocranial Variations in Fossil Hominids.",
+      "author": "A Kyriacou",
+      "year": "2011",
+      "journal-title": "PaleoAnthropology"
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "crossref",
+      "first-page": "2134",
+      "DOI": "10.1073/pnas.1524861113",
+      "article-title": "An ecocultural model predicts Neanderthal extinction through competition with modern humans",
+      "volume": "113",
+      "author": "W Gilpin",
+      "year": "2016",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "key": "ref15",
+      "first-page": "8",
+      "article-title": "Reconstructing the Neanderthal brain using computational anatomy",
+      "author": "T Kochiyama",
+      "year": "2018",
+      "journal-title": "Sci Rep"
+    },
+    {
+      "key": "ref16",
+      "doi-asserted-by": "crossref",
+      "first-page": "232",
+      "DOI": "10.1016/j.quaint.2016.02.017",
+      "article-title": "Were Neanderthals responsible for their own extinction?",
+      "volume": "431",
+      "author": "J Agusti",
+      "year": "2017",
+      "journal-title": "Quat Int"
+    },
+    {
+      "key": "ref17",
+      "doi-asserted-by": "crossref",
+      "first-page": "16034",
+      "DOI": "10.1073/pnas.0903821106",
+      "article-title": "Out of Africa: modern human origins special feature: isotopic evidence for the diets of European Neanderthals and early modern humans",
+      "volume": "106",
+      "author": "MP Richards",
+      "year": "2009",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "key": "ref18",
+      "article-title": "The Origin of modern humans and the impact of chronometric dating: a discussion",
+      "author": "MJ Aitken",
+      "year": "2014",
+      "journal-title": "The Origin of modern humans and the impact of chronometric dating: a discussion"
+    },
+    {
+      "key": "ref19",
+      "doi-asserted-by": "crossref",
+      "first-page": "705",
+      "DOI": "10.1007/s10745-011-9433-8",
+      "article-title": "Modeling Human Ecodynamics and Biocultural Interactions in the Late Pleistocene of Western Eurasia",
+      "volume": "39",
+      "author": "CM Barton",
+      "year": "2011",
+      "journal-title": "Hum Ecol"
+    },
+    {
+      "key": "ref20",
+      "doi-asserted-by": "crossref",
+      "first-page": "627",
+      "DOI": "10.1086/377665",
+      "article-title": "The origin of modern human behavior",
+      "volume": "44",
+      "author": "CS Henshilwood",
+      "year": "2003",
+      "journal-title": "Curr Anthropol"
+    },
+    {
+      "key": "ref21",
+      "first-page": "135",
+      "article-title": "Neanderthals Revisited: New Approaches and Perspectives",
+      "author": "OM Pearson",
+      "year": "2006"
+    },
+    {
+      "key": "ref22",
+      "doi-asserted-by": "crossref",
+      "first-page": "188",
+      "DOI": "10.1002/evan.10113",
+      "article-title": "The invisible frontier. A multiple species model for the origin of behavioral modernity",
+      "volume": "12",
+      "author": "F. D’Errico",
+      "year": "2003",
+      "journal-title": "Evol Anthropol Issues News Rev"
+    },
+    {
+      "key": "ref23",
+      "doi-asserted-by": "crossref",
+      "first-page": "902",
+      "DOI": "10.1038/nature06193",
+      "article-title": "Neanderthals in central Asia and Siberia",
+      "volume": "449",
+      "author": "J Krause",
+      "year": "2007",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref24",
+      "doi-asserted-by": "crossref",
+      "first-page": "6372",
+      "DOI": "10.1073/pnas.1521269113",
+      "article-title": "Neandertals revised",
+      "volume": "113",
+      "author": "W Roebroeks",
+      "year": "2016",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "key": "ref25",
+      "doi-asserted-by": "crossref",
+      "first-page": "e96424",
+      "DOI": "10.1371/journal.pone.0096424",
+      "article-title": "Neandertal demise: an archaeological analysis of the modern human superiority complex",
+      "volume": "9",
+      "author": "P Villa",
+      "year": "2014",
+      "journal-title": "PloS One"
+    },
+    {
+      "key": "ref26",
+      "doi-asserted-by": "crossref",
+      "first-page": "1023",
+      "DOI": "10.1073/pnas.0914088107",
+      "article-title": "Symbolic use of marine shells and mineral pigments by Iberian Neandertals",
+      "volume": "107",
+      "author": "J Zilhão",
+      "year": "2010",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "key": "ref27",
+      "doi-asserted-by": "crossref",
+      "first-page": "912",
+      "DOI": "10.1126/science.aap7778",
+      "article-title": "U-Th dating of carbonate crusts reveals Neandertal origin of Iberian cave art",
+      "volume": "359",
+      "author": "DL Hoffmann",
+      "year": "2018",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref28",
+      "doi-asserted-by": "crossref",
+      "first-page": "6444",
+      "DOI": "10.1073/pnas.082111899",
+      "article-title": "Evidence for interpersonal violence in the St. Cesaire Neanderthal",
+      "volume": "99",
+      "author": "CPE Zollikofer",
+      "year": "2002",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "issue": "2",
+      "key": "ref29",
+      "first-page": "16",
+      "article-title": "Neanderthal children and their flints",
+      "volume": "1",
+      "author": "D. Stapert",
+      "year": "2007",
+      "journal-title": "PalArchs J Archaeol Northwest Eur"
+    },
+    {
+      "key": "ref30",
+      "doi-asserted-by": "crossref",
+      "first-page": "4",
+      "DOI": "10.1016/j.mehy.2007.12.014",
+      "article-title": "A potential role for transmissible spongiform encephalopathies in Neanderthal extinction",
+      "volume": "71",
+      "author": "S. Underdown",
+      "year": "2008",
+      "journal-title": "Med Hypotheses"
+    },
+    {
+      "key": "ref31",
+      "doi-asserted-by": "crossref",
+      "first-page": "99",
+      "DOI": "10.1016/j.mehy.2010.01.048",
+      "article-title": "Did viral disease of humans wipe out the Neandertals?",
+      "volume": "75",
+      "author": "H Wolff",
+      "year": "2010",
+      "journal-title": "Med Hypotheses"
+    },
+    {
+      "key": "ref32",
+      "doi-asserted-by": "crossref",
+      "first-page": "379",
+      "DOI": "10.1002/ajpa.22985",
+      "article-title": "Neanderthal genomics suggests a pleistocene time frame for the first epidemiologic transition",
+      "volume": "160",
+      "author": "CJ Houldcroft",
+      "year": "2016",
+      "journal-title": "Am J Phys Anthropol"
+    },
+    {
+      "key": "ref33",
+      "doi-asserted-by": "crossref",
+      "first-page": "17",
+      "DOI": "10.1016/j.jaa.2010.12.003",
+      "article-title": "Demography and the extinction of European Neanderthals",
+      "volume": "30",
+      "author": "B Sørensen",
+      "year": "2011",
+      "journal-title": "J Anthropol Archaeol"
+    },
+    {
+      "key": "ref34",
+      "doi-asserted-by": "crossref",
+      "first-page": "2246",
+      "DOI": "10.1016/j.quascirev.2008.08.033",
+      "article-title": "On the importance of coastal areas in the survival of Neanderthal populations during the Late Pleistocene",
+      "volume": "27",
+      "author": "C. Finlayson",
+      "year": "2008",
+      "journal-title": "Quat Sci Rev"
+    },
+    {
+      "key": "ref35",
+      "doi-asserted-by": "crossref",
+      "first-page": "850",
+      "DOI": "10.1038/nature05195",
+      "article-title": "Late survival of Neanderthals at the southernmost extreme of Europe",
+      "volume": "443",
+      "author": "C Finlayson",
+      "year": "2006",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref36",
+      "author": "NJ Conard",
+      "year": "2011"
+    },
+    {
+      "key": "ref37",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/978-94-007-0492-3",
+      "article-title": "Continuity and discontinuity in the peopling of Europe: one hundred fifty years of Neanderthal study",
+      "author": "S Condemi",
+      "year": "2011"
+    },
+    {
+      "key": "ref38",
+      "first-page": "101",
+      "article-title": "Continuity and Discontinuity in the Peopling of Europe",
+      "author": "W von Koenigswald",
+      "year": "2011"
+    },
+    {
+      "key": "ref39",
+      "first-page": "30",
+      "article-title": "Evolution of the mammalian Pleistocene faunas in the Mediterranean area",
+      "author": "T. Kotsakis",
+      "year": "2006",
+      "journal-title": "Terra Nostra."
+    },
+    {
+      "key": "ref40",
+      "doi-asserted-by": "crossref",
+      "first-page": "318",
+      "DOI": "10.1126/science.1174462",
+      "article-title": "Targeted retrieval and analysis of five Neandertal mtDNA genomes",
+      "volume": "325",
+      "author": "AW Briggs",
+      "year": "2009",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref41",
+      "doi-asserted-by": "crossref",
+      "first-page": "416",
+      "DOI": "10.1016/j.cell.2008.06.021",
+      "article-title": "A complete Neandertal mitochondrial genome sequence determined by high-throughput sequencing",
+      "volume": "134",
+      "author": "RE Green",
+      "year": "2008",
+      "journal-title": "Cell"
+    },
+    {
+      "key": "ref42",
+      "doi-asserted-by": "crossref",
+      "first-page": "710",
+      "DOI": "10.1126/science.1188021",
+      "article-title": "A draft sequence of the Neandertal genome",
+      "volume": "328",
+      "author": "RE Green",
+      "year": "2010",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref43",
+      "doi-asserted-by": "crossref",
+      "first-page": "1077",
+      "DOI": "10.1093/molbev/msi094",
+      "article-title": "Neandertal evolutionary genetics: mitochondrial DNA data from the iberian peninsula",
+      "volume": "22",
+      "author": "C Lalueza-Fox",
+      "year": "2005",
+      "journal-title": "Mol Biol Evol"
+    },
+    {
+      "key": "ref44",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.1038/nature12886",
+      "article-title": "The complete genome sequence of a Neanderthal from the Altai Mountains",
+      "volume": "505",
+      "author": "K Prüfer",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref45",
+      "article-title": "A high-coverage Neandertal genome from Vindija Cave in Croatia",
+      "author": "K Prüfer",
+      "year": "2017",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref46",
+      "doi-asserted-by": "crossref",
+      "first-page": "S202",
+      "DOI": "10.1086/673725",
+      "article-title": "Neanderthal Demographic Estimates.",
+      "volume": "54",
+      "author": "J-P Bocquet-Appel",
+      "year": "2013",
+      "journal-title": "Curr Anthropol"
+    },
+    {
+      "key": "ref47",
+      "doi-asserted-by": "crossref",
+      "first-page": "313",
+      "DOI": "10.1016/S0065-2504(09)00405-X",
+      "article-title": "Empirical Evidence of Density‐Dependence in Populations of Large Herbivores",
+      "author": "C Bonenfant",
+      "year": "2009",
+      "journal-title": "Advances in Ecological Research"
+    },
+    {
+      "key": "ref48",
+      "doi-asserted-by": "crossref",
+      "first-page": "24",
+      "DOI": "10.7557/2.11.4.989",
+      "article-title": "Models of ungulate population dynamics",
+      "volume": "11",
+      "author": "LL Eberhardt",
+      "year": "1991",
+      "journal-title": "Rangifer"
+    },
+    {
+      "key": "ref49",
+      "doi-asserted-by": "crossref",
+      "first-page": "367",
+      "DOI": "10.1146/annurev.ecolsys.31.1.367",
+      "article-title": "Temporal Variation in Fitness Components and Population Dynamics of Large Herbivores",
+      "volume": "31",
+      "author": "J-M Gaillard",
+      "year": "2000",
+      "journal-title": "Annu Rev Ecol Syst"
+    },
+    {
+      "key": "ref50",
+      "author": "H. Caswell",
+      "year": "2008"
+    },
+    {
+      "key": "ref51",
+      "doi-asserted-by": "crossref",
+      "first-page": "183",
+      "DOI": "10.1093/biomet/33.3.183",
+      "article-title": "On the use of matrices in certain population mathematics",
+      "volume": "33",
+      "author": "PH Leslie",
+      "year": "1945",
+      "journal-title": "Biometrika"
+    },
+    {
+      "key": "ref52",
+      "first-page": "66",
+      "article-title": "Primate life histories and socioecology",
+      "author": "SC Alberts",
+      "year": "2003"
+    },
+    {
+      "key": "ref53",
+      "doi-asserted-by": "crossref",
+      "first-page": "906",
+      "DOI": "10.2307/1935638",
+      "article-title": "Mortality Patterns in Mammals",
+      "volume": "47",
+      "author": "G. Caughley",
+      "year": "1966",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "ref54",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1006/anbe.1999.1287",
+      "article-title": "Evolutionary ecology of human life history",
+      "volume": "59",
+      "author": "R. Mace",
+      "year": "2000",
+      "journal-title": "Anim Behav"
+    },
+    {
+      "key": "ref55",
+      "doi-asserted-by": "crossref",
+      "first-page": "2681",
+      "DOI": "10.1016/j.biocon.2009.06.020",
+      "article-title": "Impact of conservation interventions on the dynamics and persistence of a persecuted leopard (Panthera pardus) population",
+      "volume": "142",
+      "author": "GA Balme",
+      "year": "2009",
+      "journal-title": "Biol Conserv"
+    },
+    {
+      "key": "ref56",
+      "doi-asserted-by": "crossref",
+      "first-page": "116",
+      "DOI": "10.1038/s41559-017-0400-7",
+      "article-title": "Regulated hunting re-shapes the life history of brown bears",
+      "volume": "2",
+      "author": "R Bischof",
+      "year": "2018",
+      "journal-title": "Nat Ecol Evol"
+    },
+    {
+      "key": "ref57",
+      "author": "PM Bennett",
+      "year": "2002"
+    },
+    {
+      "key": "ref58",
+      "doi-asserted-by": "crossref",
+      "first-page": "121",
+      "DOI": "10.1016/S0305-4403(95)80170-7",
+      "article-title": "Neanderthal mortality patterns",
+      "volume": "22",
+      "author": "E. Trinkaus",
+      "year": "1995",
+      "journal-title": "J Archaeol Sci"
+    },
+    {
+      "key": "ref59",
+      "doi-asserted-by": "crossref",
+      "first-page": "1267",
+      "DOI": "10.1073/pnas.1018700108",
+      "article-title": "Late Pleistocene adult mortality patterns and modern human establishment",
+      "volume": "108",
+      "author": "E. Trinkaus",
+      "year": "2011",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "key": "ref60",
+      "author": "E Trinkaus",
+      "year": "2014"
+    },
+    {
+      "key": "ref61",
+      "doi-asserted-by": "crossref",
+      "first-page": "e5151",
+      "DOI": "10.1371/journal.pone.0005151",
+      "article-title": "Genetic evidence of geographical groups among Neanderthals",
+      "volume": "4",
+      "author": "V Fabre",
+      "year": "2009",
+      "journal-title": "PloS One"
+    },
+    {
+      "key": "ref62",
+      "doi-asserted-by": "crossref",
+      "first-page": "483",
+      "DOI": "10.1038/479483a",
+      "article-title": "Palaeoanthropology: the earliest modern humans in Europe",
+      "volume": "479",
+      "author": "P. Mellars",
+      "year": "2011",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref63",
+      "doi-asserted-by": "crossref",
+      "first-page": "7683",
+      "DOI": "10.1073/pnas.1501529112",
+      "article-title": "New chronology for Ksâr ‘Akil (Lebanon) supports Levantine route of modern human dispersal into Europe",
+      "volume": "112",
+      "author": "MD Bosch",
+      "year": "2015",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "key": "ref64",
+      "article-title": "A Biologist’s Guide to Mathematical Modeling in Ecology and Evolution.",
+      "author": "SP Otto",
+      "year": "2011"
+    },
+    {
+      "key": "ref65",
+      "doi-asserted-by": "crossref",
+      "first-page": "306",
+      "DOI": "10.1038/nature13621",
+      "article-title": "The timing and spatiotemporal patterning of Neanderthal disappearance",
+      "volume": "512",
+      "author": "T Higham",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref66",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.jhevol.2014.02.019",
+      "article-title": "Neanderthals from El Salt (Alcoy, Spain) in the context of the latest Middle Palaeolithic populations from the southeast of the Iberian Peninsula",
+      "volume": "75",
+      "author": "MD Garralda",
+      "year": "2014",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "ref67",
+      "first-page": "7",
+      "article-title": "Chronostratigraphy of the Middle-to-Upper Paleolithic Transition in the Iberian Peninsula",
+      "volume": "37",
+      "author": "J. Zilhão",
+      "year": "2006",
+      "journal-title": "Pyrenae Rev Prehistòria Antig Mediterr Occident"
+    },
+    {
+      "key": "ref68",
+      "doi-asserted-by": "crossref",
+      "first-page": "16",
+      "DOI": "10.1016/j.jhevol.2014.06.002",
+      "article-title": "New evidence of early Neanderthal disappearance in the Iberian Peninsula",
+      "volume": "75",
+      "author": "B Galván",
+      "year": "2014",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "ref69",
+      "doi-asserted-by": "crossref",
+      "first-page": "2781",
+      "DOI": "10.1073/pnas.1207656110",
+      "article-title": "Radiocarbon dating casts doubt on the late chronology of the Middle to Upper Palaeolithic transition in southern Iberia",
+      "volume": "110",
+      "author": "RE Wood",
+      "year": "2013",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "key": "ref70",
+      "doi-asserted-by": "crossref",
+      "first-page": "131",
+      "DOI": "10.2307/1308256",
+      "article-title": "Minimum population sizes for species conservation",
+      "volume": "31",
+      "author": "M. Shaffer",
+      "year": "1981",
+      "journal-title": "BioScience"
+    },
+    {
+      "key": "ref71",
+      "first-page": "370",
+      "article-title": "Determining minimum viable population levels",
+      "volume": "12",
+      "author": "J Lacava",
+      "year": "1984",
+      "journal-title": "Wildl Soc Bull"
+    },
+    {
+      "key": "ref72",
+      "first-page": "23",
+      "article-title": "Famille biologique et famille sociale à Ammassalik (Côte est du Groenland).",
+      "volume": "2",
+      "author": "J. Robert-Lamblin",
+      "year": "1978",
+      "journal-title": "Rev Études Inuit Stud"
+    },
+    {
+      "key": "ref73",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1086/jar.47.1.3630579",
+      "article-title": "Demography and Childcare in Preindustrial Societies",
+      "volume": "47",
+      "author": "BS Hewlett",
+      "year": "1991",
+      "journal-title": "J Anthropol Res"
+    },
+    {
+      "key": "ref74",
+      "doi-asserted-by": "crossref",
+      "first-page": "99",
+      "DOI": "10.1002/ajp.10068",
+      "article-title": "Demography, female life history, and reproductive profiles among the chimpanzees of Mahale",
+      "volume": "59",
+      "author": "T Nishida",
+      "year": "2003",
+      "journal-title": "Am J Primatol"
+    },
+    {
+      "key": "ref75",
+      "author": "S Polgar",
+      "year": "1975"
+    },
+    {
+      "key": "ref76",
+      "doi-asserted-by": "crossref",
+      "first-page": "250",
+      "DOI": "10.1073/pnas.1011553108",
+      "article-title": "Genetic evidence for patrilocal mating behavior among Neandertal groups",
+      "volume": "108",
+      "author": "C Lalueza-Fox",
+      "year": "2011",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "key": "ref77",
+      "year": "2017"
+    },
+    {
+      "key": "ref78",
+      "doi-asserted-by": "crossref",
+      "first-page": "213",
+      "DOI": "10.1073/pnas.95.1.213",
+      "article-title": "Patterns of variance in stage-structured populations: Evolutionary predictions and ecological implications",
+      "volume": "95",
+      "author": "CA Pfister",
+      "year": "1998",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "key": "ref79",
+      "doi-asserted-by": "crossref",
+      "first-page": "3294",
+      "DOI": "10.1890/02-0409",
+      "article-title": "temporal variation in survival of mammals: a case of environmental canalization?",
+      "volume": "84",
+      "author": "J-M Gaillard",
+      "year": "2003",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "ref80",
+      "first-page": "401",
+      "article-title": "Current Mammalogy",
+      "author": "CW Fowler",
+      "year": "1987"
+    },
+    {
+      "key": "ref81",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.1007/s11111-007-0037-6",
+      "article-title": "Population Density is a Key Factor in Declining Human Fertility",
+      "volume": "28",
+      "author": "W Lutz",
+      "year": "2007",
+      "journal-title": "Popul Environ"
+    },
+    {
+      "key": "ref82",
+      "doi-asserted-by": "crossref",
+      "first-page": "419",
+      "DOI": "10.1016/S0950-3552(05)80302-5",
+      "article-title": "The right weight: body fat, menarche and ovulation",
+      "volume": "4",
+      "author": "RE Frisch",
+      "year": "1990",
+      "journal-title": "Baillières Clin Obstet Gynaecol"
+    },
+    {
+      "key": "ref83",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.jhevol.2016.03.009",
+      "article-title": "Climate-mediated shifts in Neandertal subsistence behaviors at Pech de l’Azé IV and Roc de Marsal (Dordogne Valley, France).",
+      "volume": "96",
+      "author": "J Hodgkins",
+      "year": "2016",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "ref84",
+      "doi-asserted-by": "crossref",
+      "first-page": "953",
+      "DOI": "10.1086/507197",
+      "article-title": "What’s a Mother to Do?: The Division of Labor among Neandertals and Modern Humans in Eurasia",
+      "volume": "47",
+      "author": "SL Kuhn",
+      "year": "2006",
+      "journal-title": "Curr Anthropol"
+    },
+    {
+      "key": "ref85",
+      "doi-asserted-by": "crossref",
+      "first-page": "429",
+      "DOI": "10.1038/nature16544",
+      "article-title": "Ancient gene flow from early modern humans into Eastern Neanderthals",
+      "volume": "530",
+      "author": "M Kuhlwilm",
+      "year": "2016",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref86",
+      "doi-asserted-by": "crossref",
+      "first-page": "445",
+      "DOI": "10.1038/nature13810",
+      "article-title": "Genome sequence of a 45,000-year-old modern human from western Siberia",
+      "volume": "514",
+      "author": "Q Fu",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref87",
+      "doi-asserted-by": "crossref",
+      "first-page": "1113",
+      "DOI": "10.1126/science.aaa0114",
+      "article-title": "Paleogenomics. Genomic structure in Europeans dating back at least 36,200 years",
+      "volume": "346",
+      "author": "A Seguin-Orlando",
+      "year": "2014",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref88",
+      "doi-asserted-by": "crossref",
+      "first-page": "659",
+      "DOI": "10.1126/science.aao1807",
+      "article-title": "Ancient genomes show social and reproductive behavior of early Upper Paleolithic foragers",
+      "volume": "358",
+      "author": "M Sikora",
+      "year": "2017",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref89",
+      "first-page": "257",
+      "article-title": "Life and death at the Pestera cu Oase: a setting for modern human emergence in Europe",
+      "author": "H Rougier",
+      "year": "2012"
+    },
+    {
+      "key": "ref90",
+      "first-page": "234",
+      "article-title": "Life and death at the Pestera cu Oase: a setting for modern human emergence in Europe",
+      "author": "E Trinkaus",
+      "year": "2012"
+    },
+    {
+      "key": "ref91",
+      "first-page": "389",
+      "article-title": "Life and death at the Pestera cu Oase: a setting for modern human emergence in Europe",
+      "author": "E Trinkaus",
+      "year": "2012"
+    },
+    {
+      "key": "ref92",
+      "doi-asserted-by": "crossref",
+      "first-page": "9859",
+      "DOI": "10.1073/pnas.1706426114",
+      "article-title": "Early history of Neanderthals and Denisovans",
+      "volume": "114",
+      "author": "AR Rogers",
+      "year": "2017",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "key": "ref93",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1038/nrg3936",
+      "article-title": "Evidence for archaic adaptive introgression in humans",
+      "volume": "16",
+      "author": "F Racimo",
+      "year": "2015",
+      "journal-title": "Nat Rev Genet"
+    },
+    {
+      "key": "ref94",
+      "doi-asserted-by": "crossref",
+      "first-page": "e47076",
+      "DOI": "10.1371/journal.pone.0047076",
+      "article-title": "Extremely rare interbreeding events can explain neanderthal DNA in living humans",
+      "volume": "7",
+      "author": "AGM Neves",
+      "year": "2012",
+      "journal-title": "PloS One"
+    },
+    {
+      "key": "ref95",
+      "article-title": "A Stochastic Model for the Interbreeding of Two Populations Continuously Sharing the Same Habitat",
+      "author": "M. Serva",
+      "year": "2015",
+      "journal-title": "Bull Math Biol"
+    },
+    {
+      "key": "ref96",
+      "doi-asserted-by": "crossref",
+      "first-page": "728",
+      "DOI": "10.1016/j.ajhg.2016.02.023",
+      "article-title": "The Divergence of Neandertal and Modern Human Y Chromosomes",
+      "volume": "98",
+      "author": "FL Mendez",
+      "year": "2016",
+      "journal-title": "Am J Hum Genet"
+    },
+    {
+      "key": "ref97",
+      "doi-asserted-by": "crossref",
+      "first-page": "354",
+      "DOI": "10.1038/nature12961",
+      "article-title": "The genomic landscape of Neanderthal ancestry in present-day humans",
+      "volume": "507",
+      "author": "S Sankararaman",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref98",
+      "first-page": "13",
+      "article-title": "Introduction Cultures et environnements paléolithiques: mobilité et gestion des territoires des chasseurs-cueilleurs en Quercy Palaeolithic cultures and environments: mobility and territory management of the hunter-gatherers of the Quercy",
+      "author": "M Jarry",
+      "year": "2013",
+      "journal-title": "Paleo"
+    },
+    {
+      "key": "ref99",
+      "first-page": "237",
+      "article-title": "Some Demographic and Genetic Consequences of Environmental Heterogeneity for Biological Control",
+      "volume": "15",
+      "author": "R. Levins",
+      "year": "1969",
+      "journal-title": "Bull Entomol Soc Am"
+    },
+    {
+      "key": "ref100",
+      "author": "R. Levins",
+      "year": "1968"
+    },
+    {
+      "key": "ref101",
+      "doi-asserted-by": "crossref",
+      "first-page": "390",
+      "DOI": "10.2307/3546854",
+      "article-title": "Connecting the Parameters of Local Extinction and Metapopulation dynamics",
+      "volume": "83",
+      "author": "I. Hanski",
+      "year": "1998",
+      "journal-title": "Oikos"
+    },
+    {
+      "key": "ref102",
+      "doi-asserted-by": "crossref",
+      "first-page": "457",
+      "DOI": "10.1093/ije/22.3.457",
+      "article-title": "Patterns of infant mortality from Armenian parish records: a study from 10 countries of the diaspora, 1737–1982",
+      "volume": "22",
+      "author": "HK Armenian",
+      "year": "1993",
+      "journal-title": "Int J Epidemiol"
+    },
+    {
+      "key": "ref103",
+      "first-page": "39",
+      "article-title": "Health care in China",
+      "volume": "9",
+      "author": "MS Brown",
+      "year": "1984",
+      "journal-title": "Nurse Pract"
+    },
+    {
+      "key": "ref104",
+      "doi-asserted-by": "crossref",
+      "first-page": "613",
+      "DOI": "10.1017/S0021932006001702",
+      "article-title": "Levels and differentials in childhood mortality in South Africa, 1977–1998",
+      "volume": "39",
+      "author": "N Nannan",
+      "year": "2007",
+      "journal-title": "J Biosoc Sci"
+    },
+    {
+      "key": "ref105",
+      "doi-asserted-by": "crossref",
+      "first-page": "792",
+      "DOI": "10.1542/peds.94.6.792",
+      "article-title": "Annual summary of vital statistics—1993",
+      "volume": "94",
+      "author": "ME Wegman",
+      "year": "1994",
+      "journal-title": "Pediatrics"
+    },
+    {
+      "key": "ref106",
+      "doi-asserted-by": "crossref",
+      "first-page": "62",
+      "DOI": "10.1016/j.jhevol.2017.03.004",
+      "article-title": "An evolutionary medicine perspective on Neandertal extinction",
+      "volume": "108",
+      "author": "AP Sullivan",
+      "year": "2017",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "ref107",
+      "doi-asserted-by": "crossref",
+      "first-page": "14",
+      "DOI": "10.1016/j.jas.2017.11.001",
+      "article-title": "Bio-cultural interactions and demography during the Middle to Upper Palaeolithic transition in Iberia: An agent-based modelling approach",
+      "volume": "89",
+      "author": "C Cucart-Mora",
+      "year": "2018",
+      "journal-title": "J Archaeol Sci"
+    }
+  ],
+  "container-title": [
+    "PLOS ONE"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://dx.plos.org/10.1371/journal.pone.0216742",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        18
+      ]
+    ],
+    "date-time": "2022-09-18T20:57:53Z",
+    "timestamp": 1663534673000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://dx.plos.org/10.1371/journal.pone.0216742"
+    }
+  },
+  "subtitle": [],
+  "editor": [
+    {
+      "given": "Michael D.",
+      "family": "Petraglia",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "editor"
+        }
+      ]
+    }
+  ],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        5,
+        29
+      ]
+    ]
+  },
+  "references-count": 107,
+  "journal-issue": {
+    "issue": "5",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          29
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1371/journal.pone.0216742",
+  "relation": {},
+  "ISSN": [
+    "1932-6203"
+  ],
+  "issn-type": [
+    {
+      "value": "1932-6203",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        5,
+        29
+      ]
+    ]
+  }
+}
