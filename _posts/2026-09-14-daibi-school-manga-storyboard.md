@@ -2,7 +2,7 @@
 title: "《代笔》：十二页黑白校园漫画"
 author: "青君"
 date: 2026-09-14 15:40:00 +0800
-modified: 2026-09-14 20:22:12 +0800
+modified: 2026-09-14 20:58:59 +0800
 permalink: /posts/daibi-school-manga-storyboard/
 excerpt: "一封替朋友写的情书，一个月后共撑的一把伞。青君作品，十二页黑白校园漫画，附完整分镜。"
 categories:
@@ -31,12 +31,20 @@ translate: false
 ## 漫画正文
 {: #manga}
 
-共 12 页，向下滚动阅读。每页从上到下，同排从右向左；点击图片可查看原图。
+封面 + 12 页正文，向下滚动阅读。每页从上到下，同排从右向左；点击图片可查看原图。
 
-<div class="manga-reader" aria-label="《代笔》十二页漫画">
+<p><a class="btn btn--primary" href="{{ '/files/daibi-qingjun-complete.pdf' | relative_url }}" download="代笔-青君-完整版.pdf">下载完整漫画 PDF（13 页）</a></p>
+
+<div class="manga-reader" aria-label="《代笔》完整漫画，封面及十二页正文">
+  <figure class="manga-page" id="manga-cover">
+    <a href="{{ '/images/daibi/rain-v2/daibi-cover.png' | relative_url }}" aria-label="查看《代笔》封面原图">
+      <img src="{{ '/images/daibi/rain-v2/daibi-cover.png' | relative_url }}" alt="《代笔》漫画封面，作者青君：男生低头写信，远处朋友把信递给女生" width="1024" height="1536" loading="eager" fetchpriority="high" decoding="async">
+    </a>
+    <figcaption>《代笔》 · 作者 青君</figcaption>
+  </figure>
   <figure class="manga-page" id="manga-page-01">
     <a href="{{ '/images/daibi/rain-v2/daibi-01.png' | relative_url }}" aria-label="查看《代笔》第 1 页原图">
-      <img src="{{ '/images/daibi/rain-v2/daibi-01.png' | relative_url }}" alt="《代笔》第 1 页，共 12 页，作者青君" width="1024" height="1536" loading="eager" fetchpriority="high" decoding="async">
+      <img src="{{ '/images/daibi/rain-v2/daibi-01.png' | relative_url }}" alt="《代笔》第 1 页，共 12 页，作者青君" width="1024" height="1536" loading="lazy" decoding="async">
     </a>
     <figcaption>第 1 页 / 共 12 页</figcaption>
   </figure>
