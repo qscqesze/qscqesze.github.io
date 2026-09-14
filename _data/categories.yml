@@ -10,6 +10,10 @@
   slug: indie-games
   description: "游戏设计、开发实践与项目复盘。"
 
+- name: "创作"
+  slug: creative-writing
+  description: "原创故事、漫画分镜与创作札记。"
+
 - name: "历史与社会"
   slug: history-society
   description: "历史材料、社会关系与制度变迁。"
