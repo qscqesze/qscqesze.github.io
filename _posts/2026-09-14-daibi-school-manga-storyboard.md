@@ -1,12 +1,14 @@
 ---
-title: "《代笔》：日式校园漫画完整分镜稿"
+title: "《代笔》：十二页黑白校园漫画"
 author: "青君"
 date: 2026-09-14 15:40:00 +0800
+modified: 2026-09-14 19:12:16 +0800
 permalink: /posts/daibi-school-manga-storyboard/
-excerpt: "青君作品。十二页黑白校园漫画分镜：一封替朋友写的情书，一束毕业时送出的花。"
+excerpt: "青君作品。十二页黑白校园漫画：一封替朋友写的情书，一束毕业时送出的花。附完整分镜。"
 categories:
   - 创作
 tags:
+  - 漫画
   - 漫画脚本
   - 日式校园
   - 青春
@@ -26,6 +28,89 @@ translate: false
 
 后来，他开始替朋友写情书。信送出去了，回信也来了。他写得越来越好，直到朋友不再需要他。
 
+## 漫画正文
+{: #manga}
+
+共 12 页，向下滚动阅读。每页从上到下，同排从右向左；点击图片可查看原图。
+
+<div class="manga-reader" aria-label="《代笔》十二页漫画">
+  <figure class="manga-page" id="manga-page-01">
+    <a href="{{ '/images/daibi/daibi-01.png' | relative_url }}" aria-label="查看《代笔》第 1 页原图">
+      <img src="{{ '/images/daibi/daibi-01.png' | relative_url }}" alt="《代笔》第 1 页，共 12 页，作者青君" width="1024" height="1536" loading="eager" fetchpriority="high" decoding="async">
+    </a>
+    <figcaption>第 1 页 / 共 12 页</figcaption>
+  </figure>
+  <figure class="manga-page" id="manga-page-02">
+    <a href="{{ '/images/daibi/daibi-02.png' | relative_url }}" aria-label="查看《代笔》第 2 页原图">
+      <img src="{{ '/images/daibi/daibi-02.png' | relative_url }}" alt="《代笔》第 2 页，共 12 页，作者青君" width="1024" height="1536" loading="lazy" decoding="async">
+    </a>
+    <figcaption>第 2 页 / 共 12 页</figcaption>
+  </figure>
+  <figure class="manga-page" id="manga-page-03">
+    <a href="{{ '/images/daibi/daibi-03.png' | relative_url }}" aria-label="查看《代笔》第 3 页原图">
+      <img src="{{ '/images/daibi/daibi-03.png' | relative_url }}" alt="《代笔》第 3 页，共 12 页，作者青君" width="1024" height="1536" loading="lazy" decoding="async">
+    </a>
+    <figcaption>第 3 页 / 共 12 页</figcaption>
+  </figure>
+  <figure class="manga-page" id="manga-page-04">
+    <a href="{{ '/images/daibi/daibi-04.png' | relative_url }}" aria-label="查看《代笔》第 4 页原图">
+      <img src="{{ '/images/daibi/daibi-04.png' | relative_url }}" alt="《代笔》第 4 页，共 12 页，作者青君" width="1024" height="1536" loading="lazy" decoding="async">
+    </a>
+    <figcaption>第 4 页 / 共 12 页</figcaption>
+  </figure>
+  <figure class="manga-page" id="manga-page-05">
+    <a href="{{ '/images/daibi/daibi-05.png' | relative_url }}" aria-label="查看《代笔》第 5 页原图">
+      <img src="{{ '/images/daibi/daibi-05.png' | relative_url }}" alt="《代笔》第 5 页，共 12 页，作者青君" width="1024" height="1536" loading="lazy" decoding="async">
+    </a>
+    <figcaption>第 5 页 / 共 12 页</figcaption>
+  </figure>
+  <figure class="manga-page" id="manga-page-06">
+    <a href="{{ '/images/daibi/daibi-06.png' | relative_url }}" aria-label="查看《代笔》第 6 页原图">
+      <img src="{{ '/images/daibi/daibi-06.png' | relative_url }}" alt="《代笔》第 6 页，共 12 页，作者青君" width="1024" height="1536" loading="lazy" decoding="async">
+    </a>
+    <figcaption>第 6 页 / 共 12 页</figcaption>
+  </figure>
+  <figure class="manga-page" id="manga-page-07">
+    <a href="{{ '/images/daibi/daibi-07.png' | relative_url }}" aria-label="查看《代笔》第 7 页原图">
+      <img src="{{ '/images/daibi/daibi-07.png' | relative_url }}" alt="《代笔》第 7 页，共 12 页，作者青君" width="1024" height="1536" loading="lazy" decoding="async">
+    </a>
+    <figcaption>第 7 页 / 共 12 页</figcaption>
+  </figure>
+  <figure class="manga-page" id="manga-page-08">
+    <a href="{{ '/images/daibi/daibi-08.png' | relative_url }}" aria-label="查看《代笔》第 8 页原图">
+      <img src="{{ '/images/daibi/daibi-08.png' | relative_url }}" alt="《代笔》第 8 页，共 12 页，作者青君" width="1024" height="1536" loading="lazy" decoding="async">
+    </a>
+    <figcaption>第 8 页 / 共 12 页</figcaption>
+  </figure>
+  <figure class="manga-page" id="manga-page-09">
+    <a href="{{ '/images/daibi/daibi-09.png' | relative_url }}" aria-label="查看《代笔》第 9 页原图">
+      <img src="{{ '/images/daibi/daibi-09.png' | relative_url }}" alt="《代笔》第 9 页，共 12 页，作者青君" width="1024" height="1536" loading="lazy" decoding="async">
+    </a>
+    <figcaption>第 9 页 / 共 12 页</figcaption>
+  </figure>
+  <figure class="manga-page" id="manga-page-10">
+    <a href="{{ '/images/daibi/daibi-10.png' | relative_url }}" aria-label="查看《代笔》第 10 页原图">
+      <img src="{{ '/images/daibi/daibi-10.png' | relative_url }}" alt="《代笔》第 10 页，共 12 页，作者青君" width="1024" height="1536" loading="lazy" decoding="async">
+    </a>
+    <figcaption>第 10 页 / 共 12 页</figcaption>
+  </figure>
+  <figure class="manga-page" id="manga-page-11">
+    <a href="{{ '/images/daibi/daibi-11.png' | relative_url }}" aria-label="查看《代笔》第 11 页原图">
+      <img src="{{ '/images/daibi/daibi-11.png' | relative_url }}" alt="《代笔》第 11 页，共 12 页，作者青君" width="1024" height="1536" loading="lazy" decoding="async">
+    </a>
+    <figcaption>第 11 页 / 共 12 页</figcaption>
+  </figure>
+  <figure class="manga-page" id="manga-page-12">
+    <a href="{{ '/images/daibi/daibi-12.png' | relative_url }}" aria-label="查看《代笔》第 12 页原图">
+      <img src="{{ '/images/daibi/daibi-12.png' | relative_url }}" alt="《代笔》第 12 页，共 12 页，作者青君" width="1024" height="1536" loading="lazy" decoding="async">
+    </a>
+    <figcaption>第 12 页 / 共 12 页</figcaption>
+  </figure>
+</div>
+
+## 完整分镜与创作说明
+{: #storyboard}
+
 **十二页，七十五格。黑白线稿，日式校园短篇。**故事从高中最后一年的梅雨季开始，到次年三月毕业为止。
 
 漫画只出现三个人。下文用“男生”“朋友”“女生”区分角色，称谓只供绘制者辨认，不写进对白框。人物没有姓名，信封、信纸、课本和胸牌上也不出现姓名。作品扉页或第一页标题旁署“青君”。
@@ -33,6 +118,7 @@ translate: false
 <nav class="article-toc" markdown="1">
 **目录**
 
+- [漫画正文](#manga)
 - [人物与画面约定](#cast)
 - [第1页：还有一道](#page-1)
 - [第2页：第一封信](#page-2)
