@@ -24,7 +24,7 @@
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 
-{% assign seo_author_name = site.author.name | default: site.name %}
+{% assign seo_author_name = page.author.name | default: page.author | default: site.author.name | default: site.name %}
 {% assign seo_author_path = '/about/' %}
 {% if page_lang == 'en' %}{% assign seo_author_path = '/en/about/' %}{% endif %}
 {% assign seo_author_url = seo_author_path | prepend: seo_url %}
@@ -103,7 +103,7 @@
       },
       "publisher": {
         "@type": "Person",
-        "name": {{ seo_author_name | jsonify }},
+        "name": {{ site.author.name | default: site.name | jsonify }},
         "url": {{ seo_url | jsonify }}
       },
       "inLanguage": {{ page_lang | jsonify }}
