@@ -2,6 +2,9 @@ main:
   - title: "文章"
     url: /
 
+  - title: "漫画"
+    url: /comics/
+
   - title: "分类"
     url: /categories/
 

@@ -1,0 +1,6 @@
+{% assign entry_comic = site.data.comics | where: 'id', page.comic | first %}
+<div class="comic-entry">
+  <div><strong>《{{ entry_comic.title }}》· 分镜脚本</strong><span>青君 著 · {{ entry_comic.page_count }} 页正文</span></div>
+  <a class="comic-button comic-button--primary" href="{{ entry_comic.reader_url | relative_url }}">返回漫画 <span aria-hidden="true">→</span></a>
+  <a href="{{ '/comics/' | relative_url }}#{{ entry_comic.id }}">全部漫画</a>
+</div>

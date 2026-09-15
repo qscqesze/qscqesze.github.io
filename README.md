@@ -33,6 +33,14 @@ bundle exec jekyll serve
 
 浏览器访问 <http://localhost:4000>。提交到 `master` 分支后，GitHub Actions 会自动构建并发布站点。
 
+## 漫画专区
+
+`/comics/` 提供作品 Tab，《雨爱》和《会呼吸的痛》分别有独立阅读页。阅读器支持连续滚动、逐页翻阅、页码跳转、左右方向键与手机横滑翻页、宽幅、日夜背景和浏览器全屏。阅读进度按作品保存在当前浏览器中；带页码的链接优先于保存的进度。
+
+漫画信息与图片顺序统一维护在 `_data/comics.yml`。原文章链接和漫画专区均直接使用 `comic-reader` 布局打开阅读器，分镜正文单独存放在 `_pages/comic-*-storyboard.md`，通过「分镜脚本」链接打开，不出现在默认阅读页或首页文章摘要中。
+
+添加作品时，在数据文件追加作品，为文章与阅读页指定 `layout: comic-reader` 和对应的 `comic` ID。需要分镜页时，设置 `comic_script: true` 并在漫画数据中添加 `script_url`；`comic-entry.html` 提供返回漫画的入口。不运行 JavaScript 时仍可连续阅读、打开分镜脚本和下载 PDF。
+
 ## 中英文版本与自动翻译
 
 站点以中文文章为原稿，英文文章在构建前生成到 `_en_posts/`，最终作为普通静态页面发布在 `/en/` 下。中英文页面通过 `translation_url` 互相绑定，导航栏右上角可以切换语言，页面也会输出相应的 canonical、`hreflang` 和独立英文 Feed。

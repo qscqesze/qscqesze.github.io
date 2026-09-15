@@ -1,0 +1,8 @@
+{% for comic_page in include.comic.pages %}
+<figure class="manga-page" id="{{ comic_page.id }}" data-page-label="{{ comic_page.label }}">
+  <a href="{{ comic_page.image | relative_url }}" aria-label="查看《{{ include.comic.title }}》{{ comic_page.label }}原图">
+    <img src="{{ comic_page.image | relative_url }}" alt="《{{ include.comic.title }}》{{ comic_page.label }}，作者青君" width="1024" height="1536" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}"{% if forloop.first %} fetchpriority="high"{% endif %} decoding="async">
+  </a>
+  <figcaption>{{ comic_page.label }}{% unless comic_page.label == '封面' %} / 共 {{ include.comic.page_count }} 页{% endunless %}</figcaption>
+</figure>
+{% endfor %}

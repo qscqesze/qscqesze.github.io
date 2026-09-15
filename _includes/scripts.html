@@ -16,3 +16,7 @@
 {% endif %}
 
 {% include analytics.html %}
+
+{% if page.comics %}
+<script defer src="{{ '/assets/js/comics.js' | relative_url }}"></script>
+{% endif %}

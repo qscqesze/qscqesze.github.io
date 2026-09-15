@@ -2,6 +2,10 @@
 
 <!-- start custom head snippets -->
 
+{% if page.comic or page.comics %}
+<link rel="stylesheet" href="{{ '/assets/css/comics.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}">
+{% endif %}
+
 <!-- Site icons -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>

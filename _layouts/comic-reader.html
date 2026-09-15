@@ -1,0 +1,70 @@
+---
+layout: compress
+---
+{% assign comic = site.data.comics | where: 'id', page.comic | first %}
+<!doctype html>
+<html lang="zh-CN" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+  <body class="comic-reader-view" data-comic-reader="{{ comic.id }}" data-reader-mode="scroll">
+    <a class="screen-reader-shortcut" href="#main">跳转到漫画</a>
+    <header class="reader-header">
+      <div class="reader-header__identity">
+        <a class="reader-back" href="{{ '/comics/' | relative_url }}#{{ comic.id }}" aria-label="退出阅读，返回漫画">← <span>漫画</span></a>
+        <h1>{{ comic.title }} <small>青君</small></h1>
+        {% if comic.script_url %}<a class="reader-script" href="{{ comic.script_url | relative_url }}">分镜脚本</a>{% endif %}
+      </div>
+      <div class="reader-tools" data-reader-controls hidden>
+        <div class="reader-mode" role="group" aria-label="阅读方式">
+          <button type="button" data-mode="scroll" aria-pressed="true">连续</button>
+          <button type="button" data-mode="paged" aria-pressed="false">翻页</button>
+        </div>
+        <button type="button" data-reader-width aria-pressed="false" title="切换适屏与宽幅阅读">宽幅</button>
+        <button type="button" data-reader-theme aria-pressed="false" title="切换阅读背景">夜间</button>
+        <button type="button" data-reader-fullscreen hidden>全屏</button>
+      </div>
+    </header>
+
+    <main id="main" class="reader-main" tabindex="-1">
+      <p class="reader-guide">自上而下，同排从右向左 <span aria-hidden="true">·</span> <span data-reader-tip>向下滚动阅读</span></p>
+      <div class="reader-pages" id="manga">
+        {% include comic-pages.html comic=comic %}
+      </div>
+      <section class="reader-ending" aria-label="阅读完毕">
+        <p class="comic-eyebrow">FIN.</p>
+        <h2>故事到这里，<br>谢谢你读完。</h2>
+        <p>《{{ comic.title }}》 · 青君</p>
+        <div class="reader-ending__links">
+          {% if comic.script_url %}<a href="{{ comic.script_url | relative_url }}">分镜脚本</a>{% endif %}
+          <a href="{{ comic.pdf | relative_url }}" download="{{ comic.title }}-青君-完整版.pdf">保存 PDF</a>
+        </div>
+        {% for other in site.data.comics %}{% unless other.id == comic.id %}
+        <a class="comic-button comic-button--primary" href="{{ other.reader_url | relative_url }}">再读一篇 · {{ other.title }} →</a>
+        {% endunless %}{% endfor %}
+        <a class="reader-ending__back" href="{{ '/comics/' | relative_url }}#{{ comic.id }}">返回漫画</a>
+      </section>
+    </main>
+
+    <footer class="reader-footer" data-reader-controls hidden>
+      <progress class="reader-progress" value="1" max="{{ comic.pages.size }}" aria-label="阅读进度"></progress>
+      <div class="reader-footer__inner">
+        <button type="button" data-reader-prev aria-label="上一页">← <span>上一页</span></button>
+        <div class="reader-page-picker">
+          <label class="reader-sr-only" for="reader-page">跳转到页码</label>
+          <select id="reader-page">
+            {% for comic_page in comic.pages %}
+            <option value="{{ forloop.index0 }}">{{ comic_page.label }}</option>
+            {% endfor %}
+          </select>
+          <span>/ {{ comic.page_count }} 页{% if comic.has_cover %} + 封面{% endif %}</span>
+        </div>
+        <button type="button" data-reader-next aria-label="下一页"><span>下一页</span> →</button>
+      </div>
+      <p class="reader-sr-only" data-reader-status role="status" aria-live="polite"></p>
+    </footer>
+    <script defer src="{{ '/assets/js/comic-reader.js' | relative_url }}"></script>
+    {% include analytics.html %}
+  </body>
+</html>

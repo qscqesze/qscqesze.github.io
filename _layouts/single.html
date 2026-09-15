@@ -7,7 +7,7 @@ layout: default
 {% assign t = site.data.i18n[page_lang] %}
 
 {% assign is_article = false %}
-{% if page.collection == 'posts' or page.collection == 'legacy' or page.collection == 'en_posts' %}
+{% if page.collection == 'posts' or page.collection == 'legacy' or page.collection == 'en_posts' or page.comic_script %}
   {% assign is_article = true %}
 {% endif %}
 
