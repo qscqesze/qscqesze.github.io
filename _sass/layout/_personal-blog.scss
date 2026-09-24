@@ -750,8 +750,20 @@ a {
   white-space: nowrap;
 }
 
+.page__views[hidden] {
+  display: none;
+}
+
 .page__content {
   color: var(--blog-ink);
+}
+
+.page__content .footnotes {
+  overflow-wrap: anywhere;
+}
+
+.page__content .footnotes .reversefootnote {
+  display: inline-block;
 }
 
 .page__content .code-block,
@@ -979,9 +991,15 @@ a {
 }
 
 .page__content .technical-figure {
+  display: block;
   width: 100%;
   margin: 1.65rem 0 2rem;
   padding: 0;
+}
+
+.page__content .technical-figure > a {
+  display: block;
+  width: 100%;
 }
 
 .page__content .technical-figure img {

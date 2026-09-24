@@ -54,6 +54,21 @@ $(document).ready(function () {
   // Enable the theme toggle
   $('#theme-toggle').on('click', toggleTheme);
 
+  // Only display a page-view count after the provider supplies a valid number.
+  const pageViews = document.querySelector('.page__views');
+  const pageViewValue = document.getElementById('busuanzi_page_pv');
+  if (pageViews && pageViewValue) {
+    const syncPageViews = () => {
+      pageViews.hidden = !/^\d+(?:,\d{3})*$/.test(pageViewValue.textContent.trim());
+    };
+    new MutationObserver(syncPageViews).observe(pageViewValue, {
+      childList: true,
+      characterData: true,
+      subtree: true
+    });
+    syncPageViews();
+  }
+
   // Calculate mixed Chinese/Latin reading time from the rendered article text.
   const readingContent = document.querySelector('.page__content');
   const readingTime = document.querySelector('.reading-time[data-reading-time]');

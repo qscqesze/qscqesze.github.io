@@ -51,7 +51,7 @@ layout: default
               {% if page.read_time %}
                 <span class="page__meta-item"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</span>
               {% endif %}
-              <span class="page__meta-item page__views"><i class="fa fa-eye" aria-hidden="true"></i> <span id="busuanzi_page_pv">—</span> {{ t.views }}</span>
+              <span class="page__meta-item page__views" hidden><i class="fa fa-eye" aria-hidden="true"></i> <span id="busuanzi_page_pv">—</span> {{ t.views }}</span>
             </p>
           {% elsif page.read_time %}
             <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
