@@ -737,6 +737,15 @@ a {
   }
 }
 
+.page--with-toc .page__inner-wrap > header {
+  display: flow-root;
+  margin-bottom: 1.75rem;
+}
+
+.page--with-toc .page__title + .page__meta--post {
+  margin-top: 0.75rem;
+}
+
 .page__meta--post {
   display: flex;
   flex-wrap: wrap;
