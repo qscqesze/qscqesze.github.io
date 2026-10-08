@@ -63,7 +63,7 @@ for ax, vals, title, unit in zip(axes,
     ax.grid(axis="y", color=GRID)
     for x, v in enumerate(vals):
         ax.text(x, v + max(vals)*.04, f"{v:,}", ha="center", fontsize=17, weight="bold")
-fig.text(.06, .10, "来源：GameDiscoverCo，2026-06-23。关注者 ≠ 愿望单；不同届次不代表同一批游戏。", fontsize=11)
+fig.text(.06, .10, "来源：GameDiscoverCo，2026-06-23。左右分别统计 Demo 数与各届排名位置的新增关注者。", fontsize=11)
 fig.text(.06, .055, "按公布数值计算：Demo 数 +65.7%；该排名位置的关注者增量 −25.8%。", fontsize=11)
 save(fig, "01-competition")
 
@@ -89,14 +89,14 @@ ax.xaxis.set_minor_locator(ticker.NullLocator())
 ax.grid(axis="x", color=GRID)
 ax.set_xlabel("活动期间新增愿望单（对数刻度）", labelpad=13)
 fig.text(.06, .70, "参展前愿望单", fontsize=12)
-fig.text(.06, .095, "来源：How To Market A Game 基准表，n=174。P30—P70 为中间 40% 样本，非置信区间。", fontsize=11)
-fig.text(.06, .045, "自愿填报样本；最高一组仅 7 款游戏。未重算分位数，按原表重绘。", fontsize=11)
+fig.text(.06, .095, "来源：How To Market A Game 基准表，n=174。P30—P70 覆盖样本中间约 40% 的分布。", fontsize=11)
+fig.text(.06, .045, "开发者自愿填报；最高一组 7 款游戏。图中数值按公开表格绘制。", fontsize=11)
 save(fig, "02-wishlist-benchmark")
 
 rows = DATA["june_2026_correlations"]["rows"]
 fig, ax = plt.subplots(figsize=(12, 6.1))
 fig.subplots_adjust(left=.25, right=.94, top=.73, bottom=.24)
-fig.text(.06, .92, "短期增长的相关性较高，但差距随统计口径变化", fontsize=21, weight="bold")
+fig.text(.06, .92, "活动前两周新增与新品节成绩的相关性略高", fontsize=21, weight="bold")
 fig.text(.06, .85, "2026 年 6 月｜与新品节期间新增愿望单的相关系数", color="#52646e")
 clean(ax)
 for i, row in enumerate(rows):
@@ -111,8 +111,8 @@ ax.grid(axis="x", color=GRID)
 ax.set_xlabel("相关系数（0—1）", labelpad=10)
 fig.text(.29, .775, "■ 参展前总量", color=BLUE, fontsize=12)
 fig.text(.53, .775, "■ 活动前两周新增", color=TEAL, fontsize=12)
-fig.text(.06, .09, "来源：How To Market A Game，2026-07-14。仅重绘点估计；原表未列差异检验及区间。", fontsize=11)
-fig.text(.06, .04, "相关性不代表增加同等数量愿望单会产生同等收益，也不能据此识别 Steam 的算法权重。", fontsize=11)
+fig.text(.06, .09, "来源：How To Market A Game，2026-07-14。图中数值为原文公布的相关系数。", fontsize=11)
+fig.text(.06, .04, "近期增长窗口：2026 年 6 月 1—14 日。三行依次使用原始值、排序及双对数数据。", fontsize=11)
 save(fig, "03-momentum")
 
 print(f"Wrote 3 figures in PNG and SVG to {OUT}")
