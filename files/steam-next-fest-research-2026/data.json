@@ -51,5 +51,110 @@
       {"base": ">2000", "momentum": ">2000", "successes": 28, "n": 34}
     ],
     "note": "Exact inequality labels retained from source; treatment of values exactly 2000 is unspecified. Cell counts sum to 119. The 1/1 cell cannot support a reliable population success probability."
-  }
+  },
+  "case_sources": {
+    "parcel": "https://howtomarketagame.com/2025/08/26/the-demo-effect-from-7000-wishlists-to-42000/",
+    "beast": "https://howtomarketagame.com/2024/06/18/the-double-jump-trick-to-steam-next-fest/",
+    "feb_analysis": "https://howtomarketagame.com/2026/04/13/making-sense-of-the-february-2026-steam-next-fest/"
+  },
+  "cases": [
+    {
+      "game": "Parcel Simulator",
+      "edition": "2025-02",
+      "source": "parcel",
+      "wishlist_before_demo_approx": 7000,
+      "festival_wishlist_additions_approx": 10000,
+      "festival_peak_ccu_approx": 300,
+      "private_testers_approx": 15,
+      "creator_coverage_wishlist_additions_developer_estimate": 7000,
+      "wishlists_at_june_20_release_approx": 42000,
+      "units_sold_first_24_hours_approx": 10000,
+      "units_sold_first_two_weeks_approx": 50000,
+      "note": "Sales are subsequent release-period outcomes. Exact initial demo release day is inconsistent between the source timeline and developer quote, so the article uses near the festival."
+    },
+    {
+      "game": "I Am Your Beast",
+      "edition": "2024-06",
+      "source": "beast",
+      "wishlist_additions_24_hours_before_festival_approx": 15000,
+      "wishlist_additions_festival_first_24_hours_approx": 16000,
+      "combined_48_hours_approx": 31000,
+      "note": "Two different periods, not 31,000 festival-only additions. Original 2024 interview is used instead of the later July 2026 retelling."
+    },
+    {
+      "game": "Cat Mail Co.",
+      "edition": "2026-06",
+      "source": "htmag_momentum",
+      "wishlists_at_entry": 5293,
+      "festival_wishlist_additions_approx": 42000
+    },
+    {
+      "game": "Speak",
+      "edition": "2026-06",
+      "source": "htmag_momentum",
+      "wishlists_at_entry": 694,
+      "festival_wishlist_additions_approx": 13000,
+      "tiktok_views_approx": 1000000
+    },
+    {
+      "game": "Ship Shaper",
+      "edition": "2026-02",
+      "source": "feb_analysis",
+      "announcement_wishlist_additions_approx": 5000,
+      "festival_wishlist_additions": 11566,
+      "peak_demo_rank": 27,
+      "later_demo_rank_range": [
+        60,
+        70
+      ]
+    }
+  ],
+  "butterscotch_comparison": {
+    "source": "feb_analysis",
+    "note": "Impressions and visits are festival-source traffic; wishlist additions are festival-period totals. Do not divide the third by the second as a measured funnel conversion.",
+    "games": [
+      {
+        "game": "Crashlands 2",
+        "edition": "2024-06",
+        "festival_impressions": 6247962,
+        "festival_visits": 38406,
+        "festival_period_wishlist_additions": 15987
+      },
+      {
+        "game": "How Many Dudes?",
+        "edition": "2026-02",
+        "festival_impressions": 645745,
+        "festival_visits": 15342,
+        "festival_period_wishlist_additions": 14740
+      }
+    ],
+    "calculated_impressions_ratio": 9.675587112559912,
+    "calculated_wishlist_difference": 1247
+  },
+  "images": [
+    {
+      "game": "Parcel Simulator",
+      "file": "images/steam-next-fest-research-2026/04-parcel-simulator.jpg",
+      "source": "https://store.steampowered.com/app/2424010/",
+      "asset_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424010/ss_d88fe3f3a0697a577b74f364f0e70dc702de0335.1920x1080.jpg?t=1790152453",
+      "retrieved_on": "2026-10-08",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "note": "Current official store screenshot illustrating gameplay; not an archived Next Fest demo capture."
+    },
+    {
+      "game": "I Am Your Beast",
+      "file": "images/steam-next-fest-research-2026/05-i-am-your-beast.jpg",
+      "source": "https://store.steampowered.com/app/1876590/",
+      "asset_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876590/ss_476b39aed95cbe566fadcc9b26fc50ae4e8ab6b9.1920x1080.jpg?t=1776695015",
+      "retrieved_on": "2026-10-08",
+      "dimensions": [
+        1920,
+        1079
+      ],
+      "note": "Current official store screenshot illustrating gameplay; not an archived Next Fest demo capture."
+    }
+  ]
 }

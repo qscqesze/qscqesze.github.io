@@ -4,7 +4,7 @@ Article: `_posts/2026-10-08-steam-next-fest-research-and-practice.md`.
 
 ## Reproduce
 
-Published aggregates and source URLs are in `files/steam-next-fest-research-2026/data.json` (also downloadable from the article). This is a manual transcription, not respondent-level data. No original copyrighted article text or graphics are redistributed.
+Published aggregates and source URLs are in `files/steam-next-fest-research-2026/data.json` (also downloadable from the article). This is a manual transcription, not respondent-level data. No original analyst article text or graphics are redistributed. Two official Steam store screenshots illustrate the game case studies, with source and rights attribution in the captions; their provenance is recorded in the data JSON.
 
 Install matplotlib in an isolated Python environment, then run:
 
@@ -28,4 +28,13 @@ On macOS the script uses `/Library/Fonts/Arial Unicode.ttf`. Elsewhere set `NEXT
 
 ## Source links
 
-The article's 11 endnotes link to primary official documents or the original analysts' publications. They distinguish platform rules, self-selected survey results, monitored public indicators and retrospective case studies. Full game-level survey data were not obtained; this work cannot reproduce regressions, correct selection bias, or test paired differences in correlations.
+The article's 14 endnotes link to primary official documents or the original analysts' publications. They distinguish platform rules, self-selected survey results, monitored public indicators and retrospective case studies. Full game-level survey data were not obtained; this work cannot reproduce regressions, correct selection bias, or test paired differences in correlations.
+
+## Expanded case studies
+
+- Case facts and the Butterscotch comparison are included in the downloadable JSON. Original game store screenshots were retrieved on 2026-10-08; they illustrate gameplay and are not represented as archived festival demo captures.
+- I Am Your Beast uses the original 2024 interview's explicit 24-hour segments: 15,000 before the festival plus 16,000 on its first day. The later 2026 retelling gives a different timeframe for the broader 60,000 milestone, which the article omits.
+- Parcel Simulator's source timeline and developer quote differ on the exact first demo release day. The article states near the February festival. Its launch sales are kept separate from festival wishlist additions; the 7,000 from Real Civil Engineer is labelled a developer estimate.
+- Cat Mail Co. and Speak use the June 2026 case study, with approximate festival increments as reported. Ship Shaper uses the February 2026 analysis.
+- Crashlands 2 and How Many Dudes? use festival-source impressions and visits, alongside festival-period wishlist additions. No conversion rate is inferred from these different scopes. Impressions ratio is 9.6756, rounded to 9.7; wishlist difference is 1,247.
+- The operational expansion adds definitions, registration and release steps, test scenarios, creator outreach, staffing, notification timing and post-event decisions. It preserves the separation between current Valve rules and editorial recommendations.
