@@ -1,0 +1,29 @@
+[
+  {
+    "source": "_posts/2026-10-21-john-harrison-longitude.md",
+    "draft": "_drafts/revision-john-harrison-longitude.md",
+    "body_hanzi": 4042,
+    "images": 6,
+    "target_hanzi_min": 18000,
+    "target_hanzi_max": 22000,
+    "status": "incomplete_not_published"
+  },
+  {
+    "source": "_posts/2026-10-22-mary-anning-fossil-hunter.md",
+    "draft": "_drafts/revision-mary-anning-fossil-hunter.md",
+    "body_hanzi": 5331,
+    "images": 6,
+    "target_hanzi_min": 18000,
+    "target_hanzi_max": 22000,
+    "status": "incomplete_not_published"
+  },
+  {
+    "source": "_posts/2026-10-23-maria-sibylla-merian.md",
+    "draft": "_drafts/revision-maria-sibylla-merian.md",
+    "body_hanzi": 5194,
+    "images": 6,
+    "target_hanzi_min": 18000,
+    "target_hanzi_max": 22000,
+    "status": "incomplete_not_published"
+  }
+]
