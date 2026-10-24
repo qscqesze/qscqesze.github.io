@@ -6,10 +6,17 @@
     "images": 6,
     "target_hanzi_min": 18000,
     "target_hanzi_max": 22000,
-    "status": "published_pending_deployment",
+    "status": "completed",
     "revision_date": "2026-10-24",
     "article_url": "https://qscqesze.github.io/posts/john-harrison-longitude/",
-    "audit": "research/biography-revisions-2026-10/harrison-audit-2026-10-24.md"
+    "audit": "research/biography-revisions-2026-10/harrison-audit-2026-10-24.md",
+    "published_commit": "89c15580c694e632c31da788623d48a4c9a68141",
+    "deployment": {
+      "status": "success",
+      "run_id": 40049636271,
+      "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/40049636271",
+      "verified_date": "2026-10-24"
+    }
   },
   {
     "source": "_posts/2026-10-22-mary-anning-fossil-hunter.md",
