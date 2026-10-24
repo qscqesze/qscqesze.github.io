@@ -2,11 +2,14 @@
   {
     "source": "_posts/2026-10-21-john-harrison-longitude.md",
     "draft": "_drafts/revision-john-harrison-longitude.md",
-    "body_hanzi": 4042,
+    "body_hanzi": 18088,
     "images": 6,
     "target_hanzi_min": 18000,
     "target_hanzi_max": 22000,
-    "status": "incomplete_not_published"
+    "status": "published_pending_deployment",
+    "revision_date": "2026-10-24",
+    "article_url": "https://qscqesze.github.io/posts/john-harrison-longitude/",
+    "audit": "research/biography-revisions-2026-10/harrison-audit-2026-10-24.md"
   },
   {
     "source": "_posts/2026-10-22-mary-anning-fossil-hunter.md",
