@@ -4,11 +4,11 @@
 
 ## 当前状态
 
-**尚未完成，尚未替换线上旧文。** `_drafts/revision-*.md` 是中间稿，均有 `published: false`，不能作为最终稿发布。正文汉字数及图数见 progress.json；这不是三篇两万字书稿的完成记录。
+**哈里森篇已完成并部署；下一篇是玛丽·安宁。** 哈里森正式正文 18,088 汉字、六幅图，已替换原文章，部署成功。安宁与梅里安仍未完成，不能直接发布。`_drafts` 内的哈里森版本作为工作归档，正式副本已移除草稿标识；其他两篇仍为中间稿。以 progress.json 的逐篇状态为准，不能把一篇完成当作三篇全部完成。
 
 已做：重写开头、补入工作与交易过程、补充真实文献材料、删去部分章末升华、将数字引用改为 Markdown 脚注、每篇配置六幅历史图像并注明来源许可、加入年表和史料说明。
 
-未做完：充分的长篇史料阅读、逐章扩展到目标篇幅、两轮全文审稿、全部图像的出版分辨率与本地保存检查、最终站点构建与部署。仅有博物馆短文和一部旧传记不够支撑两万字。不得重复解释同一中心论点凑数，不得编场景。当前各篇部分新增段落仍偏议论，需要以更具体的史料替换。
+安宁与梅里安未做完：充分的长篇史料阅读、逐章扩展到目标篇幅、两轮全文审稿、全部图像的出版分辨率与本地保存检查、最终站点构建与部署。仅有博物馆短文和一部旧传记不够支撑两万字。不得重复解释同一中心论点凑数，不得编场景。当前各篇部分新增段落仍偏议论，需要以更具体的史料替换。
 
 ## 共同执行方式
 
@@ -17,24 +17,19 @@
 3. 核查每一个金额、年份、人物关系、引语、版本、功劳归属。不得因为旧书公版，就假定旧书没有错误。
 4. 扩写完成后进行事实审读，再做结构与逐段语言编辑；删除反复解释“不是孤独天才”“贡献不等于从不出错”之类的同义议论。
 5. 用脚本统计汉字，剔除 front matter、标题、figure、图注、脚注、书目、年表及史料说明。合格范围 18,000—22,000；不能按文件总字节计算。
-6. 配图约六至十幅。先尝试合法下载、压缩并本地保存；站点拒绝下载则记录原因，不绕过限制。H1 当前缩略图仅 250 × 294，不能作为出版定稿配图。
+6. 配图约六至十幅。先尝试合法下载、压缩并本地保存；站点拒绝下载则记录原因，不绕过限制。哈里森 H1 已换为 1440 × 1080 的授权照片；六图本地下载超时，采用已核验外部地址。
 7. 达标后移除草稿专用 title 前缀、published:false、revision_status，将内容替换对应 `_posts` 原文件。保留旧日期、permalink 和署名；可增加 last_modified_at。核对末尾年表与正文一致。
 8. 运行必要检查，提交到远端，确认 GitHub Pages 部署。仅在此后把该篇标为 completed。不要删除其余未完成草稿。全部完成后恢复常规新人物创作。
 
 ## 哈里森
 
-当前草稿约四千汉字，技术与制度解释的比重仍高，人的经历不足。
+状态：**completed**。2026-10-24 完成正文 18,088 汉字，六幅图，十四组连续编号注释。原发布日期、permalink、署名均保留。正式文章：https://qscqesze.github.io/posts/john-harrison-longitude/ 。
 
-已经实际阅读的长材料：Samuel Smiles, *Men of Invention and Industry* (1884), Chapter III。全文：https://www.gutenberg.org/files/725/725-h/725-h.htm 。公版；作者有英雄传记倾向。H2 被其写作缩小、1773 金额与年龄等，与现代记录有冲突，不能照搬。病榻听表、与 Graham 会面对话不用。
+发布提交：89c15580c694e632c31da788623d48a4c9a68141；已验证成功的部署：https://github.com/qscqesze/qscqesze.github.io/actions/runs/40049636271 。
 
-核查基础：Royal Museums Greenwich 的 H1—H4 藏品记录 79139—79142；Science Museum 1713 木钟藏品 co8557974；Clockmakers 的 H5；Westminster Abbey 的家庭和死亡记录；Jim Bennett 2014 “James Short and John Harrison: personal genius and public knowledge”，DOI 10.15180/140209。
+事实核查、文字修改、资料增量、图像限制与检查结果见 [harrison-audit-2026-10-24.md](harrison-audit-2026-10-24.md)。已查读 Gould 的相关章节及法案转录，不再把它们列为未阅读材料；未能打开的 Cambridge 原档案仍未冒称查读。
 
-下一步需要实际打开的材料（不得写成已经读完）：
-- John Harrison 1763/1765 *Narrative*，尤其 1765 *A narrative of the proceedings relative to the discovery of the longitude at sea… subsequent to…1763*；RMG 藏品 https://www.rmg.co.uk/collections/objects/rmgc-object-478825 ，Cambridge 数字档案 https://cudl.lib.cam.ac.uk/view/MS-BGN-00000/63 。这是申诉者一方的陈述，应与委员会记录对照。
-- Cambridge Board of Longitude 档案 https://cudl.lib.cam.ac.uk/view/MS-BGN-00000/13 ，查具体会议与资助。未经实际看到页码不要标页。
-- 可合法获取的 Rupert T. Gould *The Marine Chronometer: Its History and Development* (1923)，先确认全文与使用权，再用相关章节；不能仅凭书名引用。
-
-应展开的内容：木工家庭和早期定点钟；温度补偿与减摩的具体试验；伦敦同行网络；H1 出航后的结果；H2 未出海；H3 长期制造期间怎样获得经费、怎样与家人协作；Jefferys 怀表与 H4 的具体关系；威廉两次西印度群岛试验的程序；James Short 的支持；披露、复制与 Greenwich 检验的冲突；George III 与议会款项；K1 随 Cook 的实际使用及成本限制。每段要有新材料，不继续扩写抽象的“个人经验与公共知识”。
+此篇不再是待续写任务。下一次应从安宁的完整长篇研究和重写开始，不轮流回头为三篇各加一点文字。
 
 ## 安宁
 
