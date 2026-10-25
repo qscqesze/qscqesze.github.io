@@ -33,7 +33,7 @@
 
 ## 安宁
 
-当前约五千三百汉字。主要增量来自亲笔信与来访日记，尚未形成完整长篇。
+2026-10-25 检查点：正文 **12,456 汉字**、六幅图、22 组按首次使用连续编号的注释。仍是未达标草稿，距最低字数 18,000 尚差 5,544 字，未覆盖正式文章。主要新增是原论文、议价书信、署名答复与店铺记录。具体已读范围、修正、缺项及下一步见 [anning-checkpoint-2026-10-25.md](anning-checkpoint-2026-10-25.md)。不能用旧的 5,331 字状态重开工作。
 
 已读的一手材料转录：
 - 1829-02-25 [年份由档案编定] 致 Charlotte Murchison，LDGSL/838/A/7/1；https://www.geolsoc.org.uk/the-library/online-exhibitions/mary-anning-and-the-geological-society/geologising-with-mary-anning/letter-from-mary-anning/ 。报价：两英尺鱼龙头骨 £5，一英尺菊石 £1；潮水险情是安宁自述，帮手言语为信中转述。网页把 Sowerby 注释为 1822 已去世的 James，时序冲突，暂只保留姓。
@@ -43,7 +43,7 @@
 
 已核查关键点：1799-05-21 生；父亲 1810 死；兄长 1811 发现头骨、玛丽 1812 找躯干，不写“1811 玛丽独自发现第一具鱼龙”；1823-12 蛇颈龙、1824-02 伦敦展示；1828-12 英国首件被确认的翼龙；1847-03-09 死，47 岁；肖像馆方标 1850；Sowerby 个人身份暂不定。
 
-下一步需要实际阅读：
+以下旧清单已由 2026-10-25 检查点更新，不应再将已读材料视作未读；缺页和未读部分详见新记录。
 - Michael A. Taylor 与 Michael J. Benton 整理 George Roberts 生前短传的学术论文及原手稿转录。可从 https://www.lymeregissociety.org.uk/wp-content/uploads/2023/01/jgs2022-053-1.pdf 查起；布里斯托档号 DM1186/5/1。新闻页面不等于读了论文。
 - 1824 Conybeare、1829 Buckland 原论文与图版，查作者怎样表述标本来历、提出何种论证。
 - 1844 年 Carus 随萨克森国王访问英国的出版游记，以及 1865 *All the Year Round* 的安宁文章，核对出版信息与回忆距离，不能先采信再找引文。
