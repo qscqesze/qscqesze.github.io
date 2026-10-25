@@ -21,11 +21,21 @@
   {
     "source": "_posts/2026-10-22-mary-anning-fossil-hunter.md",
     "draft": "_drafts/revision-mary-anning-fossil-hunter.md",
-    "body_hanzi": 5331,
+    "body_hanzi": 12456,
     "images": 6,
     "target_hanzi_min": 18000,
     "target_hanzi_max": 22000,
-    "status": "incomplete_not_published"
+    "status": "incomplete_not_published",
+    "revision_date": "2026-10-25",
+    "research_log": "research/biography-revisions-2026-10/anning-checkpoint-2026-10-25.md",
+    "remaining_hanzi_to_minimum": 5544,
+    "fact_review": "partial; full manuscript review pending",
+    "language_review": "partial; structural and paragraph edits applied; full review pending",
+    "deployment": {
+      "status": "not_requested_for_article",
+      "reason": "Draft below publication threshold; published post unchanged"
+    },
+    "checkpoint_commit": "6b421c1d59625db44ccf92b77c4cb1368fde3cc8"
   },
   {
     "source": "_posts/2026-10-23-maria-sibylla-merian.md",
