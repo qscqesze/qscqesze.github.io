@@ -21,21 +21,30 @@
   {
     "source": "_posts/2026-10-22-mary-anning-fossil-hunter.md",
     "draft": "_drafts/revision-mary-anning-fossil-hunter.md",
-    "body_hanzi": 12456,
+    "body_hanzi": 18219,
     "images": 6,
     "target_hanzi_min": 18000,
     "target_hanzi_max": 22000,
-    "status": "incomplete_not_published",
-    "revision_date": "2026-10-25",
-    "research_log": "research/biography-revisions-2026-10/anning-checkpoint-2026-10-25.md",
-    "remaining_hanzi_to_minimum": 5544,
-    "fact_review": "partial; full manuscript review pending",
-    "language_review": "partial; structural and paragraph edits applied; full review pending",
+    "status": "completed",
+    "revision_date": "2026-10-26",
+    "fact_review": "completed; corrections recorded in audit",
+    "language_review": "completed; full structural and paragraph review recorded in audit",
     "deployment": {
-      "status": "not_requested_for_article",
-      "reason": "Draft below publication threshold; published post unchanged"
+      "status": "success",
+      "run_id": 40254622073,
+      "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/40254622073",
+      "verified_date": "2026-10-26"
     },
-    "checkpoint_commit": "6b421c1d59625db44ccf92b77c4cb1368fde3cc8"
+    "article_url": "https://qscqesze.github.io/posts/mary-anning-fossil-hunter/",
+    "audit": "research/biography-revisions-2026-10/anning-audit-2026-10-26.md",
+    "published_commit": "6f4b9f021174543d05623a8e1366e67026b3cb0d",
+    "public_page_check": {
+      "title": "玛丽·安宁：莱姆的骨头与生意",
+      "images_loaded": 6,
+      "footnotes": 35,
+      "missing_footnote_targets": 0,
+      "verified_date": "2026-10-26"
+    }
   },
   {
     "source": "_posts/2026-10-23-maria-sibylla-merian.md",
