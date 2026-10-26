@@ -4,7 +4,7 @@ date: 2026-10-22 08:55:00 +0800
 permalink: /posts/mary-anning-fossil-hunter/
 author: qscqesze
 published: false
-revision_status: editorial-review
+revision_status: completed-archive
 excerpt: "十三岁参与挖出巨型鱼龙，二十四岁发现连贯的蛇颈龙骨架，后来又找到翼龙与粪化石的线索。玛丽·安宁靠出售化石谋生，也用采集、修复、绘图和地层知识，改变了人们认识史前生命的方式。"
 categories:
   - 历史与社会
