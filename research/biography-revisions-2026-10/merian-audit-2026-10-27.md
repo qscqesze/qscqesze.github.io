@@ -42,4 +42,12 @@
 
 六图均为真实公版图版；两幅1679外链、四幅1705初版本地SVG内嵌压缩JPEG，原GIF转JPEG无重绘。已逐幅打开审看四幅新图；原两图有Commons公版记录。其余内容、来源与下载限制见 images/merian-revision/LICENSE.md。
 
-本地五项Python测试、英文缓存校验、git diff --check通过；SVG XML及内嵌JPEG解码通过；52条连续脚注引用与定义一致，无重复定义；原日期、作者与permalink检查通过。正文实际18,377汉字，不含front matter、标题、作者行、figure、文末注释、年表及史料说明。发布与公开页核验待完成后追加，不将待部署标为completed。
+本地五项Python测试、英文缓存校验、git diff --check通过；SVG XML及内嵌JPEG解码通过；52条连续脚注引用与定义一致，无重复定义；原日期、作者与permalink检查通过。正文实际18,377汉字，不含front matter、标题、作者行、figure、文末注释、年表及史料说明。发布与公开页核验结果见下节。
+
+## 发布与公开页核验
+
+发布提交：d90c77f6e651b29bf76445ce02af70aa0b987250。正式文章正文18,377汉字，六幅图、52条脚注；原发布日期2026-10-23 08:55:00 +0800、permalink与署名均保留，移除草稿专用字段和标题前缀。
+
+GitHub Actions自定义工作流Deploy site to GitHub Pages及pages build and deployment均completed/success。自定义运行：https://github.com/qscqesze/qscqesze.github.io/actions/runs/40433684410 。
+
+公开页https://qscqesze.github.io/posts/maria-sibylla-merian/ 刷新后标题与新稿一致。浏览器逐幅滚动触发懒加载，六图均complete且naturalWidth大于0；尺寸分别1196×1567、1186×1593、425×600、437×600、470×588、443×600；52条脚注，没有缺失目标。当前浏览器视口1363像素，页面scrollWidth1348，无横向溢出；截图检查图注、正文和图像比例正常。既有响应式CSS限制图像最大宽度，未声称完成未提供的手机视口模拟。核验日期2026-10-27。
