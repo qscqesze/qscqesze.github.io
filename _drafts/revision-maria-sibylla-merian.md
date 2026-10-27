@@ -4,7 +4,7 @@ date: 2026-10-23 08:55:00 +0800
 permalink: /posts/maria-sibylla-merian/
 author: qscqesze
 published: false
-revision_status: editorial-review
+revision_status: completed-archive
 excerpt: "从法兰克福的蚕、纽伦堡的教学和颜料买卖，到苏里南的饲养观察，再到阿姆斯特丹的订阅、刻版和交付。梅里安怎样取得生命史，又怎样把它做成一部书。"
 categories:
   - 历史与社会
