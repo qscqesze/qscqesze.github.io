@@ -49,10 +49,29 @@
   {
     "source": "_posts/2026-10-23-maria-sibylla-merian.md",
     "draft": "_drafts/revision-maria-sibylla-merian.md",
-    "body_hanzi": 5194,
+    "body_hanzi": 18377,
     "images": 6,
     "target_hanzi_min": 18000,
     "target_hanzi_max": 22000,
-    "status": "incomplete_not_published"
+    "status": "completed",
+    "revision_date": "2026-10-27",
+    "fact_review": "completed; corrections recorded in audit",
+    "language_review": "completed; structural and paragraph edits recorded in audit",
+    "article_url": "https://qscqesze.github.io/posts/maria-sibylla-merian/",
+    "audit": "research/biography-revisions-2026-10/merian-audit-2026-10-27.md",
+    "published_commit": "d90c77f6e651b29bf76445ce02af70aa0b987250",
+    "deployment": {
+      "status": "success",
+      "run_id": 40433684410,
+      "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/40433684410",
+      "verified_date": "2026-10-27"
+    },
+    "public_page_check": {
+      "title": "梅里安：昆虫、画稿与远航图谱",
+      "images_loaded": 6,
+      "footnotes": 52,
+      "missing_footnote_targets": 0,
+      "verified_date": "2026-10-27"
+    }
   }
 ]
