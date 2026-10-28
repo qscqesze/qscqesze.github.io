@@ -6,9 +6,26 @@
   "body_hanzi": 18144,
   "images": 6,
   "footnotes": 41,
-  "status": "publication_pending_deployment",
+  "status": "completed",
   "fact_review": "completed",
   "language_review": "completed",
   "article_url": "https://qscqesze.github.io/posts/olaudah-equiano/",
-  "audit": "research/equiano-2026-10/README.md"
+  "audit": "research/equiano-2026-10/README.md",
+  "published_commit": "60caa13371ffeb79603056d5a31074505ed6fa54",
+  "deployment": {
+    "run_id": 40616032929,
+    "status": "completed",
+    "conclusion": "success",
+    "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/40616032929"
+  },
+  "public_page_check": {
+    "date": "2026-10-28",
+    "body_hanzi": 18144,
+    "images_loaded": 6,
+    "footnotes": 41,
+    "missing_note_targets": 0,
+    "viewport_width": 1363,
+    "document_scroll_width": 1348,
+    "mobile_check": "existing responsive CSS reviewed; no mobile viewport emulation"
+  }
 }

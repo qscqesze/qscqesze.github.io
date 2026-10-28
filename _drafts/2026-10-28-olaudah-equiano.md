@@ -4,7 +4,7 @@ date: 2026-10-28 09:00:00 +0800
 permalink: /posts/olaudah-equiano/
 author: qscqesze
 published: false
-revision_status: editorial-reviewed
+revision_status: completed-archive
 excerpt: "从蒙特塞拉特的一纸释放文书，到海上的买卖、伦敦的诉讼和自费出版，埃奎亚诺怎样谋生，又怎样为自己和别人争取自由。"
 categories:
   - 历史与社会

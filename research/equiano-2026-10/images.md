@@ -1,6 +1,6 @@
 # 埃奎亚诺篇图像记录
 
-六图均为真实历史图像或历史实物照片；没有AI生成图。2026-10-28逐图打开来源及许可页。合法直接下载尝试：五幅Commons图片返回HTTP403，一幅资料库图片返回HTTP406，未绕过限制，采用来源已公开的外链。最终显示核验在部署后记录。
+六图均为真实历史图像或历史实物照片；没有AI生成图。2026-10-28逐图打开来源及许可页。合法直接下载尝试：五幅Commons图片返回HTTP403，一幅资料库图片返回HTTP406，未绕过限制，采用来源已公开的外链。部署后已在公开页逐图加载并验证：六图complete均为true，naturalWidth与下列尺寸一致，全部显示成功。图3采用255×330的原站公开缩略图，并附完整文献来源；未放大伪装高清原件。
 
 ## 图1：portrait-title
 
@@ -22,6 +22,16 @@
 
 尺寸：1675 × 2000。下载结果：HTTP Error 403: Forbidden。
 
+## 图3：king-reference
+
+罗伯特·金的1767年7月26日品行证明，1789初版第二卷第79页印本缩略图。公版。
+
+来源：https://equianosworld.org/documents.php?fullid=3&search=0&view=0
+
+图像地址：https://equianosworld.org/pdf/Documents38d33840569ba7ab852504a1880b77a.jpg
+
+尺寸：255 × 330。下载结果：HTTP Error 406: Not Acceptable。
+
 ## 图4：arctic
 
 赛马号与卡卡斯号1773年8月7日困于冰区。Page据John Cleveley图作的后续版画，1800年前，《Payne’s Universal Geography》第五卷；英国国家海事博物馆藏，Wikimedia Commons，公版。
@@ -41,16 +51,6 @@
 图像地址：https://upload.wikimedia.org/wikipedia/commons/2/2d/Thoughts_And_Sentiments_On_The_Evil_%26_Wicked_Traffic_Of_The_Slavery_%26_Commerce_Of_The_Human_Species_-Title_Page%2C_1787.jpg
 
 尺寸：2000 × 3310。下载结果：HTTP Error 403: Forbidden。
-
-## 图3：king-reference
-
-罗伯特·金的1767年7月26日品行证明，1789初版第二卷第79页印本缩略图。公版。
-
-来源：https://equianosworld.org/documents.php?fullid=3&search=0&view=0
-
-图像地址：https://equianosworld.org/pdf/Documents38d33840569ba7ab852504a1880b77a.jpg
-
-尺寸：255 × 330。下载结果：HTTP Error 406: Not Acceptable。
 
 ## 图6：medallion
 

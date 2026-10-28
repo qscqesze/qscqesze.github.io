@@ -57,4 +57,10 @@
 
 ## 技术检查
 
-五项既有unittest通过；英文缓存检查通过，按同类长文设置translate:false。首次pytest命令因本地未装pytest无法执行，改用同一套unittest成功，不声称pytest本地通过。六图直接下载均被拒，见images.md；未绕过限制。源码链接、注释连续性与发布字段由verify.py检查。Jekyll构建及公开页核验待远端部署后补记。
+五项既有unittest通过；英文缓存检查通过，按同类长文设置translate:false。首次pytest命令因本地未装pytest无法执行，改用同一套unittest成功，不声称pytest本地通过。六图直接下载均被拒，见images.md；未绕过限制。源码链接、注释连续性与发布字段由verify.py检查。远端Jekyll构建及部署均成功，结果见下。
+
+## 发布核验
+
+发布提交：60caa13371ffeb79603056d5a31074505ed6fa54。工作流40616032929 completed/success，构建的pytest、翻译缓存、Jekyll及站点检查全部成功；GitHub Pages工作流40616032261亦成功。公开页：https://qscqesze.github.io/posts/olaudah-equiano/ 。
+
+2026-10-28浏览器实测：线上叙事段落18,144汉字，与本地两个计数器一致；六幅配图逐幅加载，complete及naturalWidth均有效；41个脚注链接无缺失目标。1363像素视口下文档scrollWidth为1348，无横向溢出，截图检查了文字及图注。小屏适配仅核查现有响应式CSS，未冒称完成手机视口模拟。外链图像限制仍见images.md。
