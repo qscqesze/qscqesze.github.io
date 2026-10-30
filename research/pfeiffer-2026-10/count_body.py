@@ -10,7 +10,7 @@ def inspect(path):
     body = re.sub(r'\A---\s*\n.*?\n---\s*\n', '', text, count=1, flags=re.S)
     body = body.split('## 主要资料与注释', 1)[0]
     body = re.sub(r'<figure\b.*?</figure>', '', body, flags=re.S)
-    body = re.sub(r'^#+[^\n]*$|^文 /[^\n]*$', '', body, flags=re.M)
+    body = re.sub(r'^#+[^\n]*$|^(?:\*\*)?文 /[^\n]*$', '', body, flags=re.M)
     body = re.sub(r'\[\^[^\]]+\]', '', body)
     body = re.sub(r'!\[[^\]]*\]\([^)]*\)', '', body)
     return {
