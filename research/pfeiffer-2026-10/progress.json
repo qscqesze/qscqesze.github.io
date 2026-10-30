@@ -1,8 +1,8 @@
 {
   "person": "Ida Laura Pfeiffer",
   "draft": "_drafts/2026-10-29-ida-pfeiffer.md",
-  "status": "publication_pending_deployment",
-  "completed": false,
+  "status": "completed",
+  "completed": true,
   "date": "2026-10-30",
   "body_hanzi": 18414,
   "target_hanzi_min": 18000,
@@ -10,13 +10,29 @@
   "remaining_to_minimum": 0,
   "images": 6,
   "footnotes": 42,
-  "published": false,
-  "publication_commit": null,
+  "published": true,
+  "publication_commit": "6aac98346a61865bdea2c47dddc6d468b3fc9b2f",
   "fact_review": "completed; corrections in audit-2026-10-30.md",
   "language_review": "completed; concrete edits in audit-2026-10-30.md",
-  "next_action": "Continue same person: research and write 1851–1855; expand Iceland/collecting; independent Madagascar context; then images and two full reviews",
+  "next_action": "Completed and deployed; resume regular new-person research after checking current repository and AGENTS.md.",
   "resume": "research/pfeiffer-2026-10/README.md",
   "source": "_posts/2026-10-30-ida-pfeiffer.md",
   "audit": "research/pfeiffer-2026-10/audit-2026-10-30.md",
-  "article_url": "https://qscqesze.github.io/posts/ida-pfeiffer/"
+  "article_url": "https://qscqesze.github.io/posts/ida-pfeiffer/",
+  "deployment": {
+    "run_id": 40985501714,
+    "status": "success",
+    "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/40985501714",
+    "pages_run_id": 40985500926
+  },
+  "public_page_check": {
+    "date": "2026-10-30",
+    "body_hanzi": 18414,
+    "loaded_images": 6,
+    "footnotes": 42,
+    "missing_footnote_targets": 0,
+    "viewport_width": 1363,
+    "document_width": 1348,
+    "mobile_review": "responsive CSS inspected; actual mobile viewport not emulated"
+  }
 }

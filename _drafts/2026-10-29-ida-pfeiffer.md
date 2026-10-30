@@ -4,7 +4,7 @@ date: 2026-10-29 09:00:00 +0800
 permalink: /posts/ida-pfeiffer/
 author: qscqesze
 published: false
-revision_status: editorial-reviewed-pending-publication
+revision_status: completed-archive
 excerpt: "从维也纳的家庭教师课，到两次环球旅行和马达加斯加的逐客令，普法伊费尔怎样筹措路费、获得接待，又怎样付出代价。"
 categories:
   - 历史与社会

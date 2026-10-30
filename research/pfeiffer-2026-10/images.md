@@ -29,4 +29,4 @@
 - https://archive.org/details/aladyssecondjou01pfeigoog
 - https://commons.wikimedia.org/wiki/File:A_Lady%27s_Second_Journey_Round_the_World-_From_London_to_the_Cape_of_Good_Hope,_Borneo,_Java_..._(IA_aladyssecondjou01pfeigoog).pdf
 
-六图均下载成功，没有绕过访问控制；公开页最终显示核验待部署后补记。采用已有technical-figure响应式样式，不给照片拉伸或补造清晰度。
+六图均下载成功，没有绕过访问控制；2026-10-30公开页六图均complete且naturalWidth大于0，已截图检查显示。采用已有technical-figure响应式样式，不给照片拉伸或补造清晰度。
