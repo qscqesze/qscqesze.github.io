@@ -1,0 +1,26 @@
+{
+  "person": "Shen Kuo 沈括",
+  "date": "2026-10-31",
+  "draft": "_drafts/2026-10-31-shen-kuo.md",
+  "status": "research-draft",
+  "completed": false,
+  "published": false,
+  "body_hanzi": 12770,
+  "target_hanzi_min": 18000,
+  "target_hanzi_max": 22000,
+  "remaining_to_minimum": 5230,
+  "images": 0,
+  "footnotes": 41,
+  "fact_review": "partial source checks and initial corrections only; full review pending",
+  "language_review": "initial local edits only; full structural and language review pending",
+  "deployment": {
+    "status": "not_applicable_unpublished_draft"
+  },
+  "next_action": "Continue same person; political transitions, independent chronology and Yongle sources, six historical images, then two complete reviews. See README.md.",
+  "resume": "research/shen-kuo-2026-10/README.md",
+  "checks": {
+    "independent_count_agrees": true,
+    "continuous_notes": true,
+    "published_false": true
+  }
+}
