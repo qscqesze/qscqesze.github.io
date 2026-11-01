@@ -2,9 +2,9 @@
   "person": "Shen Kuo 沈括",
   "date": "2026-11-01",
   "draft": "_drafts/2026-10-31-shen-kuo.md",
-  "status": "publication_pending_deployment",
-  "completed": false,
-  "published": false,
+  "status": "completed",
+  "completed": true,
+  "published": true,
   "body_hanzi": 18400,
   "target_hanzi_min": 18000,
   "target_hanzi_max": 22000,
@@ -14,9 +14,13 @@
   "fact_review": "completed; source comparisons and corrections in audit-2026-11-01.md",
   "language_review": "completed; structural and paragraph corrections in audit-2026-11-01.md",
   "deployment": {
-    "status": "pending"
+    "status": "success",
+    "run_id": 41260386753,
+    "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/41260386753",
+    "verified_date": "2026-11-01",
+    "additional_successful_run": 41260386517
   },
-  "next_action": "Verify Actions build and public page, then mark completed; do not create a duplicate Shen Kuo post.",
+  "next_action": "Current biography completed. On next run read repository state, avoid duplicate Shen Kuo or completed old revisions, and research a new person.",
   "resume": "research/shen-kuo-2026-10/README.md",
   "checks": {
     "independent_count_agrees": true,
@@ -24,7 +28,22 @@
     "author": "qscqesze",
     "duplicate_remote_post": false,
     "local_jekyll": "unavailable: bundle command absent; CI build required",
-    "local_tests": "pytest absent; repository CI required"
+    "local_tests": "pytest absent; repository CI required",
+    "ci_tests": "success",
+    "jekyll_build": "success",
+    "generated_site_links": "success"
   },
-  "source": "_posts/2026-11-01-shen-kuo.md"
+  "source": "_posts/2026-11-01-shen-kuo.md",
+  "article_url": "https://qscqesze.github.io/posts/shen-kuo/",
+  "published_commit": "658f25b843dd85fa3d09ec2e30b5d4958b5cb302",
+  "public_page_check": {
+    "title": "沈括：图上的山河与城下的水",
+    "images_loaded": 6,
+    "footnotes": 51,
+    "missing_footnote_targets": 0,
+    "viewport_width": 1363,
+    "document_scroll_width": 1348,
+    "verified_date": "2026-11-01",
+    "image_responsiveness": "all six inline max-width:100%;height:auto; no fixed min-width; no mobile-device emulation claimed"
+  }
 }
