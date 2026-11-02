@@ -1,0 +1,105 @@
+# 华莱士：证据与核查记录
+
+以下是内部阅读记录，不是最终参考文献，也不表示全书已读完。访问日期 2026-11-02。没有核实的档案号、页码和引文不补写。
+
+## 主要资料与实际阅读范围
+
+### A. Alfred Russel Wallace, My Life: A Record of Events and Opinions, 2 vols., London: Chapman & Hall, 1905
+
+- 卷一：https://darwin-online.org.uk/content/contentblock?basepage=1&hitpage=1&itemID=A237.1&viewtype=text
+- 卷二：https://darwin-online.org.uk/content/contentblock?basepage=1&hitpage=70&itemID=A237.2&viewtype=text
+- 卷一已读序言；印刷页 229–231、237–240、264–267、270–273、284–287、302–305、308–312、356–365、386–387、402 附近、409–411 的部分段落。卷二已读 54–56、365–378 附近及 378–380 的相关段落。并非这些跨度中的每页均完整读取；下列条目以实际可见段落为准。
+- 序言承认平日在国内不记日记、早年朋友来信没有保存，晚年重组零散材料。1905 年回忆早年事件与保存在书中的同期信件需分层使用。
+- 卷一 229–231：测量业务减少后求教职；一所学校考试未通过，另一所根据地图和素描接受他教低年级。教职带食宿。他自己对薪额记不清，不可从“30 或 40 镑”任选一个写成实数。
+- 卷一 237–240：把哥哥威廉去世记作 1846 年 2 月；现代档案整理为 1845 年 3 月，不能照抄自传年份。病因与旅途受寒的因果是回忆解释，不能作为医学诊断。
+- 卷一 264–267：爱德华兹 1847 年亚马孙游记、道布尔戴对采集市场的建议、出发前学习剥制鸟皮、代理商塞缪尔·史蒂文斯的工作。史蒂文斯安排销售重复标本、保管自藏、保险、资金和用品转运。交易和科学通信在同一条网络中进行。
+- 卷一 284–287：上里奥内格罗来信说雇地方猎手，收获不及预期，饮食和运输限制工作；鱼类绘图、棕榈记录及地方捕鱼方法。自传采用过时鱼类分类，不能把旧名或“新种”估计当现代鉴定。
+- 卷一 302–312：转录 1852-09-19 致 Richard Spruce 的信，10-01 Deal 和 10-05 London 续写。Helen 于 7 月 12 日起航，8 月 6 日火灾；带走小铁箱、少量衣物、绘图、表和钱；Fordeson 搭救后返英。未完整读取海上漂泊日期段，草稿不写漂流天数。约 200 镑保险来自代理商安排。古巴香脂货物自燃是多年后的推测，不能写作已查明起火原因。火灾损毁随身珍藏不等于此前寄英的全部标本都毁了。
+- 卷一 358–365：1858-01-04/25 贝茨信与晚年理论突破回忆。华莱士知道达尔文已为大书收集材料二十年；不知道具体完整理论不等于不知道对方研究物种。发热中想到马尔萨斯的过程是 1905 年追述。原始 1858 论文没有提到马尔萨斯。论文写完与寄出的日子不能仅凭回忆定死。
+- 卷一 364–365：新几内亚旅途中自己和助手生病，有猎手去世；不能只写“探险家孤身克服困难”。收到宣读消息后转录给家人的信表达高兴，认为可结识相关学者。
+- 卷一 386–387、402 附近：回英整理藏品，与各类分类专家合作；不是采集完立刻写一本现成游记。具体总量要以相应书序言为准。
+- 卷一 409–411：曾有一次解除婚约经历，女方匿名 Miss L.；不能推断她的动机，也不以该事件解释其全部后来思想。
+- 卷二 365–376：1870 汉普登赌约、裁判与长期诉讼；目前未完整读实验装置段，正文暂不复原实验几何。不同诉讼的判决赔偿、无法执行的债权和实际支出不能混加。不要把判获赔偿写成收到现金。
+- 卷二 378–380：投资铁路、矿业不断贬值，换投资反而更差；母亲的表亲 Miss Roberts 提前转给他原拟遗赠的 1000 镑；1880 建 Godalming 住宅；Mrs Fisher（原 Miss Buckley，需另核名字为 Arabella）把困境告知达尔文；达尔文、赫胥黎推动每年 200 镑 Civil List 年金，1881 首次支付。文中“Civil Service pension”字样与通常称 Civil List 要查官方记录。关于若富裕就不会写书，是作者自评，不是历史必然因果。
+
+### B. Wallace, The Malay Archipelago, London: Macmillan, 1869, 2 vols.
+
+- 卷一：https://darwin-online.org.uk/converted/Ancillary/1869_MalayArchipelago_A1013.1/1869_MalayArchipelago_A1013.1.1.html
+- 卷二：https://darwin-online.org.uk/converted/Ancillary/1869_MalayArchipelago_A1013.2/1869_MalayArchipelago_A1013.2.html
+- 实际读卷一题名、献辞、序言 vii–xiii；卷二 XXI 章开头 1–7 页。卷二在线插图除个别页外来自同年第二版，不能把所有在线图称为首版扫描。
+- 卷一序言：1862 春回英后自留近 3000 鸟皮、至少 20000 甲虫蝴蝶等需整理；Pascoe、Saunders 及其他专家参与分类，写游记因这一工作推迟。游记按地域组织，明说岛屿重访与季节运输使严格年代编排难读。因此不能按章节次序直接抄作实地行程。
+- 卷二 1–4：特尔纳特住所作为数年间返航、恢复健康、包装收藏的基地；介绍人 Duivenboden 的经济地位与奴隶占有是华莱士记述。殖民商业关系不能从科学旅行中抹掉；“独自进入空白世界”不可用。
+
+### C. Charles Darwin & A. R. Wallace, 1858 联合材料
+
+- 引介、达尔文部分及华莱士部分：https://darwin-online.org.uk/content/contentblock?basepage=1&hitpage=7&itemID=F350&viewtype=text
+- 华莱士原刊文本的独立整理：https://people.wku.edu/charles.smith/wallace/S043.htm
+- 已实际读引介 45–46 页、WKU 所列华莱士原刊 53–62 页全文。整体文献应列 45–62；Darwin Online 顶端的 45–50 是达尔文部分范围，不可当全部文章页码。
+- 1858-07-01 宣读，1858-08-20 刊印。不要混成同日正式出版。
+- 来信引介署莱尔、胡克，列达尔文手稿摘录、给 Gray 信摘录、华莱士论文。Gray 信引介误记 October，正文日期为 5 September 1857；采用后者，必要时尾注说明。
+- 华莱士论文讨论野生变种是否必然回复原型，以繁殖潜力、实际数量受限制、取食避敌能力和环境变化推演变种替代。不是现代遗传学论文，也没有 DNA、孟德尔或固定“最强者必胜”结论。原文把个体、变种和种的层次相互类比，说明时不要替换成一套完全相同的现代综合论。
+- WKU 提醒 1870 重刊有修改与新增小标题，引用 1858 论证应依据原刊版本。
+
+### D. 达尔文致莱尔，18 [June 1858], DCP-LETT-2285
+
+https://www.darwinproject.ac.uk/view/letters/DCP-LETT-2285
+
+- 实际读信全文与整理说明。信原件来源 American Philosophical Society, Mss.B.D25.152，4 页 ALS；这是页面实际提供的号，不扩写其他档案号。
+- 同期记录称“今天”收到华莱士论文、转交莱尔，提到自己 1842 草稿相似；承认不知道华莱士是否要发表，并表示会提议送刊。1858 年寄件和附信现未找到。
+- 该信可以支持收件报告与当时反应，不能独自证明所有邮程，也不能从科学家焦虑反推偷窃。
+
+### E. John van Wyhe & Kees Rookmaaker, 2012
+
+“A new theory to explain the receipt of Wallace's Ternate Essay by Darwin in 1858,” Biological Journal of the Linnean Society 105: 249–252.
+
+https://darwin-online.org.uk/people/2012%2C%20John%20van%20Wyhe%2C%20The%20receipt%20of%20Wallace%27s%20Ternate%20Essay%20by%20Darwin.pdf
+
+- 实际读取四页文章的论证和引文，不仅摘要。以回信习惯与航运记录推定四月邮班，支持 6 月 18 日收件。
+- 这是重建，不是找到失踪信封。不要把推定路线写作亲见该信依次加盖的邮戳。
+
+### F. Charles H. Smith, “Wallace, Darwin and Ternate 1858”, Notes and Records of the Royal Society（2014）
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4006158/
+
+- 实际读主要论证：质疑由另一封信、回信习惯和一般邮程推出失踪信件日期；讨论两件同期证据与迟到可能性。尚需再次核对刊物卷期页码，书目暂不虚填。
+- 与 E 为有立场差异的研究，不用“所有历史学家已证明……”概括。合理正文限于确实保存的收件信及后续宣读，邮程歧见放短尾注。
+
+### G. 辅助核对（不替代长篇研究）
+
+- John van Wyhe, “Alfred Russel Wallace. A biographical sketch”：https://wallace-online.org/Wallace-Bio-Sketch_John_van_Wyhe.html 。已实际读早年及后半生简述。含对其他研究者的激烈评价，不采用其贬损语和全称断语。哥哥去世给 1845-03，与自传冲突须再找同期或档案验证。
+- Natural History Museum, “The Alfred Russel Wallace collection”：https://www.nhm.ac.uk/our-science/services/library/collections/wallace.html 。已实际检索并阅读返回的完整馆藏介绍；鱼类绘图与家庭信件馆藏可作交叉线索。原 Wallace Letters Online 全集已不能完整访问，不能假定所有旧链接仍可读；可用 Cambridge Epsilon 和馆方目录继续找单封。
+- Bournemouth Natural Science Society, Keri Murrell, “Alfred Russel Wallace”：https://bnss.org.uk/sections/general-section/alfred-russel-wallace/ 。实际打开读。只辅助核对 1902 Old Orchard、1903 社团和 1913-11-07 去世，不能采信其把旅行动机概括为“为解决物种起源而出发”等全部叙述。
+- Wallace Memorial Fund, “Wallace's assistants”：https://wallacefund.myspecies.info/wallaces-assistants 。当前只读搜索服务返回的详细摘录，原页尚未打开；不记作全文已读。阿里肖像注明 1862 照片而 1905 刊印；另有对数字图声称权利，采用前换公版出版扫描并核权。
+- ZSL “Alfred Russel Wallace and colonialism”：https://www.zsl.org/news-and-events/feature/alfred-russel-wallace-colonialism 。当前只读返回摘录；计划追读原页及引用的 1869 原段。不能把评论文章对动机的解释作无归属事实。
+
+## 内部年表（核查状态）
+
+| 年代 | 事件 | 状态 |
+|---|---|---|
+| 1823-01-08 | 生于 Usk 附近 | 辅助整理已核；早年原始家庭记录待读 |
+| 1837 | 离校、伦敦，后随威廉学测量 | 辅助整理已核；自传相应章待完整读 |
+| 1844–45 | 莱斯特教职、贝茨与阅读 | 已读自传；确切月份和离职年须对照 |
+| 1848 | 与贝茨赴巴西 | 已读准备段；船名及抵达日待读原记录 |
+| 1852-07-12 / 08-06 | Helen 起航 / 失火 | 已读同期信转录 |
+| 1852-10 | 经 Deal 返伦敦 | 已读信续写 |
+| 1854–62 | 马来群岛采集 | 概览已核；助手与分段路线待展开 |
+| 1855 | 砂拉越论文 | 已确认书目；正文待读 |
+| 1858-02 | 特尔纳特论文落款 | 已读原刊 |
+| 1858-06-18 | 达尔文向莱尔报告收件 | 已读同期信 |
+| 1858-07-01 / 08-20 | 宣读 / 刊印联合材料 | 已读原刊及整理说明 |
+| 1862 | 返英整理藏品 | 已读游记序言 |
+| 1866 | 与 Annie Mitten 结婚 | 概览核对；家庭信件待读 |
+| 1869 | Malay Archipelago 出版 | 题名、序言已读；正文采用章待读 |
+| 1870 | 汉普登赌约 | 自传诉讼段已读；实验装置与司法独立材料待读 |
+| 1876 / 1880 | Geographical Distribution / Island Life | 书目定位，采用章节未读 |
+| 1881 | 年金首次支付 | 自传已读；官方/同期通信待核 |
+| 1886–87 / 1889 | 美国演讲 / Darwinism | 书目与概览已核；书与通信未读 |
+| 1902 / 1913-11-07 | Old Orchard / 去世 | 地方社团核对；家人回忆及讣告待核 |
+
+## 关系、地点、经济与争议
+
+- 亲属：威廉（测量业）、约翰（建筑）、Fanny 与 Thomas Sims、赫伯特（巴西）；母亲姓名、父亲职业与遗产要读家庭章，不凭记忆填。妻 Annie Mitten、岳父 William Mitten、三个子女及长子早逝需逐项读信核验。
+- 同行：贝茨、斯普鲁斯、史蒂文斯、道布尔戴、达尔文、莱尔、胡克；分类专家 Pascoe、Saunders。艾伦和阿里是技能劳动者，不是给“孤独发现”作背景的人。
+- 地点：Usk—Hertford—London—英格兰/威尔士测量—Leicester—Neath—Pará/里奥内格罗—London—Singapore—Borneo/各岛—Ternate 基地—返英多处住宅。逐岛行程不能照游记地理章次序排。
+- 经济线：教职食宿和有限薪金→重复标本销售及代理保险→返英售藏收入与投资→著书/讲课/阅卷→投资亏损、诉讼、亲属提前馈赠与年金。不能写成终身赤贫或返英即没有收入。
+- 争议：寄件日期；自然选择与人类心智的边界；招魂术的所谓证据；反种痘立场；殖民采集和地方贡献；土地政策。后四项目前没有完成足够的一手和批判性阅读，不能在正文作定论。
