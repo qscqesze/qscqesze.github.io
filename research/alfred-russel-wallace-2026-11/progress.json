@@ -3,9 +3,9 @@
   "research_started": "2026-11-02",
   "updated": "2026-11-03",
   "draft": "_drafts/2026-11-02-alfred-russel-wallace.md",
-  "status": "publication_pending_checks",
-  "completed": false,
-  "published": false,
+  "status": "completed",
+  "completed": true,
+  "published": true,
   "body_hanzi": 18268,
   "target_hanzi_min": 18000,
   "target_hanzi_max": 22000,
@@ -20,19 +20,40 @@
     "author": "qscqesze",
     "draft_published_false": true,
     "formal_post_created": true,
-    "image_licence_display_checks": "6 historical images; licences and source visuals checked; public-page check pending",
-    "build": "local bundle/pytest absent; repository CI required"
+    "image_licence_display_checks": "6 historical images: source/permission reviewed; all 6 loaded on public page with naturalWidth > 0",
+    "build": "GitHub Actions tests, Jekyll build and internal links passed",
+    "public_page": {
+      "title_verified": true,
+      "loaded_images": 6,
+      "footnote_anchors": 70,
+      "missing_footnote_targets": 0,
+      "viewport_width": 1348,
+      "document_scroll_width": 1348,
+      "image_max_width": "100%",
+      "mobile_emulation_tested": false
+    }
   },
-  "next_action": "Complete CI/deployment verification for THIS post before marking completed; fix any introduced failures. No new person until verification succeeds.",
+  "next_action": "Resume new-person research at the next cycle; do not republish Wallace.",
   "resume": "research/alfred-russel-wallace-2026-11/README.md",
-  "blocking_gaps": [
-    "CI and deployment/public-page checks pending"
-  ],
+  "blocking_gaps": [],
   "deployment": {
-    "status": "pending",
-    "note": "Do not report publication or completed until successful deployment and public-page verification."
+    "status": "success",
+    "commit": "cc1ce6d24f048f11d15bc25a7deb7752b52dc7f7",
+    "workflows": [
+      {
+        "id": 41560088500,
+        "conclusion": "success"
+      },
+      {
+        "id": 41560087653,
+        "conclusion": "success"
+      }
+    ],
+    "public_page_verified": "2026-11-03",
+    "note": "Six lazy-loaded images inspected after scrolling; no horizontal overflow at observed viewport. No claim of device emulation."
   },
   "source": "_posts/2026-11-03-alfred-russel-wallace.md",
   "article_url": "https://qscqesze.github.io/posts/alfred-russel-wallace/",
-  "audit": "research/alfred-russel-wallace-2026-11/audit-2026-11-03.md"
+  "audit": "research/alfred-russel-wallace-2026-11/audit-2026-11-03.md",
+  "publication_commit": "cc1ce6d24f048f11d15bc25a7deb7752b52dc7f7"
 }

@@ -4,7 +4,7 @@
 
 ## 当前状态
 
-**当前检查（2026-11-03）：华莱士篇成稿待部署核验。** 正文18,268汉字、六幅历史图像、70条连续注释；完成事实和文字两轮审读，详见[本篇审读](../alfred-russel-wallace-2026-11/audit-2026-11-03.md)与[进度](../alfred-russel-wallace-2026-11/progress.json)。先完成此次提交的CI、部署和公开页图像/注释检查；尚不能宣称已发布或completed。不另选人物，直到本篇核验完成。
+**当前完成（2026-11-03）：华莱士篇已[发布](https://qscqesze.github.io/posts/alfred-russel-wallace/)。** 正文18,268汉字、六幅历史图像、70条连续注释，署名qscqesze。发布提交`cc1ce6d24f048f11d15bc25a7deb7752b52dc7f7`，Pages工作流41560088500与41560087653均成功；公开页六图加载、70条注释目标完整。详见[审读](../alfred-russel-wallace-2026-11/audit-2026-11-03.md)与[进度](../alfred-russel-wallace-2026-11/progress.json)。下次恢复新人物研究，不重复发布本篇。
 
 **三篇旧传记均已完成并部署。** 哈里森正文18,088汉字、六幅图；安宁正文18,219汉字、六幅图；梅里安正文18,377汉字、六幅图。三篇均保留原日期、permalink与署名qscqesze，`_drafts`版本作为工作归档。逐篇统计、提交和部署记录见progress.json。
 

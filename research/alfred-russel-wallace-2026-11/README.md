@@ -1,6 +1,6 @@
 # 华莱士传记：续写入口
 
-2026-11-02 建立；2026-11-03已写完并完成两轮审读，正文18,268汉字、六图、70注。正式路径 `_posts/2026-11-03-alfred-russel-wallace.md`，目前待CI、部署和公开页核验。先读 progress.json 与 audit-2026-11-03.md；禁止把pending写成completed，不另开人物。图片采用记录见 images.md；下文篇幅规划和未读清单保留为前一日工作历史，以 evidence.md 的2026-11-03增量为准。
+2026-11-03已[发布](https://qscqesze.github.io/posts/alfred-russel-wallace/)，正文18,268汉字、六图、70注，署名qscqesze。事实与文字两轮审读完成；发布提交`cc1ce6d24f048f11d15bc25a7deb7752b52dc7f7`，Pages工作流41560088500与41560087653均成功。公开页六图加载、70条注释目标完整，当前视口无横向溢出；未做移动设备模拟。详情见progress.json、audit-2026-11-03.md与images.md。下次恢复新人物研究，不重复发表本篇。下文旧规划与未读清单为前一日历史，以evidence.md的2026-11-03增量为准。
 
 ## 已完成任务的核对
 

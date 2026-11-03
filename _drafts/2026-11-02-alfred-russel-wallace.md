@@ -2,7 +2,7 @@
 title: "研究草稿：华莱士的标本与生活"
 author: qscqesze
 published: false
-revision_status: ready_for_build
+revision_status: completed_archive
 translate: false
 categories:
   - 历史与社会
