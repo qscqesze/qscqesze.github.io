@@ -1,6 +1,6 @@
 # 华莱士传记：续写入口
 
-2026-11-02 建立。本文尚未完成，禁止发布。先核对本目录 progress.json 与 `_drafts/2026-11-02-alfred-russel-wallace.md`，不要另开人物。
+2026-11-02 建立；2026-11-03已写完并完成两轮审读，正文18,268汉字、六图、70注。正式路径 `_posts/2026-11-03-alfred-russel-wallace.md`，目前待CI、部署和公开页核验。先读 progress.json 与 audit-2026-11-03.md；禁止把pending写成completed，不另开人物。图片采用记录见 images.md；下文篇幅规划和未读清单保留为前一日工作历史，以 evidence.md 的2026-11-03增量为准。
 
 ## 已完成任务的核对
 

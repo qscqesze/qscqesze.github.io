@@ -1,40 +1,38 @@
 {
   "person": "Alfred Russel Wallace 华莱士",
   "research_started": "2026-11-02",
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "draft": "_drafts/2026-11-02-alfred-russel-wallace.md",
-  "status": "research_and_partial_draft",
+  "status": "publication_pending_checks",
   "completed": false,
   "published": false,
-  "body_hanzi": 4674,
+  "body_hanzi": 18268,
   "target_hanzi_min": 18000,
   "target_hanzi_max": 22000,
-  "remaining_to_minimum": 13326,
-  "images": 0,
-  "footnotes": 18,
-  "fact_review": "preliminary corrections only; full independent review pending",
-  "language_review": "preliminary reordering and edits only; full review pending",
+  "remaining_to_minimum": 0,
+  "images": 6,
+  "footnotes": 70,
+  "fact_review": "completed; concrete corrections in audit-2026-11-03.md",
+  "language_review": "completed; paragraph and structural edits in audit-2026-11-03.md",
   "checks": {
     "independent_count_agrees": true,
     "continuous_notes": true,
     "author": "qscqesze",
     "draft_published_false": true,
-    "formal_post_created": false,
-    "image_licence_display_checks": "incomplete; 0 adopted images",
-    "build": "not yet run; unpublished research checkpoint"
+    "formal_post_created": true,
+    "image_licence_display_checks": "6 historical images; licences and source visuals checked; public-page check pending",
+    "build": "local bundle/pytest absent; repository CI required"
   },
-  "next_action": "Continue THIS person from evidence.md. Read missing primary texts and a substantial modern study; write the complete life to 18000-22000 narrative Han; adopt 6-10 verified historical images; complete both reviews before creating a formal post. Do not choose another person.",
+  "next_action": "Complete CI/deployment verification for THIS post before marking completed; fix any introduced failures. No new person until verification succeeds.",
   "resume": "research/alfred-russel-wallace-2026-11/README.md",
   "blocking_gaps": [
-    "body below 18000 Han",
-    "early family and Malay fieldwork insufficiently developed",
-    "marriage, later scientific work and final decades not drafted",
-    "historical images not adopted",
-    "full fact and prose reviews pending",
-    "publication and deployment not attempted"
+    "CI and deployment/public-page checks pending"
   ],
   "deployment": {
-    "status": "not_published",
-    "note": "No article URL or publication claim; CI for a checkpoint does not constitute article publication."
-  }
+    "status": "pending",
+    "note": "Do not report publication or completed until successful deployment and public-page verification."
+  },
+  "source": "_posts/2026-11-03-alfred-russel-wallace.md",
+  "article_url": "https://qscqesze.github.io/posts/alfred-russel-wallace/",
+  "audit": "research/alfred-russel-wallace-2026-11/audit-2026-11-03.md"
 }
