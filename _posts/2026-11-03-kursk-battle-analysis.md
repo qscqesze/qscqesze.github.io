@@ -5,10 +5,11 @@ permalink: /posts/kursk-battle-analysis/
 author: qscqesze
 excerpt: "从作战计划、情报、地形、兵力到战斗进程，重建1943年库尔斯克会战，并解释德军为何在自己选择的战场上失去主动权。"
 categories:
+  - 历史与社会
+tags:
   - 军事史
   - 第二次世界大战
   - 东线
-tags:
   - 库尔斯克
   - 堡垒行动
   - 普罗霍罗夫卡
