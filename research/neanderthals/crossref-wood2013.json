@@ -1,0 +1,588 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        21
+      ]
+    ],
+    "date-time": "2026-08-21T13:14:51Z",
+    "timestamp": 1787318091146,
+    "version": "build-2736575974"
+  },
+  "reference-count": 53,
+  "publisher": "National Academy of Sciences",
+  "issue": "8",
+  "content-domain": {
+    "domain": [
+      "www.pnas.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Proc. Natl. Acad. Sci. U.S.A."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2013,
+        2,
+        19
+      ]
+    ]
+  },
+  "abstract": "<jats:p>\n                    It is commonly accepted that some of the latest dates for Neanderthal fossils and Mousterian industries are found south of the Ebro valley in Iberia at\n                    <jats:italic>ca.</jats:italic>\n                    36 ka calBP (calibrated radiocarbon date ranges). In contrast, to the north of the valley the Mousterian disappears shortly before the Proto-Aurignacian appears at\n                    <jats:italic>ca.</jats:italic>\n                    42 ka calBP. The latter is most likely produced by anatomically modern humans. However, two-thirds of dates from the south are radiocarbon dates, a technique that is particularly sensitive to carbon contaminants of a younger age that can be difficult to remove using routine pretreatment protocols. We have attempted to test the reliability of chronologies of 11 southern Iberian Middle and early Upper Paleolithic sites. Only two, Jarama VI and Zafarraya, were found to contain material that could be reliably dated. In both sites, Middle Paleolithic contexts were previously dated by radiocarbon to less than 42 ka calBP. Using ultrafiltration to purify faunal bone collagen before radiocarbon dating, we obtain ages at least 10 ka\n                    <jats:sup>14</jats:sup>\n                    C years older, close to or beyond the limit of the radiocarbon method for the Mousterian at Jarama VI and Neanderthal fossils at Zafarraya. Unless rigorous pretreatment protocols have been used, radiocarbon dates should be assumed to be inaccurate until proven otherwise in this region. Evidence for the late survival of Neanderthals in southern Iberia is limited to one possible site, Cueva Antón, and alternative models of human occupation of the region should be considered.\n                  </jats:p>",
+  "DOI": "10.1073/pnas.1207656110",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2013,
+        2,
+        4
+      ]
+    ],
+    "date-time": "2013-02-04T23:29:25Z",
+    "timestamp": 1360020565000
+  },
+  "page": "2781-2786",
+  "update-policy": "https://doi.org/10.1073/pnas.cm10313",
+  "source": "Crossref",
+  "is-referenced-by-count": 171,
+  "title": [
+    "Radiocarbon dating casts doubt on the late chronology of the Middle to Upper Palaeolithic transition in southern Iberia"
+  ],
+  "prefix": "10.1073",
+  "volume": "110",
+  "author": [
+    {
+      "given": "Rachel E.",
+      "family": "Wood",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Research School of Earth Sciences, Australian National University, Canberra, 0200, Australia;"
+        },
+        {
+          "name": "Research Laboratory for Archaeology and the History of Art, University of Oxford, Oxford OX1 3QY, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Cecilio",
+      "family": "Barroso-Ruíz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Museo Arqueológico y Etnológico de Lucena, 14900 Lucena, Spain;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Miguel",
+      "family": "Caparrós",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Département de Préhistoire, Muséum National d'Histoire Naturelle, 75013 París, France;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jesús F.",
+      "family": "Jordá Pardo",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Departamento de Prehistoria y Arqueología, Universidad Nacional de Educación a Distancia, 28040 Madrid, Spain; and"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Bertila",
+      "family": "Galván Santos",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Departamento de Prehistoria, Arqueología, Antropología e Historia Antigua, Universidad de la Laguna, 38071 Tenerife, Spain"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Thomas F. G.",
+      "family": "Higham",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Research Laboratory for Archaeology and the History of Art, University of Oxford, Oxford OX1 3QY, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "341",
+  "published-online": {
+    "date-parts": [
+      [
+        2013,
+        2,
+        4
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_3_1_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/204689"
+    },
+    {
+      "key": "e_1_3_3_2_2",
+      "first-page": "169",
+      "volume-title": "L'homme de Neandertal, vol. 2, L'environnement [Neanderthal Man, vol.2, The Environment]",
+      "author": "Vega Toscano LG",
+      "year": "1988",
+      "unstructured": "LG Vega Toscano, M Hoyos, A Ruiz-Bustos, H Laville L'homme de Neandertal, vol. 2, L'environnement [Neanderthal Man, vol.2, The Environment], ed M Otte (Études et Recherches Archéologiquesde l'Université de Liège, Liège), pp. 169–180, French. (1988)."
+    },
+    {
+      "key": "e_1_3_3_3_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2004.11.019"
+    },
+    {
+      "key": "e_1_3_3_4_2",
+      "first-page": "105",
+      "volume-title": "When Neanderthals and Modern Humans Met",
+      "author": "Hublin J-J",
+      "year": "2006",
+      "unstructured": "J-J Hublin, SE Bailey When Neanderthals and Modern Humans Met, ed NJ Conard (Kerns, Tuebingen), pp. 105–128 (2006)."
+    },
+    {
+      "key": "e_1_3_3_5_2",
+      "first-page": "7",
+      "article-title": "Chronostratigraphy of the Middle-to-Upper Paleolithic transition in the Iberian Peninsula",
+      "volume": "37",
+      "author": "Zilhão J",
+      "year": "2006",
+      "unstructured": "J Zilhão, Chronostratigraphy of the Middle-to-Upper Paleolithic transition in the Iberian Peninsula. Pyrenae 37, 7–84 (2006).",
+      "journal-title": "Pyrenae"
+    },
+    {
+      "key": "e_1_3_3_6_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev.anthro.34.030905.154913"
+    },
+    {
+      "key": "e_1_3_3_7_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2009.02.003"
+    },
+    {
+      "key": "e_1_3_3_8_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature10484"
+    },
+    {
+      "key": "e_1_3_3_9_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1023/A:1022332217614"
+    },
+    {
+      "key": "e_1_3_3_10_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.geobios.2006.01.004"
+    },
+    {
+      "key": "e_1_3_3_11_2",
+      "first-page": "155",
+      "volume-title": "Neanderthals on the Edge",
+      "author": "Pettitt PB",
+      "year": "2000",
+      "unstructured": "PB Pettitt, RM Bailey Neanderthals on the Edge, eds CB Stringer, RNE Barton, JC Finlayson (Oxbow Books, Oxford), pp. 155–162 (2000)."
+    },
+    {
+      "key": "e_1_3_3_12_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature05195"
+    },
+    {
+      "key": "e_1_3_3_13_2",
+      "first-page": "931",
+      "article-title": "The Mousterian site of Zafarraya (Andalucia, Spain): Dating and implications on the Palaeolithic peopling processes of Western Europe",
+      "volume": "32",
+      "author": "Hublin J-J",
+      "year": "1995",
+      "unstructured": "J-J Hublin, C Barroso-Ruiz, PM Lara, M Fontugne, J Reyss, The Mousterian site of Zafarraya (Andalucia, Spain): Dating and implications on the Palaeolithic peopling processes of Western Europe. C R Acad Sci II 32(série IIa)1, 931–937 (1995).",
+      "journal-title": "C R Acad Sci II"
+    },
+    {
+      "key": "e_1_3_3_14_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0702214104"
+    },
+    {
+      "key": "e_1_3_3_15_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0277-3791(03)00009-X"
+    },
+    {
+      "key": "e_1_3_3_16_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3989/tp.2003.v60.i2.79"
+    },
+    {
+      "key": "e_1_3_3_17_2",
+      "first-page": "107",
+      "article-title": "El tránsito Paleolítico Medio/Superior en la Península Ibérica y la Frontera del Ebro. Comentario a Zilhão",
+      "volume": "37",
+      "author": "Vaquero M",
+      "year": "2006",
+      "unstructured": "M Vaquero, El tránsito Paleolítico Medio/Superior en la Península Ibérica y la Frontera del Ebro. Comentario a Zilhão. Pyrenae 37, 107–129 (2006).",
+      "journal-title": "Pyrenae"
+    },
+    {
+      "key": "e_1_3_3_18_2",
+      "first-page": "127",
+      "volume-title": "El Origen Del hombre Moderno En El Suroeste De Europa [The Origin of Modern Humans in the Southeast of Europe]",
+      "author": "Zilhão J",
+      "year": "1993",
+      "unstructured": "J Zilhão El Origen Del hombre Moderno En El Suroeste De Europa [The Origin of Modern Humans in the Southeast of Europe], ed V Cabrera Valdés (UNED, Madrid), pp. 127–145, Spanish. (1993)."
+    },
+    {
+      "key": "e_1_3_3_19_2",
+      "first-page": "293",
+      "volume-title": "The Mediterranean From 50 000 to 25 000 BP: Turning Points and New Directions",
+      "author": "Zilhão J",
+      "year": "2009",
+      "unstructured": "J Zilhão The Mediterranean From 50 000 to 25 000 BP: Turning Points and New Directions, eds M Camps, C Szmidt (Oxbow Book, Oxford), pp. 293–312 (2009)."
+    },
+    {
+      "key": "e_1_3_3_20_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2007.11.016"
+    },
+    {
+      "key": "e_1_3_3_21_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2008.04.002"
+    },
+    {
+      "key": "e_1_3_3_22_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0003598X00067570"
+    },
+    {
+      "key": "e_1_3_3_23_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quascirev.2008.12.018"
+    },
+    {
+      "key": "e_1_3_3_24_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2011.06.005"
+    },
+    {
+      "key": "e_1_3_3_25_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2012.03.003"
+    },
+    {
+      "key": "e_1_3_3_26_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0033822200045069"
+    },
+    {
+      "key": "e_1_3_3_27_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jas.2009.11.015"
+    },
+    {
+      "key": "e_1_3_3_28_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3166/ga.20.209-217"
+    },
+    {
+      "key": "e_1_3_3_29_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2012.03.006"
+    },
+    {
+      "key": "e_1_3_3_30_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pone.0008880"
+    },
+    {
+      "key": "e_1_3_3_31_2",
+      "first-page": "21",
+      "volume-title": "El Pleistoceno Superior de la Cueva del Boquete de Zafarraya [The Late Pleistocene of the Cave of the Boquete de Zafarraya]",
+      "author": "Barroso-Ruiz C",
+      "year": "2003",
+      "unstructured": "C Barroso-Ruiz, F Medina Lara, M Caparros El Pleistoceno Superior de la Cueva del Boquete de Zafarraya [The Late Pleistocene of the Cave of the Boquete de Zafarraya], ed C Barroso-Ruiz (Junta de Andalucia, Seville), pp. 21, Spanish. (2003)."
+    },
+    {
+      "key": "e_1_3_3_32_2",
+      "first-page": "431",
+      "volume-title": "El Pleistoceno Superior de la Cueva del Boquete de Zafarraya [The Late Pleistocene of the Cave of the Boquete de Zafarraya]",
+      "author": "Barroso-Ruiz C",
+      "year": "2003",
+      "unstructured": "C Barroso-Ruiz, F Medina Lara, P Boutie, D Barsky El Pleistoceno Superior de la Cueva del Boquete de Zafarraya [The Late Pleistocene of the Cave of the Boquete de Zafarraya], ed C Barroso-Ruiz (Junta de Andalucia, Seville), pp. 431–468, Spanish. (2003)."
+    },
+    {
+      "key": "e_1_3_3_33_2",
+      "first-page": "469",
+      "volume-title": "El Pleistoceno Superior de la Cueva del Boquete de Zafarraya [The Late Pleistocene of the Cave of the Boquete de Zafarraya]",
+      "author": "Barroso-Ruiz C",
+      "year": "2003",
+      "unstructured": "C Barroso-Ruiz, F Medina Lara, G Onoratini, C Joris El Pleistoceno Superior de la Cueva del Boquete de Zafarraya [The Late Pleistocene of the Cave of the Boquete de Zafarraya], ed C Barroso-Ruiz (Junta de Andalucia, Seville), pp. 469–495, Spanish. (2003)."
+    },
+    {
+      "key": "e_1_3_3_34_2",
+      "first-page": "327",
+      "volume-title": "El Pleistoceno Superior de la Cueva del Boquete de Zafarraya [The Late Pleistocene of the Cave of the Boquete de Zafarraya]",
+      "author": "Barroso-Ruiz C",
+      "year": "2003",
+      "unstructured": "C Barroso-Ruiz, MA De Lumley, M Caparrós, L Verdú El Pleistoceno Superior de la Cueva del Boquete de Zafarraya [The Late Pleistocene of the Cave of the Boquete de Zafarraya], ed C Barroso-Ruiz (Junta de Andalucia, Seville), pp. 327–388, Spanish. (2003)."
+    },
+    {
+      "key": "e_1_3_3_35_2",
+      "first-page": "113",
+      "volume-title": "El Pleistoceno Superior de la Cueva del Boquete de Zafarraya [The Late Pleistocene of the Cave of the Boquete de Zafarraya]",
+      "author": "Michel V",
+      "year": "2003",
+      "unstructured": "V Michel, et al. El Pleistoceno Superior de la Cueva del Boquete de Zafarraya [The Late Pleistocene of the Cave of the Boquete de Zafarraya], ed C Barroso-Ruiz (Junta de Andalucia, Seville), pp. 113–133, Spanish. (2003)."
+    },
+    {
+      "key": "e_1_3_3_36_2",
+      "first-page": "487",
+      "volume-title": "La grotte du Boquete de Zafarraya, Málaga, Andalousie [The Cave of the Boquete de Zafarraya, Malaga, Andalucia]",
+      "author": "Michel V",
+      "year": "2006",
+      "unstructured": "V Michel, et al. La grotte du Boquete de Zafarraya, Málaga, Andalousie [The Cave of the Boquete de Zafarraya, Malaga, Andalucia], ed C Barroso-Ruiz (Junta de Andalucia, Seville), pp. 487–518, French. (2006)."
+    },
+    {
+      "key": "e_1_3_3_37_2",
+      "first-page": "509",
+      "volume-title": "El Pleistoceno Superior de la Cueva del Boquete de Zafarraya [The Late Pleistocene of the Cave of the Boquete de Zafarraya]",
+      "author": "Barroso-Ruiz C",
+      "year": "2003",
+      "unstructured": "C Barroso-Ruiz, et al. El Pleistoceno Superior de la Cueva del Boquete de Zafarraya [The Late Pleistocene of the Cave of the Boquete de Zafarraya], ed C Barroso-Ruiz (Junta de Andalucia, Seville), pp. 509–520, Spanish. (2003)."
+    },
+    {
+      "key": "e_1_3_3_38_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.crpv.2011.06.002"
+    },
+    {
+      "key": "e_1_3_3_39_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/1359-0189(88)90071-4"
+    },
+    {
+      "key": "e_1_3_3_40_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0016-7037(96)00050-6"
+    },
+    {
+      "key": "e_1_3_3_41_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quageo.2007.07.001"
+    },
+    {
+      "key": "e_1_3_3_42_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jasc.1998.0385"
+    },
+    {
+      "key": "e_1_3_3_43_2",
+      "first-page": "192",
+      "volume-title": "Climates of Northern and Western Europe",
+      "author": "Lines Escardó A",
+      "year": "1970",
+      "unstructured": "A Lines Escardó Climates of Northern and Western Europe, ed CC Wallén (Elsevier, Amsterdam), pp. 192–239 (1970)."
+    },
+    {
+      "key": "e_1_3_3_44_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2011.03.034"
+    },
+    {
+      "key": "e_1_3_3_45_2",
+      "article-title": "New U-series results for the speleogenesis and the Palaeolithic archaeology of the Almonda karstic system (Torres Novas, Portugal)",
+      "author": "Hoffmann DL",
+      "year": "2012",
+      "unstructured": "DL Hoffmann, AWG Pike, K Wainer, J Zilhão, New U-series results for the speleogenesis and the Palaeolithic archaeology of the Almonda karstic system (Torres Novas, Portugal). Quat Int, 2012).",
+      "journal-title": "Quat Int"
+    },
+    {
+      "key": "e_1_3_3_46_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0914088107"
+    },
+    {
+      "key": "e_1_3_3_47_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quascirev.2006.08.002"
+    },
+    {
+      "key": "e_1_3_3_48_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quascirev.2006.08.003"
+    },
+    {
+      "key": "e_1_3_3_49_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0033822200034202"
+    },
+    {
+      "key": "e_1_3_3_50_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0033822200033865"
+    },
+    {
+      "key": "e_1_3_3_51_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2011.07.026"
+    },
+    {
+      "key": "e_1_3_3_52_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.yqres.2010.11.002"
+    },
+    {
+      "key": "e_1_3_3_53_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0033822200039308"
+    }
+  ],
+  "container-title": [
+    "Proceedings of the National Academy of Sciences"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://pnas.org/doi/pdf/10.1073/pnas.1207656110",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        4,
+        12
+      ]
+    ],
+    "date-time": "2022-04-12T20:27:09Z",
+    "timestamp": 1649795229000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://pnas.org/doi/full/10.1073/pnas.1207656110"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2013,
+        2,
+        4
+      ]
+    ]
+  },
+  "references-count": 53,
+  "journal-issue": {
+    "issue": "8",
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          2,
+          19
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1073/pnas.1207656110"
+  ],
+  "URL": "https://doi.org/10.1073/pnas.1207656110",
+  "relation": {},
+  "ISSN": [
+    "0027-8424",
+    "1091-6490"
+  ],
+  "issn-type": [
+    {
+      "value": "0027-8424",
+      "type": "print"
+    },
+    {
+      "value": "1091-6490",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2013,
+        2,
+        4
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2013-02-04",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

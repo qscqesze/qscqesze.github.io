@@ -1,0 +1,577 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        3
+      ]
+    ],
+    "date-time": "2026-09-03T04:45:58Z",
+    "timestamp": 1788410758379,
+    "version": "build-2803163510"
+  },
+  "reference-count": 64,
+  "publisher": "National Academy of Sciences",
+  "issue": "38",
+  "content-domain": {
+    "domain": [
+      "www.pnas.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Proc. Natl. Acad. Sci. U.S.A."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2009,
+        9,
+        22
+      ]
+    ]
+  },
+  "abstract": "<jats:p>\n                    Western Eurasia yielded a rich Middle (MP) and Late Pleistocene (LP) fossil record documenting the evolution of the Neandertals that can be analyzed in light of recently acquired paleogenetical data, an abundance of archeological evidence, and a well-known environmental context. Their origin likely relates to an episode of recolonization of Western Eurasia by hominins of African origin carrying the Acheulean technology into Europe around 600 ka. An enhancement of both glacial and interglacial phases may have played a crucial role in this event, as well as in the subsequent evolutionary history of the Western Eurasian populations. In addition to climatic adaptations and an increase in encephalization, genetic drift seems to have played a major role in their evolution. To date, a clear speciation event is not documented, and the most likely scenario for the fixation of Neandertal characteristics seems to be an accretion of features along the second half of the MP. Although a separation time for the African and Eurasian populations is difficult to determine, it certainly predates OIS 11 as phenotypic Neandertal features are documented as far back as and possibly before this time. It is proposed to use the term “\n                    <jats:italic>Homo rhodesiensis</jats:italic>\n                    ” to designate the large-brained hominins ancestral to\n                    <jats:italic>H. sapiens</jats:italic>\n                    in Africa and at the root of the Neandertals in Europe, and to use the term “\n                    <jats:italic>Homo neanderthalensis</jats:italic>\n                    ” to designate all of the specimens carrying derived metrical or non-metrical features used in the definition of the LP Neandertals.\n                  </jats:p>",
+  "DOI": "10.1073/pnas.0904119106",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2009,
+        9,
+        16
+      ]
+    ],
+    "date-time": "2009-09-16T00:10:03Z",
+    "timestamp": 1253059803000
+  },
+  "page": "16022-16027",
+  "update-policy": "https://doi.org/10.1073/pnas.cm10313",
+  "source": "Crossref",
+  "is-referenced-by-count": 389,
+  "title": [
+    "The origin of Neandertals"
+  ],
+  "prefix": "10.1073",
+  "volume": "106",
+  "author": [
+    {
+      "given": "J. J.",
+      "family": "Hublin",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "341",
+  "published-online": {
+    "date-parts": [
+      [
+        2009,
+        9,
+        22
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_3_1_2",
+      "first-page": "249",
+      "article-title": "The Neanderthal Phase of man",
+      "volume": "57",
+      "author": "Hrdlicka A",
+      "year": "1927",
+      "unstructured": "A Hrdlicka, The Neanderthal Phase of man. J Royal Anthropol Inst 57, 249–274 (1927).",
+      "journal-title": "J Royal Anthropol Inst"
+    },
+    {
+      "key": "e_1_3_3_2_2",
+      "first-page": "81",
+      "volume-title": "L'Homme de Néandertal N°3",
+      "author": "Hublin J-J",
+      "year": "1988",
+      "unstructured": "J-J Hublin L'Homme de Néandertal N°3, ed E Trinkaus, pp. 81–94 (1988)."
+    },
+    {
+      "key": "e_1_3_3_3_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1997.0133"
+    },
+    {
+      "key": "e_1_3_3_4_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature06193"
+    },
+    {
+      "key": "e_1_3_3_5_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ajhb.10070"
+    },
+    {
+      "key": "e_1_3_3_6_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "113",
+      "DOI": "10.1007/978-1-4020-5121-0_7",
+      "volume-title": "Neanderthals Revisited: New Approaches and Perspectives",
+      "author": "Churchill SE",
+      "year": "2006",
+      "unstructured": "SE Churchill Neanderthals Revisited: New Approaches and Perspectives, eds K Harvati, T Harrison (Springer, New York), pp. 113–134 (2006)."
+    },
+    {
+      "key": "e_1_3_3_7_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0903821106"
+    },
+    {
+      "key": "e_1_3_3_8_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/(SICI)1096-8644(199710)104:2<245::AID-AJPA10>3.0.CO;2-#"
+    },
+    {
+      "key": "e_1_3_3_9_2",
+      "first-page": "295",
+      "volume-title": "Neandertals and Modern Humans in Western Asia",
+      "author": "Hublin J-J",
+      "year": "1998",
+      "unstructured": "J-J Hublin Neandertals and Modern Humans in Western Asia, eds T Akazawa, K Aoki, O Bar-Yosef (Plenum Press, New York), pp. 295–310 (1998)."
+    },
+    {
+      "key": "e_1_3_3_10_2",
+      "first-page": "503",
+      "article-title": "Ebb and flow or regional extinctions? On the character of Neandertal occupation of northern environments",
+      "volume": "8",
+      "author": "Hublin J-J",
+      "year": "2009",
+      "unstructured": "J-J Hublin, W Roebroeks, Ebb and flow or regional extinctions? On the character of Neandertal occupation of northern environments. Pal Evol 8, 503–509 (2009).",
+      "journal-title": "Pal Evol"
+    },
+    {
+      "key": "e_1_3_3_11_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10745-006-9041-1"
+    },
+    {
+      "key": "e_1_3_3_12_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0308085100"
+    },
+    {
+      "key": "e_1_3_3_13_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0808160106"
+    },
+    {
+      "key": "e_1_3_3_14_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pbio.0020057"
+    },
+    {
+      "key": "e_1_3_3_15_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.96.9.5077"
+    },
+    {
+      "key": "e_1_3_3_16_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2007.03.001"
+    },
+    {
+      "key": "e_1_3_3_17_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0809194105"
+    },
+    {
+      "key": "e_1_3_3_18_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.2536671100"
+    },
+    {
+      "key": "e_1_3_3_19_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/35087573"
+    },
+    {
+      "key": "e_1_3_3_20_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0812554106"
+    },
+    {
+      "key": "e_1_3_3_21_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0707051104"
+    },
+    {
+      "key": "e_1_3_3_22_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ajpa.20930"
+    },
+    {
+      "key": "e_1_3_3_23_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cell.2008.06.021"
+    },
+    {
+      "key": "e_1_3_3_24_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1131412"
+    },
+    {
+      "key": "e_1_3_3_25_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/evan.20160"
+    },
+    {
+      "key": "e_1_3_3_26_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-1-4899-1507-8_8"
+    },
+    {
+      "key": "e_1_3_3_27_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/(SICI)1520-6505(1998)6:6<218::AID-EVAN4>3.0.CO;2-6"
+    },
+    {
+      "key": "e_1_3_3_28_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/(SICI)1520-6505(2000)9:1<2::AID-EVAN2>3.0.CO;2-2"
+    },
+    {
+      "key": "e_1_3_3_29_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0016-6995(98)80055-7"
+    },
+    {
+      "key": "e_1_3_3_30_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2008.12.006"
+    },
+    {
+      "key": "e_1_3_3_31_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1999.0367"
+    },
+    {
+      "key": "e_1_3_3_32_2",
+      "unstructured": "SE Bailey Neandertal dental morphology: Implications for modern human origins.  (Arizona State University Tempe AZ) pp. 236 PhD dissertation. (2002)."
+    },
+    {
+      "key": "e_1_3_3_33_2",
+      "first-page": "65",
+      "volume-title": "Dental Perspectives on Human Evolution: State of the Art Research in Dental Paleoanthropology",
+      "author": "Martinon-Torres M",
+      "year": "2005",
+      "unstructured": "M Martinon-Torres, et al. Dental Perspectives on Human Evolution: State of the Art Research in Dental Paleoanthropology, eds SE Bailey, J-J Hublin (Springer, Leipzig), pp. 65–79 (2005)."
+    },
+    {
+      "key": "e_1_3_3_34_2",
+      "article-title": "Evolution of Middle-Late Pleistocene human cranio-facial form: A 3-D approach",
+      "author": "Harvati K",
+      "year": "2009",
+      "unstructured": "K Harvati, JJ Hublin, P Gunz, Evolution of Middle-Late Pleistocene human cranio-facial form: A 3-D approach. J Hum Evol, in press. (2009).",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "e_1_3_3_35_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jas.2006.08.003"
+    },
+    {
+      "key": "e_1_3_3_36_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0709079105"
+    },
+    {
+      "key": "e_1_3_3_37_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.276.5317.1392"
+    },
+    {
+      "key": "e_1_3_3_38_2",
+      "first-page": "99",
+      "volume-title": "Human roots: Africa and Asia in the middle pleistocene",
+      "author": "Hublin J-J",
+      "year": "2001",
+      "unstructured": "J-J Hublin Human roots: Africa and Asia in the middle pleistocene, eds L Barham, K Robson-Brown (Western Academic & Specialist Press, Bristol), pp. 99–122 (2001)."
+    },
+    {
+      "key": "e_1_3_3_39_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0706152104"
+    },
+    {
+      "key": "e_1_3_3_40_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0501841102"
+    },
+    {
+      "key": "e_1_3_3_41_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0959774300001451"
+    },
+    {
+      "key": "e_1_3_3_42_2",
+      "first-page": "413",
+      "volume-title": "The Definition and Interpretation of Levallois Technology",
+      "author": "Tuffreau A",
+      "year": "1995",
+      "unstructured": "A Tuffreau The Definition and Interpretation of Levallois Technology, eds HL Dibble, O Bar-Yosef (Prehistory Press, Madison, WI), pp. 413–427 (1995)."
+    },
+    {
+      "key": "e_1_3_3_43_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/377653"
+    },
+    {
+      "key": "e_1_3_3_44_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "37",
+      "DOI": "10.1007/978-1-4020-5121-0_4",
+      "volume-title": "Neanderthals Revisited: New Approaches and Perspectives",
+      "author": "Rosas A",
+      "year": "2006",
+      "unstructured": "A Rosas, M Bastir, C Martínez-Maza, A García-Tabernero, C Lalueza-Fox Neanderthals Revisited: New Approaches and Perspectives, eds K Harvati, T Harrison (Springer, New York), pp. 37–70 (2006)."
+    },
+    {
+      "key": "e_1_3_3_45_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jhev.1998.0214"
+    },
+    {
+      "key": "e_1_3_3_46_2",
+      "first-page": "A10",
+      "article-title": "The accretion model of Neandertal evolution",
+      "volume": "40",
+      "author": "Hawks JD",
+      "year": "2001",
+      "unstructured": "JD Hawks, MH Wolpoff, The accretion model of Neandertal evolution. J Hum Evol 40, A10–A10 (2001).",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "e_1_3_3_47_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/genetics/105.4.985"
+    },
+    {
+      "key": "e_1_3_3_48_2",
+      "first-page": "1210",
+      "article-title": "Quantitative genetic analysis of multivariate evolution, applied to brain:body size allometry",
+      "volume": "33",
+      "author": "Lande R",
+      "year": "1979",
+      "unstructured": "R Lande, Quantitative genetic analysis of multivariate evolution, applied to brain:body size allometry. Evolution 33, 1210–1226 (1979).",
+      "journal-title": "Evolution"
+    },
+    {
+      "key": "e_1_3_3_49_2",
+      "volume-title": "The Evolution of the Human Head",
+      "author": "Lieberman D",
+      "unstructured": "D Lieberman The Evolution of the Human Head (Harvard Univ Press, Cambridge, MA, (In Press)."
+    },
+    {
+      "key": "e_1_3_3_50_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3406/pal.1996.911"
+    },
+    {
+      "key": "e_1_3_3_51_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature06815"
+    },
+    {
+      "key": "e_1_3_3_52_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature04227"
+    },
+    {
+      "key": "e_1_3_3_53_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0003598X00083691"
+    },
+    {
+      "key": "e_1_3_3_54_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/jqs.735"
+    },
+    {
+      "key": "e_1_3_3_55_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0277-3791(03)00126-4"
+    },
+    {
+      "key": "e_1_3_3_56_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1130/0091-7613(2000)28<807:MCINAD>2.0.CO;2"
+    },
+    {
+      "key": "e_1_3_3_57_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0012-821X(03)00235-8"
+    },
+    {
+      "key": "e_1_3_3_58_2",
+      "volume-title": "Desolate Landscapes: Ice-Age settlement in Eastern Europe",
+      "author": "Hoffecker JF",
+      "year": "2002",
+      "unstructured": "JF Hoffecker Desolate Landscapes: Ice-Age settlement in Eastern Europe (Rutgers Univ Press, New Brunswick, NJ, 2002)."
+    },
+    {
+      "key": "e_1_3_3_59_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "23",
+      "DOI": "10.1007/978-1-4020-5121-0_3",
+      "volume-title": "Neanderthals Revisited: New Approaches and Perspectives",
+      "author": "Bruner E",
+      "year": "2006",
+      "unstructured": "E Bruner, G Manzi Neanderthals Revisited: New Approaches and Perspectives, eds K Harvati, T Harrison (Springer, New York), pp. 23–36 (2006)."
+    },
+    {
+      "key": "e_1_3_3_60_2",
+      "first-page": "424",
+      "volume-title": "Etude descriptive et comparative de Biache-Saint-Vaast 1",
+      "author": "Rougier H",
+      "year": "2003",
+      "unstructured": "H Rougier Etude descriptive et comparative de Biache-Saint-Vaast 1 (Biache-Saint-Vaast, Pas-de-Calais, France), pp. 424, Universite Bordeaux 1, Bordeaux. (2003)."
+    },
+    {
+      "key": "e_1_3_3_61_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2008.03.006"
+    },
+    {
+      "key": "e_1_3_3_62_2",
+      "first-page": "123",
+      "volume-title": "The Human Revolution",
+      "author": "Bräuer G",
+      "year": "1989",
+      "unstructured": "G Bräuer The Human Revolution, eds P Mellars, CB Stringer (Edinburgh Univ Press), pp. 123–154 (1989)."
+    },
+    {
+      "key": "e_1_3_3_63_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/108371a0"
+    },
+    {
+      "key": "e_1_3_3_64_2",
+      "first-page": "269",
+      "volume-title": "Milankovitch and Climate",
+      "author": "Imbrie J",
+      "year": "1984",
+      "unstructured": "J Imbrie, et al. Milankovitch and Climate, eds AL Berger, J Imbrie, JD Hays, G Kukla, B Saltzman (Riedel, Dordrech), pp. 269–305 (1984)."
+    }
+  ],
+  "container-title": [
+    "Proceedings of the National Academy of Sciences"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://pnas.org/doi/pdf/10.1073/pnas.0904119106",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        5,
+        23
+      ]
+    ],
+    "date-time": "2022-05-23T17:14:20Z",
+    "timestamp": 1653326060000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://pnas.org/doi/full/10.1073/pnas.0904119106"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2009,
+        9,
+        22
+      ]
+    ]
+  },
+  "references-count": 64,
+  "journal-issue": {
+    "issue": "38",
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          9,
+          22
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1073/pnas.0904119106"
+  ],
+  "URL": "https://doi.org/10.1073/pnas.0904119106",
+  "relation": {},
+  "ISSN": [
+    "0027-8424",
+    "1091-6490"
+  ],
+  "issn-type": [
+    {
+      "value": "0027-8424",
+      "type": "print"
+    },
+    {
+      "value": "1091-6490",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2009,
+        9,
+        22
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2009-04-14",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2009-09-22",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

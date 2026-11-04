@@ -1,0 +1,1266 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        10
+      ]
+    ],
+    "date-time": "2026-09-10T02:23:32Z",
+    "timestamp": 1789007012263,
+    "version": "build-2803163510"
+  },
+  "reference-count": 56,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "7932",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            19
+          ]
+        ],
+        "date-time": "2022-10-19T00:00:00Z",
+        "timestamp": 1666137600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            19
+          ]
+        ],
+        "date-time": "2022-10-19T00:00:00Z",
+        "timestamp": 1666137600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nature"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        20
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Genomic analyses of Neanderthals have previously provided insights into their population history and relationship to modern humans\n                    <jats:sup>1–8</jats:sup>\n                    , but the social organization of Neanderthal communities remains poorly understood. Here we present genetic data for 13 Neanderthals from two Middle Palaeolithic sites in the Altai Mountains of southern Siberia: 11 from Chagyrskaya Cave\n                    <jats:sup>9,10</jats:sup>\n                    and 2 from Okladnikov Cave\n                    <jats:sup>11</jats:sup>\n                    —making this one of the largest genetic studies of a Neanderthal population to date. We used hybridization capture to obtain genome-wide nuclear data, as well as mitochondrial and Y-chromosome sequences. Some Chagyrskaya individuals were closely related, including a father–daughter pair and a pair of second-degree relatives, indicating that at least some of the individuals lived at the same time. Up to one-third of these individuals’ genomes had long segments of homozygosity, suggesting that the Chagyrskaya Neanderthals were part of a small community. In addition, the Y-chromosome diversity is an order of magnitude lower than the mitochondrial diversity, a pattern that we found is best explained by female migration between communities. Thus, the genetic data presented here provide a detailed documentation of the social organization of an isolated Neanderthal community at the easternmost extent of their known range.\n                  </jats:p>",
+  "DOI": "10.1038/s41586-022-05283-y",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        19
+      ]
+    ],
+    "date-time": "2022-10-19T12:02:52Z",
+    "timestamp": 1666180972000
+  },
+  "page": "519-525",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 101,
+  "title": [
+    "Genetic insights into the social organization of Neanderthals"
+  ],
+  "prefix": "10.1038",
+  "volume": "610",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-9582-0391",
+      "authenticated-orcid": false,
+      "given": "Laurits",
+      "family": "Skov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Stéphane",
+      "family": "Peyrégne",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Divyaratan",
+      "family": "Popli",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Leonardo N. M.",
+      "family": "Iasi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0495-7398",
+      "authenticated-orcid": false,
+      "given": "Thibaut",
+      "family": "Devièse",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Viviane",
+      "family": "Slon",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7687-5370",
+      "authenticated-orcid": false,
+      "given": "Elena I.",
+      "family": "Zavala",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4064-0331",
+      "authenticated-orcid": false,
+      "given": "Mateja",
+      "family": "Hajdinjak",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Arev P.",
+      "family": "Sümer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Steffi",
+      "family": "Grote",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Alba",
+      "family": "Bossoms Mesa",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "David",
+      "family": "López Herráez",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Birgit",
+      "family": "Nickel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sarah",
+      "family": "Nagel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Julia",
+      "family": "Richter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Elena",
+      "family": "Essel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Marie",
+      "family": "Gansauge",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Anna",
+      "family": "Schmidt",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5418-5587",
+      "authenticated-orcid": false,
+      "given": "Petra",
+      "family": "Korlević",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Daniel",
+      "family": "Comeskey",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Anatoly P.",
+      "family": "Derevianko",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Aliona",
+      "family": "Kharevich",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sergey V.",
+      "family": "Markin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sahra",
+      "family": "Talamo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0558-0011",
+      "authenticated-orcid": false,
+      "given": "Katerina",
+      "family": "Douka",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1240-0664",
+      "authenticated-orcid": false,
+      "given": "Maciej T.",
+      "family": "Krajcarz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0128-4119",
+      "authenticated-orcid": false,
+      "given": "Richard G.",
+      "family": "Roberts",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Thomas",
+      "family": "Higham",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8052-707X",
+      "authenticated-orcid": false,
+      "given": "Bence",
+      "family": "Viola",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Andrey I.",
+      "family": "Krivoshapkin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Kseniya A.",
+      "family": "Kolobova",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3618-322X",
+      "authenticated-orcid": false,
+      "given": "Janet",
+      "family": "Kelso",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4760-558X",
+      "authenticated-orcid": false,
+      "given": "Matthias",
+      "family": "Meyer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4670-6311",
+      "authenticated-orcid": false,
+      "given": "Svante",
+      "family": "Pääbo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2526-8081",
+      "authenticated-orcid": false,
+      "given": "Benjamin M.",
+      "family": "Peter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        19
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "5283_CR1",
+      "doi-asserted-by": "crossref",
+      "first-page": "710",
+      "DOI": "10.1126/science.1188021",
+      "volume": "328",
+      "author": "RE Green",
+      "year": "2010",
+      "unstructured": "Green, R. E. et al. A draft sequence of the Neandertal genome. Science 328, 710–722 (2010).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "5283_CR2",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.1038/nature12886",
+      "volume": "505",
+      "author": "K Prüfer",
+      "year": "2014",
+      "unstructured": "Prüfer, K. et al. The complete genome sequence of a Neanderthal from the Altai Mountains. Nature 505, 43–49 (2014).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "5283_CR3",
+      "doi-asserted-by": "crossref",
+      "first-page": "655",
+      "DOI": "10.1126/science.aao1887",
+      "volume": "358",
+      "author": "K Prüfer",
+      "year": "2017",
+      "unstructured": "Prüfer, K. et al. A high-coverage Neandertal genome from Vindija Cave in Croatia. Science 358, 655–658 (2017).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "5283_CR4",
+      "doi-asserted-by": "crossref",
+      "first-page": "652",
+      "DOI": "10.1038/nature26151",
+      "volume": "555",
+      "author": "M Hajdinjak",
+      "year": "2018",
+      "unstructured": "Hajdinjak, M. et al. Reconstructing the genetic history of late Neanderthals. Nature 555, 652–656 (2018).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "5283_CR5",
+      "doi-asserted-by": "crossref",
+      "first-page": "15132",
+      "DOI": "10.1073/pnas.2004944117",
+      "volume": "117",
+      "author": "F Mafessoni",
+      "year": "2020",
+      "unstructured": "Mafessoni, F. et al. A high-coverage Neandertal genome from Chagyrskaya Cave. Proc. Natl Acad. Sci. USA 117, 15132–15136 (2020).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "5283_CR6",
+      "doi-asserted-by": "crossref",
+      "first-page": "eaaw5873",
+      "DOI": "10.1126/sciadv.aaw5873",
+      "volume": "5",
+      "author": "S Peyrégne",
+      "year": "2019",
+      "unstructured": "Peyrégne, S. et al. Nuclear DNA from two early Neandertals reveals 80,000 years of genetic continuity in Europe. Sci. Adv. 5, eaaw5873 (2019).",
+      "journal-title": "Sci. Adv."
+    },
+    {
+      "key": "5283_CR7",
+      "doi-asserted-by": "crossref",
+      "first-page": "15610",
+      "DOI": "10.1073/pnas.1903984116",
+      "volume": "116",
+      "author": "L Bokelmann",
+      "year": "2019",
+      "unstructured": "Bokelmann, L. et al. A genetic analysis of the Gibraltar Neanderthals. Proc. Natl Acad. Sci. USA 116, 15610–15615 (2019).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "5283_CR8",
+      "doi-asserted-by": "crossref",
+      "first-page": "504",
+      "DOI": "10.1038/nature17405",
+      "volume": "531",
+      "author": "M Meyer",
+      "year": "2016",
+      "unstructured": "Meyer, M. et al. Nuclear DNA sequences from the Middle Pleistocene Sima de los Huesos hominins. Nature 531, 504–507 (2016).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "5283_CR9",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Derevianko, A. P. et al. Multidisciplinary Studies of Chagyrskaya Cave–A Middle Paleolithic Site in Altai (Russian Academy of Sciences Siberian Branch Institute of Archaeology And Ethnography, 2018).",
+      "DOI": "10.17746/7803-0288-9.2018"
+    },
+    {
+      "key": "5283_CR10",
+      "doi-asserted-by": "crossref",
+      "first-page": "2879",
+      "DOI": "10.1073/pnas.1918047117",
+      "volume": "117",
+      "author": "KA Kolobova",
+      "year": "2020",
+      "unstructured": "Kolobova, K. A. et al. Archaeological evidence for two separate dispersals of Neanderthals into southern Siberia. Proc. Natl Acad. Sci. USA 117, 2879–2885 (2020).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "5283_CR11",
+      "unstructured": "Derevianko, A. P. & Markin S. V. Mustye Gornogo Altaya [The Mousterian of the Mountainous Altai] (Nauka, 1992)."
+    },
+    {
+      "key": "5283_CR12",
+      "doi-asserted-by": "crossref",
+      "first-page": "1358",
+      "DOI": "10.1126/science.1253958",
+      "volume": "344",
+      "author": "JL Arsuaga",
+      "year": "2014",
+      "unstructured": "Arsuaga, J. L. et al. Neandertal roots: cranial and chronological evidence from Sima de los Huesos. Science 344, 1358–1363 (2014).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "5283_CR13",
+      "doi-asserted-by": "crossref",
+      "first-page": "306",
+      "DOI": "10.1038/nature13621",
+      "volume": "512",
+      "author": "T Higham",
+      "year": "2014",
+      "unstructured": "Higham, T. et al. The timing and spatiotemporal patterning of Neanderthal disappearance. Nature 512, 306–309 (2014).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "5283_CR14",
+      "doi-asserted-by": "crossref",
+      "first-page": "222",
+      "DOI": "10.1126/science.1224344",
+      "volume": "338",
+      "author": "M Meyer",
+      "year": "2012",
+      "unstructured": "Meyer, M. et al. A high-coverage genome sequence from an archaic Denisovan individual. Science 338, 222–226 (2012).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "5283_CR15",
+      "doi-asserted-by": "crossref",
+      "first-page": "707",
+      "DOI": "10.1023/A:1015520830318",
+      "volume": "23",
+      "author": "PM Kappeler",
+      "year": "2002",
+      "unstructured": "Kappeler, P. M. & van Schaik, C. P. Evolution of primate social systems. Int. J. Primatol. 23, 707–740 (2002).",
+      "journal-title": "Int. J. Primatol."
+    },
+    {
+      "key": "5283_CR16",
+      "doi-asserted-by": "crossref",
+      "first-page": "19409",
+      "DOI": "10.1073/pnas.1901789116",
+      "volume": "116",
+      "author": "J Duveau",
+      "year": "2019",
+      "unstructured": "Duveau, J., Berillon, G., Verna, C., Laisné, G. & Cliquet, D. The composition of a Neandertal social group revealed by the hominin footprints at Le Rozel (Normandy, France). Proc. Natl Acad. Sci. USA 116, 19409–19414 (2019).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "5283_CR17",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1038/s41598-021-83413-8",
+      "volume": "11",
+      "author": "E Mayoral",
+      "year": "2021",
+      "unstructured": "Mayoral, E. et al. Tracking late Pleistocene Neandertals on the Iberian coast. Sci. Rep. 11, 4103 (2021).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "5283_CR18",
+      "doi-asserted-by": "crossref",
+      "first-page": "137",
+      "DOI": "10.1086/649499",
+      "volume": "51",
+      "author": "J Vallverdú",
+      "year": "2010",
+      "unstructured": "Vallverdú, J. et al. Sleeping activity area within the site structure of archaic human groups. Curr. Anthropol. 51, 137–145 (2010).",
+      "journal-title": "Curr. Anthropol."
+    },
+    {
+      "key": "5283_CR19",
+      "doi-asserted-by": "crossref",
+      "first-page": "250",
+      "DOI": "10.1073/pnas.1011553108",
+      "volume": "108",
+      "author": "C Lalueza-Fox",
+      "year": "2011",
+      "unstructured": "Lalueza-Fox, C. et al. Genetic evidence for patrilocal mating behavior among Neandertal groups. Proc. Natl Acad. Sci. USA 108, 250–253 (2011).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "5283_CR20",
+      "doi-asserted-by": "crossref",
+      "first-page": "E87",
+      "DOI": "10.1073/pnas.1100100108",
+      "volume": "108",
+      "author": "L Vigilant",
+      "year": "2011",
+      "unstructured": "Vigilant, L. & Langergraber, K. E. Inconclusive evidence for patrilocality in Neandertals. Proc. Natl Acad. Sci. USA 108, E87 (2011).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "5283_CR21",
+      "unstructured": "Kolobova, K. et al. Exploitation of the natural environment by Neanderthals from Chagyrskaya Cave (Altai). Quartär 66, 7–31 (2019)."
+    },
+    {
+      "key": "5283_CR22",
+      "doi-asserted-by": "crossref",
+      "first-page": "89",
+      "DOI": "10.1016/j.aeae.2013.07.008",
+      "volume": "41",
+      "author": "AP Derevianko",
+      "year": "2013",
+      "unstructured": "Derevianko, A. P., Markin, S. V. & Shunkov, M. V. The Sibiryachikha facies of the Middle Paleolithic of the Altai. Archaeol. Ethnol. Anthropol. Euras. 41, 89–103 (2013).",
+      "journal-title": "Archaeol. Ethnol. Anthropol. Euras."
+    },
+    {
+      "key": "5283_CR23",
+      "unstructured": "Kharevich, A. V. et al. New archaeological sites in the northwestern Altai (Krasnoschekovsky and Soloneshensky Districts of Altai Krai). Problems of Archaeology, Ethnography, Anthropology of Siberia and Neighboring Territories 26, 263–270 (2020)."
+    },
+    {
+      "key": "5283_CR24",
+      "doi-asserted-by": "crossref",
+      "first-page": "1072",
+      "DOI": "10.15184/aqy.2019.89",
+      "volume": "93",
+      "author": "TFG Higham",
+      "year": "2019",
+      "unstructured": "Higham, T. F. G. Removing contaminants: a restatement of the value of isolating single compounds for AMS dating. Antiquity 93, 1072–1075 (2019).",
+      "journal-title": "Antiquity"
+    },
+    {
+      "key": "5283_CR25",
+      "doi-asserted-by": "crossref",
+      "first-page": "113",
+      "DOI": "10.1038/s41586-018-0455-x",
+      "volume": "561",
+      "author": "V Slon",
+      "year": "2018",
+      "unstructured": "Slon, V. et al. The genome of the offspring of a Neanderthal mother and a Denisovan father. Nature 561, 113–116 (2018).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "5283_CR26",
+      "doi-asserted-by": "crossref",
+      "first-page": "1653",
+      "DOI": "10.1126/science.abb6460",
+      "volume": "369",
+      "author": "M Petr",
+      "year": "2020",
+      "unstructured": "Petr, M. et al. The evolutionary history of Neanderthal and Denisovan Y chromosomes. Science 369, 1653–1656 (2020).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "5283_CR27",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0195491",
+      "DOI": "10.1371/journal.pone.0195491",
+      "volume": "13",
+      "author": "JM Monroy Kuhn",
+      "year": "2018",
+      "unstructured": "Monroy Kuhn, J. M., Jakobsson, M. & Günther, T. Estimating genetic kin relationships in prehistoric populations. PLoS ONE 13, e0195491 (2018).",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "5283_CR28",
+      "doi-asserted-by": "crossref",
+      "first-page": "417",
+      "DOI": "10.1038/ng0496-417",
+      "volume": "12",
+      "author": "PL Ivanov",
+      "year": "1996",
+      "unstructured": "Ivanov, P. L. et al. Mitochondrial DNA sequence heteroplasmy in the Grand Duke of Russia Georgij Romanov establishes the authenticity of the remains of Tsar Nicholas II. Nat. Genet. 12, 417–420 (1996).",
+      "journal-title": "Nat. Genet."
+    },
+    {
+      "key": "5283_CR29",
+      "doi-asserted-by": "crossref",
+      "first-page": "530",
+      "DOI": "10.1038/nrg3966",
+      "volume": "16",
+      "author": "JB Stewart",
+      "year": "2015",
+      "unstructured": "Stewart, J. B. & Chinnery, P. F. The dynamics of mitochondrial DNA heteroplasmy: implications for human health and disease. Nat. Rev. Genet. 16, 530–542 (2015).",
+      "journal-title": "Nat. Rev. Genet."
+    },
+    {
+      "key": "5283_CR30",
+      "doi-asserted-by": "crossref",
+      "first-page": "eabf1667",
+      "DOI": "10.1126/science.abf1667",
+      "volume": "372",
+      "author": "B Vernot",
+      "year": "2021",
+      "unstructured": "Vernot, B. et al. Unearthing Neanderthal population history using nuclear and mitochondrial DNA from cave sediments. Science 372, eabf1667 (2021).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "5283_CR31",
+      "doi-asserted-by": "crossref",
+      "first-page": "13649",
+      "DOI": "10.1073/pnas.1714926115",
+      "volume": "114",
+      "author": "NA Stewart",
+      "year": "2017",
+      "unstructured": "Stewart, N. A., Gerlach, R. F., Gowland, R. L., Gron, K. J. & Montgomery, J. Sex determination of human remains from peptides in tooth enamel. Proc. Natl Acad. Sci. USA 114, 13649–13654 (2017).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "5283_CR32",
+      "doi-asserted-by": "crossref",
+      "first-page": "640",
+      "DOI": "10.1038/s41586-018-0870-z",
+      "volume": "565",
+      "author": "K Douka",
+      "year": "2019",
+      "unstructured": "Douka, K. et al. Age estimates for hominin fossils and the onset of the Upper Palaeolithic at Denisova Cave. Nature 565, 640–644 (2019).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "5283_CR33",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Peter, B. M. 100,000 years of gene flow between Neandertals and Denisovans in the Altai mountains. Preprint at bioRxiv https://doi.org/10.1101/2020.03.13.990523 (2020).",
+      "DOI": "10.1101/2020.03.13.990523"
+    },
+    {
+      "key": "5283_CR34",
+      "doi-asserted-by": "crossref",
+      "first-page": "399",
+      "DOI": "10.1038/s41586-021-03675-0",
+      "volume": "595",
+      "author": "EI Zavala",
+      "year": "2021",
+      "unstructured": "Zavala, E. I. et al. Pleistocene sediment DNA reveals hominin and faunal turnovers at Denisova Cave. Nature 595, 399–403 (2021).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "5283_CR35",
+      "doi-asserted-by": "crossref",
+      "first-page": "594",
+      "DOI": "10.1038/s41586-018-0843-2",
+      "volume": "565",
+      "author": "Z Jacobs",
+      "year": "2019",
+      "unstructured": "Jacobs, Z. et al. Timing of archaic hominin occupation of Denisova Cave in southern Siberia. Nature 565, 594–599 (2019).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "5283_CR36",
+      "doi-asserted-by": "crossref",
+      "first-page": "220",
+      "DOI": "10.1038/nrg.2017.109",
+      "volume": "19",
+      "author": "FC Ceballos",
+      "year": "2018",
+      "unstructured": "Ceballos, F. C., Joshi, P. K., Clark, D. W., Ramsay, M. & Wilson, J. F. Runs of homozygosity: windows into population history and trait architecture. Nat. Rev. Genet. 19, 220–234 (2018).",
+      "journal-title": "Nat. Rev. Genet."
+    },
+    {
+      "key": "5283_CR37",
+      "doi-asserted-by": "crossref",
+      "first-page": "242",
+      "DOI": "10.1126/science.aaa3952",
+      "volume": "348",
+      "author": "Y Xue",
+      "year": "2015",
+      "unstructured": "Xue, Y. et al. Mountain gorilla genomes reveal the impact of long-term population decline and inbreeding. Science 348, 242–245 (2015).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "5283_CR38",
+      "doi-asserted-by": "crossref",
+      "first-page": "218",
+      "DOI": "10.1002/evan.21721",
+      "volume": "27",
+      "author": "MM Robbins",
+      "year": "2018",
+      "unstructured": "Robbins, M. M. & Robbins, A. M. Variation in the social organization of gorillas: life history and socioecological perspectives. Evol. Anthropol. 27, 218–233 (2018).",
+      "journal-title": "Evol. Anthropol."
+    },
+    {
+      "key": "5283_CR39",
+      "doi-asserted-by": "crossref",
+      "first-page": "1163",
+      "DOI": "10.1007/s00265-015-1930-0",
+      "volume": "69",
+      "author": "L Vigilant",
+      "year": "2015",
+      "unstructured": "Vigilant, L. et al. Reproductive competition and inbreeding avoidance in a primate species with habitual female dispersal. Behav. Ecol. Sociobiol. 69, 1163–1172 (2015).",
+      "journal-title": "Behav. Ecol. Sociobiol."
+    },
+    {
+      "key": "5283_CR40",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.jhevol.2013.12.005",
+      "volume": "69",
+      "author": "KE Langergraber",
+      "year": "2014",
+      "unstructured": "Langergraber, K. E. et al. How old are chimpanzee communities? Time to the most recent common ancestor of the Y-chromosome in highly patrilocal societies. J. Hum. Evol. 69, 1–7 (2014).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "5283_CR41",
+      "doi-asserted-by": "crossref",
+      "first-page": "2229",
+      "DOI": "10.1073/pnas.1318934111",
+      "volume": "111",
+      "author": "P Skoglund",
+      "year": "2014",
+      "unstructured": "Skoglund, P. et al. Separating endogenous ancient DNA from modern day contamination in a Siberian Neandertal. Proc. Natl Acad. Sci. USA 111, 2229–2234 (2014).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "5283_CR42",
+      "doi-asserted-by": "crossref",
+      "first-page": "147",
+      "DOI": "10.1038/13779",
+      "volume": "23",
+      "author": "R Andrews",
+      "year": "1999",
+      "unstructured": "Andrews, R. et al. Reanalysis and revision of the Cambridge reference sequence for human mitochondrial DNA. Nat. Genet. 23, 147 (1999).",
+      "journal-title": "Nat. Genet."
+    },
+    {
+      "key": "5283_CR43",
+      "doi-asserted-by": "crossref",
+      "first-page": "318",
+      "DOI": "10.1126/science.1174462",
+      "volume": "325",
+      "author": "A Briggs",
+      "year": "2009",
+      "unstructured": "Briggs, A. W. et al. Targeted retrieval and analysis of five Neandertal mtDNA genomes. Science 325, 318–321 (2009). ",
+      "journal-title": "Science"
+    },
+    {
+      "key": "5283_CR44",
+      "doi-asserted-by": "crossref",
+      "first-page": "23559",
+      "DOI": "10.1038/srep23559",
+      "volume": "6",
+      "author": "S Brown",
+      "year": "2016",
+      "unstructured": "Brown, S. et al. Identification of a new hominin bone from Denisova Cave, Siberia using collagen fingerprinting and mitochondrial DNA analysis. Sci. Rep. 6, 23559 (2016).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "5283_CR45",
+      "doi-asserted-by": "crossref",
+      "first-page": "640",
+      "DOI": "10.1038/s41586-018-0870-z",
+      "volume": "565",
+      "author": "K Douka",
+      "year": "2019",
+      "unstructured": "Douka, K. et al. Age estimates for hominin fossils and the onset of the Upper Palaeolithic at Denisova Cave. Nature 565, 640–644 (2019).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "5283_CR46",
+      "doi-asserted-by": "crossref",
+      "first-page": "15696",
+      "DOI": "10.1073/pnas.1519905112",
+      "volume": "112",
+      "author": "S Sawyer",
+      "year": "2015",
+      "unstructured": "Sawyer, S. et al. Nuclear and mitochondrial DNA sequences from two Denisovan individuals. Proc. Natl Acad. Sci. USA. 112, 15696–15700 (2015).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "5283_CR47",
+      "doi-asserted-by": "crossref",
+      "first-page": "894",
+      "DOI": "10.1038/nature08976",
+      "volume": "464",
+      "author": "J Krause",
+      "year": "2010",
+      "unstructured": "Krause, J. et al. The complete mitochondrial DNA genome of an unknown hominin from southern Siberia. Nature 464, 894–897 (2010).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "5283_CR48",
+      "doi-asserted-by": "crossref",
+      "first-page": "e1700186",
+      "DOI": "10.1126/sciadv.1700186",
+      "volume": "3",
+      "author": "V Slon",
+      "year": "2010",
+      "unstructured": "Slon, V. et al. A fourth Denisovan individual. Sci. Adv. 3, e1700186 (2017).",
+      "journal-title": "Sci. Adv"
+    },
+    {
+      "key": "5283_CR49",
+      "doi-asserted-by": "crossref",
+      "first-page": "403",
+      "DOI": "10.1038/nature12788",
+      "volume": "505",
+      "author": "M Meyer",
+      "year": "2014",
+      "unstructured": "Meyer, M. et al. A mitochondrial genome sequence of a hominin from Sima de los Huesos. Nature 505, 403–406 (2014).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "5283_CR50",
+      "doi-asserted-by": "crossref",
+      "first-page": "825",
+      "DOI": "10.1038/nature01722",
+      "volume": "423",
+      "author": "H Skaletsky",
+      "year": "2003",
+      "unstructured": "Skaletsky, H. et al. The male-specific region of the human Y chromosome is a mosaic of discrete sequence classes. Nature 423, 825–837 (2003).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "5283_CR51",
+      "doi-asserted-by": "crossref",
+      "first-page": "201",
+      "DOI": "10.1038/nature18964",
+      "volume": "538",
+      "author": "S Mallick",
+      "year": "2016",
+      "unstructured": "Mallick, S. et al. The Simons Genome Diversity Project: 300 genomes from 142 diverse populations. Nature 538, 201–206 (2016).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "5283_CR52",
+      "doi-asserted-by": "crossref",
+      "first-page": "459",
+      "DOI": "10.1101/gr.186684.114",
+      "volume": "25",
+      "author": "M Karmin",
+      "year": "2015",
+      "unstructured": "Karmin, M. et al. A recent bottleneck of Y chromosome diversity coincides with a global change in culture. Genome Res. 25, 459–466 (2015).",
+      "journal-title": "Genome Res"
+    },
+    {
+      "key": "5283_CR53",
+      "doi-asserted-by": "crossref",
+      "first-page": "454",
+      "DOI": "10.1016/j.ajhg.2013.02.002",
+      "volume": "92",
+      "author": "FL Mendez",
+      "year": "2013",
+      "unstructured": "Mendez, F. L. et al. An African American paternal lineage adds an extremely ancient root to the human Y chromosome phylogenetic tree. Am. J. Hum. Genet. 92, 454–459 (2013); erratum 92, 637 (2013).",
+      "journal-title": "Am. J. Hum. Genet."
+    },
+    {
+      "key": "5283_CR54",
+      "unstructured": "Viola, B. New Hominid Remains from Central Asia and Siberia: The Easternmost Neanderthals? PhD thesis, Vienna Univ. (2009)."
+    },
+    {
+      "key": "5283_CR55",
+      "doi-asserted-by": "crossref",
+      "first-page": "902",
+      "DOI": "10.1038/nature06193",
+      "volume": "449",
+      "author": "J Krause",
+      "year": "2007",
+      "unstructured": "Krause, J. et al. Neanderthals in central Asia and Siberia. Nature 449, 902–904 (2007).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "5283_CR56",
+      "unstructured": "Mednikova, M. B. Postkranialnaya Morfologiya i Taksonomiya Predstavitelei Roda Homo iz Peschery Okladnikova na Altae (IAE SO RAN, Izd, 2011)."
+    }
+  ],
+  "container-title": [
+    "Nature"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41586-022-05283-y.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41586-022-05283-y",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41586-022-05283-y.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        26
+      ]
+    ],
+    "date-time": "2022-10-26T12:03:44Z",
+    "timestamp": 1666785824000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41586-022-05283-y"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        19
+      ]
+    ]
+  },
+  "references-count": 56,
+  "journal-issue": {
+    "issue": "7932",
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          20
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "5283"
+  ],
+  "URL": "https://doi.org/10.1038/s41586-022-05283-y",
+  "relation": {
+    "has-review": [
+      {
+        "id-type": "doi",
+        "id": "10.3410/f.742373136.793596797",
+        "asserted-by": "object"
+      }
+    ]
+  },
+  "ISSN": [
+    "0028-0836",
+    "1476-4687"
+  ],
+  "issn-type": [
+    {
+      "value": "0028-0836",
+      "type": "print"
+    },
+    {
+      "value": "1476-4687",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        19
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "21 February 2022",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "26 August 2022",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "19 October 2022",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ]
+}

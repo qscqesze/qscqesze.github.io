@@ -1,0 +1,1357 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        10
+      ]
+    ],
+    "date-time": "2026-09-10T08:35:19Z",
+    "timestamp": 1789029319212,
+    "version": "build-2803163510"
+  },
+  "reference-count": 66,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "7802",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2020-04-01T00:00:00Z",
+        "timestamp": 1585699200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2020-04-01T00:00:00Z",
+        "timestamp": 1585699200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nature"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        9
+      ]
+    ]
+  },
+  "DOI": "10.1038/s41586-020-2153-8",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        1
+      ]
+    ],
+    "date-time": "2020-04-01T16:03:49Z",
+    "timestamp": 1585757029000
+  },
+  "page": "235-238",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 168,
+  "title": [
+    "The dental proteome of Homo antecessor"
+  ],
+  "prefix": "10.1038",
+  "volume": "580",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-4846-6104",
+      "authenticated-orcid": false,
+      "given": "Frido",
+      "family": "Welker",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jazmín",
+      "family": "Ramos-Madrigal",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Petra",
+      "family": "Gutenbrunner",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Meaghan",
+      "family": "Mackie",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Shivani",
+      "family": "Tiwary",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Rosa",
+      "family": "Rakownikow Jersie-Christensen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8150-6203",
+      "authenticated-orcid": false,
+      "given": "Cristina",
+      "family": "Chiva",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Marc R.",
+      "family": "Dickinson",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0115-1797",
+      "authenticated-orcid": false,
+      "given": "Martin",
+      "family": "Kuhlwilm",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Marc",
+      "family": "de Manuel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3019-0725",
+      "authenticated-orcid": false,
+      "given": "Pere",
+      "family": "Gelabert",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "María",
+      "family": "Martinón-Torres",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ann",
+      "family": "Margvelashvili",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Juan Luis",
+      "family": "Arsuaga",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Eudald",
+      "family": "Carbonell",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5597-3075",
+      "authenticated-orcid": false,
+      "given": "Tomas",
+      "family": "Marques-Bonet",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Kirsty",
+      "family": "Penkman",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Eduard",
+      "family": "Sabidó",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8597-205X",
+      "authenticated-orcid": false,
+      "given": "Jürgen",
+      "family": "Cox",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4747-4938",
+      "authenticated-orcid": false,
+      "given": "Jesper V.",
+      "family": "Olsen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "David",
+      "family": "Lordkipanidze",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5025-2607",
+      "authenticated-orcid": false,
+      "given": "Fernando",
+      "family": "Racimo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1730-5914",
+      "authenticated-orcid": false,
+      "given": "Carles",
+      "family": "Lalueza-Fox",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "José María",
+      "family": "Bermúdez de Castro",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Eske",
+      "family": "Willerslev",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Enrico",
+      "family": "Cappellini",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        1
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "2153_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "1019",
+      "DOI": "10.1126/science.288.5468.1019",
+      "volume": "288",
+      "author": "L Gabunia",
+      "year": "2000",
+      "unstructured": "Gabunia, L. et al. Earliest Pleistocene hominid cranial remains from Dmanisi, Republic of Georgia: taxonomy, geological setting, and age. Science 288, 1019–1025 (2000).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2153_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "608",
+      "DOI": "10.1038/s41586-018-0299-4",
+      "volume": "559",
+      "author": "Z Zhu",
+      "year": "2018",
+      "unstructured": "Zhu, Z. et al. Hominin occupation of the Chinese Loess Plateau since about 2.1 million years ago. Nature 559, 608–612 (2018).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2153_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "20150237",
+      "DOI": "10.1098/rstb.2015.0237",
+      "volume": "371",
+      "author": "C Stringer",
+      "year": "2016",
+      "unstructured": "Stringer, C. The origin and evolution of Homo sapiens. Phil. Trans. R. Soc. Lond. B 371, 20150237 (2016).",
+      "journal-title": "Phil. Trans. R. Soc. Lond. B"
+    },
+    {
+      "key": "2153_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "16022",
+      "DOI": "10.1073/pnas.0904119106",
+      "volume": "106",
+      "author": "JJ Hublin",
+      "year": "2009",
+      "unstructured": "Hublin, J. J. The origin of Neandertals. Proc. Natl Acad. Sci. USA 106, 16022–16027 (2009).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "2153_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "218",
+      "DOI": "10.1002/(SICI)1520-6505(1998)6:6<218::AID-EVAN4>3.0.CO;2-6",
+      "volume": "6",
+      "author": "G Rightmire",
+      "year": "1998",
+      "unstructured": "Rightmire, G. Human evolution in the Middle Pleistocene: the role of Homo heidelbergensis. Evol. Anthropol. 6, 218–227 (1998).",
+      "journal-title": "Evol. Anthropol."
+    },
+    {
+      "key": "2153_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "103",
+      "DOI": "10.1038/s41586-019-1555-y",
+      "volume": "574",
+      "author": "E Cappellini",
+      "year": "2019",
+      "unstructured": "Cappellini, E. et al. Early Pleistocene enamel proteome from Dmanisi resolves Stephanorhinus phylogeny. Nature 574, 103–107 (2019).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2153_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "409",
+      "DOI": "10.1038/s41586-019-1139-x",
+      "volume": "569",
+      "author": "F Chen",
+      "year": "2019",
+      "unstructured": "Chen, F. et al. A late Middle Pleistocene Denisovan mandible from the Tibetan Plateau. Nature 569, 409–412 (2019).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2153_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "262",
+      "DOI": "10.1038/s41586-019-1728-8",
+      "volume": "576",
+      "author": "F Welker",
+      "year": "2019",
+      "unstructured": "Welker, F. et al. Enamel proteome shows that Gigantopithecus was an early diverging pongine. Nature 576, 262–265 (2019).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2153_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "1392",
+      "DOI": "10.1126/science.276.5317.1392",
+      "volume": "276",
+      "author": "JM Bermúdez de Castro",
+      "year": "1997",
+      "unstructured": "Bermúdez de Castro, J. M. et al. A hominid from the lower Pleistocene of Atapuerca, Spain: possible ancestor to Neandertals and modern humans. Science 276, 1392–1395 (1997).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2153_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "826",
+      "DOI": "10.1126/science.7638598",
+      "volume": "269",
+      "author": "E Carbonell",
+      "year": "1995",
+      "unstructured": "Carbonell, E. et al. Lower Pleistocene hominids and artifacts from Atapuerca-TD6 (Spain). Science 269, 826–830 (1995).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2153_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "120",
+      "DOI": "10.1016/j.quageo.2018.05.001",
+      "volume": "47",
+      "author": "M Duval",
+      "year": "2018",
+      "unstructured": "Duval, M. et al. The first direct ESR dating of a hominin tooth from Atapuerca Gran Dolina TD-6 (Spain) supports the antiquity of Homo antecessor. Quat. Geochronol. 47, 120–137 (2018).",
+      "journal-title": "Quat. Geochronol."
+    },
+    {
+      "key": "2153_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "404",
+      "DOI": "10.1016/j.jhevol.2013.07.012",
+      "volume": "65",
+      "author": "SE Freidline",
+      "year": "2013",
+      "unstructured": "Freidline, S. E., Gunz, P., Harvati, K. & Hublin, J.-J. Evaluating developmental shape changes in Homo antecessor subadult facial morphology. J. Hum. Evol. 65, 404–423 (2013).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "2153_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "e65199",
+      "DOI": "10.1371/journal.pone.0065199",
+      "volume": "8",
+      "author": "RS Lacruz",
+      "year": "2013",
+      "unstructured": "Lacruz, R. S. et al. Facial morphogenesis of the earliest Europeans. PLoS One 8, e65199 (2013).",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "2153_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "10432",
+      "DOI": "10.1073/pnas.1106638108",
+      "volume": "108",
+      "author": "R Ferring",
+      "year": "2011",
+      "unstructured": "Ferring, R. et al. Earliest human occupations at Dmanisi (Georgian Caucasus) dated to 1.85–1.78 Ma. Proc. Natl Acad. Sci. USA 108, 10432–10436 (2011).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "2153_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "326",
+      "DOI": "10.1126/science.1238484",
+      "volume": "342",
+      "author": "D Lordkipanidze",
+      "year": "2013",
+      "unstructured": "Lordkipanidze, D. et al. A complete skull from Dmanisi, Georgia, and the evolutionary biology of early Homo. Science 342, 326–331 (2013).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2153_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "13649",
+      "DOI": "10.1073/pnas.1714926115",
+      "volume": "114",
+      "author": "NA Stewart",
+      "year": "2017",
+      "unstructured": "Stewart, N. A., Gerlach, R. F., Gowland, R. L., Gron, K. J. & Montgomery, J. Sex determination of human remains from peptides in tooth enamel. Proc. Natl Acad. Sci. USA 114, 13649–13654 (2017).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "2153_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "519",
+      "DOI": "10.1038/s41592-019-0427-6",
+      "volume": "16",
+      "author": "S Tiwary",
+      "year": "2019",
+      "unstructured": "Tiwary, S. et al. High-quality MS/MS spectrum prediction for data-dependent and data-independent acquisition data analysis. Nat. Methods 16, 519–525 (2019).",
+      "journal-title": "Nat. Methods"
+    },
+    {
+      "key": "2153_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "390",
+      "DOI": "10.1111/eos.12214",
+      "volume": "123",
+      "author": "GA Castiblanco",
+      "year": "2015",
+      "unstructured": "Castiblanco, G. A. et al. Identification of proteins from human permanent erupted enamel. Eur. J. Oral Sci. 123, 390–395 (2015).",
+      "journal-title": "Eur. J. Oral Sci."
+    },
+    {
+      "key": "2153_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "91",
+      "DOI": "10.2353/ajpath.2009.080573",
+      "volume": "174",
+      "author": "T Asaka",
+      "year": "2009",
+      "unstructured": "Asaka, T. et al. Type XVII collagen is a key player in tooth enamel formation. Am. J. Pathol. 174, 91–100 (2009).",
+      "journal-title": "Am. J. Pathol."
+    },
+    {
+      "key": "2153_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "3596",
+      "DOI": "10.1016/j.jas.2011.08.030",
+      "volume": "38",
+      "author": "IM Porto",
+      "year": "2011",
+      "unstructured": "Porto, I. M., Laure, H. J., de Sousa, F. B., Rosa, J. C. & Gerlach, R. F. New techniques for the recovery of small amounts of mature enamel proteins. J. Archaeol. Sci. 38, 3596–3604 (2011).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "2153_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "47",
+      "DOI": "10.1186/s12862-015-0329-x",
+      "volume": "15",
+      "author": "B Gasse",
+      "year": "2015",
+      "unstructured": "Gasse, B., Chiari, Y., Silvent, J., Davit-Béal, T. & Sire, J.-Y. Amelotin: an enamel matrix protein that experienced distinct evolutionary histories in amphibians, sauropsids and mammals. BMC Evol. Biol. 15, 47 (2015).",
+      "journal-title": "BMC Evol. Biol."
+    },
+    {
+      "key": "2153_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "e17092",
+      "DOI": "10.7554/eLife.17092",
+      "volume": "5",
+      "author": "B Demarchi",
+      "year": "2016",
+      "unstructured": "Demarchi, B. et al. Protein sequences bound to mineral surfaces persist into deep time. eLife 5, e17092 (2016).",
+      "journal-title": "eLife"
+    },
+    {
+      "key": "2153_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "1150",
+      "DOI": "10.1126/science.1217817",
+      "volume": "336",
+      "author": "VS Tagliabracci",
+      "year": "2012",
+      "unstructured": "Tagliabracci, V. S. et al. Secreted kinase phosphorylates extracellular proteins that regulate biomineralization. Science 336, 1150–1153 (2012).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2153_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "219",
+      "DOI": "10.1159/000091383",
+      "volume": "181",
+      "author": "JCC Hu",
+      "year": "2005",
+      "unstructured": "Hu, J. C. C., Yamakoshi, Y., Yamakoshi, F., Krebsbach, P. H. & Simmer, J. P. Proteomics and genetics of dental enamel. Cells Tissues Organs 181, 219–231 (2005).",
+      "journal-title": "Cells Tissues Organs"
+    },
+    {
+      "key": "2153_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "219",
+      "DOI": "10.1017/S0094837300009891",
+      "volume": "16",
+      "author": "MJ Glimcher",
+      "year": "1990",
+      "unstructured": "Glimcher, M. J., Cohen-Solal, L., Kossiva, D. & de Ricqles, A. Biochemical analyses of fossil enamel and dentin. Paleobiology 16, 219–232 (1990).",
+      "journal-title": "Paleobiology"
+    },
+    {
+      "key": "2153_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "19726",
+      "DOI": "10.1073/pnas.1012722107",
+      "volume": "107",
+      "author": "GA Wagner",
+      "year": "2010",
+      "unstructured": "Wagner, G. A. et al. Radiometric dating of the type-site for Homo heidelbergensis at Mauer, Germany. Proc. Natl Acad. Sci. USA 107, 19726–19730 (2010).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "2153_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "13279",
+      "DOI": "10.1073/pnas.0706152104",
+      "volume": "104",
+      "author": "M Martinón-Torres",
+      "year": "2007",
+      "unstructured": "Martinón-Torres, M. et al. Dental evidence on the hominin dispersals during the Pleistocene. Proc. Natl Acad. Sci. USA 104, 13279–13282 (2007).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "2153_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "157",
+      "DOI": "10.1002/evan.21540",
+      "volume": "26",
+      "author": "JM Bermúdez de Castro",
+      "year": "2017",
+      "unstructured": "Bermúdez de Castro, J. M., Martinón-Torres, M., Arsuaga, J. L. & Carbonell, E. Twentieth anniversary of Homo antecessor (1997–2017): a review. Evol. Anthropol. 26, 157–171 (2017).",
+      "journal-title": "Evol. Anthropol."
+    },
+    {
+      "key": "2153_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "18196",
+      "DOI": "10.1073/pnas.1302653110",
+      "volume": "110",
+      "author": "A Gómez-Robles",
+      "year": "2013",
+      "unstructured": "Gómez-Robles, A., Bermúdez de Castro, J. M., Arsuaga, J.-L., Carbonell, E. & Polly, P. D. No known hominin species matches the expected dental morphology of the last common ancestor of Neanderthals and modern humans. Proc. Natl Acad. Sci. USA 110, 18196–18201 (2013).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "2153_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "504",
+      "DOI": "10.1038/nature17405",
+      "volume": "531",
+      "author": "M Meyer",
+      "year": "2016",
+      "unstructured": "Meyer, M. et al. Nuclear DNA sequences from the Middle Pleistocene Sima de los Huesos hominins. Nature 531, 504–507 (2016).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2153_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "43",
+      "DOI": "10.1038/nature12886",
+      "volume": "505",
+      "author": "K Prüfer",
+      "year": "2014",
+      "unstructured": "Prüfer, K. et al. The complete genome sequence of a Neanderthal from the Altai Mountains. Nature 505, 43–49 (2014).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2153_CR32",
+      "doi-asserted-by": "publisher",
+      "first-page": "726",
+      "DOI": "10.1038/s41559-019-0865-7",
+      "volume": "3",
+      "author": "RS Lacruz",
+      "year": "2019",
+      "unstructured": "Lacruz, R. S. et al. The evolutionary history of the human face. Nat. Ecol. Evol. 3, 726–736 (2019).",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "2153_CR33",
+      "doi-asserted-by": "publisher",
+      "first-page": "201",
+      "DOI": "10.1038/nature18964",
+      "volume": "538",
+      "author": "S Mallick",
+      "year": "2016",
+      "unstructured": "Mallick, S. et al. The Simons Genome Diversity Project: 300 genomes from 142 diverse populations. Nature 538, 201–206 (2016).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2153_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "68",
+      "DOI": "10.1038/nature15393",
+      "volume": "526",
+      "author": "The 1000 Genomes Project Consortium",
+      "year": "2015",
+      "unstructured": "The 1000 Genomes Project Consortium. A global reference for human genetic variation. Nature 526, 68–74 (2015).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2153_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "e3033",
+      "DOI": "10.7717/peerj.3033",
+      "volume": "5",
+      "author": "F Welker",
+      "year": "2017",
+      "unstructured": "Welker, F. et al. Middle Pleistocene protein sequences from the rhinoceros genus Stephanorhinus and the phylogeny of extant and extinct Middle/Late Pleistocene Rhinocerotidae. PeerJ 5, e3033 (2017).",
+      "journal-title": "PeerJ"
+    },
+    {
+      "key": "2153_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "1946",
+      "DOI": "10.1074/mcp.M114.047787",
+      "volume": "14",
+      "author": "RC Hill",
+      "year": "2015",
+      "unstructured": "Hill, R. C. et al. Preserved proteins from extinct Bison latifrons identified by tandem mass spectrometry; hydroxylysine glycosides are a common feature of ancient collagen. Mol. Cell. Proteomics 14, 1946–1958 (2015).",
+      "journal-title": "Mol. Cell. Proteomics"
+    },
+    {
+      "key": "2153_CR37",
+      "doi-asserted-by": "publisher",
+      "first-page": "605",
+      "DOI": "10.1002/rcm.6821",
+      "volume": "28",
+      "author": "C Wadsworth",
+      "year": "2014",
+      "unstructured": "Wadsworth, C. & Buckley, M. Proteome degradation in fossils: investigating the longevity of protein survival in ancient bone. Rapid Commun. Mass Spectrom. 28, 605–615 (2014).",
+      "journal-title": "Rapid Commun. Mass Spectrom."
+    },
+    {
+      "key": "2153_CR38",
+      "doi-asserted-by": "publisher",
+      "first-page": "74",
+      "DOI": "10.1038/nature12323",
+      "volume": "499",
+      "author": "L Orlando",
+      "year": "2013",
+      "unstructured": "Orlando, L. et al. Recalibrating Equus evolution using the genome sequence of an early Middle Pleistocene horse. Nature 499, 74–78 (2013).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2153_CR39",
+      "doi-asserted-by": "publisher",
+      "first-page": "2",
+      "DOI": "10.1016/j.quageo.2007.07.001",
+      "volume": "3",
+      "author": "KEH Penkman",
+      "year": "2008",
+      "unstructured": "Penkman, K. E. H., Kaufman, D. S., Maddy, D. & Collins, M. J. Closed-system behaviour of the intra-crystalline fraction of amino acids in mollusc shells. Quat. Geochronol. 3, 2–25 (2008).",
+      "journal-title": "Quat. Geochronol."
+    },
+    {
+      "key": "2153_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "29",
+      "DOI": "10.1016/j.quageo.2018.11.005",
+      "volume": "50",
+      "author": "M Dickinson",
+      "year": "2019",
+      "unstructured": "Dickinson, M., Lister, A. M. & Penkman, K. E. H. A new method for enamel amino acid racemization dating: a closed system approach. Quat. Geochronol. 50, 29–46 (2019).",
+      "journal-title": "Quat. Geochronol."
+    },
+    {
+      "key": "2153_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "37",
+      "DOI": "10.1016/S0065-3233(08)60388-5",
+      "volume": "20",
+      "author": "RL Hill",
+      "year": "1965",
+      "unstructured": "Hill, R. L. Hydrolysis of proteins. Adv. Protein Chem. 20, 37–107 (1965).",
+      "journal-title": "Adv. Protein Chem."
+    },
+    {
+      "key": "2153_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "7369",
+      "DOI": "10.1002/anie.201713020",
+      "volume": "57",
+      "author": "M Mackie",
+      "year": "2018",
+      "unstructured": "Mackie, M. et al. Palaeoproteomic profiling of conservation layers on a 14th century italian wall painting. Angew. Chem. Int. Ed. Engl. 57, 7369–7374 (2018).",
+      "journal-title": "Angew. Chem. Int. Ed. Engl."
+    },
+    {
+      "key": "2153_CR43",
+      "doi-asserted-by": "publisher",
+      "first-page": "6666",
+      "DOI": "10.1073/pnas.1405138111",
+      "volume": "111",
+      "author": "S Castellano",
+      "year": "2014",
+      "unstructured": "Castellano, S. et al. Patterns of coding variation in the complete exomes of three Neandertals. Proc. Natl Acad. Sci. USA 111, 6666–6671 (2014).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "2153_CR44",
+      "doi-asserted-by": "publisher",
+      "first-page": "477",
+      "DOI": "10.1126/science.aag2602",
+      "volume": "354",
+      "author": "M de Manuel",
+      "year": "2016",
+      "unstructured": "de Manuel, M. et al. Chimpanzee genomic diversity reveals ancient admixture with bonobos. Science 354, 477–481 (2016).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2153_CR45",
+      "doi-asserted-by": "publisher",
+      "first-page": "3487",
+      "DOI": "10.1016/j.cub.2017.09.047",
+      "volume": "27",
+      "author": "A Nater",
+      "year": "2017",
+      "unstructured": "Nater, A. et al. Morphometric, behavioral, and genomic evidence for a new orangutan species. Curr. Biol. 27, 3487–3498.e10 (2017).",
+      "journal-title": "Curr. Biol."
+    },
+    {
+      "key": "2153_CR46",
+      "doi-asserted-by": "publisher",
+      "first-page": "471",
+      "DOI": "10.1038/nature12228",
+      "volume": "499",
+      "author": "J Prado-Martinez",
+      "year": "2013",
+      "unstructured": "Prado-Martinez, J. et al. Great ape genetic diversity and population history. Nature 499, 471–475 (2013).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2153_CR47",
+      "doi-asserted-by": "publisher",
+      "first-page": "e1004976",
+      "DOI": "10.1371/journal.pcbi.1004976",
+      "volume": "12",
+      "author": "V Hanson-Smith",
+      "year": "2016",
+      "unstructured": "Hanson-Smith, V. & Johnson, A. PhyloBot: a web portal for automated phylogenetics, ancestral sequence reconstruction, and exploration of mutational trajectories. PLOS Comput. Biol. 12, e1004976 (2016).",
+      "journal-title": "PLOS Comput. Biol."
+    },
+    {
+      "key": "2153_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "23",
+      "DOI": "10.1186/s12862-018-1141-1",
+      "volume": "18",
+      "author": "F Welker",
+      "year": "2018",
+      "unstructured": "Welker, F. Elucidation of cross-species proteomic effects in human and hominin bone proteome identification through a bioinformatics experiment. BMC Evol. Biol. 18, 23 (2018).",
+      "journal-title": "BMC Evol. Biol."
+    },
+    {
+      "key": "2153_CR49",
+      "doi-asserted-by": "publisher",
+      "first-page": "791",
+      "DOI": "10.1038/s41559-018-0510-x",
+      "volume": "2",
+      "author": "J Hendy",
+      "year": "2018",
+      "unstructured": "Hendy, J. et al. A guide to ancient protein studies. Nat. Ecol. Evol. 2, 791–799 (2018).",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "2153_CR50",
+      "doi-asserted-by": "publisher",
+      "first-page": "M111.010587",
+      "DOI": "10.1074/mcp.M111.010587",
+      "volume": "11",
+      "author": "J Zhang",
+      "year": "2012",
+      "unstructured": "Zhang, J. et al. PEAKS DB: de novo sequencing assisted database search for sensitive and accurate peptide identification. Mol. Cell. Proteomics 11, M111.010587 (2012).",
+      "journal-title": "Mol. Cell. Proteomics"
+    },
+    {
+      "key": "2153_CR51",
+      "doi-asserted-by": "publisher",
+      "first-page": "1367",
+      "DOI": "10.1038/nbt.1511",
+      "volume": "26",
+      "author": "J Cox",
+      "year": "2008",
+      "unstructured": "Cox, J. & Mann, M. MaxQuant enables high peptide identification rates, individualized p.p.b.-range mass accuracies and proteome-wide protein quantification. Nat. Biotechnol. 26, 1367–1372 (2008).",
+      "journal-title": "Nat. Biotechnol."
+    },
+    {
+      "key": "2153_CR52",
+      "doi-asserted-by": "publisher",
+      "first-page": "785",
+      "DOI": "10.1177/0022034510366903",
+      "volume": "89",
+      "author": "YHP Chun",
+      "year": "2010",
+      "unstructured": "Chun, Y. H. P. et al. Cleavage site specificity of MMP-20 for secretory-stage ameloblastin. J. Dent. Res. 89, 785–790 (2010).",
+      "journal-title": "J. Dent. Res."
+    },
+    {
+      "issue": "Suppl 1",
+      "key": "2153_CR53",
+      "first-page": "379",
+      "volume": "114",
+      "author": "Y Yamakoshi",
+      "year": "2006",
+      "unstructured": "Yamakoshi, Y., Hu, J. C. C., Fukae, M., Yamakoshi, F. & Simmer, J. P. How do enamelysin and kallikrein 4 process the 32-kDa enamelin? Eur. J. Oral Sci. 114 (Suppl 1), 45–51, 93–95, 379–380 (2006).",
+      "journal-title": "Eur. J. Oral Sci."
+    },
+    {
+      "key": "2153_CR54",
+      "doi-asserted-by": "publisher",
+      "first-page": "153",
+      "DOI": "10.1177/154405910708600209",
+      "volume": "86",
+      "author": "T Iwata",
+      "year": "2007",
+      "unstructured": "Iwata, T. et al. Processing of ameloblastin by MMP-20. J. Dent. Res. 86, 153–157 (2007).",
+      "journal-title": "J. Dent. Res."
+    },
+    {
+      "key": "2153_CR55",
+      "doi-asserted-by": "publisher",
+      "first-page": "823",
+      "DOI": "10.1177/0022034509342694",
+      "volume": "88",
+      "author": "T Nagano",
+      "year": "2009",
+      "unstructured": "Nagano, T. et al. Mmp-20 and Klk4 cleavage site preferences for amelogenin sequences. J. Dent. Res. 88, 823–828 (2009).",
+      "journal-title": "J. Dent. Res."
+    },
+    {
+      "key": "2153_CR56",
+      "doi-asserted-by": "publisher",
+      "first-page": "111",
+      "DOI": "10.1177/08959374960100020201",
+      "volume": "10",
+      "author": "M Fukae",
+      "year": "1996",
+      "unstructured": "Fukae, M. et al. Primary structure of the porcine 89-kDa enamelin. Adv. Dent. Res. 10, 111–118 (1996).",
+      "journal-title": "Adv. Dent. Res."
+    },
+    {
+      "key": "2153_CR57",
+      "doi-asserted-by": "publisher",
+      "first-page": "786",
+      "DOI": "10.1038/nmeth1109-786",
+      "volume": "6",
+      "author": "N Colaert",
+      "year": "2009",
+      "unstructured": "Colaert, N., Helsens, K., Martens, L., Vandekerckhove, J. & Gevaert, K. Improved visualization of protein consensus sequences by iceLogo. Nat. Methods 6, 786–787 (2009).",
+      "journal-title": "Nat. Methods"
+    },
+    {
+      "key": "2153_CR58",
+      "doi-asserted-by": "publisher",
+      "first-page": "655",
+      "DOI": "10.1126/science.aao1887",
+      "volume": "358",
+      "author": "K Prüfer",
+      "year": "2017",
+      "unstructured": "Prüfer, K. et al. A high-coverage Neandertal genome from Vindija Cave in Croatia. Science 358, 655–658 (2017).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2153_CR59",
+      "doi-asserted-by": "publisher",
+      "first-page": "222",
+      "DOI": "10.1126/science.1224344",
+      "volume": "338",
+      "author": "M Meyer",
+      "year": "2012",
+      "unstructured": "Meyer, M. et al. A high-coverage genome sequence from an archaic Denisovan individual. Science 338, 222–226 (2012).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "2153_CR60",
+      "doi-asserted-by": "publisher",
+      "first-page": "3059",
+      "DOI": "10.1093/nar/gkf436",
+      "volume": "30",
+      "author": "K Katoh",
+      "year": "2002",
+      "unstructured": "Katoh, K., Misawa, K., Kuma, K. & Miyata, T. MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform. Nucleic Acids Res. 30, 3059–3066 (2002).",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "2153_CR61",
+      "doi-asserted-by": "publisher",
+      "first-page": "307",
+      "DOI": "10.1093/sysbio/syq010",
+      "volume": "59",
+      "author": "S Guindon",
+      "year": "2010",
+      "unstructured": "Guindon, S. et al. New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0. Syst. Biol. 59, 307–321 (2010).",
+      "journal-title": "Syst. Biol."
+    },
+    {
+      "key": "2153_CR62",
+      "doi-asserted-by": "publisher",
+      "first-page": "539",
+      "DOI": "10.1093/sysbio/sys029",
+      "volume": "61",
+      "author": "F Ronquist",
+      "year": "2012",
+      "unstructured": "Ronquist, F. et al. MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space. Syst. Biol. 61, 539–542 (2012).",
+      "journal-title": "Syst. Biol."
+    },
+    {
+      "key": "2153_CR63",
+      "doi-asserted-by": "publisher",
+      "first-page": "e1006650",
+      "DOI": "10.1371/journal.pcbi.1006650",
+      "volume": "15",
+      "author": "R Bouckaert",
+      "year": "2019",
+      "unstructured": "Bouckaert, R. et al. BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis. PLOS Comput. Biol. 15, e1006650 (2019).",
+      "journal-title": "PLOS Comput. Biol."
+    },
+    {
+      "key": "2153_CR64",
+      "unstructured": "Miller, M. A., Pfeiffer, W. & Schwartz, T. in Gateway Computing Environments Workshop (GCE) 1–8 (New Orleans, 2010)."
+    },
+    {
+      "key": "2153_CR65",
+      "doi-asserted-by": "publisher",
+      "first-page": "286",
+      "DOI": "10.1038/s41559-018-0778-x",
+      "volume": "3",
+      "author": "S Besenbacher",
+      "year": "2019",
+      "unstructured": "Besenbacher, S., Hvilsom, C., Marques-Bonet, T., Mailund, T. & Schierup, M. H. Direct estimation of mutations in great apes reconciles phylogenetic dating. Nat. Ecol. Evol. 3, 286–292 (2019).",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "2153_CR66",
+      "doi-asserted-by": "publisher",
+      "first-page": "901",
+      "DOI": "10.1093/sysbio/syy032",
+      "volume": "67",
+      "author": "A Rambaut",
+      "year": "2018",
+      "unstructured": "Rambaut, A., Drummond, A. J., Xie, D., Baele, G. & Suchard, M. A. Posterior summarization in Bayesian phylogenetics using Tracer 1.7. Syst. Biol. 67, 901–904 (2018).",
+      "journal-title": "Syst. Biol."
+    }
+  ],
+  "updated-by": [
+    {
+      "DOI": "10.1038/s41586-020-2580-6",
+      "type": "correction",
+      "label": "Correction",
+      "source": "publisher",
+      "updated": {
+        "date-parts": [
+          [
+            2020,
+            7,
+            29
+          ]
+        ],
+        "date-time": "2020-07-29T00:00:00Z",
+        "timestamp": 1595980800000
+      }
+    }
+  ],
+  "container-title": [
+    "Nature"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41586-020-2153-8.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41586-020-2153-8",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41586-020-2153-8.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        29
+      ]
+    ],
+    "date-time": "2024-04-29T19:05:18Z",
+    "timestamp": 1714417518000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41586-020-2153-8"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        1
+      ]
+    ]
+  },
+  "references-count": 66,
+  "journal-issue": {
+    "issue": "7802",
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          9
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "2153"
+  ],
+  "URL": "https://doi.org/10.1038/s41586-020-2153-8",
+  "relation": {
+    "correction": [
+      {
+        "id-type": "doi",
+        "id": "10.1038/s41586-020-2580-6",
+        "asserted-by": "object"
+      }
+    ]
+  },
+  "ISSN": [
+    "0028-0836",
+    "1476-4687"
+  ],
+  "issn-type": [
+    {
+      "value": "0028-0836",
+      "type": "print"
+    },
+    {
+      "value": "1476-4687",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "4 July 2019",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "21 January 2020",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "1 April 2020",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "29 July 2020",
+      "order": 4,
+      "name": "change_date",
+      "label": "Change Date",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "Correction",
+      "order": 5,
+      "name": "change_type",
+      "label": "Change Type",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "A Correction to this paper has been published:",
+      "order": 6,
+      "name": "change_details",
+      "label": "Change Details",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "https://doi.org/10.1038/s41586-020-2580-6",
+      "URL": "https://doi.org/10.1038/s41586-020-2580-6",
+      "order": 7,
+      "name": "change_details",
+      "label": "Change Details",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ]
+}

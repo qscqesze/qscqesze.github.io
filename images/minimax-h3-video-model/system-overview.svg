@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">MiniMax H3 完整系统的三级流程</title>
+  <desc id="desc">文本、图片、视频和音频先由 H3-Context-IR 解释成结构化上下文，H3-Base 联合生成 768p 视频和立体声音频，再由 H3-Regenerate-2K 结合原始上下文重新生成 2K 视频。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".55" stop-color="#101b36"/><stop offset="1" stop-color="#241844"/></linearGradient>
+    <linearGradient id="ir" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1f8fa5"/><stop offset="1" stop-color="#37d7c3"/></linearGradient>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6657d9"/><stop offset="1" stop-color="#b566e7"/></linearGradient>
+    <linearGradient id="regen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d66b52"/><stop offset="1" stop-color="#f0ad50"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000" flood-opacity=".35"/></filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6L0 12Z" fill="#9fe8ff"/></marker>
+    <marker id="arrowWarm" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6L0 12Z" fill="#f7bd78"/></marker>
+  </defs>
+  <rect width="1600" height="900" rx="34" fill="url(#bg)"/>
+  <g font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">
+    <text x="70" y="80" fill="#f7fbff" font-size="39" font-weight="760">H3 不是一个模型文件，而是一条三级生成系统</text>
+    <text x="70" y="124" fill="#a9b9d0" font-size="21">先把自由表达变成机器可执行的上下文，再生成 768p 音视频，最后带着原意重做一遍 2K。</text>
+
+    <g filter="url(#shadow)">
+      <rect x="70" y="216" width="260" height="386" rx="28" fill="#0c2034" stroke="#31587a" stroke-width="2"/>
+      <text x="200" y="264" text-anchor="middle" fill="#fff" font-size="27" font-weight="720">自由多模态输入</text>
+      <g font-size="19" font-weight="650">
+        <rect x="105" y="300" width="190" height="50" rx="13" fill="#17334e"/><text x="200" y="332" text-anchor="middle" fill="#d7edff">文本 · 创作意图</text>
+        <rect x="105" y="366" width="190" height="50" rx="13" fill="#173d49"/><text x="200" y="398" text-anchor="middle" fill="#c8fff3">图片 · 人物/首尾帧</text>
+        <rect x="105" y="432" width="190" height="50" rx="13" fill="#2b2d55"/><text x="200" y="464" text-anchor="middle" fill="#e1ddff">视频 · 动作/镜头</text>
+        <rect x="105" y="498" width="190" height="50" rx="13" fill="#482747"/><text x="200" y="530" text-anchor="middle" fill="#ffd9f1">音频 · 音色/节奏</text>
+      </g>
+      <text x="200" y="578" text-anchor="middle" fill="#8fa6c1" font-size="16">最多 12 个参考文件</text>
+    </g>
+
+    <path d="M350 409H430" stroke="#9fe8ff" stroke-width="5" marker-end="url(#arrow)"/>
+
+    <g filter="url(#shadow)">
+      <rect x="452" y="216" width="302" height="386" rx="28" fill="#0c2735" stroke="#39c8b8" stroke-width="2"/>
+      <circle cx="603" cy="304" r="56" fill="url(#ir)"/>
+      <path d="M570 306h66M581 285h44M581 327h44" stroke="#06272a" stroke-width="7" stroke-linecap="round"/>
+      <text x="603" y="399" text-anchor="middle" fill="#fff" font-size="28" font-weight="760">H3-Context-IR</text>
+      <text x="603" y="438" text-anchor="middle" fill="#b7d7d9" font-size="18">解析指令与素材关系</text>
+      <text x="603" y="469" text-anchor="middle" fill="#b7d7d9" font-size="18">对齐人物、动作、镜头、声音</text>
+      <text x="603" y="500" text-anchor="middle" fill="#b7d7d9" font-size="18">输出结构化中间表示</text>
+      <rect x="500" y="535" width="206" height="40" rx="12" fill="#123f47"/>
+      <text x="603" y="561" text-anchor="middle" fill="#8ff3df" font-size="16" font-weight="700">托管系统 · 未开放权重</text>
+    </g>
+
+    <path d="M774 409H854" stroke="#9fe8ff" stroke-width="5" marker-end="url(#arrow)"/>
+
+    <g filter="url(#shadow)">
+      <rect x="876" y="216" width="302" height="386" rx="28" fill="#201c43" stroke="#8a73ed" stroke-width="2"/>
+      <circle cx="1027" cy="304" r="56" fill="url(#base)"/>
+      <g fill="none" stroke="#fff" stroke-width="5"><rect x="994" y="280" width="66" height="48" rx="7"/><path d="M1006 315l14-14 11 10 9-8 11 12"/></g>
+      <text x="1027" y="399" text-anchor="middle" fill="#fff" font-size="28" font-weight="760">H3-Base</text>
+      <text x="1027" y="438" text-anchor="middle" fill="#d4cdf7" font-size="18">33B 单流 Omni Transformer</text>
+      <text x="1027" y="469" text-anchor="middle" fill="#d4cdf7" font-size="18">联合去噪画面与声音 latent</text>
+      <text x="1027" y="500" text-anchor="middle" fill="#d4cdf7" font-size="18">24 FPS + 32 kHz 双声道</text>
+      <rect x="924" y="535" width="206" height="40" rx="12" fill="#3b316d"/>
+      <text x="1027" y="561" text-anchor="middle" fill="#ded7ff" font-size="16" font-weight="700">开放权重 · 默认短边 768</text>
+    </g>
+
+    <path d="M1198 409H1278" stroke="#f7bd78" stroke-width="5" marker-end="url(#arrowWarm)"/>
+
+    <g filter="url(#shadow)">
+      <rect x="1300" y="216" width="230" height="386" rx="28" fill="#382230" stroke="#e68b5f" stroke-width="2"/>
+      <circle cx="1415" cy="304" r="56" fill="url(#regen)"/>
+      <text x="1415" y="315" text-anchor="middle" fill="#351405" font-size="26" font-weight="850">2K</text>
+      <text x="1415" y="399" text-anchor="middle" fill="#fff" font-size="26" font-weight="760">Regenerate-2K</text>
+      <text x="1415" y="438" text-anchor="middle" fill="#f1d1c2" font-size="18">768p 结果</text>
+      <text x="1415" y="468" text-anchor="middle" fill="#f1d1c2" font-size="18">+ 原始上下文</text>
+      <text x="1415" y="498" text-anchor="middle" fill="#f1d1c2" font-size="18">重新生成细节</text>
+      <rect x="1331" y="535" width="168" height="40" rx="12" fill="#66362f"/>
+      <text x="1415" y="561" text-anchor="middle" fill="#ffd9ba" font-size="16" font-weight="700">API · 尚未开放</text>
+    </g>
+
+    <path d="M199 623C199 718 1268 708 1386 625" fill="none" stroke="#f1a861" stroke-width="3" stroke-dasharray="11 10" marker-end="url(#arrowWarm)"/>
+    <text x="800" y="692" text-anchor="middle" fill="#f2bf8f" font-size="18" font-weight="650">原始上下文不是丢掉：2K 阶段再次读取人物、文字、品牌与镜头意图</text>
+
+    <rect x="70" y="748" width="1460" height="92" rx="22" fill="#091727" stroke="#294864" stroke-width="2"/>
+    <text x="103" y="788" fill="#fff" font-size="20" font-weight="720">最容易误解的一点</text>
+    <text x="103" y="820" fill="#b7c7da" font-size="18">本地开放权重主要对应 H3-Base 的 768p 路径；“官方 2K 完整体验”还依赖 Context-IR 与 Regenerate-2K 两个托管模块。</text>
+  </g>
+</svg>

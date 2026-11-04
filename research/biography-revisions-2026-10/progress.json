@@ -1,0 +1,77 @@
+[
+  {
+    "source": "_posts/2026-10-21-john-harrison-longitude.md",
+    "draft": "_drafts/revision-john-harrison-longitude.md",
+    "body_hanzi": 18088,
+    "images": 6,
+    "target_hanzi_min": 18000,
+    "target_hanzi_max": 22000,
+    "status": "completed",
+    "revision_date": "2026-10-24",
+    "article_url": "https://qscqesze.github.io/posts/john-harrison-longitude/",
+    "audit": "research/biography-revisions-2026-10/harrison-audit-2026-10-24.md",
+    "published_commit": "89c15580c694e632c31da788623d48a4c9a68141",
+    "deployment": {
+      "status": "success",
+      "run_id": 40049636271,
+      "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/40049636271",
+      "verified_date": "2026-10-24"
+    }
+  },
+  {
+    "source": "_posts/2026-10-22-mary-anning-fossil-hunter.md",
+    "draft": "_drafts/revision-mary-anning-fossil-hunter.md",
+    "body_hanzi": 18219,
+    "images": 6,
+    "target_hanzi_min": 18000,
+    "target_hanzi_max": 22000,
+    "status": "completed",
+    "revision_date": "2026-10-26",
+    "fact_review": "completed; corrections recorded in audit",
+    "language_review": "completed; full structural and paragraph review recorded in audit",
+    "deployment": {
+      "status": "success",
+      "run_id": 40254622073,
+      "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/40254622073",
+      "verified_date": "2026-10-26"
+    },
+    "article_url": "https://qscqesze.github.io/posts/mary-anning-fossil-hunter/",
+    "audit": "research/biography-revisions-2026-10/anning-audit-2026-10-26.md",
+    "published_commit": "6f4b9f021174543d05623a8e1366e67026b3cb0d",
+    "public_page_check": {
+      "title": "玛丽·安宁：莱姆的骨头与生意",
+      "images_loaded": 6,
+      "footnotes": 35,
+      "missing_footnote_targets": 0,
+      "verified_date": "2026-10-26"
+    }
+  },
+  {
+    "source": "_posts/2026-10-23-maria-sibylla-merian.md",
+    "draft": "_drafts/revision-maria-sibylla-merian.md",
+    "body_hanzi": 18377,
+    "images": 6,
+    "target_hanzi_min": 18000,
+    "target_hanzi_max": 22000,
+    "status": "completed",
+    "revision_date": "2026-10-27",
+    "fact_review": "completed; corrections recorded in audit",
+    "language_review": "completed; structural and paragraph edits recorded in audit",
+    "article_url": "https://qscqesze.github.io/posts/maria-sibylla-merian/",
+    "audit": "research/biography-revisions-2026-10/merian-audit-2026-10-27.md",
+    "published_commit": "d90c77f6e651b29bf76445ce02af70aa0b987250",
+    "deployment": {
+      "status": "success",
+      "run_id": 40433684410,
+      "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/40433684410",
+      "verified_date": "2026-10-27"
+    },
+    "public_page_check": {
+      "title": "梅里安：昆虫、画稿与远航图谱",
+      "images_loaded": 6,
+      "footnotes": 52,
+      "missing_footnote_targets": 0,
+      "verified_date": "2026-10-27"
+    }
+  }
+]

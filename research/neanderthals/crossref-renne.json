@@ -1,0 +1,1100 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        10
+      ]
+    ],
+    "date-time": "2026-09-10T09:16:27Z",
+    "timestamp": 1789031787312,
+    "version": "build-2803163510"
+  },
+  "reference-count": 55,
+  "publisher": "National Academy of Sciences",
+  "issue": "40",
+  "content-domain": {
+    "domain": [
+      "www.pnas.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Proc. Natl. Acad. Sci. U.S.A."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2016,
+        10,
+        4
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Significance</jats:title>\n                  <jats:p>\n                    The displacement of Neandertals by anatomically modern humans (AMHs) 50,000–40,000 y ago in Europe has considerable biological and behavioral implications. The Châtelperronian at the Grotte du Renne (France) takes a central role in models explaining the transition, but the association of hominin fossils at this site with the Châtelperronian is debated. Here we identify additional hominin specimens at the site through proteomic zooarchaeology by mass spectrometry screening and obtain molecular (ancient DNA, ancient proteins) and chronometric data to demonstrate that these represent Neandertals that date to the Châtelperronian. The identification of an amino acid sequence specific to a clade within the genus\n                    <jats:italic>Homo</jats:italic>\n                    demonstrates the potential of palaeoproteomic analysis in the study of hominin taxonomy in the Late Pleistocene and warrants further exploration.\n                  </jats:p>",
+  "DOI": "10.1073/pnas.1605834113",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2016,
+        9,
+        16
+      ]
+    ],
+    "date-time": "2016-09-16T22:19:04Z",
+    "timestamp": 1474064344000
+  },
+  "page": "11162-11167",
+  "update-policy": "https://doi.org/10.1073/pnas.cm10313",
+  "source": "Crossref",
+  "is-referenced-by-count": 288,
+  "title": [
+    "Palaeoproteomic evidence identifies archaic hominins associated with the Châtelperronian at the Grotte du Renne"
+  ],
+  "prefix": "10.1073",
+  "volume": "113",
+  "author": [
+    {
+      "given": "Frido",
+      "family": "Welker",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;"
+        },
+        {
+          "name": "BioArCh, University of York, York YO10 5DD, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mateja",
+      "family": "Hajdinjak",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sahra",
+      "family": "Talamo",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Klervia",
+      "family": "Jaouen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Michael",
+      "family": "Dannemann",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;"
+        },
+        {
+          "name": "Medical Faculty, University of Leipzig, 04103 Leipzig, Germany;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Francine",
+      "family": "David",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Paris Unité Mixte de Recherche 7041, Archéologies et Sciences de l'Antiquité, Centre National de la Recherche Scientifique, 92023 Nanterre, France;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Michèle",
+      "family": "Julien",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Paris Unité Mixte de Recherche 7041, Archéologies et Sciences de l'Antiquité, Centre National de la Recherche Scientifique, 92023 Nanterre, France;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Matthias",
+      "family": "Meyer",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3618-322X",
+      "authenticated-orcid": false,
+      "given": "Janet",
+      "family": "Kelso",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ian",
+      "family": "Barnes",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Earth Sciences, Natural History Museum, London SW7 5BD, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Selina",
+      "family": "Brace",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Earth Sciences, Natural History Museum, London SW7 5BD, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Pepijn",
+      "family": "Kamminga",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Naturalis Biodiversity Center, 2300 RA Leiden, The Netherlands;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Roman",
+      "family": "Fischer",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Target Discovery Institute, Nuffield Department of Medicine, University of Oxford, Oxford OX3 7FZ, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Benedikt M.",
+      "family": "Kessler",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Target Discovery Institute, Nuffield Department of Medicine, University of Oxford, Oxford OX3 7FZ, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "John R.",
+      "family": "Stewart",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Faculty of Science and Technology, Bournemouth University, Dorset BH12 5BB, United Kingdom"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Svante",
+      "family": "Pääbo",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Evolutionary Genetics, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Matthew J.",
+      "family": "Collins",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "BioArCh, University of York, York YO10 5DD, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jean-Jacques",
+      "family": "Hublin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "341",
+  "published-online": {
+    "date-parts": [
+      [
+        2016,
+        9,
+        16
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_4_1_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "710",
+      "DOI": "10.1126/science.1188021",
+      "article-title": "A draft sequence of the Neandertal genome",
+      "volume": "328",
+      "author": "Green RE",
+      "year": "2010",
+      "unstructured": "RE Green, , A draft sequence of the Neandertal genome. Science 328, 710–722 (2010).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "e_1_3_4_2_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.1002/1096-8644(2000)43:31+<61::AID-AJPA4>3.0.CO;2-3",
+      "article-title": "Makers of the early Aurignacian of Europe",
+      "volume": "31",
+      "author": "Churchill SE",
+      "year": "2000",
+      "unstructured": "SE Churchill, FH Smith, Makers of the early Aurignacian of Europe. Am J Phys Anthropol 31, 61–115 (2000).",
+      "journal-title": "Am J Phys Anthropol"
+    },
+    {
+      "key": "e_1_3_4_3_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "13",
+      "DOI": "10.1016/j.jhevol.2016.02.003",
+      "article-title": "The Châtelperronian conundrum: Blade and bladelet lithic technologies from Quinçay, France",
+      "volume": "95",
+      "author": "Roussel M",
+      "year": "2016",
+      "unstructured": "M Roussel, M Soressi, J-J Hublin, The Châtelperronian conundrum: Blade and bladelet lithic technologies from Quinçay, France. J Hum Evol 95, 13–32 (2016).",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "e_1_3_4_4_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "J-M Granger F Lévêque Parure castelperronienne et aurignacienne: Étude de trois séries inédites de dents percées et comparaisons. CR Acad Sci Ser IIa Sci Terre Planets 325(7):537–543. (1997).",
+      "DOI": "10.1016/S1251-8050(97)89874-6"
+    },
+    {
+      "key": "e_1_3_4_5_2",
+      "first-page": "247",
+      "volume-title": "The Chronology of the Aurignacian and of the Transitional Technocomplexes. Dating, Stratigraphies, Cultural Implications, Trabalhos de arquelogia",
+      "author": "d’Errico F",
+      "year": "2003",
+      "unstructured": "F d’Errico, M Julien, D Liolios, M Vanhaeren, D Baffier, Many awls in our argument. Bone tool manufacture and use in the Châtelperronian and Aurignacian levels of the Grotte du Renne at Arcy-sur-Cur. The Chronology of the Aurignacian and of the Transitional Technocomplexes. Dating, Stratigraphies, Cultural Implications, Trabalhos de arquelogia, eds J Zilhão, F d’Errico (Instituto Português de Arqueologia, Lisboa), pp. 247–270 (2003)."
+    },
+    {
+      "key": "e_1_3_4_6_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "224",
+      "DOI": "10.1038/381224a0",
+      "article-title": "A late Neanderthal associated with Upper Palaeolithic artefacts",
+      "volume": "381",
+      "author": "Hublin J-J",
+      "year": "1996",
+      "unstructured": "J-J Hublin, F Spoor, M Braun, F Zonneveld, S Condemi, A late Neanderthal associated with Upper Palaeolithic artefacts. Nature 381, 224–226 (1996).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "e_1_3_4_7_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "485",
+      "DOI": "10.1016/j.jhevol.2005.11.008",
+      "article-title": "Dental remains from the Grotte du Renne at Arcy-sur-Cure (Yonne)",
+      "volume": "50",
+      "author": "Bailey SE",
+      "year": "2006",
+      "unstructured": "SE Bailey, J-J Hublin, Dental remains from the Grotte du Renne at Arcy-sur-Cure (Yonne). J Hum Evol 50, 485–508 (2006).",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "e_1_3_4_8_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "11",
+      "DOI": "10.1016/j.jhevol.2009.02.003",
+      "article-title": "Who made the Aurignacian and other early Upper Paleolithic industries?",
+      "volume": "57",
+      "author": "Bailey SE",
+      "year": "2009",
+      "unstructured": "SE Bailey, TD Weaver, J-J Hublin, Who made the Aurignacian and other early Upper Paleolithic industries? J Hum Evol 57, 11–26 (2009).",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "e_1_3_4_9_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "194",
+      "DOI": "10.1016/j.quascirev.2014.08.011",
+      "article-title": "The modern human colonization of western Eurasia: When and where?",
+      "volume": "118",
+      "author": "Hublin J-J",
+      "year": "2015",
+      "unstructured": "J-J Hublin, The modern human colonization of western Eurasia: When and where? Quat Sci Rev 118, 194–210 (2015).",
+      "journal-title": "Quat Sci Rev"
+    },
+    {
+      "key": "e_1_3_4_10_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "20234",
+      "DOI": "10.1073/pnas.1007963107",
+      "article-title": "Chronology of the Grotte du Renne (France) and implications for the context of ornaments and human remains within the Châtelperronian",
+      "volume": "107",
+      "author": "Higham T",
+      "year": "2010",
+      "unstructured": "T Higham, , Chronology of the Grotte du Renne (France) and implications for the context of ornaments and human remains within the Châtelperronian. Proc Natl Acad Sci USA 107, 20234–20239 (2010).",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "key": "e_1_3_4_11_2",
+      "first-page": "41",
+      "article-title": "Personal ornaments from the Grotte du Renne at Arcy-sur-Cure",
+      "volume": "2",
+      "author": "White R",
+      "year": "2001",
+      "unstructured": "R White, Personal ornaments from the Grotte du Renne at Arcy-sur-Cure. Athena Review 2, 41–46 (2001).",
+      "journal-title": "Athena Review"
+    },
+    {
+      "key": "e_1_3_4_12_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "586",
+      "DOI": "10.1016/j.jhevol.2010.06.009",
+      "article-title": "Who were the makers of the Châtelperronian culture?",
+      "volume": "59",
+      "author": "Bar-Yosef O",
+      "year": "2010",
+      "unstructured": "O Bar-Yosef, J-G Bordes, Who were the makers of the Châtelperronian culture? J Hum Evol 59, 586–593 (2010).",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "e_1_3_4_13_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "18743",
+      "DOI": "10.1073/pnas.1212924109",
+      "article-title": "Radiocarbon dates from the Grotte du Renne and Saint-Césaire support a Neandertal origin for the Châtelperronian",
+      "volume": "109",
+      "author": "Hublin J-J",
+      "year": "2012",
+      "unstructured": "J-J Hublin, , Radiocarbon dates from the Grotte du Renne and Saint-Césaire support a Neandertal origin for the Châtelperronian. Proc Natl Acad Sci USA 109, 18743–18748 (2012).",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "key": "e_1_3_4_14_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "e21545",
+      "DOI": "10.1371/journal.pone.0021545",
+      "article-title": "The reality of Neandertal symbolic behavior at the Grotte du Renne, Arcy-sur-Cure, France",
+      "volume": "6",
+      "author": "Caron F",
+      "year": "2011",
+      "unstructured": "F Caron, F d’Errico, P Del Moral, F Santos, J Zilhão, The reality of Neandertal symbolic behavior at the Grotte du Renne, Arcy-sur-Cure, France. PLoS One 6, e21545 (2011).",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "e_1_3_4_15_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "3843",
+      "DOI": "10.1002/rcm.4316",
+      "article-title": "Species identification by analysis of bone collagen using matrix-assisted laser desorption/ionisation time-of-flight mass spectrometry",
+      "volume": "23",
+      "author": "Buckley M",
+      "year": "2009",
+      "unstructured": "M Buckley, M Collins, J Thomas-Oates, JC Wilson, Species identification by analysis of bone collagen using matrix-assisted laser desorption/ionisation time-of-flight mass spectrometry. Rapid Commun Mass Spectrom 23, 3843–3854 (2009).",
+      "journal-title": "Rapid Commun Mass Spectrom"
+    },
+    {
+      "key": "e_1_3_4_16_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "279",
+      "DOI": "10.1016/j.jas.2014.12.010",
+      "article-title": "Using ZooMS to identify fragmentary bone from the Late Middle/Early Upper Palaeolithic sequence of Les Cottés, France",
+      "volume": "54",
+      "author": "Welker F",
+      "year": "2015",
+      "unstructured": "F Welker, M Soressi, W Rendu, J-J Hublin, MJ Collins, Using ZooMS to identify fragmentary bone from the Late Middle/Early Upper Palaeolithic sequence of Les Cottés, France. J Archaeol Sci 54, 279–286 (2015).",
+      "journal-title": "J Archaeol Sci"
+    },
+    {
+      "key": "e_1_3_4_17_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "23559",
+      "DOI": "10.1038/srep23559",
+      "article-title": "Identification of a new hominin bone from Denisova Cave, Siberia using collagen fingerprinting and mitochondrial DNA analysis",
+      "volume": "6",
+      "author": "Brown S",
+      "year": "2016",
+      "unstructured": "S Brown, , Identification of a new hominin bone from Denisova Cave, Siberia using collagen fingerprinting and mitochondrial DNA analysis. Sci Rep 6, 23559 (2016).",
+      "journal-title": "Sci Rep"
+    },
+    {
+      "key": "e_1_3_4_18_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "4409",
+      "DOI": "10.1073/pnas.0500450102",
+      "article-title": "Osteocalcin protein sequences of Neanderthals and modern primates",
+      "volume": "102",
+      "author": "Nielsen-Marsh CM",
+      "year": "2005",
+      "unstructured": "CM Nielsen-Marsh, , Osteocalcin protein sequences of Neanderthals and modern primates. Proc Natl Acad Sci USA 102, 4409–4413 (2005).",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "key": "e_1_3_4_19_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "81",
+      "DOI": "10.1038/nature14249",
+      "article-title": "Ancient proteins resolve the evolutionary history of Darwin’s South American ungulates",
+      "volume": "522",
+      "author": "Welker F",
+      "year": "2015",
+      "unstructured": "F Welker, , Ancient proteins resolve the evolutionary history of Darwin’s South American ungulates. Nature 522, 81–84 (2015).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "e_1_3_4_20_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "281",
+      "DOI": "10.1007/s12520-011-0067-y",
+      "article-title": "A novel and non-destructive approach for ZooMS analysis: Ammonium bicarbonate buffer extraction",
+      "volume": "3",
+      "author": "van Doorn NL",
+      "year": "2011",
+      "unstructured": "NL van Doorn, H Hollund, MJ Collins, A novel and non-destructive approach for ZooMS analysis: Ammonium bicarbonate buffer extraction. Archaeol Anthropol Sci 3, 281–289 (2011).",
+      "journal-title": "Archaeol Anthropol Sci"
+    },
+    {
+      "key": "e_1_3_4_21_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "271",
+      "DOI": "10.1007/s12520-011-0066-z",
+      "article-title": "Collagen fingerprinting of archaeological bone and teeth remains from Domuztepe, South Eastern Turkey",
+      "volume": "3",
+      "author": "Buckley M",
+      "year": "2011",
+      "unstructured": "M Buckley, SW Kansa, Collagen fingerprinting of archaeological bone and teeth remains from Domuztepe, South Eastern Turkey. Archaeol Anthropol Sci 3, 271–280 (2011).",
+      "journal-title": "Archaeol Anthropol Sci"
+    },
+    {
+      "key": "e_1_3_4_22_2",
+      "first-page": "757",
+      "article-title": "Using combined biomolecular methods to explore whale exploitation and social aggregation in hunter–gatherer–fisher society in Tierra del Fuego",
+      "volume": "6",
+      "author": "Evans S",
+      "year": "2015",
+      "unstructured": "S Evans, , Using combined biomolecular methods to explore whale exploitation and social aggregation in hunter–gatherer–fisher society in Tierra del Fuego. J Archaeol Sci: Reports 6, 757–767 (2015).",
+      "journal-title": "J Archaeol Sci: Reports"
+    },
+    {
+      "key": "e_1_3_4_23_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "426",
+      "DOI": "10.1111/j.1399-3011.2004.00151.x",
+      "article-title": "Structure-dependent nonenzymatic deamidation of glutaminyl and asparaginyl pentapeptides",
+      "volume": "63",
+      "author": "Robinson NE",
+      "year": "2004",
+      "unstructured": "NE Robinson, , Structure-dependent nonenzymatic deamidation of glutaminyl and asparaginyl pentapeptides. J Pept Res 63, 426–436 (2004).",
+      "journal-title": "J Pept Res"
+    },
+    {
+      "key": "e_1_3_4_24_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "2319",
+      "DOI": "10.1002/rcm.6351",
+      "article-title": "Site-specific deamidation of glutamine: A new marker of bone collagen deterioration",
+      "volume": "26",
+      "author": "van Doorn NL",
+      "year": "2012",
+      "unstructured": "NL van Doorn, J Wilson, H Hollund, M Soressi, MJ Collins, Site-specific deamidation of glutamine: A new marker of bone collagen deterioration. Rapid Commun Mass Spectrom 26, 2319–2327 (2012).",
+      "journal-title": "Rapid Commun Mass Spectrom"
+    },
+    {
+      "key": "e_1_3_4_25_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "917",
+      "DOI": "10.1021/pr200721u",
+      "article-title": "Proteomic analysis of a pleistocene mammoth femur reveals more than one hundred ancient bone proteins",
+      "volume": "11",
+      "author": "Cappellini E",
+      "year": "2012",
+      "unstructured": "E Cappellini, , Proteomic analysis of a pleistocene mammoth femur reveals more than one hundred ancient bone proteins. J Proteome Res 11, 917–926 (2012).",
+      "journal-title": "J Proteome Res"
+    },
+    {
+      "key": "e_1_3_4_26_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "605",
+      "DOI": "10.1002/rcm.6821",
+      "article-title": "Proteome degradation in fossils: Investigating the longevity of protein survival in ancient bone",
+      "volume": "28",
+      "author": "Wadsworth C",
+      "year": "2014",
+      "unstructured": "C Wadsworth, M Buckley, Proteome degradation in fossils: Investigating the longevity of protein survival in ancient bone. Rapid Commun Mass Spectrom 28, 605–615 (2014).",
+      "journal-title": "Rapid Commun Mass Spectrom"
+    },
+    {
+      "key": "e_1_3_4_27_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "535",
+      "DOI": "10.1016/j.bone.2007.06.024",
+      "article-title": "Type XXVII collagen at the transition of cartilage to bone during skeletogenesis",
+      "volume": "41",
+      "author": "Hjorten R",
+      "year": "2007",
+      "unstructured": "R Hjorten, , Type XXVII collagen at the transition of cartilage to bone during skeletogenesis. Bone 41, 535–542 (2007).",
+      "journal-title": "Bone"
+    },
+    {
+      "key": "e_1_3_4_28_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "27",
+      "DOI": "10.1038/nrm3254",
+      "article-title": "Building strong bones: Molecular regulation of the osteoblast lineage",
+      "volume": "13",
+      "author": "Long F",
+      "year": "2011",
+      "unstructured": "F Long, Building strong bones: Molecular regulation of the osteoblast lineage. Nat Rev Mol Cell Biol 13, 27–38 (2011).",
+      "journal-title": "Nat Rev Mol Cell Biol"
+    },
+    {
+      "key": "e_1_3_4_29_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "68",
+      "DOI": "10.1080/03008200801913502",
+      "article-title": "Collagen XXIV (Col24a1) gene expression is a specific marker of osteoblast differentiation and bone formation",
+      "volume": "49",
+      "author": "Matsuo N",
+      "year": "2008",
+      "unstructured": "N Matsuo, , Collagen XXIV (Col24a1) gene expression is a specific marker of osteoblast differentiation and bone formation. Connect Tissue Res 49, 68–75 (2008).",
+      "journal-title": "Connect Tissue Res"
+    },
+    {
+      "key": "e_1_3_4_30_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "14",
+      "DOI": "10.1159/000157085",
+      "article-title": "Type X collagen: A hypertrophic cartilage-specific molecule",
+      "volume": "7",
+      "author": "Linsenmayer TF",
+      "year": "1988",
+      "unstructured": "TF Linsenmayer, RD Eavey, TM Schmid, Type X collagen: A hypertrophic cartilage-specific molecule. Pathol Immunopathol Res 7, 14–19 (1988).",
+      "journal-title": "Pathol Immunopathol Res"
+    },
+    {
+      "key": "e_1_3_4_31_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "458",
+      "DOI": "10.1186/1471-2164-8-458",
+      "article-title": "Unravelling the molecular control of calvarial suture fusion in children with craniosynostosis",
+      "volume": "8",
+      "author": "Coussens AK",
+      "year": "2007",
+      "unstructured": "AK Coussens, , Unravelling the molecular control of calvarial suture fusion in children with craniosynostosis. BMC Genomics 8, 458 (2007).",
+      "journal-title": "BMC Genomics"
+    },
+    {
+      "key": "e_1_3_4_32_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "68",
+      "DOI": "10.1038/nature15393",
+      "article-title": "A global reference for human genetic variation",
+      "volume": "526",
+      "author": "1000 Genomes Project Consortium",
+      "year": "2015",
+      "unstructured": "; 1000 Genomes Project Consortium, A global reference for human genetic variation. Nature 526, 68–74 (2015).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "e_1_3_4_33_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "222",
+      "DOI": "10.1126/science.1224344",
+      "article-title": "A high-coverage genome sequence from an archaic Denisovan individual",
+      "volume": "338",
+      "author": "Meyer M",
+      "year": "2012",
+      "unstructured": "M Meyer, , A high-coverage genome sequence from an archaic Denisovan individual. Science 338, 222–226 (2012).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "e_1_3_4_34_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "6666",
+      "DOI": "10.1073/pnas.1405138111",
+      "article-title": "Patterns of coding variation in the complete exomes of three Neandertals",
+      "volume": "111",
+      "author": "Castellano S",
+      "year": "2014",
+      "unstructured": "S Castellano, , Patterns of coding variation in the complete exomes of three Neandertals. Proc Natl Acad Sci USA 111, 6666–6671 (2014).",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "key": "e_1_3_4_35_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "336",
+      "DOI": "10.1038/ng.2906",
+      "article-title": "Pathogens and host immunity in the ancient human oral cavity",
+      "volume": "46",
+      "author": "Warinner C",
+      "year": "2014",
+      "unstructured": "C Warinner, , Pathogens and host immunity in the ancient human oral cavity. Nat Genet 46, 336–344 (2014).",
+      "journal-title": "Nat Genet"
+    },
+    {
+      "key": "e_1_3_4_36_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "15",
+      "DOI": "10.1080/20548923.2015.1133117",
+      "article-title": "Poor preservation of antibodies in archaeological human bone and dentine",
+      "volume": "2",
+      "author": "Kendall R",
+      "year": "2016",
+      "unstructured": "R Kendall, J Hendy, MJ Collins, AR Millard, RL Gowland, Poor preservation of antibodies in archaeological human bone and dentine. STAR: Science & Technology of Archaeological Research 2, 15–24 (2016).",
+      "journal-title": "STAR: Science & Technology of Archaeological Research"
+    },
+    {
+      "key": "e_1_3_4_37_2",
+      "volume-title": "Molecular Clocks: Deamidation of Asparaginyl and Glutaminyl Residues in Peptides and Proteins",
+      "author": "Robinson NE",
+      "year": "2004",
+      "unstructured": "NE Robinson, A Robinson Molecular Clocks: Deamidation of Asparaginyl and Glutaminyl Residues in Peptides and Proteins (Althouse Press, Cave Junction, OR, 2004)."
+    },
+    {
+      "key": "e_1_3_4_38_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "445",
+      "DOI": "10.1038/nature13810",
+      "article-title": "Genome sequence of a 45,000-year-old modern human from western Siberia",
+      "volume": "514",
+      "author": "Fu Q",
+      "year": "2014",
+      "unstructured": "Q Fu, , Genome sequence of a 45,000-year-old modern human from western Siberia. Nature 514, 445–449 (2014).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "e_1_3_4_39_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.1038/nature12886",
+      "article-title": "The complete genome sequence of a Neanderthal from the Altai Mountains",
+      "volume": "505",
+      "author": "Prüfer K",
+      "year": "2014",
+      "unstructured": "K Prüfer, , The complete genome sequence of a Neanderthal from the Altai Mountains. Nature 505, 43–49 (2014).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "e_1_3_4_40_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "241",
+      "DOI": "10.1038/ng917",
+      "article-title": "A high-resolution recombination map of the human genome",
+      "volume": "31",
+      "author": "Kong A",
+      "year": "2002",
+      "unstructured": "A Kong, , A high-resolution recombination map of the human genome. Nat Genet 31, 241–247 (2002).",
+      "journal-title": "Nat Genet"
+    },
+    {
+      "key": "e_1_3_4_41_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "e34131",
+      "DOI": "10.1371/journal.pone.0034131",
+      "article-title": "Temporal patterns of nucleotide misincorporations and DNA fragmentation in ancient DNA",
+      "volume": "7",
+      "author": "Sawyer S",
+      "year": "2012",
+      "unstructured": "S Sawyer, J Krause, K Guschanski, V Savolainen, S Pääbo, Temporal patterns of nucleotide misincorporations and DNA fragmentation in ancient DNA. PLoS One 7, e34131 (2012).",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "e_1_3_4_42_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "205",
+      "DOI": "10.1002/ajpa.10124",
+      "article-title": "Stable carbon and nitrogen isotope values of bone and teeth reflect weaning age at the Medieval Wharram Percy site, Yorkshire, UK",
+      "volume": "119",
+      "author": "Richards MP",
+      "year": "2002",
+      "unstructured": "MP Richards, S Mays, BT Fuller, Stable carbon and nitrogen isotope values of bone and teeth reflect weaning age at the Medieval Wharram Percy site, Yorkshire, UK. Am J Phys Anthropol 119, 205–210 (2002).",
+      "journal-title": "Am J Phys Anthropol"
+    },
+    {
+      "key": "e_1_3_4_43_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "601",
+      "DOI": "10.1080/00438243.2015.1065759",
+      "article-title": "In the eye of the beholder: Contextual issues for Bayesian modelling at the Middle-to-Upper Palaeolithic transition",
+      "volume": "47",
+      "author": "Discamps E",
+      "year": "2015",
+      "unstructured": "E Discamps, B Gravina, N Teyssandier, In the eye of the beholder: Contextual issues for Bayesian modelling at the Middle-to-Upper Palaeolithic transition. World Archaeol 47, 601–621 (2015).",
+      "journal-title": "World Archaeol"
+    },
+    {
+      "key": "e_1_3_4_44_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "306",
+      "DOI": "10.1038/nature13621",
+      "article-title": "The timing and spatiotemporal patterning of Neanderthal disappearance",
+      "volume": "512",
+      "author": "Higham T",
+      "year": "2014",
+      "unstructured": "T Higham, , The timing and spatiotemporal patterning of Neanderthal disappearance. Nature 512, 306–309 (2014).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "e_1_3_4_45_2",
+      "first-page": "309",
+      "volume-title": "Paléolithique Moyen Récent et Paléolithique Supérieur Ancien En Europe. Ruptures et Transitions: Examen Critique Des Documents Archéologiques",
+      "author": "Bodu P",
+      "year": "1990",
+      "unstructured": "P Bodu, L’application de la méthode des remontages à l’étude du matériel lithique des premiers niveaux châtelperroniens d’Arcy-sur-Cure. Paléolithique Moyen Récent et Paléolithique Supérieur Ancien En Europe. Ruptures et Transitions: Examen Critique Des Documents Archéologiques, ed C Farzy (APRAIF, Nemours), pp. 309–312 (1990)."
+    },
+    {
+      "key": "e_1_3_4_46_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1017/S0003598X00040217",
+      "article-title": "The Châtelperronian in French Archaeology: The Evidence of Arcy-sur-Cure",
+      "volume": "43",
+      "author": "Movius HL",
+      "year": "1969",
+      "unstructured": "HL Movius, The Châtelperronian in French Archaeology: The Evidence of Arcy-sur-Cure. Antiquity 43, 111–123 (1969).",
+      "journal-title": "Antiquity"
+    },
+    {
+      "key": "e_1_3_4_47_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.3828/bfarm.2011.3.3",
+      "article-title": "Chronology of the site of Grotte du Renne, Arcy-sur-Cure, France: Implications for radiocarbon dating",
+      "volume": "2011",
+      "author": "Zilhão J",
+      "year": "2011",
+      "unstructured": "J Zilhão, F d’Errico, M Julien, F David, Chronology of the site of Grotte du Renne, Arcy-sur-Cure, France: Implications for radiocarbon dating. Before Farming 2011, 1–14 (2011).",
+      "journal-title": "Before Farming"
+    },
+    {
+      "key": "e_1_3_4_48_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "55",
+      "DOI": "10.1016/j.jhevol.2015.06.011",
+      "article-title": "On the local Mousterian origin of the Châtelperronian: Integrating typo-technological, chronostratigraphic and contextual data",
+      "volume": "86",
+      "author": "Ruebens K",
+      "year": "2015",
+      "unstructured": "K Ruebens, SJP McPherron, J-J Hublin, On the local Mousterian origin of the Châtelperronian: Integrating typo-technological, chronostratigraphic and contextual data. J Hum Evol 86, 55–91 (2015).",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "e_1_3_4_49_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "216",
+      "DOI": "10.1038/nature14558",
+      "article-title": "An early modern human from Romania with a recent Neanderthal ancestor",
+      "volume": "524",
+      "author": "Fu Q",
+      "year": "2015",
+      "unstructured": "Q Fu, , An early modern human from Romania with a recent Neanderthal ancestor. Nature 524, 216–219 (2015).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "e_1_3_4_50_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "429",
+      "DOI": "10.1038/nature16544",
+      "article-title": "Ancient gene flow from early modern humans into Eastern Neanderthals",
+      "volume": "530",
+      "author": "Kuhlwilm M",
+      "year": "2016",
+      "unstructured": "M Kuhlwilm, , Ancient gene flow from early modern humans into Eastern Neanderthals. Nature 530, 429–433 (2016).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "e_1_3_4_51_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "808",
+      "DOI": "10.1002/ajpa.20598",
+      "article-title": "Collagen turnover in the adult femoral mid-shaft: Modeled from anthropogenic radiocarbon tracer measurements",
+      "volume": "133",
+      "author": "Hedges REM",
+      "year": "2007",
+      "unstructured": "REM Hedges, JG Clement, CDL Thomas, TC O’connell, Collagen turnover in the adult femoral mid-shaft: Modeled from anthropogenic radiocarbon tracer measurements. Am J Phys Anthropol 133, 808–816 (2007).",
+      "journal-title": "Am J Phys Anthropol"
+    },
+    {
+      "key": "e_1_3_4_52_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "74",
+      "DOI": "10.1038/nature12323",
+      "article-title": "Recalibrating Equus evolution using the genome sequence of an early Middle Pleistocene horse",
+      "volume": "499",
+      "author": "Orlando L",
+      "year": "2013",
+      "unstructured": "L Orlando, , Recalibrating Equus evolution using the genome sequence of an early Middle Pleistocene horse. Nature 499, 74–78 (2013).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "e_1_3_4_53_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "1543",
+      "DOI": "10.1101/gr.174201.114",
+      "article-title": "Selective enrichment of damaged DNA molecules for ancient genome sequencing",
+      "volume": "24",
+      "author": "Gansauge M-T",
+      "year": "2014",
+      "unstructured": "M-T Gansauge, M Meyer, Selective enrichment of damaged DNA molecules for ancient genome sequencing. Genome Res 24, 1543–1549 (2014).",
+      "journal-title": "Genome Res"
+    },
+    {
+      "key": "e_1_3_4_54_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "87",
+      "DOI": "10.2144/000114320",
+      "article-title": "Reducing microbial and human contamination in DNA extractions from ancient bones and teeth",
+      "volume": "59",
+      "author": "Korlević P",
+      "year": "2015",
+      "unstructured": "P Korlević, , Reducing microbial and human contamination in DNA extractions from ancient bones and teeth. Biotechniques 59, 87–93 (2015).",
+      "journal-title": "Biotechniques"
+    },
+    {
+      "key": "e_1_3_4_55_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "443",
+      "DOI": "10.1017/S0033822200034573",
+      "article-title": "A comparison of bone pretreatment methods for AMS dating of samples> 30,000 BP",
+      "volume": "53",
+      "author": "Talamo S",
+      "year": "2011",
+      "unstructured": "S Talamo, M Richards, A comparison of bone pretreatment methods for AMS dating of samples> 30,000 BP. Radiocarbon 53, 443–449 (2011).",
+      "journal-title": "Radiocarbon"
+    }
+  ],
+  "container-title": [
+    "Proceedings of the National Academy of Sciences"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://pnas.org/doi/pdf/10.1073/pnas.1605834113",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        6,
+        7
+      ]
+    ],
+    "date-time": "2022-06-07T10:39:20Z",
+    "timestamp": 1654598360000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://pnas.org/doi/full/10.1073/pnas.1605834113"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        9,
+        16
+      ]
+    ]
+  },
+  "references-count": 55,
+  "journal-issue": {
+    "issue": "40",
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1073/pnas.1605834113"
+  ],
+  "URL": "https://doi.org/10.1073/pnas.1605834113",
+  "relation": {},
+  "ISSN": [
+    "0027-8424",
+    "1091-6490"
+  ],
+  "issn-type": [
+    {
+      "value": "0027-8424",
+      "type": "print"
+    },
+    {
+      "value": "1091-6490",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2016,
+        9,
+        16
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2016-09-16",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

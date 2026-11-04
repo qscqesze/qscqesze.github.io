@@ -1,0 +1,514 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 5,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "12227373": {
+        "pageid": 12227373,
+        "ns": 6,
+        "title": "File:Gorham's Cave.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Gorham%27s_Cave.jpg/1920px-Gorham%27s_Cave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1067,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Gorham%27s_Cave.jpg/3840px-Gorham%27s_Cave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Gorham%27s_Cave.jpg/1920px-Gorham%27s_Cave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1067,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Gorham%27s_Cave.jpg/3840px-Gorham%27s_Cave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Gorham%27s_Cave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gorham%27s_Cave.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12227373",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-12-05 19:50:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gorham's Cave",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Rock of Gibraltar|Gorham's Cave|Taken with Canon EOS 450D|Self-published work|Files by User:Gibmetal77",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View of <a href=\"https://en.wikipedia.org/wiki/Gorham%27s_Cave\" class=\"extiw\" title=\"en:Gorham's Cave\">Gorham's Cave</a>, a <a href=\"https://en.wikipedia.org/wiki/sea_cave\" class=\"extiw\" title=\"en:sea cave\">sea cave</a> in the east face of the <a href=\"https://en.wikipedia.org/wiki/Rock_of_Gibraltar\" class=\"extiw\" title=\"en:Rock of Gibraltar\">Rock of Gibraltar</a>, <a href=\"https://en.wikipedia.org/wiki/Gibraltar\" class=\"extiw\" title=\"en:Gibraltar\">Gibraltar</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-07-03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gibmetal77\" title=\"User:Gibmetal77\">Gibmetal77</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "109315844": {
+        "pageid": 109315844,
+        "ns": 6,
+        "title": "File:Gorham's Cave Complex.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Gorham%27s_Cave_Complex.jpg/1920px-Gorham%27s_Cave_Complex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1195,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gorham%27s_Cave_Complex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Gorham%27s_Cave_Complex.jpg/1920px-Gorham%27s_Cave_Complex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1195,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gorham%27s_Cave_Complex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gorham%27s_Cave_Complex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gorham%27s_Cave_Complex.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=109315844",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-26 09:48:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gorham's Cave Complex",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gorham's Cave|2021 in Gibraltar|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View of the <a href=\"https://en.wikipedia.org/wiki/Gorham%27s_Cave\" class=\"extiw\" title=\"en:Gorham's Cave\">Gorham's Cave</a> Complex in <a href=\"https://en.wikipedia.org/wiki/Gibraltar\" class=\"extiw\" title=\"en:Gibraltar\">Gibraltar</a> as seen from the Mediterranean Sea.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-11-13 11:46:54",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/187139547@N04/49577752293/\">https://www.flickr.com/photos/187139547@N04/49577752293/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Visit Gibraltar",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142323286": {
+        "pageid": 142323286,
+        "ns": 6,
+        "title": "File:Upper Paleolithic Canary-like domestic dogs depicted on Gorham's Etching, Gorham's Cave, Gibraltar.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Upper_Paleolithic_Canary-like_domestic_dogs_depicted_on_Gorham%27s_Etching%2C_Gorham%27s_Cave%2C_Gibraltar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 900,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Upper_Paleolithic_Canary-like_domestic_dogs_depicted_on_Gorham%27s_Etching%2C_Gorham%27s_Cave%2C_Gibraltar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 900
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Upper_Paleolithic_Canary-like_domestic_dogs_depicted_on_Gorham%27s_Etching%2C_Gorham%27s_Cave%2C_Gibraltar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Upper_Paleolithic_Canary-like_domestic_dogs_depicted_on_Gorham%27s_Etching,_Gorham%27s_Cave,_Gibraltar.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142323286",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-16 20:52:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Upper Paleolithic Canary-like domestic dogs depicted on Gorham's Etching, Gorham's Cave, Gibraltar",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gorham's Cave|Gorham's Cave complex|Dogs in art|Prehistoric Iberia|Cave paintings|Working dogs|Upper Paleolithic art|Upper Paleolithic in Europe|Self-published work|Nature of the Canary Islands|Cave art in Spain|Canids in prehistoric art",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Upper Paleolithic domestic dogs depicted on Gorham's Etching, Gorham's Cave, Gibraltar. These heavy and down-eared dogs have the appearance of the Canary dog from the Canary Islands.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-07-06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Bernietaylor",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142323272": {
+        "pageid": 142323272,
+        "ns": 6,
+        "title": "File:Upper Paleolithic unknown domestic dogs depicted on Gorham's Etching, Gorham's Cave, Gibraltar.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Upper_Paleolithic_unknown_domestic_dogs_depicted_on_Gorham%27s_Etching%2C_Gorham%27s_Cave%2C_Gibraltar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 900,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Upper_Paleolithic_unknown_domestic_dogs_depicted_on_Gorham%27s_Etching%2C_Gorham%27s_Cave%2C_Gibraltar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 900
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Upper_Paleolithic_unknown_domestic_dogs_depicted_on_Gorham%27s_Etching%2C_Gorham%27s_Cave%2C_Gibraltar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Upper_Paleolithic_unknown_domestic_dogs_depicted_on_Gorham%27s_Etching,_Gorham%27s_Cave,_Gibraltar.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142323272",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-16 20:52:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Upper Paleolithic unknown domestic dogs depicted on Gorham's Etching, Gorham's Cave, Gibraltar",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gibraltar|Gorham's Cave|Gorham's Cave complex|Dogs in art|Prehistoric Iberia|Working dogs|Upper Paleolithic art|Upper Paleolithic in Europe|Self-published work|Gibraltar in art|Cave art|Dogs in art of Spain|Cave art in Spain|Majorca Shepherd Dog|Canids in prehistoric art",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Upper Paleolithic unknown domestic dogs depicted on Gorham's Etching, Gorham's Cave, Gibraltar. These down-eared dogs have the appearance of Majorca Sheppard dogs.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-07-06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Bernietaylor",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142323271": {
+        "pageid": 142323271,
+        "ns": 6,
+        "title": "File:Upper Paleolithic unknown long legged domestic dogs depicted on Gorham's Etching, Gorham's Cave, Gibraltar.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Upper_Paleolithic_unknown_long_legged_domestic_dogs_depicted_on_Gorham%27s_Etching%2C_Gorham%27s_Cave%2C_Gibraltar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 900,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Upper_Paleolithic_unknown_long_legged_domestic_dogs_depicted_on_Gorham%27s_Etching%2C_Gorham%27s_Cave%2C_Gibraltar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 900
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Upper_Paleolithic_unknown_long_legged_domestic_dogs_depicted_on_Gorham%27s_Etching%2C_Gorham%27s_Cave%2C_Gibraltar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Upper_Paleolithic_unknown_long_legged_domestic_dogs_depicted_on_Gorham%27s_Etching,_Gorham%27s_Cave,_Gibraltar.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142323271",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-16 20:52:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Upper Paleolithic unknown long legged domestic dogs depicted on Gorham's Etching, Gorham's Cave, Gibraltar",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gibraltar|Gorham's Cave|Gorham's Cave complex|Dogs in art|Prehistoric Iberia|Hunting dogs|Sloughi|Working dogs|Upper Paleolithic art|Upper Paleolithic in Europe|Self-published work|Gibraltar in art|Cave art|Hunting dogs in art|Dogs of Africa|Sloughis in art|Canids in prehistoric art",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Upper Paleolithic unknown domestic dogs depicted on Gorham's Etching, Gorham's Cave, Gibraltar. These long-legged and down-eared dogs have the appearance of the Azawakh or Tuareg Sloughi.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-07-06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Bernietaylor",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

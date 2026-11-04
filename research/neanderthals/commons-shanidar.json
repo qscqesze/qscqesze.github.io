@@ -1,0 +1,103 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "97477781": {
+        "pageid": 97477781,
+        "ns": 6,
+        "title": "File:Annual report for the year ended June 30 ... (IA annualreportfory1959united).pdf",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Annual_report_for_the_year_ended_June_30_..._%28IA_annualreportfory1959united%29.pdf/page1-500px-Annual_report_for_the_year_ended_June_30_..._%28IA_annualreportfory1959united%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 2566,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Annual_report_for_the_year_ended_June_30_..._%28IA_annualreportfory1959united%29.pdf/page1-500px-Annual_report_for_the_year_ended_June_30_..._%28IA_annualreportfory1959united%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2566
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Annual_report_for_the_year_ended_June_30_..._%28IA_annualreportfory1959united%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Annual_report_for_the_year_ended_June_30_..._(IA_annualreportfory1959united).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97477781",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-12-11 20:23:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nAnnual report for the year ended June 30 ...</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Government|John Sinkankas|License review needed|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA books harmonization|Books from the United States PDF files|Annual reports of the United States National Museum",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nUnited States National Museum</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Merged with: Smithsonian Institution. Board of Regents. Annual report of the Board of Regents of the Smithsonian Institution, and: Smithsonian Institution. Report of the Secretary of the Smithsonian Institution and financial report of the Executive Committee of the Board of Regents, to form: Smithsonian Institution. Smithsonian year (1965)\n</p>\n<br>Subjects: United States National Museum</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/annualreportfory1959united\" class=\"extiw\" title=\"iarchive:annualreportfory1959united\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: annualreportfory1959united</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/annualreportfory1959united/annualreportfory1959united.pdf\">https://archive.org/download/annualreportfory1959united/annualreportfory1959united.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.biodiversitylibrary.org/permissions/\">https://www.biodiversitylibrary.org/permissions/</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

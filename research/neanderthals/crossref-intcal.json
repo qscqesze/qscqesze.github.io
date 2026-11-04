@@ -1,0 +1,2288 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        10
+      ]
+    ],
+    "date-time": "2026-09-10T20:57:56Z",
+    "timestamp": 1789073876337,
+    "version": "build-2803163510"
+  },
+  "reference-count": 159,
+  "publisher": "Cambridge University Press (CUP)",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            8,
+            12
+          ]
+        ],
+        "date-time": "2020-08-12T00:00:00Z",
+        "timestamp": 1597190400000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 11,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "cambridge.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Radiocarbon"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        8
+      ]
+    ]
+  },
+  "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Radiocarbon (\n                    <jats:sup>14</jats:sup>\n                    C) ages cannot provide absolutely dated chronologies for archaeological or paleoenvironmental studies directly but must be converted to calendar age equivalents using a calibration curve compensating for fluctuations in atmospheric\n                    <jats:sup>14</jats:sup>\n                    C concentration. Although calibration curves are constructed from independently dated archives, they invariably require revision as new data become available and our understanding of the Earth system improves. In this volume the international\n                    <jats:sup>14</jats:sup>\n                    C calibration curves for both the Northern and Southern Hemispheres, as well as for the ocean surface layer, have been updated to include a wealth of new data and extended to 55,000 cal BP. Based on tree rings, IntCal20 now extends as a fully atmospheric record to ca. 13,900 cal BP. For the older part of the timescale, IntCal20 comprises statistically integrated evidence from floating tree-ring chronologies, lacustrine and marine sediments, speleothems, and corals. We utilized improved evaluation of the timescales and location variable\n                    <jats:sup>14</jats:sup>\n                    C offsets from the atmosphere (reservoir age, dead carbon fraction) for each dataset. New statistical methods have refined the structure of the calibration curves while maintaining a robust treatment of uncertainties in the\n                    <jats:sup>14</jats:sup>\n                    C ages, the calendar ages and other corrections. The inclusion of modeled marine reservoir ages derived from a three-dimensional ocean circulation model has allowed us to apply more appropriate reservoir corrections to the marine\n                    <jats:sup>14</jats:sup>\n                    C data rather than the previous use of constant regional offsets from the atmosphere. Here we provide an overview of the new and revised datasets and the associated methods used for the construction of the IntCal20 curve and explore potential regional offsets for tree-ring data. We discuss the main differences with respect to the previous calibration curve, IntCal13, and some of the implications for archaeology and geosciences ranging from the recent past to the time of the extinction of the Neanderthals.\n                  </jats:p>",
+  "DOI": "10.1017/rdc.2020.41",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        8,
+        12
+      ]
+    ],
+    "date-time": "2020-08-12T03:02:24Z",
+    "timestamp": 1597201344000
+  },
+  "page": "725-757",
+  "update-policy": "https://doi.org/10.1017/policypage",
+  "source": "Crossref",
+  "is-referenced-by-count": 7068,
+  "title": [
+    "The IntCal20 Northern Hemisphere Radiocarbon Age Calibration Curve (0–55 cal kBP)"
+  ],
+  "prefix": "10.1017",
+  "volume": "62",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-9238-2146",
+      "authenticated-orcid": false,
+      "given": "Paula J",
+      "family": "Reimer",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "William E N",
+      "family": "Austin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Edouard",
+      "family": "Bard",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2782-1979",
+      "authenticated-orcid": false,
+      "given": "Alex",
+      "family": "Bayliss",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Paul G",
+      "family": "Blackwell",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8641-9309",
+      "authenticated-orcid": false,
+      "given": "Christopher",
+      "family": "Bronk Ramsey",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9275-7304",
+      "authenticated-orcid": false,
+      "given": "Martin",
+      "family": "Butzin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hai",
+      "family": "Cheng",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "R Lawrence",
+      "family": "Edwards",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Michael",
+      "family": "Friedrich",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Pieter M",
+      "family": "Grootes",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Thomas P",
+      "family": "Guilderson",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2373-2725",
+      "authenticated-orcid": false,
+      "given": "Irka",
+      "family": "Hajdas",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9994-142X",
+      "authenticated-orcid": false,
+      "given": "Timothy J",
+      "family": "Heaton",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4001-9027",
+      "authenticated-orcid": false,
+      "given": "Alan G",
+      "family": "Hogg",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3201-934X",
+      "authenticated-orcid": false,
+      "given": "Konrad A",
+      "family": "Hughen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Bernd",
+      "family": "Kromer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6917-0927",
+      "authenticated-orcid": false,
+      "given": "Sturt W",
+      "family": "Manning",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2772-3631",
+      "authenticated-orcid": false,
+      "given": "Raimund",
+      "family": "Muscheler",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6665-4483",
+      "authenticated-orcid": false,
+      "given": "Jonathan G",
+      "family": "Palmer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3594-3194",
+      "authenticated-orcid": false,
+      "given": "Charlotte",
+      "family": "Pearson",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Johannes",
+      "family": "van der Plicht",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ron W",
+      "family": "Reimer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "David A",
+      "family": "Richards",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3709-0623",
+      "authenticated-orcid": false,
+      "given": "E Marian",
+      "family": "Scott",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "John R",
+      "family": "Southon",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6733-0993",
+      "authenticated-orcid": false,
+      "given": "Christian S M",
+      "family": "Turney",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8215-2678",
+      "authenticated-orcid": false,
+      "given": "Lukas",
+      "family": "Wacker",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0014-8753",
+      "authenticated-orcid": false,
+      "given": "Florian",
+      "family": "Adolphi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ulf",
+      "family": "Büntgen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2938-4311",
+      "authenticated-orcid": false,
+      "given": "Manuela",
+      "family": "Capano",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Simon M",
+      "family": "Fahrni",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Alexandra",
+      "family": "Fogtmann-Schulz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ronny",
+      "family": "Friedrich",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0904-8484",
+      "authenticated-orcid": false,
+      "given": "Peter",
+      "family": "Köhler",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sabrina",
+      "family": "Kudsk",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Fusa",
+      "family": "Miyake",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jesper",
+      "family": "Olsen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Frederick",
+      "family": "Reinig",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Minoru",
+      "family": "Sakamoto",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Adam",
+      "family": "Sookdeo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sahra",
+      "family": "Talamo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "56",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        8,
+        12
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "S0033822220000417_ref106",
+      "doi-asserted-by": "crossref",
+      "first-page": "1849",
+      "DOI": "10.1016/j.quascirev.2005.01.012",
+      "article-title": "Geomagnetic field intensity during the last 60,000 years based on 10Be and 36Cl from the Summit ice cores and 14C",
+      "volume": "24",
+      "author": "Muscheler",
+      "year": "2005",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "S0033822220000417_ref115",
+      "doi-asserted-by": "crossref",
+      "first-page": "1147",
+      "DOI": "10.1017/RDC.2017.59",
+      "article-title": "Relationship between solar activity and Δ14C peaks in AD 775, AD 994, and 660 BC",
+      "volume": "59",
+      "author": "Park",
+      "year": "2017",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref27",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.9",
+      "article-title": "A short note on marine reservoir age simulations used in IntCal20",
+      "volume": "62",
+      "author": "Butzin",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref91",
+      "doi-asserted-by": "crossref",
+      "first-page": "6141",
+      "DOI": "10.1073/pnas.1719420115",
+      "article-title": "Fluctuating radiocarbon offsets observed in the southern Levant and implications for archaeological chronology debates",
+      "volume": "115",
+      "author": "Manning",
+      "year": "2018",
+      "journal-title": "Proceedings of the National Academy of Sciences"
+    },
+    {
+      "key": "S0033822220000417_ref2",
+      "doi-asserted-by": "crossref",
+      "first-page": "1755",
+      "DOI": "10.5194/cp-14-1755-2018",
+      "article-title": "Connecting the Greenland ice-core and U/Th timescales via cosmogenic radionuclides: testing the synchroneity of Dansgaard–Oeschger events",
+      "volume": "14",
+      "author": "Adolphi",
+      "year": "2018",
+      "journal-title": "Climate of the Past"
+    },
+    {
+      "key": "S0033822220000417_ref3",
+      "doi-asserted-by": "crossref",
+      "first-page": "15071",
+      "DOI": "10.1029/96JD00821",
+      "article-title": "Seasonal variation of mass transport across the tropopause",
+      "volume": "101",
+      "author": "Appenzeller",
+      "year": "1996",
+      "journal-title": "Journal of Geophysical Research-Atmospheres"
+    },
+    {
+      "key": "S0033822220000417_ref158",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.49",
+      "article-title": "Findings from an in-depth annual tree-ring radiocarbon intercomparison",
+      "volume": "62",
+      "author": "Wacker",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref33",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature18591"
+    },
+    {
+      "key": "S0033822220000417_ref73",
+      "doi-asserted-by": "crossref",
+      "first-page": "1237",
+      "DOI": "10.1017/RDC.2018.53",
+      "article-title": "More rapid 14C excursions in the tree-ring record: A record of different kind of solar activity at about 800 BC?",
+      "volume": "60",
+      "author": "Jull",
+      "year": "2018",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref59",
+      "doi-asserted-by": "crossref",
+      "first-page": "709",
+      "DOI": "10.1017/RDC.2016.86",
+      "article-title": "Decadally resolved Lateglacial radiocarbon evidence from New Zealand kauri",
+      "volume": "58",
+      "author": "Hogg",
+      "year": "2016",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref86",
+      "first-page": "191",
+      "article-title": "14C bomb effect in tree rings of tropical and subtropical species of Brazil",
+      "volume": "57",
+      "author": "Lisi",
+      "year": "2001",
+      "journal-title": "Tree-Ring Research"
+    },
+    {
+      "key": "S0033822220000417_ref156",
+      "doi-asserted-by": "crossref",
+      "first-page": "517",
+      "DOI": "10.1017/S0033822200018397",
+      "article-title": "Correlation of marine 14C ages from the Nordic Seas with the GISP2 isotope record: Implications for 14C calibration beyond 25 ka BP",
+      "volume": "40",
+      "author": "Voelker",
+      "year": "1998",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref107",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.54",
+      "article-title": "Testing and improving the 14C calibration curve with independent records",
+      "volume": "62",
+      "author": "Muscheler",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref71",
+      "doi-asserted-by": "crossref",
+      "first-page": "249",
+      "DOI": "10.1016/j.dendro.2011.12.002",
+      "article-title": "The DCCD: A digital data infrastructure for tree-ring research",
+      "volume": "30",
+      "author": "Jansma",
+      "year": "2012",
+      "journal-title": "Dendrochronologia"
+    },
+    {
+      "key": "S0033822220000417_ref32",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/ncomms2415"
+    },
+    {
+      "key": "S0033822220000417_ref151",
+      "doi-asserted-by": "crossref",
+      "first-page": "211",
+      "DOI": "10.1002/2015GB005257",
+      "article-title": "Multi-decadal variations in Southern Hemisphere atmospheric 14C: Evidence against a Southern Ocean sink during the Little Ice Age CO2 anomaly",
+      "volume": "30",
+      "author": "Turney",
+      "year": "2016",
+      "journal-title": "Global Biogeochemical Cycles"
+    },
+    {
+      "key": "S0033822220000417_ref20",
+      "doi-asserted-by": "crossref",
+      "first-page": "135",
+      "DOI": "10.3959/2010-12.1",
+      "article-title": "TRiCYCLE: a universal conversion tool for digital tree-ring data",
+      "volume": "67",
+      "author": "Tyers",
+      "year": "2011",
+      "journal-title": "Tree-Ring Research"
+    },
+    {
+      "key": "S0033822220000417_ref24",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/cp-11-153-2015"
+    },
+    {
+      "key": "S0033822220000417_ref40",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.16",
+      "article-title": "Single-year German oak and Californian bristlecone pine 14C data at the beginning of the Hallstatt plateau from 856 BC to 626 BC",
+      "volume": "62",
+      "author": "Fahrni",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref112",
+      "doi-asserted-by": "crossref",
+      "first-page": "147",
+      "DOI": "10.1038/nature02805",
+      "article-title": "High-resolution record of Northern Hemisphere climate extending into the last interglacial period",
+      "volume": "431",
+      "year": "2004",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "S0033822220000417_ref65",
+      "doi-asserted-by": "crossref",
+      "first-page": "1955",
+      "DOI": "10.1126/science.1092995",
+      "article-title": "Abrupt tropical vegetation response to rapid climate changes",
+      "volume": "304",
+      "author": "Hughen",
+      "year": "2004",
+      "journal-title": "Science"
+    },
+    {
+      "key": "S0033822220000417_ref154",
+      "doi-asserted-by": "crossref",
+      "first-page": "965",
+      "DOI": "10.1017/S0033822200015058",
+      "article-title": "The “Amsterdam Castle”: A case study of wiggle matching and the proper calibration curve",
+      "volume": "37",
+      "author": "van der Plicht",
+      "year": "1995",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref131",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1502-3885.2007.00004.x"
+    },
+    {
+      "key": "S0033822220000417_ref1",
+      "doi-asserted-by": "crossref",
+      "first-page": "98",
+      "DOI": "10.1016/j.quascirev.2017.06.026",
+      "article-title": "Radiocarbon calibration uncertainties during the last deglaciation: Insights from new floating tree-ring chronologies",
+      "volume": "170",
+      "author": "Adolphi",
+      "year": "2017",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "S0033822220000417_ref104",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/esd-8-75-2017"
+    },
+    {
+      "key": "S0033822220000417_ref144",
+      "doi-asserted-by": "crossref",
+      "first-page": "329",
+      "DOI": "10.1029/97GL03694",
+      "article-title": "Anthropogenic and solar components of hemispheric 14C",
+      "volume": "25",
+      "author": "Stuiver",
+      "year": "1998",
+      "journal-title": "Geophysical Research Letters"
+    },
+    {
+      "key": "S0033822220000417_ref34",
+      "doi-asserted-by": "crossref",
+      "first-page": "1293",
+      "DOI": "10.1126/science.aau0747",
+      "article-title": "Atmospheric 14C/12C changes during the last glacial period from Hulu Cave",
+      "volume": "362",
+      "author": "Cheng",
+      "year": "2018",
+      "journal-title": "Science"
+    },
+    {
+      "key": "S0033822220000417_ref44",
+      "doi-asserted-by": "crossref",
+      "first-page": "1111",
+      "DOI": "10.1017/S003382220003304X",
+      "article-title": "The 12,460-year Hohenheim oak and pine tree-ring chronology from Central Europe: a unique annual record for radiocarbon calibration and palaeo-environment reconstructions",
+      "volume": "46",
+      "author": "Friedrich",
+      "year": "2004",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref137",
+      "doi-asserted-by": "crossref",
+      "first-page": "16010",
+      "DOI": "10.1038/ncomms16010",
+      "article-title": "Radiocarbon constraints on the glacial ocean circulation and its impact on atmospheric CO2",
+      "volume": "8",
+      "author": "Skinner",
+      "year": "2017",
+      "journal-title": "Nature Communications"
+    },
+    {
+      "key": "S0033822220000417_ref4",
+      "doi-asserted-by": "crossref",
+      "first-page": "53",
+      "DOI": "10.1017/S0033822200014788",
+      "article-title": "The 14C age of the Icelandic Vedde ash: Implications for Younger-Dryas marine reservoir age corrections",
+      "volume": "37",
+      "author": "Austin",
+      "year": "1995",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref88",
+      "doi-asserted-by": "crossref",
+      "first-page": "165",
+      "DOI": "10.1038/378165a0",
+      "article-title": "Simulation of abrupt climate change induced by freshwater input to the North Atlantic Ocean",
+      "volume": "378",
+      "author": "Manabe",
+      "year": "1995",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "S0033822220000417_ref10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0033822200019135"
+    },
+    {
+      "key": "S0033822220000417_ref141",
+      "doi-asserted-by": "crossref",
+      "first-page": "3693",
+      "DOI": "10.1002/grl.50679",
+      "article-title": "North Atlantic circulation and reservoir age changes over the past 41,000 years",
+      "volume": "40",
+      "author": "Stern",
+      "year": "2013",
+      "journal-title": "Geophysical Research Letters"
+    },
+    {
+      "key": "S0033822220000417_ref18",
+      "doi-asserted-by": "crossref",
+      "first-page": "565",
+      "DOI": "10.1029/95GB01725",
+      "article-title": "The preindustrial atmospheric 14CO2 latitudinal gradient as related to exchanges among atmospheric, oceanic, and terrestrial reservoirs",
+      "volume": "9",
+      "author": "Braziunas",
+      "year": "1995",
+      "journal-title": "Global Biogeochemical Cycles"
+    },
+    {
+      "key": "S0033822220000417_ref96",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0033822200033051"
+    },
+    {
+      "key": "S0033822220000417_ref84",
+      "doi-asserted-by": "crossref",
+      "first-page": "139",
+      "DOI": "10.1130/G37490.1",
+      "article-title": "Age of the Laschamp excursion determined by U-Th dating of a speleothem geomagnetic record from North America",
+      "volume": "44",
+      "author": "Lascu",
+      "year": "2016",
+      "journal-title": "Geology"
+    },
+    {
+      "key": "S0033822220000417_ref139",
+      "article-title": "Quality Dating: A well-defined protocol implemented at ETH for high-precision 14C dates tested on Late Glacial wood",
+      "volume": "62",
+      "author": "Sookdeo",
+      "year": "2019",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref136",
+      "doi-asserted-by": "crossref",
+      "first-page": "769",
+      "DOI": "10.5194/cp-12-769-2016",
+      "article-title": "The WAIS Divide deep ice core WD2014 chronology – Part 2: Annual-layer counting (0–31 ka BP)",
+      "volume": "12",
+      "author": "Sigl",
+      "year": "2016",
+      "journal-title": "Climate of the Past"
+    },
+    {
+      "key": "S0033822220000417_ref14",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.77",
+      "article-title": "The IntCal20 tree rings: an archaeological SWOT analysis",
+      "volume": "62",
+      "author": "Bayliss",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref64",
+      "doi-asserted-by": "crossref",
+      "first-page": "3216",
+      "DOI": "10.1016/j.quascirev.2006.03.014",
+      "article-title": "Marine-derived 14C calibration and activity record for the past 50,000 years updated from the Cariaco Basin",
+      "volume": "25",
+      "author": "Hughen",
+      "year": "2006",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "S0033822220000417_ref76",
+      "doi-asserted-by": "crossref",
+      "first-page": "2174",
+      "DOI": "10.1360/04yd0140",
+      "article-title": "Complicated responses of stalagmite δ13C to climate change during the last glaciation from Hulu Cave, Nanjing, China",
+      "volume": "48",
+      "author": "Kong",
+      "year": "2005",
+      "journal-title": "Science in China Series D: Earth Sciences"
+    },
+    {
+      "key": "S0033822220000417_ref15",
+      "doi-asserted-by": "crossref",
+      "first-page": "3465",
+      "DOI": "10.1073/pnas.1513868113",
+      "article-title": "Carbon isotopes characterize rapid changes in atmospheric carbon dioxide during the last deglaciation",
+      "volume": "113",
+      "author": "Bauska",
+      "year": "2016",
+      "journal-title": "Proceedings of the National Academy of Sciences"
+    },
+    {
+      "key": "S0033822220000417_ref111",
+      "doi-asserted-by": "crossref",
+      "first-page": "37",
+      "DOI": "10.1016/j.quascirev.2015.05.021",
+      "article-title": "Radiocarbon evidence for decomposition of aged organic matter in the vadose zone as the main source of speleothem carbon",
+      "volume": "127",
+      "author": "Noronha",
+      "year": "2015",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "S0033822220000417_ref95",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/98GL01065"
+    },
+    {
+      "key": "S0033822220000417_ref60",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.59",
+      "article-title": "SHCal20 Southern Hemisphere calibration, 0–55,000 years cal BP",
+      "volume": "62",
+      "author": "Hogg",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref90",
+      "doi-asserted-by": "crossref",
+      "first-page": "1164",
+      "DOI": "10.1017/S0003598X00115388",
+      "article-title": "Dating the Thera (Santorini) eruption: archaeological and scientific evidence supporting a high chronology",
+      "volume": "88",
+      "author": "Manning",
+      "year": "2014",
+      "journal-title": "Antiquity"
+    },
+    {
+      "key": "S0033822220000417_ref99",
+      "doi-asserted-by": "crossref",
+      "first-page": "240",
+      "DOI": "10.1038/nature11123",
+      "article-title": "A signature of cosmic-ray increase in AD 774–775 from tree rings in Japan",
+      "volume": "486",
+      "author": "Miyake",
+      "year": "2012",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "S0033822220000417_ref109",
+      "doi-asserted-by": "crossref",
+      "first-page": "408",
+      "DOI": "10.1016/j.nimb.2007.02.005",
+      "article-title": "High precision 14C measurements and wiggle-match dating of tree rings at Nagoya University",
+      "volume": "259",
+      "author": "Nakamura",
+      "year": "2007",
+      "journal-title": "Nuclear Instruments and Methods in Physics Research B"
+    },
+    {
+      "key": "S0033822220000417_ref152",
+      "doi-asserted-by": "crossref",
+      "first-page": "126",
+      "DOI": "10.1016/j.quascirev.2016.02.005",
+      "article-title": "High-precision dating and correlation of ice, marine and terrestrial sequences spanning Heinrich Event 3: Testing mechanisms of interhemispheric change using New Zealand ancient kauri (Agathis australis)",
+      "volume": "137",
+      "author": "Turney",
+      "year": "2016",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "S0033822220000417_ref132",
+      "doi-asserted-by": "crossref",
+      "first-page": "351",
+      "DOI": "10.1016/j.quascirev.2018.09.021",
+      "article-title": "An extended and revised Lake Suigetsu varve chronology from ∼50 to ∼10 ka BP based on detailed sediment micro-facies analyses",
+      "volume": "200",
+      "author": "Schlolaut",
+      "year": "2018",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "S0033822220000417_ref94",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/RDC.2018.16"
+    },
+    {
+      "key": "S0033822220000417_ref119",
+      "first-page": "157",
+      "article-title": "Biological considerations in the interpretation of stable isotope ratios in oak tree-rings",
+      "volume": "15",
+      "author": "Pilcher",
+      "year": "1995",
+      "journal-title": "Paläoklimaforschung"
+    },
+    {
+      "key": "S0033822220000417_ref5",
+      "first-page": "46",
+      "volume-title": "Tree-ring dating and archaeology",
+      "author": "Baillie",
+      "year": "1982"
+    },
+    {
+      "key": "S0033822220000417_ref9",
+      "doi-asserted-by": "crossref",
+      "first-page": "275",
+      "DOI": "10.1016/0012-821X(94)90112-0",
+      "article-title": "The North-Atlantic atmosphere-sea surface C-14 gradient during the Younger Dryas Climatic Event",
+      "volume": "126",
+      "author": "Bard",
+      "year": "1994",
+      "journal-title": "Earth and Planetary Science Letters"
+    },
+    {
+      "key": "S0033822220000417_ref11",
+      "doi-asserted-by": "crossref",
+      "first-page": "204",
+      "DOI": "10.1016/j.yqres.2003.11.006",
+      "article-title": "Radiocarbon calibration beyond 20,000 B.P. by means of planktonic foraminifera of the Iberian Margin",
+      "volume": "61",
+      "author": "Bard",
+      "year": "2004",
+      "journal-title": "Quaternary Research"
+    },
+    {
+      "key": "S0033822220000417_ref48",
+      "first-page": "7",
+      "article-title": "High-precision 14C and 40Ar/39Ar dating of the Campanian Ignimbrite (Y-5) reconciles the time-scales of climatic-cultural processes at 40 ka",
+      "author": "Giaccio",
+      "year": "2017",
+      "journal-title": "Scientific Reports"
+    },
+    {
+      "key": "S0033822220000417_ref12",
+      "doi-asserted-by": "crossref",
+      "first-page": "1189",
+      "DOI": "10.1017/S0033822200033087",
+      "article-title": "Present status of radiocarbon calibration and comparison records based on Polynesian corals and Iberian Margin sediments",
+      "volume": "46",
+      "author": "Bard",
+      "year": "2004",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref13",
+      "doi-asserted-by": "crossref",
+      "first-page": "1999",
+      "DOI": "10.2458/azu_js_rc.55.17114",
+      "article-title": "Radiocarbon calibration/comparison records based on marine sediments from the Pakistan and Iberian margins",
+      "volume": "55",
+      "author": "Bard",
+      "year": "2013",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref16",
+      "doi-asserted-by": "crossref",
+      "first-page": "2453",
+      "DOI": "10.1126/science.1056649",
+      "article-title": "Extremely large variations of atmospheric 14C concentration during the last glacial period",
+      "volume": "292",
+      "author": "Beck",
+      "year": "2001",
+      "journal-title": "Science"
+    },
+    {
+      "key": "S0033822220000417_ref129",
+      "doi-asserted-by": "crossref",
+      "first-page": "96",
+      "DOI": "10.1016/j.quageo.2014.10.004",
+      "article-title": "Annual growth rings in a sample of Paraná pine (Araucaria angustifolia): Toward improving the 14C calibration curve for the Southern Hemisphere",
+      "volume": "25",
+      "author": "Santos",
+      "year": "2015",
+      "journal-title": "Quaternary Geochronology"
+    },
+    {
+      "key": "S0033822220000417_ref17",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1198/016214502753479301"
+    },
+    {
+      "key": "S0033822220000417_ref51",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2458/azu_js_rc.55.17777"
+    },
+    {
+      "key": "S0033822220000417_ref21",
+      "doi-asserted-by": "crossref",
+      "first-page": "370",
+      "DOI": "10.1126/science.1226660",
+      "article-title": "A complete terrestrial radiocarbon record for 11.2 to 52.8 kyr BP",
+      "volume": "338",
+      "author": "Bronk Ramsey",
+      "year": "2012",
+      "journal-title": "Science"
+    },
+    {
+      "key": "S0033822220000417_ref22",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/RDC.2019.21"
+    },
+    {
+      "key": "S0033822220000417_ref23",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.18",
+      "article-title": "Reanalysis of the atmospheric radiocarbon calibration record from Lake Suigetsu, Japan",
+      "volume": "62",
+      "author": "Bronk Ramsey",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref25",
+      "doi-asserted-by": "crossref",
+      "first-page": "3605",
+      "DOI": "10.1038/s41467-018-06036-0",
+      "article-title": "Tree rings reveal globally coherent signature of cosmogenic radiocarbon events in 774 and 993 CE",
+      "volume": "9",
+      "author": "Büntgen",
+      "year": "2018",
+      "journal-title": "Nature Communications"
+    },
+    {
+      "key": "S0033822220000417_ref26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2017GL074688"
+    },
+    {
+      "key": "S0033822220000417_ref28",
+      "doi-asserted-by": "crossref",
+      "first-page": "3688",
+      "DOI": "10.1029/JC081i021p03688",
+      "article-title": "Carbon-14 in tree rings",
+      "volume": "81",
+      "author": "Cain",
+      "year": "1976",
+      "journal-title": "Journal of Geophysical Research-Oceans and Atmospheres"
+    },
+    {
+      "key": "S0033822220000417_ref155",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.22",
+      "article-title": "Recent developments in calibration for archaeological and environmental terrestrial samples",
+      "volume": "62",
+      "author": "van der Plicht",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref29",
+      "doi-asserted-by": "crossref",
+      "first-page": "51",
+      "DOI": "10.1017/RDC.2017.83",
+      "article-title": "Wood 14C dating with AixMICADAS: methods and application to tree-ring sequences from the Younger Dryas Event in the southern French Alps",
+      "volume": "60",
+      "author": "Capano",
+      "year": "2018",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref30",
+      "article-title": "Onset of the Younger Dryas recorded with 14C at annual resolution in French subfossil trees",
+      "volume": "62",
+      "author": "Capano",
+      "year": "2019",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref31",
+      "doi-asserted-by": "crossref",
+      "first-page": "1823",
+      "DOI": "10.1002/2016GC006300",
+      "article-title": "Magnetic record of deglaciation using FORC-PCA, sortable-silt grain size, and magnetic excursion at 26 ka, from the Rockall Trough (NE Atlantic)",
+      "volume": "17",
+      "author": "Channell",
+      "year": "2016",
+      "journal-title": "Geochemistry, Geophysics, Geosystems"
+    },
+    {
+      "key": "S0033822220000417_ref35",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0033822200033063"
+    },
+    {
+      "key": "S0033822220000417_ref36",
+      "doi-asserted-by": "crossref",
+      "first-page": "40",
+      "DOI": "10.1002/2015PA002831",
+      "article-title": "Sea surface temperature reconstructions over the last 70 kyr off Portugal: Biomarker data and regional modeling",
+      "volume": "31",
+      "author": "Darfeuil",
+      "year": "2016",
+      "journal-title": "Paleoceanography"
+    },
+    {
+      "key": "S0033822220000417_ref38",
+      "doi-asserted-by": "crossref",
+      "first-page": "969",
+      "DOI": "10.1017/S0033822200036031",
+      "article-title": "A 14C calibration with AMS from 3500 to 3000 BC, derived from a new high-elevation stone-pine tree-ring chronology",
+      "volume": "46",
+      "author": "Dellinger",
+      "year": "2004",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref74",
+      "doi-asserted-by": "crossref",
+      "first-page": "78",
+      "DOI": "10.1016/j.quascirev.2010.07.009",
+      "article-title": "Challenging process to make the Lateglacial tree-ring chronologies from Europe absolute - an inventory",
+      "volume": "36",
+      "author": "Kaiser",
+      "year": "2012",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "S0033822220000417_ref39",
+      "doi-asserted-by": "crossref",
+      "first-page": "1947",
+      "DOI": "10.2458/azu_js_rc.v55i2.16134",
+      "article-title": "Comparison of 14C and U-Th ages in corals from IODP #310 cores offshore Tahiti",
+      "volume": "55",
+      "author": "Durand",
+      "year": "2013",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref41",
+      "doi-asserted-by": "crossref",
+      "first-page": "1781",
+      "DOI": "10.1016/j.quascirev.2005.04.007",
+      "article-title": "Radiocarbon calibration curve spanning 0 to 50,000 years BP based on paired Th-230/U-234/U-238 and C-14 dates on pristine corals",
+      "volume": "24",
+      "author": "Fairbanks",
+      "year": "2005",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "S0033822220000417_ref6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.gca.2017.04.038"
+    },
+    {
+      "key": "S0033822220000417_ref43",
+      "doi-asserted-by": "crossref",
+      "first-page": "99",
+      "DOI": "10.1017/S003382220003438X",
+      "article-title": "The influence of soil organic matter age spectrum on the reconstruction of atmospheric 14C levels via stalagmites",
+      "volume": "53",
+      "author": "Fohlmeister",
+      "year": "2011",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref45",
+      "doi-asserted-by": "crossref",
+      "first-page": "1305",
+      "DOI": "10.1017/RDC.2019.34",
+      "article-title": "Annual 14C tree-ring data around 400 AD: mid-and high-latitude records",
+      "volume": "60",
+      "author": "Friedrich",
+      "year": "2019",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref46",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.33",
+      "article-title": "A new annual 14C dataset for calibrating the Thera eruption",
+      "volume": "62",
+      "author": "Friedrich",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref47",
+      "doi-asserted-by": "crossref",
+      "first-page": "307",
+      "DOI": "10.1002/2014GB004929",
+      "article-title": "The impact of atmospheric pCO2 on carbon isotope ratios of the atmosphere and ocean",
+      "volume": "29",
+      "author": "Galbraith",
+      "year": "2015",
+      "journal-title": "Global Biogeochemical Cycles"
+    },
+    {
+      "key": "S0033822220000417_ref49",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00438243.2015.1053976"
+    },
+    {
+      "key": "S0033822220000417_ref50",
+      "doi-asserted-by": "crossref",
+      "first-page": "1304",
+      "DOI": "10.1126/science.1059725",
+      "article-title": "Southward migration of the Intertropical Convergence Zone through the Holocene",
+      "volume": "293",
+      "author": "Haug",
+      "year": "2001",
+      "journal-title": "Science"
+    },
+    {
+      "key": "S0033822220000417_ref52",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.68",
+      "article-title": "Marine20—the marine radiocarbon age calibration curve (0–55,000 cal BP)",
+      "volume": "62",
+      "author": "Heaton",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref53",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.46",
+      "article-title": "The IntCal20 approach to radiocarbon calibration curve construction: a new methodology using Bayesian splines and errors-in-variables",
+      "volume": "62",
+      "author": "Heaton",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref54",
+      "doi-asserted-by": "crossref",
+      "first-page": "801",
+      "DOI": "10.1016/0016-7037(71)90127-X",
+      "article-title": "The isotopic geochemistry of speleothems—I. The calculation of the effects of different modes of formation on the isotopic composition of speleothems and their applicability as palaeoclimatic indicators",
+      "volume": "35",
+      "author": "Hendy",
+      "year": "1971",
+      "journal-title": "Geochimica et Cosmochimica Acta"
+    },
+    {
+      "key": "S0033822220000417_ref55",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.epsl.2009.10.004",
+      "article-title": "Towards radiocarbon calibration beyond 28 ka using speleothems from the Bahamas",
+      "volume": "289",
+      "author": "Hoffmann",
+      "year": "2010",
+      "journal-title": "Earth and Planetary Science Letters"
+    },
+    {
+      "key": "S0033822220000417_ref161",
+      "doi-asserted-by": "crossref",
+      "first-page": "633",
+      "DOI": "10.1017/S0033822200032082",
+      "article-title": "High-precision 14C measurements of contemporaneous tree-ring dated wood from the British Isles and New Zealand: AD 1850–950",
+      "volume": "44",
+      "author": "Hogg",
+      "year": "2002",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref56",
+      "doi-asserted-by": "crossref",
+      "first-page": "1177",
+      "DOI": "10.1017/S0033822200034238",
+      "article-title": "Investigating the interhemispheric 14C offset in the 1st millennium AD and assessment of laboratory bias and calibration errors",
+      "volume": "51",
+      "author": "Hogg",
+      "year": "2009",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/PA003i006p00635"
+    },
+    {
+      "key": "S0033822220000417_ref57",
+      "doi-asserted-by": "crossref",
+      "first-page": "2029",
+      "DOI": "10.2458/azu_js_rc.v55i2.16104",
+      "article-title": "Is there any Evidence for Regional Atmospheric 14C Offsets in the Southern Hemisphere?",
+      "volume": "55",
+      "author": "Hogg",
+      "year": "2013",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref58",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2458/azu_js_rc.55.16783"
+    },
+    {
+      "key": "S0033822220000417_ref61",
+      "doi-asserted-by": "crossref",
+      "first-page": "489",
+      "DOI": "10.1016/j.nimb.2004.04.092",
+      "article-title": "Radiocarbon in tropical tree rings during the Little Ice Age",
+      "volume": "223–224",
+      "author": "Hua",
+      "year": "2004",
+      "journal-title": "Nuclear Instruments and Methods in Physics Research B"
+    },
+    {
+      "key": "S0033822220000417_ref62",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1029/2006JD007898",
+      "article-title": "Influence of atmospheric circulation on regional 14CO2 differences",
+      "volume": "112",
+      "author": "Hua",
+      "year": "2007",
+      "journal-title": "Journal of Geophysical Research: Atmospheres"
+    },
+    {
+      "key": "S0033822220000417_ref63",
+      "doi-asserted-by": "crossref",
+      "first-page": "2982",
+      "DOI": "10.1016/j.quascirev.2009.08.013",
+      "article-title": "Atmospheric 14C variations derived from tree rings during the early Younger Dryas",
+      "volume": "28",
+      "author": "Hua",
+      "year": "2009",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "S0033822220000417_ref66",
+      "doi-asserted-by": "crossref",
+      "first-page": "1161",
+      "DOI": "10.1017/S0033822200033075",
+      "article-title": "Cariaco Basin calibration update: revisions to calendar and 14C chronologies for Core PL07-58PC",
+      "volume": "46",
+      "author": "Hughen",
+      "year": "2004",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref67",
+      "doi-asserted-by": "crossref",
+      "first-page": "51",
+      "DOI": "10.1038/380051a0",
+      "article-title": "Rapid climate changes in the tropical Atlantic region during the last deglaciation",
+      "volume": "380",
+      "author": "Hughen",
+      "year": "1996",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "S0033822220000417_ref68",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.53",
+      "article-title": "Updated Cariaco Basin 14C calibration dataset from 0–60 cal kyr BP",
+      "volume": "62",
+      "author": "Hughen",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref69",
+      "doi-asserted-by": "crossref",
+      "first-page": "102",
+      "DOI": "10.1006/qres.1997.1944",
+      "article-title": "Differences in radiocarbon age between shell and charcoal from a Holocene shellmound in Northern California",
+      "volume": "49",
+      "author": "Ingram",
+      "year": "1998",
+      "journal-title": "Quaternary Research"
+    },
+    {
+      "key": "S0033822220000417_ref70",
+      "doi-asserted-by": "crossref",
+      "first-page": "99",
+      "DOI": "10.1016/j.dendro.2009.06.009",
+      "article-title": "TRiDaS 1.1: The tree-ring data standard",
+      "volume": "28",
+      "author": "Jansma",
+      "year": "2010",
+      "journal-title": "Dendrochronologia"
+    },
+    {
+      "key": "S0033822220000417_ref75",
+      "doi-asserted-by": "crossref",
+      "first-page": "593",
+      "DOI": "10.5194/cp-14-593-2018",
+      "article-title": "Open-paleo-data implementation pilot-The PAGES 2k special issue",
+      "volume": "14",
+      "author": "Kaufman",
+      "year": "2018",
+      "journal-title": "Climate of the Past"
+    },
+    {
+      "key": "S0033822220000417_ref77",
+      "doi-asserted-by": "crossref",
+      "first-page": "2529",
+      "DOI": "10.1126/science.1066114",
+      "article-title": "Regional 14CO2 gradients in the troposphere: magnitude, mechanisms and consequences",
+      "volume": "294",
+      "author": "Kromer",
+      "year": "2001",
+      "journal-title": "Science"
+    },
+    {
+      "key": "S0033822220000417_ref80",
+      "article-title": "New single-year radiocarbon measurements based on Danish oak covering the periods AD 692–790 and 966–1057 AD",
+      "volume": "62",
+      "author": "Kudsk",
+      "year": "2019",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref135",
+      "doi-asserted-by": "crossref",
+      "first-page": "1589",
+      "DOI": "10.1017/RDC.2017.12",
+      "article-title": "Should archaeologists care about 14C intercomparisons? Why? A summary report on SIRI",
+      "volume": "59",
+      "author": "Scott",
+      "year": "2017",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref81",
+      "doi-asserted-by": "crossref",
+      "first-page": "407",
+      "DOI": "10.1017/S0033822200047172",
+      "article-title": "The chronology of Tell el-Daba: a crucial meeting point of 14C dating, archaeology, and Egyptology in the 2nd millennium BC",
+      "volume": "54",
+      "author": "Kutschera",
+      "year": "2012",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref82",
+      "doi-asserted-by": "crossref",
+      "first-page": "184",
+      "DOI": "10.1016/j.epsl.2013.11.031",
+      "article-title": "Dynamics of the earth magnetic field in the 10–75 kyr period comprising the Laschamp and Mono Lake excursions: New results from the French Chaîne des Puys in a global perspective",
+      "volume": "387",
+      "author": "Laj",
+      "year": "2014",
+      "journal-title": "Earth and Planetary Science Letters"
+    },
+    {
+      "key": "S0033822220000417_ref83",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.3389/feart.2015.00061",
+      "article-title": "An impending geomagnetic transition? Hints from the past",
+      "volume": "3",
+      "author": "Laj",
+      "year": "2015",
+      "journal-title": "Frontiers in Earth Science"
+    },
+    {
+      "key": "S0033822220000417_ref85",
+      "doi-asserted-by": "crossref",
+      "first-page": "233",
+      "DOI": "10.1016/j.gca.2016.08.039",
+      "article-title": "Hydrological and climatological controls on radiocarbon concentrations in a tropical stalagmite",
+      "volume": "194",
+      "author": "Lechleitner",
+      "year": "2016",
+      "journal-title": "Geochimica et Cosmochimica Acta"
+    },
+    {
+      "key": "S0033822220000417_ref89",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Manning, SW , Kromer, B , Cremaschi, M , Dee, MW , Friedrich, R , Griggs, C , Hadden, CS. 2020. Mediterranean radiocarbon offsets and calendar dates for prehistory. Science Advances 6:eaaz1096.",
+      "DOI": "10.1126/sciadv.aaz1096"
+    },
+    {
+      "key": "S0033822220000417_ref92",
+      "doi-asserted-by": "crossref",
+      "first-page": "616",
+      "DOI": "10.1038/nature13799",
+      "article-title": "Centennial-scale changes in the global carbon cycle during the last deglaciation",
+      "volume": "514",
+      "author": "Marcott",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "S0033822220000417_ref105",
+      "first-page": "471",
+      "volume-title": "The 14C content of marine shells: Evidence for variability in coastal upwelling off Portugal during the Holocene. Isotope Techniques in the Study of Past and Current Environmental Changes in the Hydrosphere and Atmosphere",
+      "author": "Monge Soares",
+      "year": "1993"
+    },
+    {
+      "key": "S0033822220000417_ref93",
+      "doi-asserted-by": "crossref",
+      "first-page": "342",
+      "DOI": "10.1016/j.gca.2019.04.029",
+      "article-title": "Modelling the 14C bomb-pulse in young speleothems using a soil carbon continuum model",
+      "volume": "261",
+      "author": "Markowska",
+      "year": "2019",
+      "journal-title": "Geochimica et Cosmochimica Acta"
+    },
+    {
+      "key": "S0033822220000417_ref97",
+      "doi-asserted-by": "crossref",
+      "first-page": "11",
+      "DOI": "10.1017/S0033822200043344",
+      "article-title": "Extended radiocarbon calibration in the Anglo-Saxon period, AD 395–485 and AD 735–805",
+      "volume": "50",
+      "author": "McCormac",
+      "year": "2008",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref101",
+      "doi-asserted-by": "crossref",
+      "first-page": "84",
+      "DOI": "10.1002/2014GL062218",
+      "article-title": "Cosmic ray event of AD 774–775 shown in quasi-annual 10Be data from the Antarctic Dome Fuji ice core",
+      "volume": "42",
+      "author": "Miyake",
+      "year": "2015",
+      "journal-title": "Geophysical Research Letters"
+    },
+    {
+      "key": "S0033822220000417_ref153",
+      "doi-asserted-by": "crossref",
+      "first-page": "L3",
+      "DOI": "10.1051/0004-6361/201321080",
+      "article-title": "The AD 775 cosmic event revisited: The Sun is to blame",
+      "volume": "552",
+      "author": "Usoskin",
+      "year": "2013",
+      "journal-title": "Astronomy and Astrophysics"
+    },
+    {
+      "key": "S0033822220000417_ref102",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1613144114"
+    },
+    {
+      "key": "S0033822220000417_ref103",
+      "doi-asserted-by": "crossref",
+      "first-page": "315",
+      "DOI": "10.1017/RDC.2016.54",
+      "article-title": "Search for annual 14C excursions in the Ppast",
+      "volume": "59",
+      "author": "Miyake",
+      "year": "2017",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref108",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3759/tropics.MS17-09"
+    },
+    {
+      "key": "S0033822220000417_ref110",
+      "doi-asserted-by": "crossref",
+      "first-page": "1905",
+      "DOI": "10.2458/azu_js_rc.55.17222",
+      "article-title": "The Bayesian approach to radiocarbon calibration curve estimation: the IntCal13, Marine13, and SHCal13 methodologies",
+      "volume": "55",
+      "author": "Niu",
+      "year": "2013",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref113",
+      "doi-asserted-by": "crossref",
+      "first-page": "5961",
+      "DOI": "10.1073/pnas.1815725116",
+      "article-title": "Multiradionuclide evidence for an extreme solar proton event around 2,610 BP (∼ 660 BC)",
+      "volume": "116",
+      "author": "O’Hare",
+      "year": "2019",
+      "journal-title": "Proceedings of the National Academy of Sciences"
+    },
+    {
+      "key": "S0033822220000417_ref8",
+      "doi-asserted-by": "crossref",
+      "first-page": "456",
+      "DOI": "10.1038/346456a0",
+      "article-title": "U-Th ages obtained by mass-spectrometry in corals from Barbados—sea-level during the past 130,000 years",
+      "volume": "346",
+      "author": "Bard",
+      "year": "1990",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "S0033822220000417_ref114",
+      "doi-asserted-by": "crossref",
+      "first-page": "5228",
+      "DOI": "10.1016/j.gca.2010.06.030",
+      "article-title": "Modeling speleothem δ13C variability in a central Sierra Nevada cave using 14C and 87Sr/86Sr",
+      "volume": "74",
+      "author": "Oster",
+      "year": "2010",
+      "journal-title": "Geochimica et Cosmochimica Acta"
+    },
+    {
+      "key": "S0033822220000417_ref116",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1126/sciadv.aar8241",
+      "article-title": "Annual radiocarbon record indicates 16th century BCE date for the Thera eruption",
+      "volume": "4",
+      "author": "Pearson",
+      "year": "2018",
+      "journal-title": "Science Advances"
+    },
+    {
+      "key": "S0033822220000417_ref117",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.14",
+      "article-title": "Annual variation in atmospheric 14C between 1700 BC and 1480 BC",
+      "volume": "62",
+      "author": "Pearson",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref118",
+      "doi-asserted-by": "crossref",
+      "first-page": "1947",
+      "DOI": "10.1126/science.290.5498.1947",
+      "article-title": "Rapid changes in the hydrologic cycle of the tropical Atlantic during the last glacial",
+      "volume": "290",
+      "author": "Peterson",
+      "year": "2000",
+      "journal-title": "Science"
+    },
+    {
+      "key": "S0033822220000417_ref120",
+      "doi-asserted-by": "crossref",
+      "first-page": "14",
+      "DOI": "10.1016/j.quascirev.2014.09.007",
+      "article-title": "A stratigraphic framework for abrupt climatic changes during the Last Glacial period based on three synchronized Greenland ice-core records: refining and extending the INTIMATE event stratigraphy",
+      "volume": "106",
+      "author": "Rasmussen",
+      "year": "2014",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "S0033822220000417_ref121",
+      "doi-asserted-by": "crossref",
+      "first-page": "1029",
+      "DOI": "10.1017/S0033822200032999",
+      "article-title": "IntCal04 terrestrial radiocarbon age calibration, 0–26 cal kyr BP",
+      "volume": "46",
+      "author": "Reimer",
+      "year": "2004",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref37",
+      "doi-asserted-by": "crossref",
+      "first-page": "687",
+      "DOI": "10.1016/j.jas.2009.09.003",
+      "article-title": "Investigating the likelihood of a reservoir offset in the radiocarbon record for ancient Egypt",
+      "volume": "37",
+      "author": "Dee",
+      "year": "2010",
+      "journal-title": "Journal of Archaeological Science"
+    },
+    {
+      "key": "S0033822220000417_ref122",
+      "doi-asserted-by": "crossref",
+      "first-page": "1111",
+      "DOI": "10.1017/S0033822200034202",
+      "article-title": "IntCal09 and Marine09 radiocarbon age calibration curves, 0–50,000 years cal BP",
+      "volume": "51",
+      "author": "Reimer",
+      "year": "2009",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref124",
+      "doi-asserted-by": "crossref",
+      "first-page": "1869",
+      "DOI": "10.2458/azu_js_rc.55.16947",
+      "article-title": "IntCal13 and Marine13 radiocarbon age calibration curves 0–50,000 years cal BP",
+      "volume": "55",
+      "author": "Reimer",
+      "year": "2013",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref125",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quascirev.2018.02.019"
+    },
+    {
+      "key": "S0033822220000417_ref126",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.15",
+      "article-title": "Illuminating IntCal during the Younger Dryas",
+      "volume": "62",
+      "author": "Reinig",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref127",
+      "doi-asserted-by": "crossref",
+      "first-page": "33",
+      "DOI": "10.1007/BF01277044",
+      "article-title": "The impact of cold North Atlantic sea surface temperatures on climate: implications for the Younger Dryas cooling (11–10k)",
+      "volume": "1",
+      "author": "Rind",
+      "year": "1986",
+      "journal-title": "Climate Dynamics"
+    },
+    {
+      "key": "S0033822220000417_ref133",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature13636"
+    },
+    {
+      "key": "S0033822220000417_ref134",
+      "doi-asserted-by": "crossref",
+      "first-page": "72",
+      "DOI": "10.1016/j.quageo.2017.08.001",
+      "article-title": "Why do we need 14C inter-comparisons?: The Glasgow-14C inter-comparison series, a reflection over 30 years",
+      "volume": "43",
+      "author": "Scott",
+      "year": "2017",
+      "journal-title": "Quaternary Geochronology"
+    },
+    {
+      "key": "S0033822220000417_ref140",
+      "doi-asserted-by": "crossref",
+      "first-page": "32",
+      "DOI": "10.1016/j.quascirev.2011.11.022",
+      "article-title": "A high-resolution record of atmospheric 14C based on Hulu Cave speleothem H82",
+      "volume": "33",
+      "author": "Southon",
+      "year": "2012",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "S0033822220000417_ref142",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1029/2002JD002490",
+      "article-title": "Stratosphere-troposphere exchange: A review, and what we have learned from STACCATO",
+      "volume": "108",
+      "author": "Stohl",
+      "year": "2003",
+      "journal-title": "Journal of Geophysical Research: Atmospheres"
+    },
+    {
+      "key": "S0033822220000417_ref143",
+      "doi-asserted-by": "crossref",
+      "first-page": "969",
+      "DOI": "10.1017/S0033822200060252",
+      "article-title": "Radiocarbon age calibration back to 13,300 years BP and the 14C age matching of the German oak and United-States bristlecone-pine chronologies",
+      "volume": "28",
+      "author": "Stuiver",
+      "year": "1986",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref146",
+      "doi-asserted-by": "crossref",
+      "first-page": "1127",
+      "DOI": "10.1017/S0033822200019172",
+      "article-title": "High-precision radiocarbon age calibration for terrestrial and marine samples",
+      "volume": "40",
+      "author": "Stuiver",
+      "year": "1998",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref147",
+      "doi-asserted-by": "crossref",
+      "first-page": "1765",
+      "DOI": "10.1017/RDC.2019.98",
+      "article-title": "The 1953–1965 rise in atmospheric bomb 14C in central Norway",
+      "volume": "61",
+      "author": "Svarva",
+      "year": "2019",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref148",
+      "doi-asserted-by": "crossref",
+      "first-page": "47",
+      "DOI": "10.5194/cp-4-47-2008",
+      "article-title": "A 60 000 year Greenland stratigraphic ice core chronology",
+      "volume": "4",
+      "author": "Svensson",
+      "year": "2008",
+      "journal-title": "Climate of the Past"
+    },
+    {
+      "key": "S0033822220000417_ref100",
+      "article-title": "Another rapid event in the carbon-14 content of tree rings",
+      "volume": "4",
+      "author": "Miyake",
+      "year": "2013",
+      "journal-title": "Nature Communications"
+    },
+    {
+      "key": "S0033822220000417_ref157",
+      "doi-asserted-by": "crossref",
+      "first-page": "573",
+      "DOI": "10.2458/56.17634",
+      "article-title": "Radiocarbon dating to a single year by means of rapid atmospheric 14C changes",
+      "volume": "56",
+      "author": "Wacker",
+      "year": "2014",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref159",
+      "doi-asserted-by": "crossref",
+      "first-page": "165",
+      "DOI": "10.1038/s41597-019-0173-8",
+      "article-title": "Consistently dated Atlantic sediment cores over the last 40 thousand years",
+      "volume": "6",
+      "author": "Waelbroeck",
+      "year": "2019",
+      "journal-title": "Scientific Data"
+    },
+    {
+      "key": "S0033822220000417_ref160",
+      "doi-asserted-by": "crossref",
+      "first-page": "2345",
+      "DOI": "10.1126/science.1064618",
+      "article-title": "A high-resolution absolute-dated Late Pleistocene monsoon record from Hulu Cave, China",
+      "volume": "294",
+      "author": "Wang",
+      "year": "2001",
+      "journal-title": "Science"
+    },
+    {
+      "key": "S0033822220000417_ref128",
+      "doi-asserted-by": "crossref",
+      "first-page": "4321",
+      "DOI": "10.1016/j.gca.2011.05.022",
+      "article-title": "The coupled δ13C-radiocarbon systematics of three Late Glacial/early Holocene speleothems; insights into soil and cave processes at climatic transitions",
+      "volume": "75",
+      "author": "Rudzka",
+      "year": "2011",
+      "journal-title": "Geochimica et Cosmochimica Acta"
+    },
+    {
+      "key": "S0033822220000417_ref123",
+      "doi-asserted-by": "crossref",
+      "first-page": "1923",
+      "DOI": "10.2458/azu_js_rc.55.16955",
+      "article-title": "Selection and treatment of data for radiocarbon calibration: an update to the International Calibration (IntCal) criteria",
+      "volume": "55",
+      "author": "Reimer",
+      "year": "2013",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref145",
+      "doi-asserted-by": "crossref",
+      "first-page": "1041",
+      "DOI": "10.1017/S0033822200019123",
+      "article-title": "INTCAL98 radiocarbon age calibration, 24,000–0 cal BP",
+      "volume": "40",
+      "author": "Stuiver",
+      "year": "1998",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref98",
+      "doi-asserted-by": "crossref",
+      "first-page": "8611",
+      "DOI": "10.1038/ncomms9611",
+      "article-title": "Multiradionuclide evidence for the solar origin of the cosmic-ray events of ad 774/5 and 993/4",
+      "volume": "6",
+      "author": "Mekhaldi",
+      "year": "2015",
+      "journal-title": "Nature Communications"
+    },
+    {
+      "key": "S0033822220000417_ref150",
+      "doi-asserted-by": "crossref",
+      "first-page": "3677",
+      "DOI": "10.1016/j.quascirev.2010.08.017",
+      "article-title": "The potential of New Zealand kauri (Agathis australis) for testing the synchronicity of abrupt climate change during the Last Glacial Interval (60,000–11,700 years ago)",
+      "volume": "29",
+      "author": "Turney",
+      "year": "2010",
+      "journal-title": "Quaternary Science Reviews"
+    },
+    {
+      "key": "S0033822220000417_ref87",
+      "doi-asserted-by": "crossref",
+      "first-page": "475",
+      "DOI": "10.1002/jqs.3115",
+      "article-title": "Tree ring dating using oxygen isotopes: A master chronology for central England",
+      "volume": "34",
+      "author": "Loader",
+      "year": "2019",
+      "journal-title": "Journal of Quaternary Science"
+    },
+    {
+      "key": "S0033822220000417_ref42",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.nimb.2018.11.018"
+    },
+    {
+      "key": "S0033822220000417_ref130",
+      "doi-asserted-by": "crossref",
+      "first-page": "209",
+      "DOI": "10.1029/93PA03301",
+      "article-title": "Changes in east Atlantic deepwater circulation over the last 30,000 years: Eight time slice reconstructions",
+      "volume": "9",
+      "author": "Sarnthein",
+      "year": "1994",
+      "journal-title": "Paleoceanography"
+    },
+    {
+      "key": "S0033822220000417_ref149",
+      "doi-asserted-by": "crossref",
+      "first-page": "826",
+      "DOI": "10.1038/280826a0",
+      "article-title": "Natural atmospheric 14C variation and the Suess effect",
+      "volume": "280",
+      "author": "Tans",
+      "year": "1979",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "S0033822220000417_ref78",
+      "doi-asserted-by": "crossref",
+      "first-page": "1203",
+      "DOI": "10.1017/S0033822200033099",
+      "article-title": "Late Glacial 14C ages from a floating 1382-ring pine chronology",
+      "volume": "46",
+      "author": "Kromer",
+      "year": "2004",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref79",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/RDC.2020.23",
+      "article-title": "Wood from the Netherlands around the time of the Santorini eruption dated by dendrochronology and radiocarbon",
+      "volume": "62",
+      "author": "Kuitems",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "S0033822220000417_ref72",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2014GL059874"
+    }
+  ],
+  "container-title": [
+    "Radiocarbon"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0033822220000417",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        28
+      ]
+    ],
+    "date-time": "2021-03-28T02:43:02Z",
+    "timestamp": 1616899382000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.cambridge.org/core/product/identifier/S0033822220000417/type/journal_article"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        8
+      ]
+    ]
+  },
+  "references-count": 159,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          8
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S0033822220000417"
+  ],
+  "URL": "https://doi.org/10.1017/rdc.2020.41",
+  "relation": {},
+  "ISSN": [
+    "0033-8222",
+    "1945-5755"
+  ],
+  "issn-type": [
+    {
+      "value": "0033-8222",
+      "type": "print"
+    },
+    {
+      "value": "1945-5755",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        8
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "© 2020 by the Arizona Board of Regents on behalf of the University of Arizona",
+      "name": "copyright",
+      "label": "Copyright",
+      "group": {
+        "name": "copyright_and_licensing",
+        "label": "Copyright and Licensing"
+      }
+    },
+    {
+      "value": "This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+      "name": "license",
+      "label": "License",
+      "group": {
+        "name": "copyright_and_licensing",
+        "label": "Copyright and Licensing"
+      }
+    },
+    {
+      "value": "This content has been made available to all.",
+      "name": "free",
+      "label": "Free to read"
+    }
+  ]
+}

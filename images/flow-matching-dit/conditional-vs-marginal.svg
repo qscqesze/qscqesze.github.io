@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+  <title id="title">Flow Matching 中条件直线与边缘速度场的区别</title>
+  <desc id="desc">左侧显示噪声与数据样本之间的条件直线桥，右侧显示对所有相遇路径取条件期望后得到的单值边缘速度场。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#13213b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6ee7ff"/>
+      <stop offset="1" stop-color="#ffb86b"/>
+    </linearGradient>
+    <marker id="arrowCyan" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#68dfff"/>
+    </marker>
+    <marker id="arrowGold" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#ffb86b"/>
+    </marker>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="760" rx="28" fill="url(#bg)"/>
+  <text x="60" y="72" fill="#f4f7ff" font-size="34" font-weight="700" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">条件桥很简单，边缘流才是模型真正学到的对象</text>
+  <text x="60" y="111" fill="#9eb0cc" font-size="20" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">同一位置不能同时拥有多个速度；平方损失把所有可能的条件速度平均成 v*(x,t)=E[ẋₜ | xₜ=x]</text>
+
+  <rect x="55" y="155" width="610" height="535" rx="22" fill="#0d192b" stroke="#263a58" stroke-width="2"/>
+  <text x="90" y="205" fill="#ffffff" font-size="25" font-weight="650" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">训练时：可采样的条件直线</text>
+  <text x="90" y="238" fill="#91a5c3" font-size="18" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">xₜ=(1−t)x₀+t x₁，目标速度 ẋₜ=x₁−x₀</text>
+  <line x1="175" y1="290" x2="175" y2="620" stroke="#35506f" stroke-width="2" stroke-dasharray="7 9"/>
+  <line x1="545" y1="290" x2="545" y2="620" stroke="#614c38" stroke-width="2" stroke-dasharray="7 9"/>
+  <text x="135" y="658" fill="#6ee7ff" font-size="19" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">t=0 噪声</text>
+  <text x="505" y="658" fill="#ffb86b" font-size="19" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">t=1 数据</text>
+  <g stroke="url(#line)" stroke-width="3" opacity="0.7">
+    <path d="M175 325 L545 385"/><path d="M175 392 L545 548"/><path d="M175 470 L545 330"/>
+    <path d="M175 545 L545 455"/><path d="M175 595 L545 515"/><path d="M175 360 L545 590"/>
+  </g>
+  <g fill="#6ee7ff" filter="url(#glow)">
+    <circle cx="175" cy="325" r="8"/><circle cx="175" cy="392" r="8"/><circle cx="175" cy="470" r="8"/>
+    <circle cx="175" cy="545" r="8"/><circle cx="175" cy="595" r="8"/><circle cx="175" cy="360" r="8"/>
+  </g>
+  <g fill="#ffb86b" filter="url(#glow)">
+    <circle cx="545" cy="385" r="9"/><circle cx="545" cy="548" r="9"/><circle cx="545" cy="330" r="9"/>
+    <circle cx="545" cy="455" r="9"/><circle cx="545" cy="515" r="9"/><circle cx="545" cy="590" r="9"/>
+  </g>
+  <circle cx="355" cy="452" r="20" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.55"/>
+  <text x="328" y="445" fill="#ffffff" font-size="17" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">相遇</text>
+  <text x="313" y="474" fill="#b5c4db" font-size="15" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">速度有歧义</text>
+
+  <rect x="735" y="155" width="610" height="535" rx="22" fill="#0d192b" stroke="#263a58" stroke-width="2"/>
+  <text x="770" y="205" fill="#ffffff" font-size="25" font-weight="650" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">采样时：确定性的边缘速度场</text>
+  <text x="770" y="238" fill="#91a5c3" font-size="18" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">ODE 在每个 (x,t) 只查询一个向量 vθ(x,t)</text>
+  <g stroke="#23405d" stroke-width="1" opacity="0.55">
+    <path d="M795 285V635M875 285V635M955 285V635M1035 285V635M1115 285V635M1195 285V635M1275 285V635"/>
+    <path d="M775 315H1310M775 385H1310M775 455H1310M775 525H1310M775 595H1310"/>
+  </g>
+  <g stroke="#68dfff" stroke-width="3" marker-end="url(#arrowCyan)" opacity="0.8">
+    <path d="M805 330 q35 -25 70 -6"/><path d="M930 326 q32 5 55 34"/><path d="M1080 330 q38 25 55 69"/>
+    <path d="M815 430 q35 -5 63 18"/><path d="M948 422 q42 12 54 55"/><path d="M1110 445 q35 20 55 52"/>
+    <path d="M805 555 q30 16 72 6"/><path d="M945 565 q35 -12 60 -39"/><path d="M1110 570 q35 -35 53 -78"/>
+  </g>
+  <g fill="none" stroke="#ffb86b" stroke-width="5" marker-end="url(#arrowGold)">
+    <path d="M790 350 C930 270 1045 295 1218 385"/>
+    <path d="M790 455 C920 395 1050 420 1235 493"/>
+    <path d="M790 570 C930 640 1095 582 1240 470"/>
+  </g>
+  <g fill="#6ee7ff"><circle cx="790" cy="350" r="7"/><circle cx="790" cy="455" r="7"/><circle cx="790" cy="570" r="7"/></g>
+  <g fill="#ffb86b"><circle cx="1220" cy="386" r="8"/><circle cx="1237" cy="494" r="8"/><circle cx="1242" cy="468" r="8"/></g>
+  <text x="790" y="655" fill="#aabbd3" font-size="17" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">条件线段可以交叉；ODE 的积分曲线在良性速度场下不会相交。</text>
+</svg>

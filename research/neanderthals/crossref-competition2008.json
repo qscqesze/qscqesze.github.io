@@ -1,0 +1,986 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        26
+      ]
+    ],
+    "date-time": "2026-08-26T04:25:06Z",
+    "timestamp": 1787718306060,
+    "version": "build-2784847793"
+  },
+  "reference-count": 74,
+  "publisher": "Public Library of Science (PLoS)",
+  "issue": "12",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2008,
+            12,
+            24
+          ]
+        ],
+        "date-time": "2008-12-24T00:00:00Z",
+        "timestamp": 1230076800000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "www.plosone.org"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "PLoS ONE"
+  ],
+  "DOI": "10.1371/journal.pone.0003972",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2008,
+        12,
+        23
+      ]
+    ],
+    "date-time": "2008-12-23T22:46:43Z",
+    "timestamp": 1230072403000
+  },
+  "page": "e3972",
+  "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 196,
+  "title": [
+    "Neanderthal Extinction by Competitive Exclusion"
+  ],
+  "prefix": "10.1371",
+  "volume": "3",
+  "author": [
+    {
+      "given": "William E.",
+      "family": "Banks",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Francesco",
+      "family": "d'Errico",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "A. Townsend",
+      "family": "Peterson",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Masa",
+      "family": "Kageyama",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Adriana",
+      "family": "Sima",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Maria-Fernanda",
+      "family": "Sánchez-Goñi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "340",
+  "published-online": {
+    "date-parts": [
+      [
+        2008,
+        12,
+        24
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref1",
+      "first-page": "266",
+      "article-title": "Neanderthals and Modern Humans. An Ecological and Evolutionary Perspective",
+      "author": "C Finlayson",
+      "year": "2004"
+    },
+    {
+      "key": "ref2",
+      "doi-asserted-by": "crossref",
+      "first-page": "183",
+      "DOI": "10.1002/evan.20110",
+      "article-title": "Neandertals and Moderns Mixed, and It Matters.",
+      "volume": "15",
+      "author": "J Zilhão",
+      "year": "2006",
+      "journal-title": "Evol Anthropol"
+    },
+    {
+      "key": "ref3",
+      "first-page": "265",
+      "article-title": "Neanderthals and modern humans in the European landscape during the last glaciation: archaeological results of the Stage 3 Project",
+      "year": "2003"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "crossref",
+      "first-page": "461",
+      "DOI": "10.1038/nature03103",
+      "article-title": "Neanderthals and the modern human colonization of Europe.",
+      "volume": "432",
+      "author": "P Mellars",
+      "year": "2004",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref5",
+      "doi-asserted-by": "crossref",
+      "first-page": "218",
+      "DOI": "10.1038/364218a0",
+      "article-title": "Evidence for general instability of past climate from a 250 kyr ice-core record.",
+      "volume": "264",
+      "author": "W Dansgaard",
+      "year": "1993",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref6",
+      "doi-asserted-by": "crossref",
+      "first-page": "142",
+      "DOI": "10.1016/0033-5894(88)90057-9",
+      "article-title": "Origin and consequences of cyclic ice-rafting in the northeast Atlantic Ocean during the past 130,000 years.",
+      "volume": "29",
+      "author": "H Heinrich",
+      "year": "1988",
+      "journal-title": "Quat Res"
+    },
+    {
+      "key": "ref7",
+      "doi-asserted-by": "crossref",
+      "first-page": "908",
+      "DOI": "10.1016/j.crte.2005.04.009",
+      "article-title": "Magnetic signature of rapid climatic variations in glacial North Atlantic, a review.",
+      "volume": "337",
+      "author": "C Kissel",
+      "year": "2005",
+      "journal-title": "C R Geosci"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "crossref",
+      "first-page": "1136",
+      "DOI": "10.1016/j.quascirev.2008.03.003",
+      "article-title": "Contrasting impacts of Dansgaard-Oeschger events over a western European latitudinal transect modulated by orbital parameters.",
+      "volume": "27",
+      "author": "MF Sánchez-Goñi",
+      "year": "2008",
+      "journal-title": "Quat Sci Rev"
+    },
+    {
+      "key": "ref9",
+      "first-page": "235",
+      "article-title": "What Can Neanderthals Tell Us About Modern Origins?",
+      "author": "JJ Hublin",
+      "year": "2007"
+    },
+    {
+      "key": "ref10",
+      "doi-asserted-by": "crossref",
+      "first-page": "563",
+      "DOI": "10.1098/rstb.2001.1057",
+      "article-title": "Modern human origins - progress and prospects.",
+      "volume": "357",
+      "author": "C Stringer",
+      "year": "2002",
+      "journal-title": "Philos Trans R Soc London, Ser B"
+    },
+    {
+      "key": "ref11",
+      "doi-asserted-by": "crossref",
+      "first-page": "485",
+      "DOI": "10.1016/j.jhevol.2005.11.008",
+      "article-title": "Dental remains from the Grotte du Renne at Arcy-sur-Cure (Yonne).",
+      "volume": "50",
+      "author": "SE Bailey",
+      "year": "2006",
+      "journal-title": "J Human Evol"
+    },
+    {
+      "key": "ref12",
+      "doi-asserted-by": "crossref",
+      "first-page": "224",
+      "DOI": "10.1038/381224a0",
+      "article-title": "A late Neanderthal associated with Upper Palaeolithic artefacts.",
+      "volume": "381",
+      "author": "J-J Hublin",
+      "year": "1996",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref13",
+      "first-page": "187",
+      "article-title": "Découverte de restes humains dans un niveau Castelperronien à Saint-Césaire, Charente-Maritime.",
+      "volume": "291(D)",
+      "author": "F Lévêque",
+      "year": "1980",
+      "journal-title": "CR Acad Sci (Paris)"
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "crossref",
+      "first-page": "S1",
+      "DOI": "10.1086/204689",
+      "article-title": "Neanderthal Acculturation in Western Europe? A Critical Review of the Evidence and Its Interpretation.",
+      "volume": "39",
+      "author": "F d'Errico",
+      "year": "1998",
+      "journal-title": "Curr Anthropol"
+    },
+    {
+      "key": "ref15",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.1002/1096-8644(2000)43:31+<61::AID-AJPA4>3.0.CO;2-3",
+      "article-title": "Makers of the Early Aurignacian of Europe.",
+      "volume": "43",
+      "author": "SE Churchill",
+      "year": "2000",
+      "journal-title": "Yearb Phys Anth"
+    },
+    {
+      "key": "ref16",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1023/A:1022348410845",
+      "article-title": "The chronology and taphonomy of the earliest Aurignacian and its implications for the understanding of Neanderthal extinction.",
+      "volume": "13",
+      "author": "J Zilhão",
+      "year": "1999",
+      "journal-title": "J World Preh"
+    },
+    {
+      "key": "ref17",
+      "first-page": "313",
+      "article-title": "The chronology of the Aurignacian and Transitional technocomplexes. Where do we stand?",
+      "author": "J Zilhão",
+      "year": "2003"
+    },
+    {
+      "key": "ref18",
+      "doi-asserted-by": "crossref",
+      "first-page": "12643",
+      "DOI": "10.1073/pnas.0605128103",
+      "article-title": "Analysis of Aurignacian interstratification at the Chatelperronian-type site and implications for the behavioral modernity of Neandertals.",
+      "volume": "103",
+      "author": "J Zilhão",
+      "year": "2006",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "key": "ref19",
+      "first-page": "1",
+      "article-title": "The Interstratification Delusion: Excavation History, Taphonomy, Stratigraphy and Dating of the Grotte des Fées (Châtelperron).",
+      "volume": "6",
+      "author": "J Zilhão",
+      "year": "2008",
+      "journal-title": "PaleoAnthropology"
+    },
+    {
+      "key": "ref20",
+      "doi-asserted-by": "crossref",
+      "first-page": "769",
+      "DOI": "10.1016/S0277-3791(03)00009-X",
+      "article-title": "Neanderthal extinction and the millennial scale climatic variability of OIS 3.",
+      "volume": "22",
+      "author": "F d'Errico",
+      "year": "2003",
+      "journal-title": "Quat Sci Rev"
+    },
+    {
+      "key": "ref21",
+      "first-page": "223",
+      "article-title": "Lithic taphonomy of the Chatelperronian/Aurignacian interstratifications in Roc de Combe and Le Piage (Lot, France).",
+      "author": "J-G Bordes",
+      "year": "2003"
+    },
+    {
+      "key": "ref22",
+      "first-page": "37",
+      "article-title": "Les Débuts de L&apos;Aurignacien en Europe Occidentale: Unité ou Diversité? Du Territoire de Subsistance au Territoire Culturel.",
+      "author": "F Le Brun-Ricalens",
+      "year": "2007"
+    },
+    {
+      "key": "ref23",
+      "first-page": "263",
+      "article-title": "Re-evaluating the Aurignacian as an Expression of Modern Human Mobility and Dispersal.",
+      "author": "W Davies",
+      "year": "2007"
+    },
+    {
+      "key": "ref24",
+      "doi-asserted-by": "crossref",
+      "first-page": "415",
+      "DOI": "10.1017/S0003598X0006107X",
+      "article-title": "Blind in a cloud of data: problems with the chronology of Neanderthal extinction and anatomically modern human expansion.",
+      "volume": "75",
+      "author": "PB Pettitt",
+      "year": "2001",
+      "journal-title": "Antiquity"
+    },
+    {
+      "key": "ref25",
+      "first-page": "441",
+      "article-title": "A Cantabrian Perspective on late Neanderthals.",
+      "author": "V Cabrera Valdés",
+      "year": "2006"
+    },
+    {
+      "key": "ref26",
+      "doi-asserted-by": "crossref",
+      "first-page": "51",
+      "DOI": "10.1038/nature04006",
+      "article-title": "Radiocarbon dating of interstratified Neanderthal and early modern human occupations at the Châtelperronian type-site.",
+      "volume": "438",
+      "author": "B Gravina",
+      "year": "2005",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref27",
+      "doi-asserted-by": "crossref",
+      "first-page": "3657",
+      "DOI": "10.1073/pnas.0608053104",
+      "article-title": "Confirmation of Neanderthal/modern human interstratification at the Chatelperronian type-site.",
+      "volume": "104",
+      "author": "P Mellars",
+      "year": "2007",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "key": "ref28",
+      "doi-asserted-by": "crossref",
+      "first-page": "47",
+      "DOI": "10.1016/j.quaint.2004.11.019",
+      "article-title": "A mosaic of change: the Middle-Upper Paleolithic transition as viewed from New Mexico and Iberia.",
+      "volume": "137",
+      "author": "LG Straus",
+      "year": "2005",
+      "journal-title": "Quatern Int"
+    },
+    {
+      "key": "ref29",
+      "doi-asserted-by": "crossref",
+      "first-page": "330",
+      "DOI": "10.1038/nature05336",
+      "article-title": "Analysis of one million base pairs of Neanderthal DNA.",
+      "volume": "444",
+      "author": "RE Green",
+      "year": "2006",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref30",
+      "doi-asserted-by": "crossref",
+      "first-page": "1077",
+      "DOI": "10.1093/molbev/msi094",
+      "article-title": "Neandertal evolutionary genetics; mitochondrial DNA data from the Iberian peninsula.",
+      "volume": "22",
+      "author": "C Lalueza-Fox",
+      "year": "2004",
+      "journal-title": "Mol Biol Evol"
+    },
+    {
+      "key": "ref31",
+      "doi-asserted-by": "crossref",
+      "first-page": "1113",
+      "DOI": "10.1126/science.1131412",
+      "article-title": "Sequencing and analysis of Neanderthal genomic DNA.",
+      "volume": "314",
+      "author": "JP Noonan",
+      "year": "2006",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref32",
+      "doi-asserted-by": "crossref",
+      "first-page": "313",
+      "DOI": "10.1371/journal.pbio.0020057",
+      "article-title": "No evidence of Neandertal mtDNA contribution to early modern humans.",
+      "volume": "2",
+      "author": "D Serre",
+      "year": "2004",
+      "journal-title": "PLoS Biol"
+    },
+    {
+      "key": "ref33",
+      "doi-asserted-by": "crossref",
+      "first-page": "7",
+      "DOI": "10.1016/j.quaint.2004.11.016",
+      "article-title": "The assimilation model, modern human origins in Europe, and the extinction of Neandertals.",
+      "volume": "137",
+      "author": "FH Smith",
+      "year": "2005",
+      "journal-title": "Quatern Int"
+    },
+    {
+      "key": "ref34",
+      "doi-asserted-by": "crossref",
+      "first-page": "7367",
+      "DOI": "10.1073/pnas.0702214104",
+      "article-title": "European early modern humans and the fate of the Neandertals.",
+      "volume": "104",
+      "author": "E Trinkaus",
+      "year": "2007",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "key": "ref35",
+      "first-page": "169",
+      "article-title": "La fin du Palélithique moyen au sud de l&apos;Espagne: ses implications dans le contexte de la Péninsule Ibérique.",
+      "author": "LG Vega Toscano",
+      "year": "1990"
+    },
+    {
+      "key": "ref36",
+      "doi-asserted-by": "crossref",
+      "first-page": "206",
+      "DOI": "10.1038/nature06117",
+      "article-title": "Placing late Neanderthals in a climatic context.",
+      "volume": "449",
+      "author": "PC Tzedakis",
+      "year": "2007",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref37",
+      "first-page": "15",
+      "article-title": "Radiocarbon evidence of the Middle to Upper Palaeolithic transition in southwestern Europe.",
+      "volume": "60",
+      "author": "O Jöris",
+      "year": "2003",
+      "journal-title": "Trabajos de Preistoria"
+    },
+    {
+      "key": "ref38",
+      "doi-asserted-by": "crossref",
+      "first-page": "178",
+      "DOI": "10.1126/science.1091964",
+      "article-title": "A better radiocarbon clock.",
+      "volume": "303",
+      "author": "E Bard",
+      "year": "2004",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref39",
+      "doi-asserted-by": "crossref",
+      "first-page": "202",
+      "DOI": "10.1126/science.1090300",
+      "article-title": "14C Activity and Global Carbon Cycle Changes over the Past 50,000 Years.",
+      "volume": "303",
+      "author": "K Hughen",
+      "year": "2004",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref40",
+      "doi-asserted-by": "crossref",
+      "first-page": "179",
+      "DOI": "10.1017/S0033822200066388",
+      "article-title": "AMS Radiocarbon Dating of Ancient Bone Using Ultrafiltration.",
+      "volume": "48",
+      "author": "TFG Higham",
+      "year": "2006",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "ref41",
+      "doi-asserted-by": "crossref",
+      "first-page": "931",
+      "DOI": "10.1038/nature04521",
+      "article-title": "A new radiocarbon revolution and the dispersal of modern humans in Eurasia.",
+      "volume": "439",
+      "author": "P Mellars",
+      "year": "2006",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref42",
+      "doi-asserted-by": "crossref",
+      "first-page": "850",
+      "DOI": "10.1038/nature05195",
+      "article-title": "Late survival of Neanderthals at the southernmost extreme of Europe.",
+      "volume": "443",
+      "author": "C Finlayson",
+      "year": "2006",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "ref43",
+      "doi-asserted-by": "crossref",
+      "first-page": "836",
+      "DOI": "10.1016/j.quascirev.2006.12.013",
+      "article-title": "Climate forcing and Neanderthal extinction in Southern Iberia: insights from a multiproxy marine record.",
+      "volume": "26",
+      "author": "F Jiménez-Espejo",
+      "year": "2007",
+      "journal-title": "Quat Sci Rev"
+    },
+    {
+      "key": "ref44",
+      "doi-asserted-by": "crossref",
+      "first-page": "283",
+      "DOI": "10.1016/j.epsl.2007.03.041",
+      "article-title": "H4 abrupt event and late Neanderthal presence in Iberia.",
+      "volume": "258",
+      "author": "P Sepulchre",
+      "year": "2007",
+      "journal-title": "Earth Planet Sci Lett"
+    },
+    {
+      "key": "ref45",
+      "first-page": "7",
+      "article-title": "Chronostratigraphy of the Middle-to-Upper Paleolithic transition in the Iberian Peninsula.",
+      "volume": "37",
+      "author": "J Zilhão",
+      "year": "2006",
+      "journal-title": "Pyrenae"
+    },
+    {
+      "key": "ref46",
+      "doi-asserted-by": "crossref",
+      "first-page": "147",
+      "DOI": "10.1016/S0304-3800(00)00354-9",
+      "article-title": "Predictive habitat distribution models in ecology.",
+      "volume": "135",
+      "author": "A Guisan",
+      "year": "2000",
+      "journal-title": "Ecol Model"
+    },
+    {
+      "key": "ref47",
+      "doi-asserted-by": "crossref",
+      "first-page": "481",
+      "DOI": "10.1016/j.jas.2007.05.011",
+      "article-title": "Human ecological niches and ranges during the LGM in Europe derived from an application of eco-cultural niche modeling.",
+      "volume": "35",
+      "author": "WE Banks",
+      "year": "2008",
+      "journal-title": "J Arch Sci"
+    },
+    {
+      "key": "ref48",
+      "doi-asserted-by": "crossref",
+      "first-page": "47",
+      "DOI": "10.5194/cp-4-47-2008",
+      "article-title": "A 60,000 year Greenland stratigraphic ice core chronology.",
+      "volume": "4",
+      "author": "A Svensson",
+      "year": "2008",
+      "journal-title": "Clim Past"
+    },
+    {
+      "key": "ref49",
+      "first-page": "68",
+      "article-title": "Eco-Cultural Niche Modeling: New Tools for Reconstructing the Geography and Ecology of Past Human Populations.",
+      "volume": "4",
+      "author": "WE Banks",
+      "year": "2006",
+      "journal-title": "PaleoAnthropology"
+    },
+    {
+      "key": "ref50",
+      "doi-asserted-by": "crossref",
+      "first-page": "48",
+      "DOI": "10.1073/pnas.0709372104",
+      "article-title": "Evidence for declines in human population densities during the early Upper Paleolithic in Western Europe.",
+      "volume": "105",
+      "author": "E Morin",
+      "year": "2008",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "key": "ref51",
+      "doi-asserted-by": "crossref",
+      "first-page": "2246",
+      "DOI": "10.1016/j.quascirev.2008.08.033",
+      "article-title": "On the importance of coastal areas in the survival of Neanderthal populations during the Late Pleistocene.",
+      "volume": "27",
+      "author": "C Finlayson",
+      "year": "2008",
+      "journal-title": "Quat Sci Rev"
+    },
+    {
+      "key": "ref52",
+      "doi-asserted-by": "crossref",
+      "first-page": "143",
+      "DOI": "10.1080/136588199241391",
+      "article-title": "The GARP modelling system: problems and solutions to automated spatial prediction.",
+      "volume": "13",
+      "author": "DRB Stockwell",
+      "year": "1999",
+      "journal-title": "Int J Geogr Info Sys"
+    },
+    {
+      "key": "ref53",
+      "first-page": "93",
+      "article-title": "Analysis of Genetic Algorithm for Rule-Set Production (GARP) modeling approach for predicting distributions of fleas implicated as vectors of plague, <italic>Yersinia pestis</italic>, in California.",
+      "volume": "43",
+      "author": "JCZ Adjemian",
+      "year": "2006",
+      "journal-title": "J Med Entomology"
+    },
+    {
+      "key": "ref54",
+      "doi-asserted-by": "crossref",
+      "first-page": "305",
+      "DOI": "10.1111/j.1466-822X.2004.00107.x",
+      "article-title": "Ecological niches as stable distributional constraints on mammal species, with implications for Pleistocene extinctions and climate change projections for biodiversity.",
+      "volume": "13",
+      "author": "E Martínez-Meyer",
+      "year": "2004",
+      "journal-title": "Global Eco Biogeogr"
+    },
+    {
+      "key": "ref55",
+      "doi-asserted-by": "crossref",
+      "first-page": "40",
+      "DOI": "10.3201/eid1001.030125",
+      "article-title": "Ecological and geographic distribution of filovirus disease.",
+      "volume": "10",
+      "author": "AT Peterson",
+      "year": "2004",
+      "journal-title": "Emerg Infect Dis"
+    },
+    {
+      "key": "ref56",
+      "doi-asserted-by": "crossref",
+      "first-page": "7074",
+      "DOI": "10.1073/pnas.110489897",
+      "article-title": "Museum specimen data predict crop damage by tropical rodents.",
+      "volume": "97",
+      "author": "V Sánchez-Cordero",
+      "year": "2000",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "key": "ref57",
+      "doi-asserted-by": "crossref",
+      "first-page": "689",
+      "DOI": "10.1098/rstb.2003.1439",
+      "article-title": "Biodiversity informatics: Managing and applying primary biodiversity data.",
+      "volume": "359",
+      "author": "J Soberón",
+      "year": "2004",
+      "journal-title": "Philos Trans R Soc London Ser B"
+    },
+    {
+      "key": "ref58",
+      "first-page": "265",
+      "article-title": "L&apos;impact de la variabilité climatique rapide des OIS 3–2 sur le peuplement de l&apos;Europe.",
+      "author": "F d'Errico",
+      "year": "2006"
+    },
+    {
+      "key": "ref59",
+      "doi-asserted-by": "crossref",
+      "first-page": "1685",
+      "DOI": "10.1016/S0305-4403(03)00070-0",
+      "article-title": "Palaeolithic radiocarbon chronology: quantifying our confidence beyond two half-lives.",
+      "volume": "30",
+      "author": "PB Pettitt",
+      "year": "2003",
+      "journal-title": "J Archaeol Sci"
+    },
+    {
+      "key": "ref60",
+      "doi-asserted-by": "crossref",
+      "first-page": "119",
+      "DOI": "10.1017/S0003598X00087895",
+      "article-title": "Radiocarbon calibration for the Middle/Upper Palaeolithic: a comment.",
+      "volume": "279",
+      "author": "J van der Plicht",
+      "year": "1999",
+      "journal-title": "Antiquity"
+    },
+    {
+      "key": "ref61",
+      "author": "B Weninger",
+      "year": "2007"
+    },
+    {
+      "key": "ref62",
+      "doi-asserted-by": "crossref",
+      "first-page": "772",
+      "DOI": "10.1016/j.jhevol.2008.08.017",
+      "article-title": "A 14C age calibration curve for the last 60 ka: the Greenland-Hulu U/Th timescale and its impact on understanding the Middle to Upper Paleolithic transition in Western Eurasia.",
+      "volume": "55",
+      "author": "B Weninger",
+      "year": "2008",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "ref63",
+      "first-page": "343",
+      "article-title": "The Campanian Ignimbrite Tephra and its relevance for the timing of the Middle to Upper Palaeolithic Shift.",
+      "author": "B Giaccio",
+      "year": "2006"
+    },
+    {
+      "key": "ref64",
+      "doi-asserted-by": "crossref",
+      "first-page": "577",
+      "DOI": "10.1007/s00382-005-0009-4",
+      "article-title": "High-resolution simulations of the last glacial maximum climate over Europe: a solution to discrepancies with continental palaeoclimatic reconstructions?",
+      "volume": "24",
+      "author": "A Jost",
+      "year": "2005",
+      "journal-title": "Clim Dyn"
+    },
+    {
+      "key": "ref65",
+      "doi-asserted-by": "crossref",
+      "first-page": "195",
+      "DOI": "10.1126/science.265.5169.195",
+      "article-title": "Ice Age Paleotopography.",
+      "volume": "265",
+      "author": "WR Peltier",
+      "year": "1994",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref66",
+      "doi-asserted-by": "crossref",
+      "first-page": "2",
+      "DOI": "10.1029/2002PA000769",
+      "article-title": "Overview of Glacial Atlantic Ocean Mapping (GLAMAP 2000).",
+      "volume": "18",
+      "author": "M Sarnthein",
+      "year": "2003",
+      "journal-title": "Paleoceanography"
+    },
+    {
+      "key": "ref67",
+      "article-title": "Seasonal reconstructions of the earth&apos;s surface at the Last Glacial Maximum",
+      "year": "1981"
+    },
+    {
+      "key": "ref68",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.17161/bi.v2i0.4",
+      "article-title": "Interpretation of models of fundamental ecological niches and species&apos; distributional areas.",
+      "volume": "2",
+      "author": "J Soberón",
+      "year": "2005",
+      "journal-title": "Biodiversity Informatics"
+    },
+    {
+      "key": "ref69",
+      "doi-asserted-by": "crossref",
+      "first-page": "419",
+      "DOI": "10.1086/378926",
+      "article-title": "Predicting the geography of species&apos; invasions via ecological niche modeling.",
+      "volume": "78",
+      "author": "AT Peterson",
+      "year": "2003",
+      "journal-title": "Q Rev Biol"
+    },
+    {
+      "key": "ref70",
+      "doi-asserted-by": "crossref",
+      "first-page": "211",
+      "DOI": "10.1016/S0304-3800(02)00349-6",
+      "article-title": "Evaluating predictive models of species&apos; distributions: criteria for selecting optimal models.",
+      "volume": "162",
+      "author": "RP Anderson",
+      "year": "2003",
+      "journal-title": "Ecol Model"
+    },
+    {
+      "key": "ref71",
+      "doi-asserted-by": "crossref",
+      "first-page": "102",
+      "DOI": "10.1111/j.1365-2699.2006.01594.x",
+      "article-title": "Predicting species&apos; distributions from small numbers of occurrence records: a test case using cryptic geckos in Madagascar.",
+      "volume": "34",
+      "author": "RG Pearson",
+      "year": "2007",
+      "journal-title": "J Biogeogr"
+    },
+    {
+      "key": "ref72",
+      "doi-asserted-by": "crossref",
+      "first-page": "888",
+      "DOI": "10.2307/1937227",
+      "article-title": "Some Comments on Niche Analysis in Canonical Space.",
+      "volume": "63",
+      "author": "BA Carnes",
+      "year": "1982",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "ref73",
+      "doi-asserted-by": "crossref",
+      "first-page": "1228",
+      "DOI": "10.2307/1936840",
+      "article-title": "Habitat Structure, Patchiness, and Avian Communities in North American Steppe Vegetation: A Multivariate Analysis.",
+      "volume": "61",
+      "author": "JT Rotenberry",
+      "year": "1980",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "ref74",
+      "doi-asserted-by": "crossref",
+      "first-page": "1115",
+      "DOI": "10.1111/j.1461-0248.2007.01107.x",
+      "article-title": "Grinnellian and Eltonian niches and geographic distributions of species.",
+      "volume": "10",
+      "author": "J Soberón",
+      "year": "2007",
+      "journal-title": "Ecology Letters"
+    }
+  ],
+  "container-title": [
+    "PLoS ONE"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://dx.plos.org/10.1371/journal.pone.0003972",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2018,
+        10,
+        23
+      ]
+    ],
+    "date-time": "2018-10-23T22:07:35Z",
+    "timestamp": 1540332455000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://dx.plos.org/10.1371/journal.pone.0003972"
+    }
+  },
+  "subtitle": [],
+  "editor": [
+    {
+      "given": "Henry",
+      "family": "Harpending",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "editor"
+        }
+      ]
+    }
+  ],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2008,
+        12,
+        24
+      ]
+    ]
+  },
+  "references-count": 74,
+  "journal-issue": {
+    "issue": "12",
+    "published-online": {
+      "date-parts": [
+        [
+          2008,
+          12,
+          24
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1371/journal.pone.0003972",
+  "relation": {},
+  "ISSN": [
+    "1932-6203"
+  ],
+  "issn-type": [
+    {
+      "value": "1932-6203",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2008,
+        12,
+        24
+      ]
+    ]
+  }
+}

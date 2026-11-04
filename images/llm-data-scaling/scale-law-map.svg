@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="920" viewBox="0 0 1600 920" role="img" aria-labelledby="title desc">
+  <title id="title">大语言模型的数据 Scaling Law 总图</title>
+  <desc id="desc">模型参数、训练 token、计算量和数据质量共同决定损失；不同经济目标对应不同最优训练策略。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffaf3"/><stop offset="1" stop-color="#eef6f4"/></linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#214d4a"/><stop offset="1" stop-color="#173b3a"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#183c38" flood-opacity=".14"/></filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="#617a76"/></marker>
+    <style>
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif}.title{font-size:42px;font-weight:760;fill:#203633}.subtitle{font-size:20px;fill:#5c6d69}.symbol{font-size:38px;font-weight:800;fill:#fff}.nodeTitle{font-size:21px;font-weight:720;fill:#233c38}.nodeText{font-size:16px;fill:#5b6c68}.coreTitle{font-size:27px;font-weight:760;fill:#fff}.formula{font-size:25px;font-weight:650;fill:#fff7e7}.coreText{font-size:17px;fill:#dcebe7}.cardTitle{font-size:22px;font-weight:740;fill:#263e39}.cardText{font-size:16px;fill:#556a65}.pill{font-size:14px;font-weight:730;fill:#fff}.small{font-size:15px;fill:#63746f}
+    </style>
+  </defs>
+  <rect width="1600" height="920" rx="30" fill="url(#bg)"/>
+  <text x="78" y="72" class="sans title">Scaling Law 不是“参数越多越好”，而是四个变量的资源配置问题</text>
+  <text x="80" y="110" class="sans subtitle">N 决定容量，D 决定观测量，C 约束训练，Q 改变每个 token 的有效信息；部署需求又会移动最优点。</text>
+
+  <g class="sans" filter="url(#shadow)">
+    <g transform="translate(115 165)"><circle cx="75" cy="75" r="69" fill="#3e746d"/><text x="75" y="87" text-anchor="middle" class="symbol">N</text><text x="75" y="174" text-anchor="middle" class="nodeTitle">非嵌入参数量</text><text x="75" y="202" text-anchor="middle" class="nodeText">dense：全部参与每个 token</text></g>
+    <g transform="translate(460 165)"><circle cx="75" cy="75" r="69" fill="#c58c35"/><text x="75" y="87" text-anchor="middle" class="symbol">D</text><text x="75" y="174" text-anchor="middle" class="nodeTitle">训练 token 数</text><text x="75" y="202" text-anchor="middle" class="nodeText">必须区分唯一与重复曝光</text></g>
+    <g transform="translate(805 165)"><circle cx="75" cy="75" r="69" fill="#b75c49"/><text x="75" y="87" text-anchor="middle" class="symbol">C</text><text x="75" y="174" text-anchor="middle" class="nodeTitle">训练计算量</text><text x="75" y="202" text-anchor="middle" class="nodeText">dense 近似 C ≈ 6ND</text></g>
+    <g transform="translate(1150 165)"><circle cx="75" cy="75" r="69" fill="#74566f"/><text x="75" y="87" text-anchor="middle" class="symbol">Q</text><text x="75" y="174" text-anchor="middle" class="nodeTitle">质量／效用</text><text x="75" y="202" text-anchor="middle" class="nodeText">与目标、规模和阶段有关</text></g>
+  </g>
+
+  <g stroke="#617a76" stroke-width="4" fill="none" marker-end="url(#arrow)"><path d="M190 380 C250 420 390 423 480 449"/><path d="M535 380 C560 407 650 420 700 449"/><path d="M880 380 C860 410 830 424 820 449"/><path d="M1225 380 C1150 416 1045 424 930 449"/></g>
+
+  <g filter="url(#shadow)" class="sans">
+    <rect x="330" y="445" width="940" height="188" rx="34" fill="url(#core)"/>
+    <text x="800" y="492" text-anchor="middle" class="coreTitle">经典损失律 + 有效数据视角</text>
+    <text x="800" y="540" text-anchor="middle" class="formula">L = E + A/N<tspan baseline-shift="super" font-size="16">α</tspan> + B/D<tspan baseline-shift="sub" font-size="16">eff</tspan><tspan baseline-shift="super" font-size="16">β</tspan></text>
+    <text x="800" y="578" text-anchor="middle" class="coreText">D_eff 不是文件大小，也不是原始 token 计数；它被重复、噪声、覆盖、目标相关性、混合比例与训练顺序共同改变。</text>
+    <text x="800" y="608" text-anchor="middle" class="coreText">Q 尚无跨语料、跨模型普适的单标量定义，因此质量必须通过受控训练实验来估计。</text>
+  </g>
+
+  <g class="sans" filter="url(#shadow)">
+    <g transform="translate(70 690)"><rect width="340" height="160" rx="23" fill="#fff" stroke="#d7dfdc" stroke-width="2"/><rect x="22" y="20" width="91" height="27" rx="13" fill="#7a8c87"/><text x="67" y="39" text-anchor="middle" class="pill">早期范式</text><text x="24" y="81" class="cardTitle">参数大、数据少</text><text x="24" y="111" class="cardText">GPT-3：约 1.7 tokens/参数</text><text x="24" y="137" class="cardText">容量闲置，训练不足</text></g>
+    <g transform="translate(443 690)"><rect width="340" height="160" rx="23" fill="#fff8e8" stroke="#e1c98b" stroke-width="2"/><rect x="22" y="20" width="112" height="27" rx="13" fill="#c58c35"/><text x="78" y="39" text-anchor="middle" class="pill">训练最优</text><text x="24" y="81" class="cardTitle">Chinchilla 邻域</text><text x="24" y="111" class="cardText">约 20 tokens/参数是经验点</text><text x="24" y="137" class="cardText">目标：固定训练 FLOPs 最小 loss</text></g>
+    <g transform="translate(816 690)"><rect width="340" height="160" rx="23" fill="#fff0e9" stroke="#dfb7a6" stroke-width="2"/><rect x="22" y="20" width="112" height="27" rx="13" fill="#b75c49"/><text x="78" y="39" text-anchor="middle" class="pill">部署最优</text><text x="24" y="81" class="cardTitle">更小模型、训练更久</text><text x="24" y="111" class="cardText">预训练成本换取更低推理成本</text><text x="24" y="137" class="cardText">token/参数可远高于 20</text></g>
+    <g transform="translate(1189 690)"><rect width="340" height="160" rx="23" fill="#f4eef4" stroke="#cdb9cb" stroke-width="2"/><rect x="22" y="20" width="112" height="27" rx="13" fill="#74566f"/><text x="78" y="39" text-anchor="middle" class="pill">数据受限</text><text x="24" y="81" class="cardTitle">重复、合成与课程</text><text x="24" y="111" class="cardText">少量重复可用，边际价值递减</text><text x="24" y="137" class="cardText">质量与顺序成为核心变量</text></g>
+  </g>
+  <text x="80" y="888" class="sans small">注：MoE 的主计算量更接近按每 token 激活参数估计，但总参数仍影响容量、显存、通信和路由；“20”不能直接套用到所有架构。</text>
+</svg>

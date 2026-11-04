@@ -1,0 +1,770 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        4
+      ]
+    ],
+    "date-time": "2026-06-04T09:28:41Z",
+    "timestamp": 1780565321578,
+    "version": "3.54.1"
+  },
+  "reference-count": 74,
+  "publisher": "Wiley",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            10,
+            18
+          ]
+        ],
+        "date-time": "2021-10-18T00:00:00Z",
+        "timestamp": 1634515200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "anthrosource.onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "American Anthropologist"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2021,
+        12
+      ]
+    ]
+  },
+  "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>The story of human history was changed forever in 1863 with William King's proposal that we had not always been the sole members of the <jats:italic>Homo</jats:italic> genus. Yet, more than 150 years after <jats:italic>Homo neanderthalensis</jats:italic> was first named and then summarized in the pages of <jats:italic>The Anthropological Review</jats:italic>, the man responsible for this revolutionary announcement is poorly known in the field of palaeoanthropology today. Following the sesquicentennial anniversary of this seminal event in 2013, a timely reappraisal is given of King's reputation, legacy, and work within the intellectual vortex of his time. [<jats:italic>Neanderthals, human evolution, history of paleoanthropology, William King</jats:italic>]</jats:p>",
+  "DOI": "10.1111/aman.13654",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        10,
+        21
+      ]
+    ],
+    "date-time": "2021-10-21T07:32:13Z",
+    "timestamp": 1634801533000
+  },
+  "page": "805-818",
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 4,
+  "title": [
+    "We Are Not Alone: William King and the Naming of the Neanderthals"
+  ],
+  "prefix": "10.1111",
+  "volume": "123",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-2210-1369",
+      "authenticated-orcid": false,
+      "given": "James",
+      "family": "Walker",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Museum of Archaeology University of Stavanger  Stavanger Norway"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "David",
+      "family": "Clinnick",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": " Department of Biology St Mary's College of California  USA"
+        },
+        {
+          "name": " Department of Archaeology University of Durham  Durham UK"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mark",
+      "family": "White",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": " Department of Archaeology University of Durham  Durham UK"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2021,
+        10,
+        18
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_10_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/3024846"
+    },
+    {
+      "key": "e_1_2_10_3_1",
+      "unstructured": "Anon.1863b. The Athenæum. Issue 1875 October 3rd 1863."
+    },
+    {
+      "key": "e_1_2_10_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/384072"
+    },
+    {
+      "key": "e_1_2_10_5_1",
+      "first-page": "392",
+      "volume-title": "Comptes Rendus, 14e Congrès International d'Anthropologie et d'Archeologie Pŕehistoriques",
+      "author": "Boule Marcellin.",
+      "year": "1914"
+    },
+    {
+      "key": "e_1_2_10_6_1",
+      "volume-title": "Fossil Men: A Textbook of Human Palaeontology",
+      "author": "Boule Marcellin",
+      "year": "1957"
+    },
+    {
+      "key": "e_1_2_10_7_1",
+      "first-page": "205",
+      "article-title": "Professor William King. Sunderland Worthies 8",
+      "volume": "8",
+      "author": "Brockie William.",
+      "year": "1901",
+      "journal-title": "A Quarterly Guide and Catalogue for Readers at Sunderland Public Library"
+    },
+    {
+      "key": "e_1_2_10_8_1",
+      "first-page": "1749",
+      "volume-title": "Natural History, General and Particular",
+      "author": "Buffon Comte",
+      "year": "1785"
+    },
+    {
+      "key": "e_1_2_10_9_1",
+      "first-page": "155",
+      "article-title": "On the Crania of the Most Ancient Races of Man. By Professor D. Schaaffhausen, of Bonn. (From Müller's Archive 1858, pp 453). With Remarks, and original Figures, taken from a Cast of the Neanderthal Cranium",
+      "author": "Busk George.",
+      "year": "1861",
+      "journal-title": "The Natural History Review: A Quarterly Journal of Biological Science"
+    },
+    {
+      "key": "e_1_2_10_10_1",
+      "first-page": "91",
+      "volume-title": "Report of the Thirty‐Fourth Meeting of the British Association for the Advancement of Science; Bath September 1864",
+      "author": "Busk George.",
+      "year": "1865"
+    },
+    {
+      "key": "e_1_2_10_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/2795166"
+    },
+    {
+      "key": "e_1_2_10_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/2793416"
+    },
+    {
+      "key": "e_1_2_10_13_1",
+      "first-page": "395",
+      "article-title": "On the Occurrence of Human Remains in Strata Contemporaneous with Extinct Animals",
+      "author": "Carter Blake Charles",
+      "year": "1861",
+      "journal-title": "The Geologist"
+    },
+    {
+      "key": "e_1_2_10_14_1",
+      "first-page": "cxxxiv",
+      "article-title": "On the Alleged Peculiar Characters, and Assumed Antiquity of the Human Cranium from the Neanderthal",
+      "volume": "2",
+      "author": "Carter Blake Charles",
+      "year": "1864",
+      "journal-title": "Journal of the Anthropological Society of London"
+    },
+    {
+      "key": "e_1_2_10_15_1",
+      "volume-title": "The Human Lineage",
+      "author": "Cartmill Matt",
+      "year": "2009"
+    },
+    {
+      "key": "e_1_2_10_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/275707"
+    },
+    {
+      "issue": "338",
+      "key": "e_1_2_10_17_1",
+      "first-page": "192",
+      "article-title": "The Neanderthal Man in Java",
+      "volume": "29",
+      "author": "Cope Edward. D.",
+      "year": "1895",
+      "journal-title": "The American Naturalist"
+    },
+    {
+      "key": "e_1_2_10_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/115195a0"
+    },
+    {
+      "key": "e_1_2_10_19_1",
+      "first-page": "195",
+      "article-title": "Darwin on the Descent of Man",
+      "volume": "274",
+      "author": "Dawkins William. B.",
+      "year": "1871",
+      "journal-title": "The Edinburgh Review"
+    },
+    {
+      "key": "e_1_2_10_20_1",
+      "first-page": "171",
+      "volume-title": "Beyond the Wild Things: Further Advances in Palaeolithic and Mesolithic Archaeology",
+      "author": "DeArce Miguel.",
+      "year": "2020"
+    },
+    {
+      "key": "e_1_2_10_21_1",
+      "first-page": "100",
+      "article-title": "The Alternative Geologist: William King (1809–1886) and His Scientific Controversies",
+      "volume": "66",
+      "author": "DeArce Miguel",
+      "year": "2014",
+      "journal-title": "Journal of the Galway Archaeological and Historical Society"
+    },
+    {
+      "issue": "2",
+      "key": "e_1_2_10_22_1",
+      "first-page": "38",
+      "article-title": "A Head for Science",
+      "volume": "25",
+      "author": "DeArce Miguel",
+      "year": "2017",
+      "journal-title": "History Ireland"
+    },
+    {
+      "key": "e_1_2_10_23_1",
+      "volume-title": "A Voyage to North America and, the West Indies, in 1817",
+      "author": "De Montulé Édouard",
+      "year": "1821"
+    },
+    {
+      "key": "e_1_2_10_24_1",
+      "volume-title": "Le préhistorique: antiquité de l’homme",
+      "author": "Mortillet Gabriel",
+      "year": "1883"
+    },
+    {
+      "key": "e_1_2_10_25_1",
+      "volume-title": "L'homme (homo) essai zoologique sur le genre humain",
+      "author": "De Saint‐Vincent Jean Baptiste Bory",
+      "year": "1827"
+    },
+    {
+      "key": "e_1_2_10_26_1",
+      "volume-title": "Darwin and the General Reader: The Reception of Darwin's Theory of Evolution in the British Periodical Press, 1859–1872",
+      "author": "Ellegård A.",
+      "year": "1990"
+    },
+    {
+      "key": "e_1_2_10_27_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "173",
+      "DOI": "10.55468/GC1102",
+      "article-title": "Queen's College Museum, Galway",
+      "volume": "2",
+      "author": "Fewtrell Mavis D.",
+      "year": "1979",
+      "journal-title": "Newsletter of the Geological Curator's Group"
+    },
+    {
+      "key": "e_1_2_10_28_1",
+      "volume-title": "Der Fossile Mensch aus dem Neanderthal und sein Verhältniss zum Alter des Menschengeschlechts: zwei Vorlesungen",
+      "author": "Fuhlrott C",
+      "year": "1865"
+    },
+    {
+      "key": "e_1_2_10_29_1",
+      "first-page": "61",
+      "volume-title": "Verhandlungen des naturhistorischen Vereines der preussichen Rheinlande und Westphalens",
+      "author": "Fuhlrott Johann Carl",
+      "year": "1868"
+    },
+    {
+      "key": "e_1_2_10_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0007087416000674"
+    },
+    {
+      "key": "e_1_2_10_31_1",
+      "volume-title": "The Establishment of Human Antiquity",
+      "author": "Grayson Donald K.",
+      "year": "1983"
+    },
+    {
+      "key": "e_1_2_10_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/030631282012001002"
+    },
+    {
+      "key": "e_1_2_10_33_1",
+      "first-page": "1",
+      "volume-title": "William King D. SC (1809–1886): A Palaeontological Tribute",
+      "author": "Harper David A. T.",
+      "year": "1988"
+    },
+    {
+      "key": "e_1_2_10_34_1",
+      "volume-title": "William King D. SC (1809–1886): A Palaeontological Tribute",
+      "author": "Harper David A. T",
+      "year": "1988"
+    },
+    {
+      "key": "e_1_2_10_35_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "292",
+      "DOI": "10.55468/GC680",
+      "article-title": "The James Mitchell Museum: A Museum of a Museum in University College Galway",
+      "volume": "5",
+      "author": "Harper David A. T.",
+      "year": "1992",
+      "journal-title": "Newsletter of the Geological Curator's Group"
+    },
+    {
+      "key": "e_1_2_10_36_1",
+      "first-page": "243",
+      "volume-title": "From Queen's College to National University: Essays on the Academic History of QCG/UCG/NUI",
+      "author": "Harper David A. T.",
+      "year": "2001"
+    },
+    {
+      "key": "e_1_2_10_37_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "233",
+      "DOI": "10.55468/GC519",
+      "article-title": "Geological Survey Donations to the Geological Museum in Queen's College Galway: 19th Century Inter‐Institutional Collaboration in Ireland",
+      "volume": "6",
+      "author": "Harper David A. T.",
+      "year": "1996",
+      "journal-title": "The Geological Curator"
+    },
+    {
+      "key": "e_1_2_10_38_1",
+      "first-page": "25",
+      "volume-title": "William King D. SC (1809–1886): A Palaeontological Tribute",
+      "author": "Herries Davies Gordon L.",
+      "year": "1988"
+    },
+    {
+      "key": "e_1_2_10_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/200477"
+    },
+    {
+      "key": "e_1_2_10_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5962/bhl.title.4806"
+    },
+    {
+      "key": "e_1_2_10_41_1",
+      "first-page": "429",
+      "article-title": "Further Remarks upon the Human Remains from Neanderthal",
+      "volume": "4",
+      "author": "Huxley Thomas H.",
+      "year": "1864",
+      "journal-title": "The Natural History Review"
+    },
+    {
+      "key": "e_1_2_10_42_1",
+      "first-page": "491",
+      "article-title": "The Most Ancient Skeletal Remains of Man",
+      "volume": "1913",
+      "author": "Hrdlička Ales.",
+      "year": "1913",
+      "journal-title": "Annual Smithsonian Report for"
+    },
+    {
+      "key": "e_1_2_10_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/035564a0"
+    },
+    {
+      "key": "e_1_2_10_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5962/bhl.title.150026"
+    },
+    {
+      "key": "e_1_2_10_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5962/bhl.title.114608"
+    },
+    {
+      "key": "e_1_2_10_46_1",
+      "first-page": "253",
+      "article-title": "On the Origin of Species",
+      "author": "King William.",
+      "year": "1862",
+      "journal-title": "The Edinburgh New Philosophical Journal"
+    },
+    {
+      "key": "e_1_2_10_47_1",
+      "first-page": "254",
+      "article-title": "On the Origin of Species",
+      "author": "King William.",
+      "year": "1863",
+      "journal-title": "The Geologist: A Popular Illustrated Monthly Magazine of Geology"
+    },
+    {
+      "key": "e_1_2_10_48_1",
+      "unstructured": "King William.1864a. “On the Neanderthal Skull; or Reasons for Believing It to Belong to the Clydian Period and to a Species Different from That Represented by Man.”Report of the Thirty‐third Meeting of the British Association for the Advancement of Science; Newcastle‐upon‐Tyne August–September 1863:81–82."
+    },
+    {
+      "key": "e_1_2_10_49_1",
+      "first-page": "88",
+      "article-title": "The Reputed Fossil Man of the Neanderthal",
+      "volume": "1",
+      "author": "King William.",
+      "year": "1864",
+      "journal-title": "The Quarterly Journal of Science"
+    },
+    {
+      "key": "e_1_2_10_50_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1144/GSL.JGS.1866.022.01-02.13"
+    },
+    {
+      "key": "e_1_2_10_51_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.7208/chicago/9780226027524.001.0001"
+    },
+    {
+      "key": "e_1_2_10_52_1",
+      "volume-title": "Geological Evidences of the Antiquity of Man",
+      "author": "Lyell Charles.",
+      "year": "1863"
+    },
+    {
+      "key": "e_1_2_10_53_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1525/aa.1904.6.2.02a00100"
+    },
+    {
+      "key": "e_1_2_10_54_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0007087416000650"
+    },
+    {
+      "key": "e_1_2_10_55_1",
+      "first-page": "191",
+      "volume-title": "Beyond the Wild Things: Further Advances in Palaeolithic and Mesolithic Archaeology",
+      "author": "Madison P.",
+      "year": "2020"
+    },
+    {
+      "key": "e_1_2_10_56_1",
+      "volume-title": "The Human Revolution: Behavioural and Biological Perspectives on the Origins of Modern Humans",
+      "author": "Mellars P.",
+      "year": "1989"
+    },
+    {
+      "key": "e_1_2_10_57_1",
+      "volume-title": "From Antiquarian to Archaeologist: The History and Philosophy of Archaeology",
+      "author": "Murray Timothy.",
+      "year": "2014"
+    },
+    {
+      "key": "e_1_2_10_58_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3318/ijes.2015.33.1"
+    },
+    {
+      "key": "e_1_2_10_59_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3318/ijes.2020.38.5"
+    },
+    {
+      "key": "e_1_2_10_60_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0003598X00034906"
+    },
+    {
+      "key": "e_1_2_10_61_1",
+      "first-page": "33",
+      "article-title": "Catalogue of Type, Figured and Cited Specimens in the King Collection of Permian Fossils",
+      "volume": "62",
+      "author": "Pattison J.",
+      "year": "1977",
+      "journal-title": "Bulletin for the Geological Survey of Great Britain"
+    },
+    {
+      "key": "e_1_2_10_62_1",
+      "first-page": "327",
+      "article-title": "William King (?1808–1886)—A Biographical Note",
+      "volume": "2",
+      "author": "Pettigrew T. H.",
+      "year": "1979",
+      "journal-title": "Newsletter of the Geological Curators Group"
+    },
+    {
+      "key": "e_1_2_10_63_1",
+      "first-page": "1",
+      "article-title": "Introduction",
+      "volume": "1",
+      "author": "Samuelson James",
+      "year": "1864",
+      "journal-title": "The Quarterly Journal of Science"
+    },
+    {
+      "key": "e_1_2_10_64_1",
+      "volume-title": "The Neanderthals",
+      "author": "Schrenk Friedemann",
+      "year": "2009"
+    },
+    {
+      "key": "e_1_2_10_65_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ar.b.20119"
+    },
+    {
+      "key": "e_1_2_10_66_1",
+      "volume-title": "Report of the Twelfth Meeting of the British Association for the Advancement of Science, Manchester June 1842",
+      "author": "Strickland Hugh E.",
+      "year": "1842"
+    },
+    {
+      "key": "e_1_2_10_67_1",
+      "volume-title": "The Fossil Trail: How We Know What We Think We Know about Human Evolution",
+      "author": "Tattersall Ian.",
+      "year": "1995"
+    },
+    {
+      "key": "e_1_2_10_68_1",
+      "volume-title": "The Last Neanderthal: The Rise, Success, and Mysterious Extinction of our Closest Human Relatives",
+      "author": "Tattersall Ian.",
+      "year": "1999"
+    },
+    {
+      "key": "e_1_2_10_69_1",
+      "first-page": "139",
+      "article-title": "Neanderthals, Homo Sapiens, and the Question of Species in Palaeoanthropology",
+      "volume": "85",
+      "author": "Tattersall Ian.",
+      "year": "2007",
+      "journal-title": "Journal of Anthropological Sciences"
+    },
+    {
+      "key": "e_1_2_10_70_1",
+      "volume-title": "A History of Archaeological Thought",
+      "author": "Trigger Bruce.",
+      "year": "1989"
+    },
+    {
+      "key": "e_1_2_10_71_1",
+      "volume-title": "The Neandertals: Changing the Image of Mankind",
+      "author": "Trinkaus Erik",
+      "year": "1993"
+    },
+    {
+      "key": "e_1_2_10_72_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "323",
+      "DOI": "10.55468/GC1150",
+      "article-title": "William King 1808–1886",
+      "volume": "2",
+      "author": "Turner Susan.",
+      "year": "1979",
+      "journal-title": "Newsletter of the Geological Curators Group"
+    },
+    {
+      "key": "e_1_2_10_73_1",
+      "first-page": "250",
+      "article-title": "The Fossil Skull Controversy: On Human Crania Allied in Anatomical Characters to the Engis and Neanderthal Skulls",
+      "volume": "1",
+      "author": "Turner William.",
+      "year": "1864",
+      "journal-title": "The Quarterly Journal of Science"
+    },
+    {
+      "key": "e_1_2_10_74_1",
+      "volume-title": "Race and Evolution: A Fatal Attraction",
+      "author": "Wolpoff Milford",
+      "year": "1997"
+    },
+    {
+      "key": "e_1_2_10_75_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1134/S0031030106010084"
+    }
+  ],
+  "container-title": [
+    "American Anthropologist"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/aman.13654",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/aman.13654",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1111/aman.13654",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        28
+      ]
+    ],
+    "date-time": "2023-08-28T07:42:48Z",
+    "timestamp": 1693208568000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.13654"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        10,
+        18
+      ]
+    ]
+  },
+  "references-count": 74,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1111/aman.13654"
+  ],
+  "URL": "https://doi.org/10.1111/aman.13654",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0002-7294",
+    "1548-1433"
+  ],
+  "issn-type": [
+    {
+      "value": "0002-7294",
+      "type": "print"
+    },
+    {
+      "value": "1548-1433",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        10,
+        18
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2020-05-26",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2020-11-29",
+      "order": 1,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2021-10-18",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

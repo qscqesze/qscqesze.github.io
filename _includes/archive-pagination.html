@@ -1,0 +1,24 @@
+{% if paginator and paginator.total_pages > 1 %}
+  <nav class="pagination pagination--archive" aria-label="文章分页">
+    <ul>
+      {% if paginator.previous_page %}
+        <li><a href="{{ paginator.previous_page_path | relative_url }}" rel="prev">上一页</a></li>
+      {% endif %}
+
+      {% for page_number in (1..paginator.total_pages) %}
+        {% if page_number == 1 %}
+          {% assign page_path = '/' %}
+        {% else %}
+          {% assign page_path = site.paginate_path | replace: ':num', page_number %}
+        {% endif %}
+        <li>
+          <a href="{{ page_path | relative_url }}"{% if page_number == paginator.page %} class="current" aria-current="page"{% endif %} aria-label="第 {{ page_number }} 页">{{ page_number }}</a>
+        </li>
+      {% endfor %}
+
+      {% if paginator.next_page %}
+        <li><a href="{{ paginator.next_page_path | relative_url }}" rel="next">下一页</a></li>
+      {% endif %}
+    </ul>
+  </nav>
+{% endif %}

@@ -1,0 +1,194 @@
+# qscqesze.github.io
+locale                   : "zh-CN"
+site_theme               : "default"
+title                    : "qscqesze"
+title_separator          : "-"
+name                     : "qscqesze"
+description              : "软件工程师，独立游戏开发者，关注 AI 驱动的系统与创意工具。"
+url                      : https://qscqesze.github.io
+baseurl                  : ""
+repository               : "qscqesze/qscqesze.github.io"
+
+author:
+  avatar           : "avatar.png"
+  name             : "qscqesze"
+  bio              : "MiniMax 软件工程师。SurprisingStudio 独立游戏开发者。"
+  location         : "中国北京"
+  employer         : "MiniMax / SurprisingStudio"
+  uri              : "https://surprising.studio"
+  email            : "qscqesze@gmail.com"
+  github           : "qscqesze"
+  zhihu            : "qscqesze"
+
+# 文章体验
+teaser                   : "og-default.png"
+words_per_minute         : 160
+future                   : false
+
+# 评论
+comments:
+  provider               : "giscus"
+  giscus:
+    repo                 : "qscqesze/qscqesze.github.io"
+    repo_id              : "R_kgDOPXzLJQ"
+    category             : "Announcements"
+    category_id          : "DIC_kwDOPXzLJc4Ctv1a"
+    mapping              : "pathname"
+    strict               : "1"
+    reactions_enabled    : "1"
+    emit_metadata        : "0"
+    input_position       : "bottom"
+    theme                : "preferred_color_scheme"
+    lang                 : "zh-CN"
+    loading              : "lazy"
+
+atom_feed:
+  hide                   : false
+  path                   :
+
+# 搜索与社交分享
+og_image                 : "og-default.png"
+og_image_alt             : "qscqesze：把复杂系统讲清楚"
+og_description           : "AI 系统、独立游戏，以及旅行与历史观察。"
+social:
+  type                   : "Person"
+  name                   : "qscqesze"
+  links:
+    - "https://github.com/qscqesze"
+    - "https://surprising.studio"
+
+# 留空即不加载 Google Analytics。
+analytics:
+  provider               : "google-analytics-4"
+  google:
+    tracking_id          :
+
+# Cloudflare Worker 提供的隐私友好型访问统计。
+visitor_stats:
+  endpoint               : "https://qscqesze-visitor-stats.qscqesze.workers.dev"
+
+# 此时间之后发布的新文章默认生成英文版；单篇可用 translate: false 关闭。
+translation:
+  auto_after             : "2026-07-28T19:00:00+08:00"
+
+include:
+  - _pages
+exclude:
+  - .codex-work
+  - .bundle
+  - .github
+  - .jekyll-cache
+  - .sass-cache
+  - AGENTS.md
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules
+  - output
+  - package.json
+  - package-lock.json
+  - pytest.ini
+  - README.md
+  - requirements-translation.txt
+  - research
+  - scripts
+  - stats-worker
+  - test
+  - vendor
+  - 经济制度比较_计划经济与市场经济_学术论文.docx
+  - 零点名册.md
+
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+collections:
+  legacy:
+    output: true
+  en_posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: legacy
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: false
+      related: false
+      tags:
+        - 旧文
+  - scope:
+      path: ""
+      type: en_posts
+    values:
+      layout: single
+      lang: en
+      read_time: true
+      comments: true
+      share: false
+      related: false
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink: /:categories/:title/
+timezone: Asia/Shanghai
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+# 首页分页
+paginate: 6
+paginate_path: /page/:num/
+
+tag_archive:
+  type: liquid
+  path: /tags/
+
+category_archive:
+  type: liquid
+  path: /categories/

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690" role="img" aria-labelledby="title desc">
+  <title id="title">2025年至2026年中美人工智能的三种差距</title>
+  <desc id="desc">顶尖模型综合性能差距仅2.7%，美国2025年重要模型数量为59个、中国为35个，美国私人AI投资2859亿美元、中国为124亿美元。图示说明能力接近不等于资源相等。</desc>
+  <rect width="1200" height="690" fill="#ffffff"/>
+  <text x="600" y="64" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="32" font-weight="700" fill="#17202a">能力趋同，不等于资源收敛</text>
+  <text x="600" y="102" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="18" fill="#5d6d7e">截至 2026 年 3 月的模型表现；模型数量与投资采用 2025 年全年数据</text>
+
+  <rect x="58" y="145" width="336" height="425" rx="18" fill="#f7f9fb" stroke="#dce3e8"/>
+  <text x="86" y="190" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="22" font-weight="700" fill="#17202a">前沿模型性能差距</text>
+  <text x="86" y="268" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="62" font-weight="700" fill="#1f77b4">2.7%</text>
+  <text x="86" y="318" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="17" fill="#4d5b68">美国领先中国，但过去一年始终在</text>
+  <text x="86" y="346" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="17" fill="#4d5b68">个位数区间波动，且双方曾交替领先。</text>
+  <line x1="86" y1="392" x2="358" y2="392" stroke="#c7d1d9" stroke-width="8" stroke-linecap="round"/>
+  <line x1="86" y1="392" x2="349" y2="392" stroke="#1f77b4" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="349" cy="392" r="11" fill="#1f77b4"/>
+  <text x="86" y="438" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="16" fill="#5d6d7e">结论：单次榜单已不足以证明</text>
+  <text x="86" y="466" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="16" fill="#5d6d7e">稳定、长期的国家能力代差。</text>
+
+  <rect x="432" y="145" width="336" height="425" rx="18" fill="#f7f9fb" stroke="#dce3e8"/>
+  <text x="460" y="190" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="22" font-weight="700" fill="#17202a">重要模型产出</text>
+  <text x="460" y="230" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="17" fill="#4d5b68">美国</text>
+  <rect x="460" y="248" width="252" height="42" rx="8" fill="#1f77b4"/>
+  <text x="724" y="277" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="24" font-weight="700" fill="#17202a">59</text>
+  <text x="460" y="332" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="17" fill="#4d5b68">中国</text>
+  <rect x="460" y="350" width="149" height="42" rx="8" fill="#d35400"/>
+  <text x="621" y="379" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="24" font-weight="700" fill="#17202a">35</text>
+  <text x="460" y="444" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="16" fill="#5d6d7e">美国仍拥有更厚的前沿实验室队列，</text>
+  <text x="460" y="472" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="16" fill="#5d6d7e">“最强一点”与“持续多点产出”不同。</text>
+
+  <rect x="806" y="145" width="336" height="425" rx="18" fill="#f7f9fb" stroke="#dce3e8"/>
+  <text x="834" y="190" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="22" font-weight="700" fill="#17202a">私人 AI 投资</text>
+  <text x="834" y="232" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="17" fill="#4d5b68">美国</text>
+  <rect x="834" y="250" width="252" height="42" rx="8" fill="#1f77b4"/>
+  <text x="834" y="326" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="37" font-weight="700" fill="#1f77b4">2859 亿美元</text>
+  <text x="834" y="372" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="17" fill="#4d5b68">中国</text>
+  <rect x="834" y="390" width="11" height="42" rx="5" fill="#d35400"/>
+  <text x="858" y="421" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="25" font-weight="700" fill="#d35400">124 亿美元</text>
+  <text x="834" y="476" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="16" fill="#5d6d7e">约 23 倍；但私人投资口径不能覆盖</text>
+  <text x="834" y="504" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="16" fill="#5d6d7e">中国政府引导基金与国企投入。</text>
+
+  <line x1="58" y1="611" x2="1142" y2="611" stroke="#dce3e8"/>
+  <text x="58" y="646" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="15" fill="#667784">来源：Stanford HAI, AI Index Report 2026。投资为名义美元；“重要模型”依 AI Index / Epoch AI 口径。</text>
+  <text x="58" y="672" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif" font-size="15" fill="#667784">注：三个指标单位不同，不应相加为综合排名；本图只展示“能力—产出—资源”的结构性错位。</text>
+</svg>

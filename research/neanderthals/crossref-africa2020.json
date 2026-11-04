@@ -1,0 +1,957 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        8
+      ]
+    ],
+    "date-time": "2026-09-08T01:02:34Z",
+    "timestamp": 1788829354458,
+    "version": "build-2803163510"
+  },
+  "reference-count": 59,
+  "publisher": "Elsevier BV",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            2,
+            1
+          ]
+        ],
+        "date-time": "2020-02-01T00:00:00Z",
+        "timestamp": 1580515200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            2,
+            1
+          ]
+        ],
+        "date-time": "2020-02-01T00:00:00Z",
+        "timestamp": 1580515200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            2,
+            20
+          ]
+        ],
+        "date-time": "2021-02-20T00:00:00Z",
+        "timestamp": 1613779200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 385,
+      "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/100000002",
+      "name": "National Institutes of Health",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "R01 GM110068"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "R01 GM110068"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/100000002",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "cell.com",
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Cell"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        2
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.cell.2020.01.012",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        30
+      ]
+    ],
+    "date-time": "2020-01-30T10:36:44Z",
+    "timestamp": 1580380604000
+  },
+  "page": "677-687.e16",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 242,
+  "title": [
+    "Identifying and Interpreting Apparent Neanderthal Ancestry in African Individuals"
+  ],
+  "prefix": "10.1016",
+  "volume": "180",
+  "author": [
+    {
+      "given": "Lu",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Aaron B.",
+      "family": "Wolf",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Wenqing",
+      "family": "Fu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Liming",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Joshua M.",
+      "family": "Akey",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib1",
+      "doi-asserted-by": "crossref",
+      "first-page": "68",
+      "DOI": "10.1038/nature15393",
+      "article-title": "A global reference for human genetic variation",
+      "volume": "526",
+      "author": "Auton",
+      "year": "2015",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib2",
+      "doi-asserted-by": "crossref",
+      "first-page": "1003",
+      "DOI": "10.1126/science.1072047",
+      "article-title": "Recent segmental duplications in the human genome",
+      "volume": "297",
+      "author": "Bailey",
+      "year": "2002",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib3",
+      "doi-asserted-by": "crossref",
+      "first-page": "53",
+      "DOI": "10.1016/j.cell.2018.02.031",
+      "article-title": "Analysis of Human Sequence Data Reveals Two Pulses of Archaic Denisovan Admixture",
+      "volume": "173",
+      "author": "Browning",
+      "year": "2018",
+      "journal-title": "Cell"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib4",
+      "doi-asserted-by": "crossref",
+      "first-page": "22",
+      "DOI": "10.1016/j.ajhg.2015.11.015",
+      "article-title": "Introgression of Neandertal- and Denisovan-like Haplotypes Contributes to Adaptive Variation in Human Toll-like Receptors",
+      "volume": "98",
+      "author": "Dannemann",
+      "year": "2016",
+      "journal-title": "Am. J. Hum. Genet."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib5",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.1186/s13059-017-1181-7",
+      "article-title": "Functional implications of Neandertal introgression in modern humans",
+      "volume": "18",
+      "author": "Dannemann",
+      "year": "2017",
+      "journal-title": "Genome Biol."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib6",
+      "doi-asserted-by": "crossref",
+      "first-page": "216",
+      "DOI": "10.1038/nature14558",
+      "article-title": "An early modern human from Romania with a recent Neanderthal ancestor",
+      "volume": "524",
+      "author": "Fu",
+      "year": "2015",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib7",
+      "doi-asserted-by": "crossref",
+      "first-page": "3375",
+      "DOI": "10.1016/j.cub.2016.10.041",
+      "article-title": "Archaic Hominin Admixture Facilitated Adaptation to Out-of-Africa Environments",
+      "volume": "26",
+      "author": "Gittelman",
+      "year": "2016",
+      "journal-title": "Curr. Biol."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib8",
+      "doi-asserted-by": "crossref",
+      "first-page": "710",
+      "DOI": "10.1126/science.1188021",
+      "article-title": "A draft sequence of the Neandertal genome",
+      "volume": "328",
+      "author": "Green",
+      "year": "2010",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib9",
+      "doi-asserted-by": "crossref",
+      "first-page": "881",
+      "DOI": "10.1534/genetics.116.186890",
+      "article-title": "The Genetic Cost of Neanderthal Introgression",
+      "volume": "203",
+      "author": "Harris",
+      "year": "2016",
+      "journal-title": "Genetics"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib10",
+      "article-title": "Mapping gene flow between ancient hominins through demography-aware inference of the ancestral recombination graph",
+      "author": "Hubisz",
+      "year": "2019",
+      "journal-title": "bioRxiv"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib11",
+      "doi-asserted-by": "crossref",
+      "first-page": "194",
+      "DOI": "10.1038/nature13408",
+      "article-title": "Altitude adaptation in Tibetans caused by introgression of Denisovan-like DNA",
+      "volume": "512",
+      "author": "Huerta-Sánchez",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib12",
+      "doi-asserted-by": "crossref",
+      "first-page": "e1006340",
+      "DOI": "10.1371/journal.pgen.1006340",
+      "article-title": "The Strength of Selection against Neanderthal Introgression",
+      "volume": "12",
+      "author": "Juric",
+      "year": "2016",
+      "journal-title": "PLoS Genet."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib13",
+      "doi-asserted-by": "crossref",
+      "first-page": "21293",
+      "DOI": "10.1016/S0021-9258(19)36923-6",
+      "article-title": "Characterization of a human DNA damage binding protein implicated in xeroderma pigmentosum E",
+      "volume": "268",
+      "author": "Keeney",
+      "year": "1993",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib14",
+      "doi-asserted-by": "crossref",
+      "first-page": "e1004842",
+      "DOI": "10.1371/journal.pcbi.1004842",
+      "article-title": "Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes",
+      "volume": "12",
+      "author": "Kelleher",
+      "year": "2016",
+      "journal-title": "PLoS Comput. Biol."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib15",
+      "doi-asserted-by": "crossref",
+      "first-page": "454",
+      "DOI": "10.1016/j.ajhg.2014.12.029",
+      "article-title": "Selection and reduced population size cannot explain higher amounts of Neandertal ancestry in East Asian than in European human populations",
+      "volume": "96",
+      "author": "Kim",
+      "year": "2015",
+      "journal-title": "Am. J. Hum. Genet."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib16",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0178567",
+      "DOI": "10.1371/journal.pone.0178567",
+      "article-title": "The pathogenic role of interleukin-22 and its receptor during UVB-induced skin inflammation",
+      "volume": "12",
+      "author": "Kim",
+      "year": "2017",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib17",
+      "doi-asserted-by": "crossref",
+      "first-page": "429",
+      "DOI": "10.1038/nature16544",
+      "article-title": "Ancient gene flow from early modern humans into Eastern Neanderthals",
+      "volume": "530",
+      "author": "Kuhlwilm",
+      "year": "2016",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib18",
+      "doi-asserted-by": "crossref",
+      "first-page": "409",
+      "DOI": "10.1038/nature13673",
+      "article-title": "Ancient human genomes suggest three ancestral populations for present-day Europeans",
+      "volume": "513",
+      "author": "Lazaridis",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib19",
+      "doi-asserted-by": "crossref",
+      "first-page": "419",
+      "DOI": "10.1038/nature19310",
+      "article-title": "Genomic insights into the origin of farming in the ancient Near East",
+      "volume": "536",
+      "author": "Lazaridis",
+      "year": "2016",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib20",
+      "doi-asserted-by": "crossref",
+      "first-page": "493",
+      "DOI": "10.1038/nature10231",
+      "article-title": "Inference of human population history from individual whole-genome sequences",
+      "volume": "475",
+      "author": "Li",
+      "year": "2011",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib21",
+      "doi-asserted-by": "crossref",
+      "first-page": "77",
+      "DOI": "10.1186/s13059-019-1684-5",
+      "article-title": "Whole-genome sequence analysis of a Pan African set of samples reveals archaic gene flow from an extinct basal population of modern humans into sub-Saharan populations",
+      "volume": "20",
+      "author": "Lorente-Galdos",
+      "year": "2019",
+      "journal-title": "Genome Biol."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib22",
+      "doi-asserted-by": "crossref",
+      "first-page": "207",
+      "DOI": "10.1038/nature18299",
+      "article-title": "A genomic history of Aboriginal Australia",
+      "volume": "538",
+      "author": "Malaspinas",
+      "year": "2016",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib23",
+      "doi-asserted-by": "crossref",
+      "first-page": "201",
+      "DOI": "10.1038/nature18964",
+      "article-title": "The Simons Genome Diversity Project: 300 genomes from 142 diverse populations",
+      "volume": "538",
+      "author": "Mallick",
+      "year": "2016",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib24",
+      "doi-asserted-by": "crossref",
+      "first-page": "278",
+      "DOI": "10.1016/j.ajhg.2013.06.020",
+      "article-title": "RFMix: a discriminative modeling approach for rapid and robust local-ancestry inference",
+      "volume": "93",
+      "author": "Maples",
+      "year": "2013",
+      "journal-title": "Am. J. Hum. Genet."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib25",
+      "doi-asserted-by": "crossref",
+      "first-page": "916",
+      "DOI": "10.1016/j.cell.2017.01.038",
+      "article-title": "Impacts of Neanderthal-Introgressed Sequences on the Landscape of Human Gene Expression",
+      "volume": "168",
+      "author": "McCoy",
+      "year": "2017",
+      "journal-title": "Cell"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib26",
+      "doi-asserted-by": "crossref",
+      "first-page": "1513",
+      "DOI": "10.1093/molbev/msr301",
+      "article-title": "Global genetic variation at OAS1 provides evidence of archaic admixture in Melanesian populations",
+      "volume": "29",
+      "author": "Mendez",
+      "year": "2012",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib27",
+      "doi-asserted-by": "crossref",
+      "first-page": "265",
+      "DOI": "10.1016/j.ajhg.2012.06.015",
+      "article-title": "A haplotype at STAT2 Introgressed from neanderthals and serves as a candidate of positive selection in Papua New Guinea",
+      "volume": "91",
+      "author": "Mendez",
+      "year": "2012",
+      "journal-title": "Am. J. Hum. Genet."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib28",
+      "doi-asserted-by": "crossref",
+      "first-page": "222",
+      "DOI": "10.1126/science.1224344",
+      "article-title": "A high-coverage genome sequence from an archaic Denisovan individual",
+      "volume": "338",
+      "author": "Meyer",
+      "year": "2012",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib29",
+      "doi-asserted-by": "crossref",
+      "first-page": "302",
+      "DOI": "10.1038/nature21347",
+      "article-title": "Tracing the peopling of the world through genomics",
+      "volume": "541",
+      "author": "Nielsen",
+      "year": "2017",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib30",
+      "doi-asserted-by": "crossref",
+      "first-page": "216",
+      "DOI": "10.1016/j.cell.2013.12.036",
+      "article-title": "The human condition-a molecular approach",
+      "volume": "157",
+      "author": "Pääbo",
+      "year": "2014",
+      "journal-title": "Cell"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib31",
+      "doi-asserted-by": "crossref",
+      "first-page": "1639",
+      "DOI": "10.1073/pnas.1814338116",
+      "article-title": "Limits of long-term selection against Neandertal introgression",
+      "volume": "116",
+      "author": "Petr",
+      "year": "2019",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib32",
+      "doi-asserted-by": "crossref",
+      "first-page": "2632",
+      "DOI": "10.1073/pnas.1313787111",
+      "article-title": "Ancient west Eurasian ancestry in southern and eastern Africa",
+      "volume": "111",
+      "author": "Pickrell",
+      "year": "2014",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib33",
+      "doi-asserted-by": "crossref",
+      "first-page": "e105",
+      "DOI": "10.1371/journal.pgen.0020105",
+      "article-title": "Possible ancestral structure in human populations",
+      "volume": "2",
+      "author": "Plagnol",
+      "year": "2006",
+      "journal-title": "PLoS Genet."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib34",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.1038/nature12886",
+      "article-title": "The complete genome sequence of a Neanderthal from the Altai Mountains",
+      "volume": "505",
+      "author": "Prüfer",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib35",
+      "doi-asserted-by": "crossref",
+      "first-page": "655",
+      "DOI": "10.1126/science.aao1887",
+      "article-title": "A high-coverage Neandertal genome from Vindija Cave in Croatia",
+      "volume": "358",
+      "author": "Prüfer",
+      "year": "2017",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib36",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1038/nrg3936",
+      "article-title": "Evidence for archaic adaptive introgression in humans",
+      "volume": "16",
+      "author": "Racimo",
+      "year": "2015",
+      "journal-title": "Nat. Rev. Genet."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib37",
+      "first-page": "509",
+      "article-title": "Archaic Adaptive Introgression in TBX15/WARS2",
+      "volume": "34",
+      "author": "Racimo",
+      "year": "2017",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib38",
+      "doi-asserted-by": "crossref",
+      "first-page": "1053",
+      "DOI": "10.1038/nature09710",
+      "article-title": "Genetic history of an archaic hominin group from Denisova Cave in Siberia",
+      "volume": "468",
+      "author": "Reich",
+      "year": "2010",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib39",
+      "article-title": "Neanderthal introgression reintroduced functional ancestral alleles lost in Eurasian populations",
+      "author": "Rinker",
+      "year": "2019",
+      "journal-title": "bioRxiv"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib40",
+      "doi-asserted-by": "crossref",
+      "first-page": "e47765",
+      "DOI": "10.1371/journal.pone.0047765",
+      "article-title": "North African populations carry the signature of admixture with Neandertals",
+      "volume": "7",
+      "author": "Sánchez-Quinto",
+      "year": "2012",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib41",
+      "doi-asserted-by": "crossref",
+      "first-page": "354",
+      "DOI": "10.1038/nature12961",
+      "article-title": "The genomic landscape of Neanderthal ancestry in present-day humans",
+      "volume": "507",
+      "author": "Sankararaman",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib42",
+      "doi-asserted-by": "crossref",
+      "first-page": "1241",
+      "DOI": "10.1016/j.cub.2016.03.037",
+      "article-title": "The Combined Landscape of Denisovan and Neanderthal Ancestry in Present-Day Humans",
+      "volume": "26",
+      "author": "Sankararaman",
+      "year": "2016",
+      "journal-title": "Curr. Biol."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib43",
+      "doi-asserted-by": "crossref",
+      "first-page": "582",
+      "DOI": "10.1016/j.tree.2018.05.005",
+      "article-title": "Did Our Species Evolve in Subdivided Populations across Africa, and Why Does It Matter?",
+      "volume": "33",
+      "author": "Scerri",
+      "year": "2018",
+      "journal-title": "Trends Ecol. Evol."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib44",
+      "doi-asserted-by": "crossref",
+      "first-page": "374",
+      "DOI": "10.1126/science.1227721",
+      "article-title": "Genomic variation in seven Khoe-San groups reveals adaptation and complex African history",
+      "volume": "338",
+      "author": "Schlebusch",
+      "year": "2012",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib45",
+      "doi-asserted-by": "crossref",
+      "first-page": "652",
+      "DOI": "10.1126/science.aao6266",
+      "article-title": "Southern African ancient genomes estimate modern human divergence to 350,000 to 260,000 years ago",
+      "volume": "358",
+      "author": "Schlebusch",
+      "year": "2017",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib46",
+      "doi-asserted-by": "crossref",
+      "first-page": "737",
+      "DOI": "10.1126/science.aad2149",
+      "article-title": "The phenotypic legacy of admixture between modern humans and Neandertals",
+      "volume": "351",
+      "author": "Simonti",
+      "year": "2016",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib47",
+      "doi-asserted-by": "crossref",
+      "first-page": "59",
+      "DOI": "10.1016/j.cell.2017.08.049",
+      "article-title": "Reconstructing Prehistoric African Population Structure",
+      "volume": "171",
+      "author": "Skoglund",
+      "year": "2017",
+      "journal-title": "Cell"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib48",
+      "doi-asserted-by": "crossref",
+      "first-page": "e1007641",
+      "DOI": "10.1371/journal.pgen.1007641",
+      "article-title": "Detecting archaic introgression using an unadmixed outgroup",
+      "volume": "14",
+      "author": "Skov",
+      "year": "2018",
+      "journal-title": "PLoS Genet."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib49",
+      "doi-asserted-by": "crossref",
+      "first-page": "3873",
+      "DOI": "10.1111/mec.14565",
+      "article-title": "Model-based detection and analysis of introgressed Neanderthal ancestry in modern humans",
+      "volume": "27",
+      "author": "Steinrücken",
+      "year": "2018",
+      "journal-title": "Mol. Ecol."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib50",
+      "doi-asserted-by": "crossref",
+      "first-page": "64",
+      "DOI": "10.1126/science.1219240",
+      "article-title": "Evolution and functional impact of rare coding variation from deep sequencing of human exomes",
+      "volume": "337",
+      "author": "Tennessen",
+      "year": "2012",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib51",
+      "doi-asserted-by": "crossref",
+      "first-page": "281",
+      "DOI": "10.1016/j.cell.2015.09.042",
+      "article-title": "Small Amounts of Archaic Admixture Provide Big Insights into Human History",
+      "volume": "163",
+      "author": "Vattathil",
+      "year": "2015",
+      "journal-title": "Cell"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib52",
+      "doi-asserted-by": "crossref",
+      "first-page": "1017",
+      "DOI": "10.1126/science.1245938",
+      "article-title": "Resurrecting surviving Neandertal lineages from modern human genomes",
+      "volume": "343",
+      "author": "Vernot",
+      "year": "2014",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib53",
+      "doi-asserted-by": "crossref",
+      "first-page": "448",
+      "DOI": "10.1016/j.ajhg.2015.01.006",
+      "article-title": "Complex history of admixture between modern humans and Neandertals",
+      "volume": "96",
+      "author": "Vernot",
+      "year": "2015",
+      "journal-title": "Am. J. Hum. Genet."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib54",
+      "doi-asserted-by": "crossref",
+      "first-page": "6",
+      "DOI": "10.1016/j.cell.2018.03.023",
+      "article-title": "The Predecessors Within",
+      "volume": "173",
+      "author": "Vernot",
+      "year": "2018",
+      "journal-title": "Cell"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib55",
+      "doi-asserted-by": "crossref",
+      "first-page": "235",
+      "DOI": "10.1126/science.aad9416",
+      "article-title": "Excavating Neandertal and Denisovan DNA from the genomes of Melanesian individuals",
+      "volume": "352",
+      "author": "Vernot",
+      "year": "2016",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib56",
+      "doi-asserted-by": "crossref",
+      "first-page": "39",
+      "DOI": "10.1038/s41559-018-0735-8",
+      "article-title": "Multiple episodes of interbreeding between Neanderthal and modern humans",
+      "volume": "3",
+      "author": "Villanea",
+      "year": "2019",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib57",
+      "doi-asserted-by": "crossref",
+      "first-page": "199",
+      "DOI": "10.1534/genetics.112.148213",
+      "article-title": "Higher levels of neanderthal ancestry in East Asians than in Europeans",
+      "volume": "194",
+      "author": "Wall",
+      "year": "2013",
+      "journal-title": "Genetics"
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib58",
+      "doi-asserted-by": "crossref",
+      "first-page": "2075",
+      "DOI": "10.1093/gbe/evt160",
+      "article-title": "Apparent variation in Neanderthal admixture among African populations is consistent with gene flow from Non-African populations",
+      "volume": "5",
+      "author": "Wang",
+      "year": "2013",
+      "journal-title": "Genome Biol. Evol."
+    },
+    {
+      "key": "10.1016/j.cell.2020.01.012_bib59",
+      "doi-asserted-by": "crossref",
+      "first-page": "3202",
+      "DOI": "10.1016/j.cub.2017.09.030",
+      "article-title": "40,000-Year-Old Individual from Asia Provides Insight into Early Population Structure in Eurasia",
+      "volume": "27",
+      "author": "Yang",
+      "year": "2017",
+      "journal-title": "Curr. Biol."
+    }
+  ],
+  "container-title": [
+    "Cell"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0092867420300593?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0092867420300593?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        25
+      ]
+    ],
+    "date-time": "2025-09-25T11:41:53Z",
+    "timestamp": 1758800513000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0092867420300593"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        2
+      ]
+    ]
+  },
+  "references-count": 59,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          2
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S0092867420300593"
+  ],
+  "URL": "https://doi.org/10.1016/j.cell.2020.01.012",
+  "relation": {
+    "has-review": [
+      {
+        "id-type": "doi",
+        "id": "10.3410/f.737285168.793570819",
+        "asserted-by": "object"
+      }
+    ]
+  },
+  "ISSN": [
+    "0092-8674"
+  ],
+  "issn-type": [
+    {
+      "value": "0092-8674",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        2
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Identifying and Interpreting Apparent Neanderthal Ancestry in African Individuals",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Cell",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.cell.2020.01.012",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2020 Published by Elsevier Inc.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

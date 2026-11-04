@@ -1,0 +1,1006 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        28
+      ]
+    ],
+    "date-time": "2026-03-28T07:44:39Z",
+    "timestamp": 1774683879590,
+    "version": "3.50.1"
+  },
+  "reference-count": 73,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            13
+          ]
+        ],
+        "date-time": "2022-10-13T00:00:00Z",
+        "timestamp": 1665619200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            13
+          ]
+        ],
+        "date-time": "2022-10-13T00:00:00Z",
+        "timestamp": 1665619200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Sci Rep"
+  ],
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Recent fossil discoveries suggest that Neandertals and <jats:italic>Homo sapiens</jats:italic> may have co-existed in Europe for as long as 5 to 6000 years. Yet, evidence for their contemporaneity at any regional scale remains highly elusive. In France and northern Spain, a region which features some of the latest directly-dated Neandertals in Europe, Protoaurignacian assemblages attributed to <jats:italic>Homo sapiens</jats:italic> appear to ‘replace’ Neandertal-associated Châtelperronian assemblages. Using the earliest and latest <jats:italic>known</jats:italic> occurrences as starting points, Bayesian modelling has provided indication that these occupations may in fact have been partly contemporaneous. The reality, however, is that we are unlikely to ever identify the ‘first’ or ‘last’ appearance of a species or cultural tradition in the archaeological and fossil record. Here, we use optimal linear estimation modelling to estimate the first appearance date of <jats:italic>Homo sapiens</jats:italic> and the extinction date of Neandertals in France and northern Spain by statistically inferring these ‘missing’ portions of the Protoaurignacian and Châtelperronian archaeological records. Additionally, we estimate the extinction date of Neandertals in this region using a dataset of directly-dated Neandertal fossil remains. Our total dataset consists of sixty-six modernly produced radiocarbon determinations which we recalibrated using the newest calibration curve (IntCal20) to produce updated age ranges. The results suggest that the onset of the <jats:italic>Homo sapiens</jats:italic> occupation of this region likely preceded the extinction of Neandertals and the Châtelperronian by up to 1400–2900 years. This reaffirms the Bayesian-derived duration of co-existence between these groups during the initial Upper Palaeolithic of this region using a novel independent method, and indicates that our understanding of the timing of these occupations may not be suffering from substantial gaps in the record. Whether or not this co-existence featured some form of direct interaction, however, remains to be resolved.</jats:p>",
+  "DOI": "10.1038/s41598-022-19162-z",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        13
+      ]
+    ],
+    "date-time": "2022-10-13T16:02:53Z",
+    "timestamp": 1665676973000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 38,
+  "title": [
+    "Optimal linear estimation models predict 1400–2900 years of overlap between Homo sapiens and Neandertals prior to their disappearance from France and northern Spain"
+  ],
+  "prefix": "10.1038",
+  "volume": "12",
+  "author": [
+    {
+      "given": "Igor",
+      "family": "Djakovic",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Alastair",
+      "family": "Key",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Marie",
+      "family": "Soressi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        13
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "19162_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "306",
+      "DOI": "10.1038/nature13621",
+      "volume": "512",
+      "author": "T Higham",
+      "year": "2014",
+      "unstructured": "Higham, T. et al. The timing and spatiotemporal patterning of Neanderthal disappearance. Nature 512, 306–309 (2014).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "19162_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "794",
+      "DOI": "10.1038/s41559-020-1136-3",
+      "volume": "4",
+      "author": "H Fewlass",
+      "year": "2020",
+      "unstructured": "Fewlass, H. et al. A 14C chronology for the Middle to Upper Palaeolithic transition at Bacho Kiro Cave, Bulgaria. Nat. Ecol. Evol. 4, 794–801 (2020).",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "19162_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "299",
+      "DOI": "10.1038/s41586-020-2259-z",
+      "volume": "581",
+      "author": "JJ Hublin",
+      "year": "2020",
+      "unstructured": "Hublin, J. J. et al. Initial upper Palaeolithic homo sapiens from Bacho Kiro Cave, Bulgaria. Nature 581, 299–302 (2020).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "19162_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "820",
+      "DOI": "10.1038/s41559-021-01443-x",
+      "volume": "5",
+      "author": "K Prüfer",
+      "year": "2021",
+      "unstructured": "Prüfer, K. et al. A genome sequence from a modern human skull over 45,000 years old from Zlatý kůň in Czechia. Nat. Ecol. Evol. 5, 820–825 (2021).",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "19162_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "445",
+      "DOI": "10.1038/nature13810",
+      "volume": "514",
+      "author": "Q Fu",
+      "year": "2014",
+      "unstructured": "Fu, Q. et al. Genome sequence of a 45,000-year-old modern human from western Siberia. Nature 514, 445 (2014).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "19162_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "216",
+      "DOI": "10.1038/nature14558",
+      "volume": "524",
+      "author": "Q Fu",
+      "year": "2015",
+      "unstructured": "Fu, Q. et al. An early modern human from Romania with a recent Neanderthal ancestor. Nature 524, 216–219 (2015).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "19162_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "253",
+      "DOI": "10.1038/s41586-021-03335-3",
+      "volume": "592",
+      "author": "M Hajdinjak",
+      "year": "2021",
+      "unstructured": "Hajdinjak, M. et al. Initial upper Palaeolithic humans in Europe had recent Neanderthal ancestry. Nature 592, 253–257 (2021).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "19162_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "652",
+      "DOI": "10.1038/nature26151",
+      "volume": "555",
+      "author": "M Hajdinjak",
+      "year": "2018",
+      "unstructured": "Hajdinjak, M. et al. Reconstructing the genetic history of late Neanderthals. Nature 555, 652–656 (2018).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "19162_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "194",
+      "DOI": "10.1016/j.quascirev.2014.08.011",
+      "volume": "118",
+      "author": "J-J Hublin",
+      "year": "2015",
+      "unstructured": "Hublin, J.-J. The modern human colonization of western Eurasia: When and where?. Quat. Sci. Rev. 118, 194–210 (2015).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "19162_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "9496",
+      "DOI": "10.1126/sciadv.abj9496",
+      "volume": "8",
+      "author": "L Slimak",
+      "year": "2022",
+      "unstructured": "Slimak, L. et al. Modern human incursion into Neanderthal territories 54,000 years ago at Mandrin, France. Sci. Adv. 8, 9496 (2022).",
+      "journal-title": "Sci. Adv."
+    },
+    {
+      "key": "19162_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "2204",
+      "DOI": "10.1016/j.jas.2008.02.005",
+      "volume": "35",
+      "author": "L Slimak",
+      "year": "2008",
+      "unstructured": "Slimak, L. The Neronian and the historical structure of cultural shifts from middle to upper Palaeolithic in Mediterranean France. J. Archaeol. Sci. 35, 2204–2214 (2008).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "19162_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "25414",
+      "DOI": "10.1073/pnas.2016062117",
+      "volume": "117",
+      "author": "JA Haws",
+      "year": "2020",
+      "unstructured": "Haws, J. A. et al. The early Aurignacian dispersal of modern humans into westernmost Eurasia. Proc. Natl. Acad. Sci. 117, 25414–25422 (2020).",
+      "journal-title": "Proc. Natl. Acad. Sci."
+    },
+    {
+      "key": "19162_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "586",
+      "DOI": "10.1016/j.jhevol.2010.06.009",
+      "volume": "59",
+      "author": "O Bar-Yosef",
+      "year": "2010",
+      "unstructured": "Bar-Yosef, O. & Bordes, J. G. Who were the makers of the Châtelperronian culture?. J. Hum. Evol. 59, 586–593 (2010).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "19162_CR14",
+      "unstructured": "Bachellerie, F. Quelle unité pour le Châtelperronien? Apport de l’analyse taphonomique et techno-économique des industries lithiques de trois gisements aquitains de plein air: le Basté, Bidart (Pyrénées-Atlantiques) et Canaule II (Dordogne). vol. PhD 441 (Université Bordeaux 1, 2011)."
+    },
+    {
+      "key": "19162_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "2679",
+      "DOI": "10.1007/978-1-4419-0465-2_1852",
+      "volume-title": "Encyclopedia of Global Archaeology",
+      "author": "M Soressi",
+      "year": "2014",
+      "unstructured": "Soressi, M. & Roussel, M. European middle to upper Palaeolithic transitional industries: Châtelperronian. In Encyclopedia of Global Archaeology (ed. Smith, C. L.) 2679–2693 (Springer, 2014)."
+    },
+    {
+      "key": "19162_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "13",
+      "DOI": "10.1016/j.jhevol.2016.02.003",
+      "volume": "95",
+      "author": "M Roussel",
+      "year": "2016",
+      "unstructured": "Roussel, M., Soressi, M. & Hublin, J. J. The Châtelperronian conundrum: Blade and bladelet lithic technologies from Quinçay, France. J. Hum. Evol. 95, 13–32 (2016).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "19162_CR17",
+      "first-page": "3",
+      "volume": "57",
+      "author": "P Bodu",
+      "year": "2017",
+      "unstructured": "Bodu, P. et al. A Châtelperronian open-air site in the Paris Basin: Les Bossats at Ormesson (Seine-et-Marne). Gall. Prehistoire 57, 3–64 (2017).",
+      "journal-title": "Gall. Prehistoire"
+    },
+    {
+      "key": "19162_CR18",
+      "first-page": "87",
+      "volume": "44",
+      "author": "A Leroi-Gourhan",
+      "year": "1958",
+      "unstructured": "Leroi-Gourhan, A. Étude des restes humains fossiles provenant des Grottes d’Arcy-sur-Cure. Ann. Paléontol. 44, 87–148 (1958).",
+      "journal-title": "Ann. Paléontol."
+    },
+    {
+      "key": "19162_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "103",
+      "DOI": "10.3406/bmsap.1981.3812",
+      "volume": "13–8",
+      "author": "F Lévêque",
+      "year": "1981",
+      "unstructured": "Lévêque, F. & Vandermeersch, B. Les restes humains de Saint-Cesaire (Charente-Maritime). Bull. Mém. Société Anthropol. Paris 13–8, 103–104 (1981).",
+      "journal-title": "Bull. Mém. Société Anthropol. Paris"
+    },
+    {
+      "key": "19162_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "224",
+      "DOI": "10.1038/381224a0",
+      "volume": "381",
+      "author": "JJ Hublin",
+      "year": "1996",
+      "unstructured": "Hublin, J. J., Spoor, F., Braun, M., Zonneveld, F. & Condemi, S. A late Neanderthal associated with upper Palaeolithic artefacts. Nature 381, 224–226 (1996).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "19162_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "485",
+      "DOI": "10.1016/j.jhevol.2005.11.008",
+      "volume": "50",
+      "author": "SE Bailey",
+      "year": "2006",
+      "unstructured": "Bailey, S. E. & Hublin, J. J. Dental remains from the Grotte du Renne at Arcy-sur-Cure (Yonne). J. Hum. Evol. 50, 485–508 (2006).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "19162_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "11162",
+      "DOI": "10.1073/pnas.1605834113",
+      "volume": "113",
+      "author": "F Welker",
+      "year": "2016",
+      "unstructured": "Welker, F. et al. Palaeoproteomic evidence identifies archaic hominins associated with the Châtelperronian at the Grotte du Renne. Proc. Natl. Acad. Sci. U. S. A. 113, 11162–11167 (2016).",
+      "journal-title": "Proc. Natl. Acad. Sci. U. S. A."
+    },
+    {
+      "key": "19162_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "20234",
+      "DOI": "10.1073/pnas.1007963107",
+      "volume": "107",
+      "author": "Thomas Higham",
+      "year": "2010",
+      "unstructured": "Higham, T. et al. Chronology of the Grotte du Renne (France) and implications for the context of ornaments and human remains within the Châtelperronian. Proc. Natl. Acad. Sci. U. S. A. 107, 20234–20239 (2010).",
+      "journal-title": "Proc. Natl. Acad. Sci. U. S. A."
+    },
+    {
+      "key": "19162_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1038/s41598-018-33084-9",
+      "volume": "8",
+      "author": "B Gravina",
+      "year": "2018",
+      "unstructured": "Gravina, B. et al. No reliable evidence for a Neanderthal-Châtelperronian Association at La Roche-à-Pierrot, Saint-Césaire. Sci. Rep. 8, 1–12 (2018).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "19162_CR25",
+      "first-page": "287",
+      "volume-title": "Rethinking the Human Revolution: New Beahavioural and Biological Perspectives on the Origin and Dispersal of Modern Humans",
+      "author": "R White",
+      "year": "2007",
+      "unstructured": "White, R. Systems of personal ornamentation in the early upper Palaeolithic: Methodological challenges and new observations. In Rethinking the Human Revolution: New Beahavioural and Biological Perspectives on the Origin and Dispersal of Modern Humans (eds Mellars, P. et al.) 287–302 (MacDonald Institute for Archaeological Research, 2007)."
+    },
+    {
+      "key": "19162_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "20147",
+      "DOI": "10.1073/pnas.1014588107",
+      "volume": "107",
+      "author": "P Mellars",
+      "year": "2010",
+      "unstructured": "Mellars, P. Neanderthal symbolism and ornament manufacture: The bursting of a bubble?. Proc. Natl. Acad. Sci. 107, 20147–20148 (2010).",
+      "journal-title": "Proc. Natl. Acad. Sci."
+    },
+    {
+      "key": "19162_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "S1",
+      "DOI": "10.1086/204689",
+      "volume": "39",
+      "author": "F d’Errico",
+      "year": "1998",
+      "unstructured": "d’Errico, F., Zilhão, J., Baffier, D., Julien, M. & Pelegrin, J. Neandertal acculturation in Western Europe? A critical review of the evidence and its interpretation. Curr. Anthropol. 39, S1–S44 (1998).",
+      "journal-title": "Curr. Anthropol."
+    },
+    {
+      "key": "19162_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1023/A:1022348410845",
+      "volume": "13",
+      "author": "J Zilhao",
+      "year": "1999",
+      "unstructured": "Zilhao, J. & d’Errico, F. The chronology and taphonomy of the earliest Aurignacian and its implications for the understanding of Neanderthal extinction. J. World Prehistory 13, 1–68 (1999).",
+      "journal-title": "J. World Prehistory"
+    },
+    {
+      "key": "19162_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "12",
+      "DOI": "10.1002/evan.20037",
+      "volume": "14",
+      "author": "PA Mellars",
+      "year": "2005",
+      "unstructured": "Mellars, P. A. The impossible coincidence: A single-species model for the origins of modern human behavior in Europe. Evol. Anthropol. 14, 12–27 (2005).",
+      "journal-title": "Evol. Anthropol."
+    },
+    {
+      "key": "19162_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "55",
+      "DOI": "10.1016/j.jhevol.2015.06.011",
+      "volume": "86",
+      "author": "K Ruebens",
+      "year": "2015",
+      "unstructured": "Ruebens, K., McPherron, S. J. P. & Hublin, J.-J. On the local Mousterian origin of the Châtelperronian: Integrating typo-technological, chronostratigraphic and contextual data. J. Hum. Evol. 86, 55–91 (2015).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "19162_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "83",
+      "DOI": "10.1016/j.jhevol.2015.04.005",
+      "volume": "84",
+      "author": "B Gravina",
+      "year": "2015",
+      "unstructured": "Gravina, B. & Discamps, E. MTA-B or not to be? Recycled bifaces and shifting hunting strategies at Le Moustier and their implication for the late Middle Palaeolithic in southwestern France. J. Hum. Evol. 84, 83–98 (2015).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "19162_CR32",
+      "doi-asserted-by": "publisher",
+      "first-page": "725",
+      "DOI": "10.1017/RDC.2020.41",
+      "volume": "62",
+      "author": "PJ Reimer",
+      "year": "2020",
+      "unstructured": "Reimer, P. J. et al. The IntCal20 Northern Hemisphere radiocarbon age calibration curve (0–55 cal kBP). Radiocarbon 62, 725–757 (2020).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "19162_CR33",
+      "doi-asserted-by": "publisher",
+      "first-page": "21005",
+      "DOI": "10.1073/pnas.2012307117",
+      "volume": "117",
+      "author": "E Bard",
+      "year": "2020",
+      "unstructured": "Bard, E. et al. Extended dilation of the radiocarbon time scale between 40,000 and 48,000 y BP and the overlap between Neanderthals and Homo sapiens. Proc. Natl. Acad. Sci. 117, 21005–21007 (2020).",
+      "journal-title": "Proc. Natl. Acad. Sci."
+    },
+    {
+      "key": "19162_CR34",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jas.2021.105479",
+      "volume": "135",
+      "author": "A Key",
+      "year": "2021",
+      "unstructured": "Key, A., Roberts, D. & Jarić, I. Reconstructing the full temporal range of archaeological phenomena from sparse data. J. Archaeol. Sci. 135, 105479 (2021).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "19162_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "1868",
+      "DOI": "10.1016/j.jas.2007.01.003",
+      "volume": "34",
+      "author": "TA Surovell",
+      "year": "2007",
+      "unstructured": "Surovell, T. A. & Brantingham, P. J. A note on the use of temporal frequency distributions in studies of prehistoric demography. J. Archaeol. Sci. 34, 1868–1877 (2007).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "19162_CR36",
+      "unstructured": "Prasciunas, M. M. & Surovell, T. Reevaluating the Duration of Clovis: The Problem of Non-Representative Radiocarbon. In Clovis: On the Edge of a New Understanding (eds. Smallwood, A.M. and Jennings, T.A.) 21–35 (Texas A&M University Press, 2015)."
+    },
+    {
+      "key": "19162_CR37",
+      "doi-asserted-by": "publisher",
+      "first-page": "245",
+      "DOI": "10.1038/426245a",
+      "volume": "426",
+      "author": "DL Roberts",
+      "year": "2003",
+      "unstructured": "Roberts, D. L. & Solow, A. R. When did the dodo become extinct?. Nature 426, 245–245 (2003).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "19162_CR38",
+      "doi-asserted-by": "publisher",
+      "first-page": "18743",
+      "DOI": "10.1073/pnas.1212924109",
+      "volume": "109",
+      "author": "JJ Hublin",
+      "year": "2012",
+      "unstructured": "Hublin, J. J. et al. Radiocarbon dates from the Grotte du Renne and Saint-Césaire support a Neandertal origin for the Châtelperronian. Proc. Natl. Acad. Sci. U. S. A. 109, 18743–18748 (2012).",
+      "journal-title": "Proc. Natl. Acad. Sci. U. S. A."
+    },
+    {
+      "key": "19162_CR39",
+      "doi-asserted-by": "publisher",
+      "first-page": "21230",
+      "DOI": "10.1038/s41598-020-77611-z",
+      "volume": "10",
+      "author": "A Balzeau",
+      "year": "2020",
+      "unstructured": "Balzeau, A. et al. Pluridisciplinary evidence for burial for the La Ferrassie 8 Neandertal child. Sci. Rep. 10, 21230 (2020).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "19162_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "175",
+      "DOI": "10.1016/j.jas.2011.09.019",
+      "volume": "39",
+      "author": "S Talamo",
+      "year": "2012",
+      "unstructured": "Talamo, S., Soressi, M., Roussel, M., Richards, M. & Hublin, J. J. A radiocarbon chronology for the complete middle to upper Palaeolithic transitional sequence of Les Cottés (France). J. Archaeol. Sci. 39, 175–183 (2012).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "19162_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "961",
+      "DOI": "10.1002/jqs.3236",
+      "volume": "35",
+      "author": "S Talamo",
+      "year": "2020",
+      "unstructured": "Talamo, S. et al. The new 14C chronology for the Palaeolithic site of La Ferrassie, France: The disappearance of Neanderthals and the arrival of Homo sapiens in France. J. Quat. Sci. 35, 961–973 (2020).",
+      "journal-title": "J. Quat. Sci."
+    },
+    {
+      "key": "19162_CR42",
+      "unstructured": "Discamps, E., Bachellerie, F., Baoillet, M. & Sitzia, L. The use of spatial taphonomy for interpreting Pleistocene palimpsests: An interdisciplinary approach to the Châtelperronian and Carnivore occupations at Cassenade (Dordogne, France). PaleoAnthropology, 362–388 (2019)."
+    },
+    {
+      "key": "19162_CR43",
+      "first-page": "11",
+      "volume": "23",
+      "author": "CC Barshay-Szmidt",
+      "year": "2012",
+      "unstructured": "Barshay-Szmidt, C. C., Eizenberg, L. & Deschamps, M. Radiocarbon (AMS) dating the classic Aurignacian, Proto-Aurignacian and Vasconian Mousterian at Gatzarria Cave (Pyrénées-Atlantiques, France). PALEO Rev. Archéologie Préhistorique. 23, 11–38 (2012).",
+      "journal-title": "PALEO Rev. Archéologie Préhistorique"
+    },
+    {
+      "key": "19162_CR44",
+      "first-page": "809",
+      "volume": "17",
+      "author": "C Barshay-Szmidt",
+      "year": "2018",
+      "unstructured": "Barshay-Szmidt, C., Normand, C., Flas, D. & Soulier, M. C. Radiocarbon dating the Aurignacian sequence at Isturitz (France): Implications for the timing and development of the Protoaurignacian and Early Aurignacian in western Europe. J. Archaeol. Sci. Rep. 17, 809–838 (2018).",
+      "journal-title": "J. Archaeol. Sci. Rep."
+    },
+    {
+      "key": "19162_CR45",
+      "volume": "33",
+      "author": "C Barshay-Szmidt",
+      "year": "2020",
+      "unstructured": "Barshay-Szmidt, C., Bazile, F. & Brugal, J.-P. First AMS 14C dates on the Protoaurignacian in Mediterranean France: The site of Esquicho-Grapaou (Russan-Ste-Anastasie, Gard). J. Archaeol. Sci. Rep. 33, 102474 (2020).",
+      "journal-title": "J. Archaeol. Sci. Rep."
+    },
+    {
+      "key": "19162_CR46",
+      "doi-asserted-by": "publisher",
+      "first-page": "89",
+      "DOI": "10.1016/j.jhevol.2011.10.010",
+      "volume": "62",
+      "author": "M Camps",
+      "year": "2012",
+      "unstructured": "Camps, M. & Higham, T. Chronology of the Middle to Upper Palaeolithic transition at Abric Romaní, Catalunya. J. Hum. Evol. 62, 89–103 (2012).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "19162_CR47",
+      "doi-asserted-by": "publisher",
+      "first-page": "91",
+      "DOI": "10.1016/j.jhevol.2013.12.017",
+      "volume": "69",
+      "author": "RE Wood",
+      "year": "2014",
+      "unstructured": "Wood, R. E. et al. The chronology of the earliest upper Palaeolithic in northern Iberia: New insights from L’Arbreda, Labeko Koba and La Viña. J. Hum. Evol. 69, 91–109 (2014).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "19162_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "1095",
+      "DOI": "10.1017/RDC.2020.22",
+      "volume": "62",
+      "author": "J van der Plicht",
+      "year": "2020",
+      "unstructured": "van der Plicht, J., Ramsey, C. B., Heaton, T. J., Scott, E. M. & Talamo, S. Recent developments in calibration for Archaeological and environmental samples. Radiocarbon 62, 1095–1117 (2020).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "19162_CR49",
+      "unstructured": "Pelegrin, J. Technologie lithique: le Châtelperronien de Roc-de-Combe (Lot) et de La Côte (Dordogne). Cahiers du Quaternaire vol. 20 297 (CNRS Editions, 1995)."
+    },
+    {
+      "key": "19162_CR50",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pone.0265219",
+      "volume": "17",
+      "author": "J Rios-Garaizar",
+      "year": "2022",
+      "unstructured": "Rios-Garaizar, J. et al. The intrusive nature of the Châtelperronian in the Iberian Peninsula. PLoS ONE 17, e0265219 (2022).",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "19162_CR51",
+      "first-page": "151",
+      "volume": "41",
+      "author": "FB Harrold",
+      "year": "1986",
+      "unstructured": "Harrold, F. B. Reevaluation du Chatelperronien. Préhistoire Ariégeoise 41, 151–169 (1986).",
+      "journal-title": "Préhistoire Ariégeoise"
+    },
+    {
+      "key": "19162_CR52",
+      "unstructured": "Connet, N. Le Châtelperronien: Réflexions sur l’unité et l’identite techno-économique de l’industrie lithique. L’apport de l’analyse diachronique des industries lithiques des couches Châtelperronienes de la Grotte du Renne a Arcy-sur-Cure (Yonne). (Universite de Lille 1., 2002)."
+    },
+    {
+      "key": "19162_CR53",
+      "doi-asserted-by": "publisher",
+      "first-page": "116",
+      "DOI": "10.1016/j.jhevol.2011.10.009",
+      "volume": "62",
+      "author": "T Aubry",
+      "year": "2012",
+      "unstructured": "Aubry, T. et al. Stratigraphic and technological evidence from the middle palaeolithic-Châtelperronian-Aurignacian record at the Bordes-Fitte rockshelter (Roches d’Abilly site, Central France). J. Hum. Evol. 62, 116–137 (2012).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "19162_CR54",
+      "doi-asserted-by": "publisher",
+      "first-page": "e2022466118",
+      "DOI": "10.1073/pnas.2022466118",
+      "volume": "118",
+      "author": "T Devièse",
+      "year": "2021",
+      "unstructured": "Devièse, T. et al. Reevaluating the timing of Neanderthal disappearance in Northwest Europe. Proc. Natl. Acad. Sci. 118, e2022466118 (2021).",
+      "journal-title": "Proc. Natl. Acad. Sci."
+    },
+    {
+      "key": "19162_CR55",
+      "doi-asserted-by": "publisher",
+      "first-page": "793",
+      "DOI": "10.1126/science.aaa2773",
+      "volume": "348",
+      "author": "S Benazzi",
+      "year": "2015",
+      "unstructured": "Benazzi, S. et al. The makers of the Protoaurignacian and implications for Neandertal extinction. Science 348, 793–796 (2015).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "19162_CR56",
+      "doi-asserted-by": "publisher",
+      "first-page": "171",
+      "DOI": "10.1017/S0033822200044118",
+      "volume": "30",
+      "author": "TA Brown",
+      "year": "1988",
+      "unstructured": "Brown, T. A., Nelson, D. E., Vogel, J. S. & Southon, J. R. Improved collagen extraction by modified Longin method. Radiocarbon 30, 171–177 (1988).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "19162_CR57",
+      "doi-asserted-by": "publisher",
+      "first-page": "155",
+      "DOI": "10.1017/S0033822200039473",
+      "volume": "46",
+      "author": "C Bronk Ramsey",
+      "year": "2004",
+      "unstructured": "Bronk Ramsey, C., Higham, T., Bowles, A. & Hedges, R. Improvements to the pretreatment of bone at Oxford. Radiocarbon 46, 155–163 (2004).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "19162_CR58",
+      "doi-asserted-by": "publisher",
+      "first-page": "179",
+      "DOI": "10.1017/S0033822200066388",
+      "volume": "48",
+      "author": "TFG Higham",
+      "year": "2006",
+      "unstructured": "Higham, T. F. G., Jacobi, R. M. & Bronk Ramsay, C. AMS radiocarbon dating of ancient bone using ultrafiltration. Radiocarbon 48, 179–195 (2006).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "19162_CR59",
+      "doi-asserted-by": "publisher",
+      "first-page": "235",
+      "DOI": "10.1017/S0003598X00067570",
+      "volume": "85",
+      "author": "T Higham",
+      "year": "2011",
+      "unstructured": "Higham, T. European middle and upper Palaeolithic radiocarbon dates are often older than they look: Problems with previous dates and some remedies. Antiquity 85, 235–249 (2011).",
+      "journal-title": "Antiquity"
+    },
+    {
+      "key": "19162_CR60",
+      "doi-asserted-by": "publisher",
+      "first-page": "443",
+      "DOI": "10.1017/S0033822200034573",
+      "volume": "53",
+      "author": "S Talamo",
+      "year": "2011",
+      "unstructured": "Talamo, S. & Richards, M. A Comparison of bone pretreatment methods for AMS dating of samples > 30,000 BP. Radiocarbon 53, 443–449 (2011).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "19162_CR61",
+      "doi-asserted-by": "publisher",
+      "first-page": "5342",
+      "DOI": "10.1038/s41598-019-41557-8",
+      "volume": "9",
+      "author": "H Fewlass",
+      "year": "2019",
+      "unstructured": "Fewlass, H. et al. Pretreatment and gaseous radiocarbon dating of 40–100 mg archaeological bone. Sci. Rep. 9, 5342 (2019).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "19162_CR62",
+      "doi-asserted-by": "publisher",
+      "first-page": "687",
+      "DOI": "10.1006/jasc.1998.0385",
+      "volume": "26",
+      "author": "GJ van Klinken",
+      "year": "1999",
+      "unstructured": "van Klinken, G. J. Bone collagen quality indicators for paleodietary and radiocarbon measurements. J. Archaeol. Sci. 26, 687–696 (1999).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "19162_CR63",
+      "doi-asserted-by": "publisher",
+      "first-page": "103",
+      "DOI": "10.1017/S0033822200045069",
+      "volume": "52",
+      "author": "F Brock",
+      "year": "2010",
+      "unstructured": "Brock, F., Higham, T., Ditchfield, P. & Ramsey, C. B. Current pretreatment methods for AMS radiocarbon dating at the Oxford Radiocarbon Accelerator Unit (Orau). Radiocarbon 52, 103–112 (2010).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "19162_CR64",
+      "doi-asserted-by": "publisher",
+      "first-page": "425",
+      "DOI": "10.1017/S0033822200030903",
+      "volume": "37",
+      "author": "CB Ramsey",
+      "year": "1995",
+      "unstructured": "Ramsey, C. B. Radiocarbon calibration and analysis of stratigraphy: The OxCal program. Radiocarbon 37, 425–430 (1995).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "19162_CR65",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Heaton, T. J. et al. The IntCal20 approach to radiocarbon calibration curve construction: A new methodology using Bayesian splines and errors-in-variables. Radiocarbon, (2020).",
+      "DOI": "10.1017/RDC.2020.46"
+    },
+    {
+      "key": "19162_CR66",
+      "doi-asserted-by": "publisher",
+      "first-page": "1809",
+      "DOI": "10.1017/RDC.2017.108",
+      "volume": "59",
+      "author": "CB Ramsey",
+      "year": "2017",
+      "unstructured": "Ramsey, C. B. Methods for summarizing radiocarbon datasets. Radiocarbon 59, 1809–1833 (2017).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "19162_CR67",
+      "doi-asserted-by": "publisher",
+      "first-page": "47",
+      "DOI": "10.1016/j.mbs.2005.02.001",
+      "volume": "195",
+      "author": "AR Solow",
+      "year": "2005",
+      "unstructured": "Solow, A. R. Inferring extinction from a sighting record. Math. Biosci. 195, 47–55 (2005).",
+      "journal-title": "Math. Biosci."
+    },
+    {
+      "key": "19162_CR68",
+      "doi-asserted-by": "publisher",
+      "first-page": "1291",
+      "DOI": "10.1890/08-0316.1",
+      "volume": "90",
+      "author": "MM Rivadeneira",
+      "year": "2009",
+      "unstructured": "Rivadeneira, M. M., Hunt, G. & Roy, K. The use of sighting records to infer species extinctions: An evaluation of different methods. Ecology 90, 1291–1300 (2009).",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "19162_CR69",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1057/s41599-020-00684-8",
+      "volume": "8",
+      "author": "AJM Key",
+      "year": "2021",
+      "unstructured": "Key, A. J. M., Jarić, I. & Roberts, D. L. Modelling the end of the Acheulean at global and continental levels suggests widespread persistence into the Middle Palaeolithic. Humanit. Soc. Sci. Commun. 8, 1–12 (2021).",
+      "journal-title": "Humanit. Soc. Sci. Commun."
+    },
+    {
+      "key": "19162_CR70",
+      "doi-asserted-by": "publisher",
+      "first-page": "345",
+      "DOI": "10.1111/1365-2656.12005",
+      "volume": "82",
+      "author": "CF Clements",
+      "year": "2013",
+      "unstructured": "Clements, C. F. et al. Experimentally testing the accuracy of an extinction estimator: Solow’s optimal linear estimation model. J. Anim. Ecol. 82, 345–354 (2013).",
+      "journal-title": "J. Anim. Ecol."
+    },
+    {
+      "key": "19162_CR71",
+      "doi-asserted-by": "publisher",
+      "first-page": "3320",
+      "DOI": "10.1016/j.jas.2010.08.001",
+      "volume": "37",
+      "author": "CC Szmidt",
+      "year": "2010",
+      "unstructured": "Szmidt, C. C., Brou, L. & Jaccottey, L. Direct radiocarbon (AMS) dating of split-based points from the (Proto)Aurignacian of Trou de la Mère Clochette, Northeastern France. Implications for the characterization of the Aurignacian and the timing of technical innovations in Europe. J. Archaeol. Sci. 37, 3320–3337 (2010).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "19162_CR72",
+      "doi-asserted-by": "publisher",
+      "first-page": "393",
+      "DOI": "10.1017/S0033822200042326",
+      "volume": "49",
+      "author": "A Michczyński",
+      "year": "2007",
+      "unstructured": "Michczyński, A. Is it possible to find a good point estimate of a calibrated radiocarbon date?. Radiocarbon 49, 393–401 (2007).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "19162_CR73",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2021.102976",
+      "volume": "154",
+      "author": "AJM Key",
+      "year": "2021",
+      "unstructured": "Key, A. J. M., Roberts, D. L. & Jarić, I. Statistical inference of earlier origins for the first flaked stone technologies. J. Hum. Evol. 154, 102976 (2021).",
+      "journal-title": "J. Hum. Evol."
+    }
+  ],
+  "container-title": [
+    "Scientific Reports"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41598-022-19162-z.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41598-022-19162-z",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41598-022-19162-z.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        13
+      ]
+    ],
+    "date-time": "2022-10-13T16:20:00Z",
+    "timestamp": 1665678000000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41598-022-19162-z"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        13
+      ]
+    ]
+  },
+  "references-count": 73,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "19162"
+  ],
+  "URL": "https://doi.org/10.1038/s41598-022-19162-z",
+  "relation": {},
+  "ISSN": [
+    "2045-2322"
+  ],
+  "issn-type": [
+    {
+      "value": "2045-2322",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        13
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "13 January 2022",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "25 August 2022",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "13 October 2022",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ],
+  "article-number": "15000"
+}

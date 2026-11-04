@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="920" viewBox="0 0 1600 920" role="img" aria-labelledby="title desc">
+  <title id="title">万达广场运营规模的四个披露节点</title>
+  <desc id="desc">2015年133座，2022年472座，2024年496座，2025年529座。后期数字是运营项目数量，不等于万达集团全部持有物业产权。</desc>
+  <defs>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#14658a"/>
+      <stop offset="1" stop-color="#4cc8b8"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081b29"/>
+      <stop offset="1" stop-color="#143c4b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="920" rx="32" fill="url(#bg)"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif">
+    <text x="85" y="88" fill="#f6fbff" font-size="48" font-weight="750">资产在卖，运营网络却在继续变大</text>
+    <text x="85" y="137" fill="#a9c5d3" font-size="24">万达广场数量：公司在不同年份披露的运营口径</text>
+
+    <line x1="160" y1="735" x2="1480" y2="735" stroke="#678695" stroke-width="3"/>
+    <line x1="160" y1="260" x2="160" y2="735" stroke="#678695" stroke-width="3"/>
+    <g fill="#86a5b3" font-size="20" text-anchor="end">
+      <text x="142" y="742">0</text>
+      <text x="142" y="655">100</text>
+      <text x="142" y="568">200</text>
+      <text x="142" y="481">300</text>
+      <text x="142" y="394">400</text>
+      <text x="142" y="307">500</text>
+    </g>
+    <g stroke="#355766" stroke-width="1">
+      <line x1="160" y1="648" x2="1480" y2="648"/>
+      <line x1="160" y1="561" x2="1480" y2="561"/>
+      <line x1="160" y1="474" x2="1480" y2="474"/>
+      <line x1="160" y1="387" x2="1480" y2="387"/>
+      <line x1="160" y1="300" x2="1480" y2="300"/>
+    </g>
+
+    <g>
+      <rect x="260" y="619" width="210" height="116" rx="12" fill="url(#bar)"/>
+      <text x="365" y="587" fill="#fff" font-size="42" font-weight="750" text-anchor="middle">133</text>
+      <text x="365" y="782" fill="#d7e8ef" font-size="25" font-weight="700" text-anchor="middle">2015</text>
+      <text x="365" y="816" fill="#91adba" font-size="19" text-anchor="middle">上市公司年报</text>
+
+      <rect x="585" y="324" width="210" height="411" rx="12" fill="url(#bar)"/>
+      <text x="690" y="292" fill="#fff" font-size="42" font-weight="750" text-anchor="middle">472</text>
+      <text x="690" y="782" fill="#d7e8ef" font-size="25" font-weight="700" text-anchor="middle">2022</text>
+      <text x="690" y="816" fill="#91adba" font-size="19" text-anchor="middle">债券募集说明书</text>
+
+      <rect x="910" y="304" width="210" height="431" rx="12" fill="url(#bar)"/>
+      <text x="1015" y="272" fill="#fff" font-size="42" font-weight="750" text-anchor="middle">496</text>
+      <text x="1015" y="782" fill="#d7e8ef" font-size="25" font-weight="700" text-anchor="middle">2024</text>
+      <text x="1015" y="816" fill="#91adba" font-size="19" text-anchor="middle">PAG交易公告</text>
+
+      <rect x="1235" y="274" width="210" height="461" rx="12" fill="url(#bar)"/>
+      <text x="1340" y="242" fill="#fff" font-size="42" font-weight="750" text-anchor="middle">529</text>
+      <text x="1340" y="782" fill="#d7e8ef" font-size="25" font-weight="700" text-anchor="middle">2025</text>
+      <text x="1340" y="816" fill="#91adba" font-size="19" text-anchor="middle">新达盟公司披露</text>
+    </g>
+
+    <rect x="190" y="852" width="1220" height="44" rx="12" fill="#0c2634"/>
+    <text x="800" y="882" fill="#aac5d1" font-size="19" text-anchor="middle">注意：运营数量 ≠ 产权持有数量；随着轻资产化推进，两者越来越不是一回事。</text>
+  </g>
+</svg>

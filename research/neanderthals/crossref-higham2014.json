@@ -1,0 +1,1134 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        7
+      ]
+    ],
+    "date-time": "2026-09-07T18:43:17Z",
+    "timestamp": 1788806597357,
+    "version": "build-2803163510"
+  },
+  "reference-count": 29,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "7514",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2014,
+            8,
+            20
+          ]
+        ],
+        "date-time": "2014-08-20T00:00:00Z",
+        "timestamp": 1408492800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springer.com/tdm"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2014,
+            8,
+            20
+          ]
+        ],
+        "date-time": "2014-08-20T00:00:00Z",
+        "timestamp": 1408492800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nature"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2014,
+        8,
+        21
+      ]
+    ]
+  },
+  "DOI": "10.1038/nature13621",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        8,
+        19
+      ]
+    ],
+    "date-time": "2014-08-19T12:22:28Z",
+    "timestamp": 1408450948000
+  },
+  "page": "306-309",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 732,
+  "title": [
+    "The timing and spatiotemporal patterning of Neanderthal disappearance"
+  ],
+  "prefix": "10.1038",
+  "volume": "512",
+  "author": [
+    {
+      "given": "Tom",
+      "family": "Higham",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Katerina",
+      "family": "Douka",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Rachel",
+      "family": "Wood",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Christopher Bronk",
+      "family": "Ramsey",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Fiona",
+      "family": "Brock",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Laura",
+      "family": "Basell",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Marta",
+      "family": "Camps",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Alvaro",
+      "family": "Arrizabalaga",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Javier",
+      "family": "Baena",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Cecillio",
+      "family": "Barroso-Ruíz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Christopher",
+      "family": "Bergman",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Coralie",
+      "family": "Boitard",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Paolo",
+      "family": "Boscato",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Miguel",
+      "family": "Caparrós",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Nicholas J.",
+      "family": "Conard",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Christelle",
+      "family": "Draily",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Alain",
+      "family": "Froment",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Bertila",
+      "family": "Galván",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Paolo",
+      "family": "Gambassini",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Alejandro",
+      "family": "Garcia-Moreno",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Stefano",
+      "family": "Grimaldi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Paul",
+      "family": "Haesaerts",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Brigitte",
+      "family": "Holt",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Maria-Jose",
+      "family": "Iriarte-Chiapusso",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Arthur",
+      "family": "Jelinek",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jesús F.",
+      "family": "Jordá Pardo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "José-Manuel",
+      "family": "Maíllo-Fernández",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Anat",
+      "family": "Marom",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Julià",
+      "family": "Maroto",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mario",
+      "family": "Menéndez",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Laure",
+      "family": "Metz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Eugène",
+      "family": "Morin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Adriana",
+      "family": "Moroni",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Fabio",
+      "family": "Negrino",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Eleni",
+      "family": "Panagopoulou",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Marco",
+      "family": "Peresani",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Stéphane",
+      "family": "Pirson",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Marco",
+      "family": "de la Rasilla",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Julien",
+      "family": "Riel-Salvatore",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Annamaria",
+      "family": "Ronchitelli",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "David",
+      "family": "Santamaria",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Patrick",
+      "family": "Semal",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ludovic",
+      "family": "Slimak",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Joaquim",
+      "family": "Soler",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Narcís",
+      "family": "Soler",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Aritza",
+      "family": "Villaluenga",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ron",
+      "family": "Pinhasi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Roger",
+      "family": "Jacobi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2014,
+        8,
+        20
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "BFnature13621_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "461",
+      "DOI": "10.1038/nature03103",
+      "volume": "432",
+      "author": "P Mellars",
+      "year": "2004",
+      "unstructured": "Mellars, P. Neanderthals and the modern human colonization of Europe. Nature 432, 461–465 (2004)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature13621_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "S1",
+      "DOI": "10.1086/204689",
+      "volume": "39",
+      "author": "F d’Errico",
+      "year": "1998",
+      "unstructured": "d’Errico, F., Zilhão, J., Julien, M., Baffier, D. & Pelegrin, J. Neanderthal acculturation in western Europe? A critical review of the evidence and its interpretation. Curr. Anthropol. 39, S1–S44 (1998)",
+      "journal-title": "Curr. Anthropol."
+    },
+    {
+      "key": "BFnature13621_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "235",
+      "DOI": "10.1017/S0003598X00067570",
+      "volume": "85",
+      "author": "T Higham",
+      "year": "2011",
+      "unstructured": "Higham, T. European Middle and Upper Palaeolithic radiocarbon dates are often older than they look: problems with previous dates and some remedies. Antiquity 85, 235–249 (2011)",
+      "journal-title": "Antiquity"
+    },
+    {
+      "key": "BFnature13621_CR4",
+      "first-page": "187",
+      "volume": "291",
+      "author": "F Lévêque",
+      "year": "1980",
+      "unstructured": "Lévêque, F. & Vandermeersch, B. Découverte de restes humains dans le niveau Castelperronien à Saint-Césaire (Charente-Maritime). C.R. Acad. Sc. Paris 291, 187–189 (1980)",
+      "journal-title": "C.R. Acad. Sc. Paris"
+    },
+    {
+      "key": "BFnature13621_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "525",
+      "DOI": "10.1038/nature10617",
+      "volume": "479",
+      "author": "S Benazzi",
+      "year": "2011",
+      "unstructured": "Benazzi, S. et al. Early dispersal of modern humans in Europe and implications for Neanderthal behaviour. Nature 479, 525–528 (2011)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature13621_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "e96424",
+      "DOI": "10.1371/journal.pone.0096424",
+      "volume": "9",
+      "author": "P Villa",
+      "year": "2014",
+      "unstructured": "Villa, P. & Roebroeks, W. Neandertal demise: an archaeological analysis of the modern human superiority complex. PLoS ONE 9, e96424 (2014)",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "BFnature13621_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "710",
+      "DOI": "10.1126/science.1188021",
+      "volume": "328",
+      "author": "RE Green",
+      "year": "2010",
+      "unstructured": "Green, R. E. et al. A draft sequence of the Neandertal genome. Science 328, 710–722 (2010)",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BFnature13621_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "43",
+      "DOI": "10.1038/nature12886",
+      "volume": "505",
+      "author": "K Prüfer",
+      "year": "2014",
+      "unstructured": "Prüfer, K. et al. The complete genome sequence of a Neanderthal from the Altai Mountains. Nature 505, 43–49 (2014)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature13621_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "1241",
+      "DOI": "10.1534/genetics.114.162396",
+      "volume": "196",
+      "author": "K Lohse",
+      "year": "2014",
+      "unstructured": "Lohse, K. & Frantz, L. A. Neandertal admixture in Eurasia confirmed by Maximum likelihood analysis of three genomes. Genetics 196, 1241–1251 (2014)",
+      "journal-title": "Genetics"
+    },
+    {
+      "key": "BFnature13621_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "199",
+      "DOI": "10.1534/genetics.112.148213",
+      "volume": "194",
+      "author": "JD Wall",
+      "year": "2013",
+      "unstructured": "Wall, J. D. et al. Higher levels of Neanderthal ancestry in East Asians than in Europeans. Genetics 194, 199–209 (2013)",
+      "journal-title": "Genetics"
+    },
+    {
+      "key": "BFnature13621_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "155",
+      "DOI": "10.1017/S0033822200039473",
+      "volume": "46",
+      "author": "C Bronk Ramsey",
+      "year": "2004",
+      "unstructured": "Bronk Ramsey, C., Higham, T., Bowles, A. & Hedges, R. Improvements to the pretreatment of bone at Oxford. Radiocarbon 46, 155–163 (2004)",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "BFnature13621_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "179",
+      "DOI": "10.1017/S0033822200066388",
+      "volume": "48",
+      "author": "TG Higham",
+      "year": "2006",
+      "unstructured": "Higham, T. G., Jacobi, R. M. & Bronk Ramsey, C. AMS radiocarbon dating of ancient bone using ultrafiltration. Radiocarbon 48, 179–195 (2006)",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "BFnature13621_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "127",
+      "DOI": "10.1017/S0033822200019482",
+      "volume": "41",
+      "author": "MI Bird",
+      "year": "1999",
+      "unstructured": "Bird, M. I. et al. Radiocarbon dating of ‘old’ charcoal using a wet oxidation-stepped combustion procedure. Radiocarbon 41, 127–140 (1999)",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "BFnature13621_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "553",
+      "DOI": "10.1073/pnas.0510005103",
+      "volume": "103",
+      "author": "T Higham",
+      "year": "2006",
+      "unstructured": "Higham, T., Ramsey, C. B., Karavanić, I., Smith, F. H. & Trinkaus, E. Revised direct radiocarbon dating of the Vindija G1 Upper Paleolithic Neandertals. Proc. Natl Acad. Sci. USA 103, 553–557 (2006)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature13621_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "2781",
+      "DOI": "10.1073/pnas.1207656110",
+      "volume": "110",
+      "author": "RE Wood",
+      "year": "2013",
+      "unstructured": "Wood, R. E. et al. Radiocarbon dating casts doubt on the late chronology of the Middle to Upper Palaeolithic transition in southern Iberia. Proc. Natl Acad. Sci. USA 110, 2781–2786 (2013)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature13621_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "8611",
+      "DOI": "10.1073/pnas.1018938108",
+      "volume": "108",
+      "author": "R Pinhasi",
+      "year": "2011",
+      "unstructured": "Pinhasi, R. et al. Revised age of late Neanderthal occupation and the end of the Middle Paleolithic in the northern Caucasus. Proc. Natl Acad. Sci. USA 108, 8611–8616 (2011)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature13621_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "20234",
+      "DOI": "10.1073/pnas.1007963107",
+      "volume": "107",
+      "author": "T Higham",
+      "year": "2010",
+      "unstructured": "Higham, T. et al. The chronology of the Grotte du Renne (France) and implications for the association of ornaments and human remains within the Châtelperronian. Proc. Natl Acad. Sci. USA 107, 20234–20239 (2010)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature13621_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "18743",
+      "DOI": "10.1073/pnas.1212924109",
+      "volume": "109",
+      "author": "J-J Hublin",
+      "year": "2012",
+      "unstructured": "Hublin, J.-J. et al. Radiocarbon dates from the Grotte du Renne and Saint-Césaire support a Neandertal origin for the Châtelperronian. Proc. Natl Acad. Sci. USA 109, 18743–18748 (2012)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature13621_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "841",
+      "DOI": "10.1126/science.1203866",
+      "volume": "332",
+      "author": "L Slimak",
+      "year": "2011",
+      "unstructured": "Slimak, L. et al. Late Mousterian persistence near the arctic circle. Science 332, 841–845 (2011)",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BFnature13621_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "337",
+      "DOI": "10.1017/S0033822200033865",
+      "volume": "51",
+      "author": "C Bronk Ramsey",
+      "year": "2009",
+      "unstructured": "Bronk Ramsey, C. Bayesian analysis of radiocarbon dates. Radiocarbon 51, 337–360 (2009)",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "BFnature13621_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1023/A:1022348410845",
+      "volume": "13",
+      "author": "J Zilhão",
+      "year": "1999",
+      "unstructured": "Zilhão, J. & d’Errico, F. The chronology and taphonomy of the earliest Aurignacian and its implications for the understanding of Neanderthal extinction. J. World Prehist. 13, 1–68 (1999)",
+      "journal-title": "J. World Prehist."
+    },
+    {
+      "key": "BFnature13621_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "850",
+      "DOI": "10.1038/nature05195",
+      "volume": "443",
+      "author": "C Finlayson",
+      "year": "2006",
+      "unstructured": "Finlayson, C. et al. Late survival of Neanderthals at the southernmost extreme of Europe. Nature 443, 850–853 (2006)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature13621_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1016/j.jhevol.2013.12.007",
+      "volume": "68",
+      "author": "K Douka",
+      "year": "2014",
+      "unstructured": "Douka, K. et al. On the chronology of the Uluzzian. J. Hum. Evol. 68, 1–13 (2014)",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "BFnature13621_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "349",
+      "DOI": "10.1086/203755",
+      "volume": "30",
+      "author": "PA Mellars",
+      "year": "1989",
+      "unstructured": "Mellars, P. A. Major issues in the emergence of modern humans. Curr. Anthropol. 30, 349–385 (1989)",
+      "journal-title": "Curr. Anthropol."
+    },
+    {
+      "key": "BFnature13621_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "103",
+      "DOI": "10.1017/S0033822200045069",
+      "volume": "52",
+      "author": "F Brock",
+      "year": "2010",
+      "unstructured": "Brock, F. et al. Current pretreatment methods for AMS radiocarbon dating at the Oxford Radiocarbon Accelerator Unit (ORAU). Radiocarbon 52, 103–112 (2010)",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "BFnature13621_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "735",
+      "DOI": "10.1017/S0033822200045756",
+      "volume": "52",
+      "author": "K Douka",
+      "year": "2010",
+      "unstructured": "Douka, K. et al. Improved AMS 14C dating of shell carbonates using high-precision X-Ray Diffraction (XRD) and a novel density separation protocol (CarDS). Radiocarbon 52, 735–751 (2010)",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "BFnature13621_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "355",
+      "DOI": "10.1017/S0033822200003672",
+      "volume": "19",
+      "author": "M Stuiver",
+      "year": "1977",
+      "unstructured": "Stuiver, M. & Polach, H. Discussion: reporting of 14C data. Radiocarbon 19, 355–363 (1977)",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "BFnature13621_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "600",
+      "DOI": "10.1017/S003382220004563X",
+      "volume": "52",
+      "author": "RE Wood",
+      "year": "2010",
+      "unstructured": "Wood, R. E., Bronk Ramsey, C. & Higham, T. F. G. Refining the ultrafiltration bone pretreatment background for radiocarbon dating at ORAU. Radiocarbon 52, 600–611 (2010)",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "BFnature13621_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "1869",
+      "DOI": "10.2458/azu_js_rc.55.16947",
+      "volume": "55",
+      "author": "PJ Reimer",
+      "year": "2013",
+      "unstructured": "Reimer, P. J. et al. IntCal13 and Marine13 radiocarbon age calibration curves 0–50,000 years cal BP. Radiocarbon 55, 1869–1887 (2013)",
+      "journal-title": "Radiocarbon"
+    }
+  ],
+  "container-title": [
+    "Nature"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/nature13621.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/nature13621",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/nature13621.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        9,
+        3
+      ]
+    ],
+    "date-time": "2021-09-03T16:15:30Z",
+    "timestamp": 1630685730000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/nature13621"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        8,
+        20
+      ]
+    ]
+  },
+  "references-count": 29,
+  "journal-issue": {
+    "issue": "7514",
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          21
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "BFnature13621"
+  ],
+  "URL": "https://doi.org/10.1038/nature13621",
+  "relation": {},
+  "ISSN": [
+    "0028-0836",
+    "1476-4687"
+  ],
+  "issn-type": [
+    {
+      "value": "0028-0836",
+      "type": "print"
+    },
+    {
+      "value": "1476-4687",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2014,
+        8,
+        20
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "7 May 2014",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "27 June 2014",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "20 August 2014",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing financial interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ]
+}

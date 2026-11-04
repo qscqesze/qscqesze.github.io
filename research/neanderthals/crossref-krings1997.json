@@ -1,0 +1,761 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        4
+      ]
+    ],
+    "date-time": "2026-06-04T09:27:58Z",
+    "timestamp": 1780565278163,
+    "version": "3.54.1"
+  },
+  "reference-count": 54,
+  "publisher": "Elsevier BV",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            1997,
+            7,
+            1
+          ]
+        ],
+        "date-time": "1997-07-01T00:00:00Z",
+        "timestamp": 867715200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2013,
+            7,
+            17
+          ]
+        ],
+        "date-time": "2013-07-17T00:00:00Z",
+        "timestamp": 1374019200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 5860,
+      "URL": "https://www.elsevier.com/open-access/userlicense/1.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Cell"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        1997,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.1016/s0092-8674(00)80310-4",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2004,
+        6,
+        9
+      ]
+    ],
+    "date-time": "2004-06-09T20:23:03Z",
+    "timestamp": 1086812583000
+  },
+  "page": "19-30",
+  "source": "Crossref",
+  "is-referenced-by-count": 951,
+  "title": [
+    "Neandertal DNA Sequences and the Origin of Modern Humans"
+  ],
+  "prefix": "10.1016",
+  "volume": "90",
+  "author": [
+    {
+      "given": "Matthias",
+      "family": "Krings",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Anne",
+      "family": "Stone",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ralf W",
+      "family": "Schmitz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Heike",
+      "family": "Krainitzki",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mark",
+      "family": "Stoneking",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Svante",
+      "family": "Pääbo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB1",
+      "doi-asserted-by": "crossref",
+      "first-page": "457",
+      "DOI": "10.1038/290457a0",
+      "article-title": "Sequence and organization of the human mitochondrial genome",
+      "volume": "290",
+      "author": "Anderson",
+      "year": "1981",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB2",
+      "doi-asserted-by": "crossref",
+      "first-page": "154",
+      "DOI": "10.1038/ng0696-154",
+      "article-title": "Minisatellite diversity supports a recent African origin for modern humans",
+      "volume": "13",
+      "author": "Armour",
+      "year": "1996",
+      "journal-title": "Nature Genet."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB3",
+      "series-title": "Current Protocols in Molecular Biology",
+      "year": "1995"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB4",
+      "first-page": "248",
+      "article-title": "Length heteroplasmy in the first hypervariable segment of the human mtDNA control region",
+      "volume": "57",
+      "author": "Bendall",
+      "year": "1995",
+      "journal-title": "Am. J. Hum. Genet."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB5",
+      "unstructured": "Bräuer, G., and Stringer, C.B. (1997). Models, polarisation, and perspective on modern human origins. In Conceptual Issues in Modern Human Origins Research, G.A. Clark and C.M. Willermet, eds. (New York: de Gruyer), in press."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB6",
+      "doi-asserted-by": "crossref",
+      "first-page": "31",
+      "DOI": "10.1038/325031a0",
+      "article-title": "Mitochondrial DNA and human evolution",
+      "volume": "325",
+      "author": "Cann",
+      "year": "1987",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB7",
+      "doi-asserted-by": "crossref",
+      "first-page": "485",
+      "DOI": "10.1038/378485a0",
+      "article-title": "Insertions and duplications of mtDNA in the nuclear genomes of Old World monkeys and hominoids",
+      "volume": "378",
+      "author": "Collura",
+      "year": "1995",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB8",
+      "doi-asserted-by": "crossref",
+      "first-page": "89",
+      "DOI": "10.1101/gr.5.1.89",
+      "article-title": "Heteroplasmy in the control region of human mitochondrial DNA",
+      "volume": "5",
+      "author": "Comas",
+      "year": "1995",
+      "journal-title": "Genome Res."
+    },
+    {
+      "issue": "University of Washington",
+      "key": "10.1016/S0092-8674(00)80310-4_BIB9",
+      "volume": "3.5",
+      "author": "Felsenstein",
+      "year": "1994",
+      "journal-title": "Phylip"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB10",
+      "doi-asserted-by": "crossref",
+      "first-page": "3",
+      "DOI": "10.1017/S0959774300001451",
+      "article-title": "Mode 3 technologies and the evolution of modern humans",
+      "volume": "7",
+      "author": "Foley",
+      "year": "1997",
+      "journal-title": "Cambridge Archaeol. J."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB11",
+      "first-page": "18",
+      "article-title": "An improved general method to generate internal standards for competitive PCR",
+      "volume": "16",
+      "author": "Förster",
+      "year": "1994",
+      "journal-title": "Biotechniques"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB12",
+      "doi-asserted-by": "crossref",
+      "first-page": "376",
+      "DOI": "10.1038/378376a0",
+      "article-title": "A recent common ancestry for human Y chromosomes",
+      "volume": "378",
+      "author": "Hammer",
+      "year": "1995",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB13",
+      "doi-asserted-by": "crossref",
+      "first-page": "524",
+      "DOI": "10.1007/BF01921720",
+      "article-title": "Ancient DNA",
+      "volume": "50",
+      "author": "Handt",
+      "year": "1994",
+      "journal-title": "Experientia"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB14",
+      "doi-asserted-by": "crossref",
+      "first-page": "1775",
+      "DOI": "10.1126/science.8209259",
+      "article-title": "Molecular genetic analyses of the Tyrolean ice man",
+      "volume": "264",
+      "author": "Handt",
+      "year": "1994",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB15",
+      "first-page": "368",
+      "article-title": "The retrieval of ancient human DNA sequences",
+      "volume": "59",
+      "author": "Handt",
+      "year": "1996",
+      "journal-title": "Am. J. Hum. Genet."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB16",
+      "doi-asserted-by": "crossref",
+      "first-page": "483",
+      "DOI": "10.1086/204195",
+      "article-title": "The genetic structure of ancient human populations",
+      "volume": "34",
+      "author": "Harpending",
+      "year": "1993",
+      "journal-title": "Curr. Anthropol."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB17",
+      "doi-asserted-by": "crossref",
+      "first-page": "737",
+      "DOI": "10.1126/science.1738849",
+      "article-title": "Human origins and analysis of mitochondrial DNA sequences",
+      "volume": "255",
+      "author": "Hedges",
+      "year": "1992",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB18",
+      "doi-asserted-by": "crossref",
+      "first-page": "3913",
+      "DOI": "10.1093/nar/21.16.3913",
+      "article-title": "DNA extraction from Pleistocene bones by a silica-based purification method",
+      "volume": "21",
+      "author": "Höss",
+      "year": "1993",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB19",
+      "doi-asserted-by": "crossref",
+      "first-page": "1304",
+      "DOI": "10.1093/nar/24.7.1304",
+      "article-title": "DNA damage and DNA sequence retrieval from ancient tissues",
+      "volume": "24",
+      "author": "Höss",
+      "year": "1996",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB20",
+      "doi-asserted-by": "crossref",
+      "first-page": "181",
+      "DOI": "10.1073/pnas.93.1.181",
+      "article-title": "Molecular phylogeny of the extinct ground sloth Mylodon darwinii",
+      "volume": "93",
+      "author": "Höss",
+      "year": "1996",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB21",
+      "doi-asserted-by": "crossref",
+      "first-page": "224",
+      "DOI": "10.1038/381224a0",
+      "article-title": "A late Neanderthal associated with Upper Paleolithic artefacts",
+      "volume": "381",
+      "author": "Hublin",
+      "year": "1996",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB22",
+      "doi-asserted-by": "crossref",
+      "first-page": "417",
+      "DOI": "10.1038/ng0496-417",
+      "article-title": "Mitochondrial DNA sequence heteroplasmy in the Grand Duke of Russia Georgij Romanov establishes the authenticity of the remains of Tsar Nicholas II",
+      "volume": "12",
+      "author": "Ivanov",
+      "year": "1996",
+      "journal-title": "Nature Genet."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB23",
+      "doi-asserted-by": "crossref",
+      "first-page": "709",
+      "DOI": "10.1038/362709a0",
+      "article-title": "Instability and decay of the primary structure of DNA",
+      "volume": "362",
+      "author": "Lindahl",
+      "year": "1993",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB24",
+      "doi-asserted-by": "crossref",
+      "first-page": "700",
+      "DOI": "10.1038/365700a0",
+      "article-title": "Recovery of antediluvian DNA",
+      "volume": "365",
+      "author": "Lindahl",
+      "year": "1993",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB25",
+      "doi-asserted-by": "crossref",
+      "first-page": "355",
+      "DOI": "10.2307/2992327",
+      "article-title": "African origin of human mitochondrial DNA reexamined",
+      "volume": "40",
+      "author": "Maddison",
+      "year": "1991",
+      "journal-title": "Syst. Zool."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB26",
+      "doi-asserted-by": "crossref",
+      "first-page": "1193",
+      "DOI": "10.1126/science.7915048",
+      "article-title": "Kin selection, social structure, gene flow, and the evolution of chimpanzees",
+      "volume": "265",
+      "author": "Morin",
+      "year": "1994",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB27",
+      "doi-asserted-by": "crossref",
+      "first-page": "335",
+      "DOI": "10.1016/0076-6879(87)55023-6",
+      "article-title": "Specific synthesis of DNA in vitro via a polymerase-catalyzed chain reaction",
+      "volume": "155",
+      "author": "Mullis",
+      "year": "1987",
+      "journal-title": "Methods Enzymol."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB28",
+      "series-title": "Molecular Evolutionary Genetics",
+      "author": "Nei",
+      "year": "1987"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB29",
+      "doi-asserted-by": "crossref",
+      "first-page": "1939",
+      "DOI": "10.1073/pnas.86.6.1939",
+      "article-title": "Ancient DNA",
+      "volume": "86",
+      "author": "Pääbo",
+      "year": "1989",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB30",
+      "doi-asserted-by": "crossref",
+      "first-page": "45",
+      "DOI": "10.1016/0960-9822(91)90125-G",
+      "article-title": "Miocene DNA sequences—a dream come true?",
+      "volume": "1",
+      "author": "Pääbo",
+      "year": "1991",
+      "journal-title": "Current Biol."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB31",
+      "doi-asserted-by": "crossref",
+      "first-page": "9709",
+      "DOI": "10.1016/S0021-9258(18)81710-0",
+      "article-title": "Ancient DNA and the polymerase chain reaction. The emerging field of molecular archaeology",
+      "volume": "264",
+      "author": "Pääbo",
+      "year": "1989",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB32",
+      "doi-asserted-by": "crossref",
+      "first-page": "4718",
+      "DOI": "10.1016/S0021-9258(19)39621-8",
+      "article-title": "DNA damage promotes jumping between templates during enzymatic amplification",
+      "volume": "265",
+      "author": "Pääbo",
+      "year": "1990",
+      "journal-title": "J. Biol. Chem."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB33",
+      "first-page": "863",
+      "article-title": "Improved analyses of human mtDNA sequences support a recent African origin for Homo sapiens",
+      "volume": "12",
+      "author": "Penny",
+      "year": "1995",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB34",
+      "doi-asserted-by": "crossref",
+      "first-page": "661",
+      "DOI": "10.1515/bchm3.1996.377.10.661",
+      "article-title": "Extreme sequence heteroplasmy in bat mitochondrial DNA",
+      "volume": "377",
+      "author": "Petri",
+      "year": "1996",
+      "journal-title": "Biol. Chem. Hoppe-Seyler"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB35",
+      "doi-asserted-by": "crossref",
+      "first-page": "864",
+      "DOI": "10.1126/science.272.5263.864",
+      "article-title": "Amino acid racemization and the preservation of ancient DNA",
+      "volume": "272",
+      "author": "Poinar",
+      "year": "1996",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB36",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rak, Y. (1993). Morphological variation in Homo neanderthalensis and Homo sapiens in the Levant. A biogeographic modern. In Species, Species Concepts and Primate Evolution, W.H. Kimbel and L.B. Martin, eds. (New York: Plenum Press), 523–536.",
+      "DOI": "10.1007/978-1-4899-3745-2_20"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB37",
+      "first-page": "406",
+      "article-title": "The neighbor joining method",
+      "volume": "4",
+      "author": "Saitou",
+      "year": "1987",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB38",
+      "unstructured": "Schmitz, R.W. (1996). Das Alt- und Mittelpaläolithikum des Neandertals und benachbarter Gebiete. Doctoral dissertation, Prehistory, University of Cologne (Cologne, University Microfilms)."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB39",
+      "unstructured": "Schmitz, R.W., Pieper, P., Bonte, W., and Krainitzki, H. (1995). New investigations of the Homo sapiens neanderthalensis, found in 1856. In Advances in Forensic Sciences, Vol. 7: Forensic Odontology and Anthropology. Proceedings of the 13th Meeting of the International Association of Forensic Sciences, Düsseldorf, August 22nd to 28th, 1993, B. Jacob and W. Bonte, eds. (Berlin, Köster), pp. 42–44 ."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB40",
+      "doi-asserted-by": "crossref",
+      "first-page": "10852",
+      "DOI": "10.1073/pnas.93.20.10852",
+      "article-title": "Significance of some previously unrecognized apomorphies in the nasal region of Homo neanderthalensis",
+      "volume": "93",
+      "author": "Schwartz",
+      "year": "1996",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB41",
+      "doi-asserted-by": "crossref",
+      "first-page": "6815",
+      "DOI": "10.1073/pnas.94.13.6815",
+      "article-title": "Likelihood mapping",
+      "volume": "94",
+      "author": "Strimmer",
+      "year": "1997",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB42",
+      "unstructured": "Stringer, C. (1997). Chronological and biogeographic perspective on later human evolution. In Neanderthals and Modern Humans in West Asia, O. Bar-Yosef and T. Akazawa, eds. (New York: Plenum Press), in press."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB43",
+      "unstructured": "Stringer, C., and Gamble, C. (1993). In Search of the Neanderthals (London: Thames and Hudson)."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB44",
+      "doi-asserted-by": "crossref",
+      "first-page": "343",
+      "DOI": "10.1146/annurev.es.26.110195.002015",
+      "article-title": "A genetic perspective on the origin and history of humans",
+      "volume": "26",
+      "author": "Takahata",
+      "year": "1995",
+      "journal-title": "Annu. Rev. Ecol. Syst."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB45",
+      "first-page": "512",
+      "article-title": "Estimation of the number of nucleotide substitutions in the control region of mitochondrial DNA in humans and chimpanzees",
+      "volume": "10",
+      "author": "Tamura",
+      "year": "1993",
+      "journal-title": "J. Mol. Evol."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB46",
+      "doi-asserted-by": "crossref",
+      "first-page": "737",
+      "DOI": "10.1126/science.1590849",
+      "article-title": "Human origins and analysis of mitochondrial DNA sequences",
+      "volume": "255",
+      "author": "Templeton",
+      "year": "1992",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB47",
+      "doi-asserted-by": "crossref",
+      "first-page": "1380",
+      "DOI": "10.1126/science.271.5254.1380",
+      "article-title": "Global patterns of linkage disequilibrium at the CD4 locus and modern human origins",
+      "volume": "271",
+      "author": "Tishkoff",
+      "year": "1996",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB48",
+      "series-title": "The Neandertals",
+      "author": "Trinkaus",
+      "year": "1993"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB49",
+      "doi-asserted-by": "crossref",
+      "first-page": "652",
+      "DOI": "10.1007/BF00160513",
+      "article-title": "Nuclear counterparts of the cytoplasmic mitochondrial 12s rRNA gene",
+      "volume": "40",
+      "author": "van der Kuyl",
+      "year": "1995",
+      "journal-title": "J. Mol. Evol."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB50",
+      "doi-asserted-by": "crossref",
+      "first-page": "1503",
+      "DOI": "10.1126/science.1840702",
+      "article-title": "African populations and the evolution of mitochondrial DNA",
+      "volume": "253",
+      "author": "Vigilant",
+      "year": "1991",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB51",
+      "doi-asserted-by": "crossref",
+      "first-page": "135",
+      "DOI": "10.1038/ng1096-135",
+      "article-title": "The genetical archaeology of the human genome",
+      "volume": "14",
+      "author": "von Haeseler",
+      "year": "1996",
+      "journal-title": "Nature Genet."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB52",
+      "unstructured": "Wolpoff, M.H. (1989). Multiregional evolution: the fossil alternative to Eden. In The Human Revolution, C. Stringer and P. Mellars, eds. (Edinburgh: Edinburgh University Press)."
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB53",
+      "doi-asserted-by": "crossref",
+      "first-page": "489",
+      "DOI": "10.1038/378489a0",
+      "article-title": "A nuclear 'fossil' of the mitochondrial D-loop and the origin of modern humans",
+      "volume": "378",
+      "author": "Zischler",
+      "year": "1995",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/S0092-8674(00)80310-4_BIB54",
+      "doi-asserted-by": "crossref",
+      "first-page": "283",
+      "DOI": "10.1038/375283b0",
+      "article-title": "Neanderthal computer skulls",
+      "volume": "375",
+      "author": "Zollikofer",
+      "year": "1995",
+      "journal-title": "Nature"
+    }
+  ],
+  "container-title": [
+    "Cell"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0092867400803104?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0092867400803104?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        23
+      ]
+    ],
+    "date-time": "2021-06-23T03:47:39Z",
+    "timestamp": 1624420059000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0092867400803104"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        1997,
+        7
+      ]
+    ]
+  },
+  "references-count": 54,
+  "journal-issue": {
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          1997,
+          7
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S0092867400803104"
+  ],
+  "URL": "https://doi.org/10.1016/s0092-8674(00)80310-4",
+  "relation": {},
+  "ISSN": [
+    "0092-8674"
+  ],
+  "issn-type": [
+    {
+      "value": "0092-8674",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        1997,
+        7
+      ]
+    ]
+  }
+}

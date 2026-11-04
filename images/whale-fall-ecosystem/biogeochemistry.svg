@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="960" viewBox="0 0 1600 960" role="img" aria-labelledby="title desc">
+  <title id="title">鲸落生态系统的碳硫耦合与能量通路</title>
+  <desc id="desc">鲸体有机质经食腐和异养分解进入沉积物，耗氧后发生硫酸盐还原和产甲烷；硫化物在含氧界面被氧化并支持化能合成食物网。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f8f6"/><stop offset="1" stop-color="#e8f1f2"/></linearGradient>
+    <linearGradient id="sed" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#475b5b"/><stop offset="1" stop-color="#23393e"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#173b42" flood-opacity=".16"/></filter>
+    <marker id="arrowBlue" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="#2f7180"/></marker>
+    <marker id="arrowGold" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="#c48b3b"/></marker>
+    <marker id="arrowRed" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="#a9574b"/></marker>
+    <style>
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif}.title{font-size:42px;font-weight:760;fill:#1f3d43}.sub{font-size:20px;fill:#557078}.head{font-size:24px;font-weight:760;fill:#203e44}.body{font-size:17px;fill:#526d73}.whiteHead{font-size:23px;font-weight:760;fill:#fff}.whiteBody{font-size:16px;fill:#dce9e9}.chem{font-size:22px;font-weight:720;fill:#fff}.flow{font-size:16px;font-weight:720;fill:#2e606b}.small{font-size:15px;fill:#63787e}
+    </style>
+  </defs>
+  <rect width="1600" height="960" fill="url(#bg)"/>
+  <g class="sans"><text x="74" y="67" class="title">鲸落如何把有机物分解转化为化能合成生产</text><text x="76" y="106" class="sub">还原性底物来自鲸体有机质；真正高生产的区域是电子供体与氧化剂相遇的界面。</text></g>
+
+  <g transform="translate(90 170)" class="sans" filter="url(#shadow)">
+    <rect width="330" height="190" rx="26" fill="#ffffff" stroke="#c9d9da" stroke-width="2"/>
+    <circle cx="58" cy="58" r="32" fill="#315f70"/>
+    <path d="M39 62 C51 42 72 42 82 58 C69 59 61 67 53 75 C48 71 43 67 39 62 Z" fill="#d7e4e5"/>
+    <text x="108" y="54" class="head">鲸体有机质储量</text>
+    <text x="108" y="85" class="body">软组织 · 骨脂 · 骨胶原</text>
+    <text x="28" y="130" class="body">表层光合作用固定的碳，经食物网</text>
+    <text x="28" y="160" class="body">积累后以大型、集中颗粒抵达海底。</text>
+  </g>
+
+  <g transform="translate(635 170)" class="sans" filter="url(#shadow)">
+    <rect width="330" height="190" rx="26" fill="#ffffff" stroke="#c9d9da" stroke-width="2"/>
+    <circle cx="58" cy="58" r="32" fill="#a9574b"/><text x="58" y="66" text-anchor="middle" class="chem">O₂</text>
+    <text x="108" y="54" class="head">食腐与异养呼吸</text>
+    <text x="108" y="85" class="body">大动物碎裂 · 微生物水解</text>
+    <text x="28" y="130" class="body">有机碳被摄食、呼吸或释放为碎屑；</text>
+    <text x="28" y="160" class="body">高耗氧使骨内和沉积物转向还原态。</text>
+  </g>
+
+  <g transform="translate(1180 170)" class="sans" filter="url(#shadow)">
+    <rect width="330" height="190" rx="26" fill="#ffffff" stroke="#c9d9da" stroke-width="2"/>
+    <circle cx="58" cy="58" r="32" fill="#527f7a"/><text x="58" y="65" text-anchor="middle" class="chem">C</text>
+    <text x="108" y="54" class="head">碳的多条去向</text>
+    <text x="108" y="85" class="body">DIC · DOC · 生物量 · 埋藏</text>
+    <text x="28" y="130" class="body">深海输出不等于永久封存；相当部分</text>
+    <text x="28" y="160" class="body">有机质会在海底再矿化为无机碳。</text>
+  </g>
+
+  <g fill="none" stroke-width="5"><path d="M420 265 C500 265 545 265 634 265" stroke="#2f7180" marker-end="url(#arrowBlue)"/><path d="M965 265 C1045 265 1090 265 1179 265" stroke="#2f7180" marker-end="url(#arrowBlue)"/></g>
+  <g class="sans"><text x="522" y="244" text-anchor="middle" class="flow">摄食 · 水解</text><text x="1070" y="244" text-anchor="middle" class="flow">呼吸 · 转化</text></g>
+
+  <path d="M0 480 C300 446 500 492 790 461 C1100 428 1320 485 1600 449 L1600 960 L0 960 Z" fill="url(#sed)"/>
+  <g class="sans"><text x="72" y="505" class="whiteHead">骨骼与沉积物中的还原区</text><text x="72" y="536" class="whiteBody">氧扩散不足，硫酸盐与有机底物控制厌氧代谢。</text></g>
+
+  <g transform="translate(86 598)" class="sans" filter="url(#shadow)">
+    <rect width="400" height="210" rx="27" fill="#294b51" stroke="#5f7b7d"/>
+    <text x="28" y="48" class="whiteHead">硫酸盐还原</text>
+    <text x="28" y="92" class="chem">2CH₂O + SO₄²⁻</text>
+    <text x="28" y="128" class="chem">→ H₂S + 2HCO₃⁻</text>
+    <text x="28" y="169" class="whiteBody">厌氧微生物以硫酸盐为电子受体，</text>
+    <text x="28" y="196" class="whiteBody">产生可向含氧界面扩散的硫化物。</text>
+  </g>
+
+  <g transform="translate(600 598)" class="sans" filter="url(#shadow)">
+    <rect width="400" height="210" rx="27" fill="#34494d" stroke="#66797b"/>
+    <text x="28" y="48" class="whiteHead">产甲烷与甲烷氧化</text>
+    <text x="28" y="92" class="chem">有机底物 → CH₄ + CO₂</text>
+    <text x="28" y="132" class="whiteBody">当底物充足或硫酸盐局部耗竭时，</text>
+    <text x="28" y="159" class="whiteBody">产甲烷古菌可与硫循环并行；部分</text>
+    <text x="28" y="186" class="whiteBody">甲烷可在沉积物中被厌氧氧化。</text>
+  </g>
+
+  <g transform="translate(1114 568)" class="sans" filter="url(#shadow)">
+    <rect width="400" height="260" rx="27" fill="#315d62" stroke="#6c9291"/>
+    <text x="28" y="48" class="whiteHead">界面硫氧化与化能合成</text>
+    <text x="28" y="92" class="chem">H₂S + 2O₂</text>
+    <text x="28" y="128" class="chem">→ SO₄²⁻ + 2H⁺ + 能量</text>
+    <text x="28" y="170" class="whiteBody">硫氧化菌用能量固定无机碳，形成</text>
+    <text x="28" y="197" class="whiteBody">菌席、新生物量与动物共生生产；</text>
+    <text x="28" y="224" class="whiteBody">需要供体与氧化剂持续在界面相遇。</text>
+  </g>
+
+  <g fill="none" stroke-width="5"><path d="M486 702 C535 676 555 676 599 688" stroke="#c48b3b" marker-end="url(#arrowGold)"/><path d="M486 640 C700 493 1000 494 1170 568" stroke="#c48b3b" marker-end="url(#arrowGold)"/><path d="M1000 687 C1052 660 1074 656 1113 668" stroke="#c48b3b" marker-end="url(#arrowGold)"/><path d="M1315 568 C1300 474 1140 438 960 406" stroke="#a9574b" marker-end="url(#arrowRed)"/></g>
+  <g class="sans"><text x="811" y="494" text-anchor="middle" class="flow" fill="#f0ce88">H₂S 向含氧界面扩散</text><text x="1308" y="464" text-anchor="middle" class="flow">新生物量进入食物网</text></g>
+  <text x="76" y="913" class="sans small" fill="#d5e3e4">注：图示省略硝酸盐、铁、锰、氮和磷循环。鲸落化能合成属于由有机输入间接供能的次生生产，能量来源不同于热液喷口。</text>
+</svg>

@@ -1,0 +1,31 @@
+---
+layout: single
+permalink: /books/qijia/
+title: "起家：中国古代富人的第一桶金"
+excerpt: "一部关于中国古代富人如何起家、经营、处置财富的历史书稿。从具体人物出发，追问本钱、机会、代价与财富的归宿。"
+comments: false
+share: false
+related: false
+read_time: false
+---
+
+<p class="notice">历史书稿连载 · 作者：qscqesze</p>
+
+<p>当一个人还没有钱、没有名的时候，他的第一步是怎么迈出去的？</p>
+
+<p>这本书沿着中国古代富人的经历，追踪学徒、伙计、经营者怎样积累本钱，怎样得到机会，怎样把一门小生意做大，也追踪他们面对的失败、关系与制度。每章讲述一个人的人生，写清他做成了什么，付出了什么，又把财富用在了哪里。</p>
+
+<p>“白手起家”在这里是一道需要核查的问题。钱、手艺、家族和人脉，都要算进起点。叙事依据可追溯的历史材料；传说、推断和记载之间的差异，随文或在章末说明。</p>
+
+<h2>书稿目录</h2>
+
+{% assign chapters = site.categories['起家'] | sort: 'chapter' %}
+{% for post in chapters %}
+  <section class="category-section">
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <p>{{ post.excerpt | strip_html }}</p>
+    <p><a href="{{ post.url | relative_url }}">阅读全文 →</a></p>
+  </section>
+{% endfor %}
+
+<p><a href="{{ '/categories/#qijia' | relative_url }}">查看“起家”分类归档</a></p>

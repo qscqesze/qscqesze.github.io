@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">标准注意力与 FlashAttention 的数据流对比</title>
+  <desc id="desc">标准实现把大型 S 和 P 矩阵写入 HBM，FlashAttention 在片上按块计算并只写最终输出。</desc>
+  <rect width="1200" height="620" rx="24" fill="#f8fafc"/>
+  <style>
+    .h{font:700 28px system-ui,sans-serif;fill:#172033}.t{font:600 20px system-ui,sans-serif;fill:#172033}.s{font:16px system-ui,sans-serif;fill:#526071}.box{fill:#fff;stroke:#cbd5e1;stroke-width:2}.bad{fill:#fff1f2;stroke:#fb7185;stroke-width:2}.good{fill:#ecfdf5;stroke:#34d399;stroke-width:2}.arr{stroke:#64748b;stroke-width:3;fill:none;marker-end:url(#a)}
+  </style>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0l10 5-10 5z" fill="#64748b"/></marker></defs>
+  <text x="62" y="62" class="h">标准注意力：每个算子都要“出门去仓库”</text>
+  <g transform="translate(62 95)">
+    <rect x="0" y="0" width="150" height="72" rx="12" class="box"/><text x="75" y="44" text-anchor="middle" class="t">Q · Kᵀ</text>
+    <path d="M150 36h62" class="arr"/>
+    <rect x="218" y="0" width="150" height="72" rx="12" class="bad"/><text x="293" y="32" text-anchor="middle" class="t">S</text><text x="293" y="55" text-anchor="middle" class="s">N × N</text>
+    <path d="M368 36h62" class="arr"/>
+    <rect x="436" y="0" width="150" height="72" rx="12" class="box"/><text x="511" y="44" text-anchor="middle" class="t">Softmax</text>
+    <path d="M586 36h62" class="arr"/>
+    <rect x="654" y="0" width="150" height="72" rx="12" class="bad"/><text x="729" y="32" text-anchor="middle" class="t">P</text><text x="729" y="55" text-anchor="middle" class="s">N × N</text>
+    <path d="M804 36h62" class="arr"/>
+    <rect x="872" y="0" width="150" height="72" rx="12" class="box"/><text x="947" y="44" text-anchor="middle" class="t">P · V → O</text>
+    <rect x="198" y="104" width="626" height="76" rx="14" fill="#ffe4e6" stroke="#fb7185" stroke-width="2" stroke-dasharray="8 6"/>
+    <text x="511" y="136" text-anchor="middle" class="t" fill="#be123c">S、P 要写进 HBM，再读回来</text>
+    <text x="511" y="162" text-anchor="middle" class="s">慢的不一定是计算，而是中间结果的往返搬运</text>
+  </g>
+  <line x1="62" y1="330" x2="1138" y2="330" stroke="#dbe2ea" stroke-width="2"/>
+  <text x="62" y="386" class="h">FlashAttention：小块进片上“工作台”，算完即丢</text>
+  <g transform="translate(62 418)">
+    <rect x="0" y="0" width="186" height="88" rx="14" class="box"/><text x="93" y="37" text-anchor="middle" class="t">Qᵢ · Kⱼᵀ</text><text x="93" y="65" text-anchor="middle" class="s">只取一小块</text>
+    <path d="M186 44h58" class="arr"/>
+    <rect x="250" y="0" width="330" height="88" rx="14" class="good"/><text x="415" y="35" text-anchor="middle" class="t">片上融合计算</text><text x="415" y="64" text-anchor="middle" class="s">mask → online softmax → 乘 Vⱼ</text>
+    <path d="M580 44h58" class="arr"/>
+    <rect x="644" y="0" width="190" height="88" rx="14" class="good"/><text x="739" y="35" text-anchor="middle" class="t">更新 Oᵢ</text><text x="739" y="64" text-anchor="middle" class="s">保留 m、ℓ 统计量</text>
+    <path d="M834 44h58" class="arr"/>
+    <rect x="898" y="0" width="140" height="88" rx="14" class="box"/><text x="968" y="52" text-anchor="middle" class="t">最终 O</text>
+    <path d="M739 88v51H93v-45" class="arr"/>
+    <text x="422" y="133" text-anchor="middle" class="s">换下一块 Kⱼ、Vⱼ，继续累积</text>
+  </g>
+</svg>

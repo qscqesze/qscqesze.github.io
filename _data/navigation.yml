@@ -1,0 +1,21 @@
+main:
+  - title: "文章"
+    url: /
+
+  - title: "漫画"
+    url: /comics/
+
+  - title: "分类"
+    url: /categories/
+
+  - title: "独立游戏"
+    url: /indie-games/
+
+  - title: "旧文"
+    url: /legacy/
+
+  - title: "留言"
+    url: /guestbook/
+
+  - title: "关于"
+    url: /about/

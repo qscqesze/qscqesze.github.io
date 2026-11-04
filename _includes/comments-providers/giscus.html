@@ -1,0 +1,53 @@
+{% assign giscus = site.comments.giscus %}
+
+{% if giscus.repo and giscus.repo_id and giscus.category and giscus.category_id %}
+  <section class="giscus"></section>
+  <script>
+    (() => {
+      const currentScript = document.currentScript;
+      const giscusScript = document.createElement("script");
+
+      const siteTheme = () => {
+        const savedTheme = localStorage.getItem("theme");
+        if (savedTheme === "dark" || savedTheme === "light") return savedTheme;
+        if (document.documentElement.hasAttribute("data-theme")) return "dark";
+        return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      };
+
+      const syncGiscusTheme = () => {
+        const theme = siteTheme();
+        giscusScript.dataset.theme = theme;
+        const frame = document.querySelector("iframe.giscus-frame");
+        if (frame) {
+          frame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme } } },
+            "https://giscus.app"
+          );
+        }
+      };
+
+      giscusScript.src = "https://giscus.app/client.js";
+      giscusScript.dataset.repo = "{{ giscus.repo }}";
+      giscusScript.dataset.repoId = "{{ giscus.repo_id }}";
+      giscusScript.dataset.category = "{{ giscus.category }}";
+      giscusScript.dataset.categoryId = "{{ giscus.category_id }}";
+      giscusScript.dataset.mapping = "{{ giscus.mapping | default: 'pathname' }}";
+      giscusScript.dataset.strict = "{{ giscus.strict | default: '0' }}";
+      giscusScript.dataset.reactionsEnabled = "{{ giscus.reactions_enabled | default: '1' }}";
+      giscusScript.dataset.emitMetadata = "{{ giscus.emit_metadata | default: '0' }}";
+      giscusScript.dataset.inputPosition = "{{ giscus.input_position | default: 'bottom' }}";
+      giscusScript.dataset.lang = "{% if page.lang == 'en' %}en{% else %}{{ giscus.lang | default: site.locale | default: 'zh-CN' }}{% endif %}";
+      {% if giscus.loading %}giscusScript.dataset.loading = "{{ giscus.loading }}";{% endif %}
+      giscusScript.crossOrigin = "anonymous";
+      giscusScript.async = true;
+      giscusScript.dataset.theme = siteTheme();
+
+      currentScript.insertAdjacentElement("afterend", giscusScript);
+
+      new MutationObserver(syncGiscusTheme).observe(document.documentElement, {
+        attributes: true,
+        attributeFilter: ["data-theme"]
+      });
+    })();
+  </script>
+{% endif %}

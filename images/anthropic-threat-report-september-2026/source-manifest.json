@@ -1,0 +1,430 @@
+{
+  "source_title": "Detecting and countering misuse of AI: September 2026",
+  "publisher": "Anthropic",
+  "publication_date": "2026-09-10",
+  "source_url": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf",
+  "source_sha256": "cdea01e84f61de63ad80eabaa949047290921eaa2bec738d401b06eef6adfb1c",
+  "pdf_pages": 154,
+  "images": [
+    {
+      "file": "p007-01.png",
+      "pdf_page": 7,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "300853ae06cfedc811e7784653b2b7488563121a564aa45b7f54877285595925"
+    },
+    {
+      "file": "p012-01.jpeg",
+      "pdf_page": 12,
+      "width": 1920,
+      "height": 312,
+      "sha256": "ab4da20113c04f3ad569f30b484e7894177c715a169574d71170312b3242c5e5"
+    },
+    {
+      "file": "p015-01.png",
+      "pdf_page": 15,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b4cea39dabec3a65d13cb128b77a1ff74bde19a55639eeac01b627579a3730c2"
+    },
+    {
+      "file": "p015-02.jpeg",
+      "pdf_page": 15,
+      "width": 1920,
+      "height": 500,
+      "sha256": "b6c355c2bc91ec021874adecdc917b4d2e8b8619a34b7bd77232f4d12911f12a"
+    },
+    {
+      "file": "p016-01.jpeg",
+      "pdf_page": 16,
+      "width": 1999,
+      "height": 823,
+      "sha256": "da2dfb63ddc232bebb0db5204fda23416067c0a955f67b9da8a8e4bcd117df0f"
+    },
+    {
+      "file": "p017-01.jpeg",
+      "pdf_page": 17,
+      "width": 1999,
+      "height": 1193,
+      "sha256": "b2a5ade8e1684658c292aad45f7fb2568b6bfb134e65fc42332f667f5b1e01e2"
+    },
+    {
+      "file": "p017-02.jpeg",
+      "pdf_page": 17,
+      "width": 1999,
+      "height": 792,
+      "sha256": "d7f7e8ae9fe3f0fd32215de3b64ed5b33925ffcab1f389cb69ed9ba088e0f4e3"
+    },
+    {
+      "file": "p018-01.jpeg",
+      "pdf_page": 18,
+      "width": 1999,
+      "height": 866,
+      "sha256": "e282469d8b45199ccded40da1a226358cf4671a99da940eba105a90128b552a5"
+    },
+    {
+      "file": "p018-02.jpeg",
+      "pdf_page": 18,
+      "width": 1999,
+      "height": 792,
+      "sha256": "9fc232fb37e454989bdb71ce3e53e456a800bd6a5f6d0627d18fc354cea603f1"
+    },
+    {
+      "file": "p019-01.jpeg",
+      "pdf_page": 19,
+      "width": 1999,
+      "height": 760,
+      "sha256": "679af5716f06738b366078843d0b44918f3f2424653cafe393462764054a1ac3"
+    },
+    {
+      "file": "p019-02.jpeg",
+      "pdf_page": 19,
+      "width": 1999,
+      "height": 760,
+      "sha256": "2a976cdc0a19e00f553025f6a084438fc1aad35e1f19b29582c383b84ece8b02"
+    },
+    {
+      "file": "p020-01.jpeg",
+      "pdf_page": 20,
+      "width": 1999,
+      "height": 760,
+      "sha256": "7b965215b15c491dda73d5235b1d0096a423071c78d1371df296a8aa30114c94"
+    },
+    {
+      "file": "p021-01.jpeg",
+      "pdf_page": 21,
+      "width": 1813,
+      "height": 1999,
+      "sha256": "b07c052e59281e586193288e156e7dee0531139f87dc2476707b6190f002e74b"
+    },
+    {
+      "file": "p025-01.png",
+      "pdf_page": 25,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0cca304b5d0e6ae406c2a74d69591f74d4fa2585e1fe79d2cec6a4ad90aaf8f5"
+    },
+    {
+      "file": "p027-01.jpeg",
+      "pdf_page": 27,
+      "width": 1920,
+      "height": 471,
+      "sha256": "dda95e2b09c349f831790d620d3b023180366ee15638f7a0929f78a6894d0513"
+    },
+    {
+      "file": "p027-02.jpeg",
+      "pdf_page": 27,
+      "width": 1920,
+      "height": 471,
+      "sha256": "4a2afa433330d9d56fa03ccedc4370a4fada6a2143507c3f295e574d1111f170"
+    },
+    {
+      "file": "p028-01.jpeg",
+      "pdf_page": 28,
+      "width": 1920,
+      "height": 471,
+      "sha256": "1f83496c853a98567ebb3209f8959575d417e584ff18fd58ebd7dc5c07dacaa6"
+    },
+    {
+      "file": "p031-01.png",
+      "pdf_page": 31,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b0bbffdd3d7ca21e3c547bf942bd3b1b2ad3518c351e08607bf1108db477273f"
+    },
+    {
+      "file": "p032-01.jpeg",
+      "pdf_page": 32,
+      "width": 1920,
+      "height": 496,
+      "sha256": "03ab0acf133505ed8fb46fe9c1a4b29038d8b0181e62eb36b1d799c241d3a20c"
+    },
+    {
+      "file": "p032-02.jpeg",
+      "pdf_page": 32,
+      "width": 1920,
+      "height": 471,
+      "sha256": "dd355785e7b4e8e76b0bde9a379e0c021f5ebaad70701d4dd6fec79cf23dffa7"
+    },
+    {
+      "file": "p033-01.jpeg",
+      "pdf_page": 33,
+      "width": 1920,
+      "height": 471,
+      "sha256": "61bf76e2e44a33c5231523a9a75326ae0e6103babbe452523d3a6596f1d6c348"
+    },
+    {
+      "file": "p033-02.jpeg",
+      "pdf_page": 33,
+      "width": 1920,
+      "height": 471,
+      "sha256": "0c59e0065c08a8cbb0ce819c536fdfca9a4d00764891f71c81770145c148e52b"
+    },
+    {
+      "file": "p035-01.png",
+      "pdf_page": 35,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8c6b9fbc7b77899e53e4359a5c9814dc9484cf3923e076821eca53470a4a1c44"
+    },
+    {
+      "file": "p040-01.jpeg",
+      "pdf_page": 40,
+      "width": 1920,
+      "height": 1778,
+      "sha256": "f4ee0bff1bbce6a9fd7a18e924221e41f749e4851b6a5f39645aa67717982ed6"
+    },
+    {
+      "file": "p046-01.jpeg",
+      "pdf_page": 46,
+      "width": 1990,
+      "height": 1150,
+      "sha256": "d0eea9e99356f2a701971f3951ed3dc129f583ea25afe1ef8965d8691e111f71"
+    },
+    {
+      "file": "p049-01.jpeg",
+      "pdf_page": 49,
+      "width": 1990,
+      "height": 704,
+      "sha256": "ed681a5eb91ce449eab1bbf2c2fa79761f99faef3d1a16c66954fe915d0a56ce"
+    },
+    {
+      "file": "p050-01.jpeg",
+      "pdf_page": 50,
+      "width": 1990,
+      "height": 1620,
+      "sha256": "54f27f5a1d7eb0c90fdb751d3d13a032e45273c91a151e8835af5db5ee7adf6f"
+    },
+    {
+      "file": "p051-01.jpeg",
+      "pdf_page": 51,
+      "width": 1990,
+      "height": 1620,
+      "sha256": "11ce6c5f2c73f87f868477c4cad3517bd3d3a48ac5d740d84057425203ecef55"
+    },
+    {
+      "file": "p052-01.jpeg",
+      "pdf_page": 52,
+      "width": 1990,
+      "height": 1150,
+      "sha256": "a48e014719cd7259bba1836a890315cac2a18226844e069ea705a289c3fbdebf"
+    },
+    {
+      "file": "p056-01.jpeg",
+      "pdf_page": 56,
+      "width": 1990,
+      "height": 858,
+      "sha256": "c0c5a7ae94b5c3cee808afda072d37ae0b762ccb07a1e398f4cd78a46af48d5c"
+    },
+    {
+      "file": "p056-02.jpeg",
+      "pdf_page": 56,
+      "width": 1990,
+      "height": 1150,
+      "sha256": "1ef4c08341eff2b2646921f6d9597160736d6a4fc276fe524c9137b499b3fa7e"
+    },
+    {
+      "file": "p057-01.jpeg",
+      "pdf_page": 57,
+      "width": 1990,
+      "height": 1150,
+      "sha256": "d76435f84665c00403394d132c12cc9d4f5712e5fc517640b9aa1c63227aeb73"
+    },
+    {
+      "file": "p060-01.jpeg",
+      "pdf_page": 60,
+      "width": 1990,
+      "height": 1150,
+      "sha256": "0697dec18eeaac9a3c72a53a47d550e398b80dcf77eca6aa62a9fd1a291d9194"
+    },
+    {
+      "file": "p061-01.jpeg",
+      "pdf_page": 61,
+      "width": 1990,
+      "height": 1150,
+      "sha256": "929c7335786eae683f87ac9cd53e70e7ecd2a17362f95dee04709665c8b92394"
+    },
+    {
+      "file": "p061-02.jpeg",
+      "pdf_page": 61,
+      "width": 1990,
+      "height": 1150,
+      "sha256": "0061fe17461d0baf1483af05658c8a56a3feddc66959deb7cbc56e79858ddd10"
+    },
+    {
+      "file": "p065-01.jpeg",
+      "pdf_page": 65,
+      "width": 1990,
+      "height": 734,
+      "sha256": "86eb44ee11716680e60ab2ade3b7d24e8ec1d26235378ae9cfff61860ef9d239"
+    },
+    {
+      "file": "p066-01.jpeg",
+      "pdf_page": 66,
+      "width": 1990,
+      "height": 1150,
+      "sha256": "4f50165f9adcb132c51d9bc1f481a85478cb092d4bf11be22df1bfd2224ef7c2"
+    },
+    {
+      "file": "p069-01.jpeg",
+      "pdf_page": 69,
+      "width": 1990,
+      "height": 734,
+      "sha256": "d5138cf30a5ff7c15773b2f9926bcb0dd77a1d7817dbe53f9d2a5412b6e490f2"
+    },
+    {
+      "file": "p073-01.jpeg",
+      "pdf_page": 73,
+      "width": 1990,
+      "height": 1250,
+      "sha256": "97ce3410acb191bc8138e03ac434b424704814daaa88cb4c34e15cd2f35873a0"
+    },
+    {
+      "file": "p074-01.jpeg",
+      "pdf_page": 74,
+      "width": 1990,
+      "height": 1150,
+      "sha256": "5b8cbd542d002e081d6bfdc86597663fa2e9e064b535083ce2195ff9c5ea0d3a"
+    },
+    {
+      "file": "p077-01.jpeg",
+      "pdf_page": 77,
+      "width": 1990,
+      "height": 1620,
+      "sha256": "65aa2df88d7730fb8c5d5f0f3d047956a49dacb812717b89be141fd854a58a89"
+    },
+    {
+      "file": "p080-01.jpeg",
+      "pdf_page": 80,
+      "width": 1990,
+      "height": 1617,
+      "sha256": "e4f0cd4fa02f1e767acc89ce8b882ba45439cfe3b23aa598fd6b5fc74298ab8f"
+    },
+    {
+      "file": "p084-01.jpeg",
+      "pdf_page": 84,
+      "width": 1920,
+      "height": 960,
+      "sha256": "9dc2d4de2b874690d6aff6e2305032853befd7198c47d141f93bdfd9ce289c80"
+    },
+    {
+      "file": "p088-01.jpeg",
+      "pdf_page": 88,
+      "width": 1920,
+      "height": 744,
+      "sha256": "8cb5b1b2cb5b277c879fc9e018fb2d35c858ed2cb8a860fe1f9d3fe1f869f71e"
+    },
+    {
+      "file": "p091-01.jpeg",
+      "pdf_page": 91,
+      "width": 1920,
+      "height": 821,
+      "sha256": "eaf681e7a7bbbb9f6092978700a4c84475bbad4a947d807d7af8b9c48f72cc98"
+    },
+    {
+      "file": "p092-01.jpeg",
+      "pdf_page": 92,
+      "width": 1990,
+      "height": 1150,
+      "sha256": "ecb372c2e17bfb93fa8c6dccea1ded4e944b8efc16350a69b4c2cac8ecaa52a0"
+    },
+    {
+      "file": "p095-01.jpeg",
+      "pdf_page": 95,
+      "width": 1920,
+      "height": 568,
+      "sha256": "0f52b943f9a34acc828e2501c973ddee2db46b24b35a034bafb2e411e88215c9"
+    },
+    {
+      "file": "p096-01.jpeg",
+      "pdf_page": 96,
+      "width": 1990,
+      "height": 892,
+      "sha256": "170121cab9bfb1ed3cad832280b9460fa24dbdd0c692862983b72a87c1ff1582"
+    },
+    {
+      "file": "p096-02.jpeg",
+      "pdf_page": 96,
+      "width": 1990,
+      "height": 1150,
+      "sha256": "2b753f24783c81432ecf81851ce6fa22e04ef87f7abb73caa543ff007b9aad2f"
+    },
+    {
+      "file": "p100-01.jpeg",
+      "pdf_page": 100,
+      "width": 1990,
+      "height": 1150,
+      "sha256": "413657047d502553cd2c83dfc63fec488f7697e88aa3a90cbb6bcaf5f9956acf"
+    },
+    {
+      "file": "p114-01.jpeg",
+      "pdf_page": 114,
+      "width": 1920,
+      "height": 1487,
+      "sha256": "41c122790bf13b73e8ea797aefe393d08180c9c9b57a77e5bcd8f7617246100d"
+    },
+    {
+      "file": "p116-01.jpeg",
+      "pdf_page": 116,
+      "width": 1920,
+      "height": 966,
+      "sha256": "2af0dda5140926a8bd7ac933f785bd3319765a4917dee5fd31995c7e4497c3f1"
+    },
+    {
+      "file": "p118-01.jpeg",
+      "pdf_page": 118,
+      "width": 1920,
+      "height": 1276,
+      "sha256": "92a5ae7153b9e18582b9756fcaccb2d6baddea4d69d0c840b3cdfbba9227841b"
+    },
+    {
+      "file": "p121-01.jpeg",
+      "pdf_page": 121,
+      "width": 1920,
+      "height": 1246,
+      "sha256": "b69a0a209806c141ad39c3cad48267aca2e162c3b0821160fdd704fc1ecce769"
+    },
+    {
+      "file": "p122-01.jpeg",
+      "pdf_page": 122,
+      "width": 1920,
+      "height": 1258,
+      "sha256": "26679a865d0f5bc875f0847e04e42938d4b23e14a1c4b9f43986b464d39ae172"
+    },
+    {
+      "file": "p125-01.jpeg",
+      "pdf_page": 125,
+      "width": 1920,
+      "height": 1124,
+      "sha256": "800cdacd5550c9ab7bbbcd9a90df580205e751d0e89b3fe878ee86e3d14c71b9"
+    },
+    {
+      "file": "p128-01.jpeg",
+      "pdf_page": 128,
+      "width": 1920,
+      "height": 1259,
+      "sha256": "b3be561d206eba8ea42b952b384f4dbec7236b9f9ce2e7f8977c5b36a55b9b71"
+    },
+    {
+      "file": "p141-01.jpeg",
+      "pdf_page": 141,
+      "width": 1920,
+      "height": 1526,
+      "sha256": "3836e80caf79cd0feab277fbaa3c2f6667d57e4e82c46b2699c3f40bdd162b16"
+    },
+    {
+      "file": "p143-01.jpeg",
+      "pdf_page": 143,
+      "width": 1920,
+      "height": 470,
+      "sha256": "37ffd2c2361e1151e954f3790e3b7b77f28325b4273dfdc566fa36a17be01c5b"
+    },
+    {
+      "file": "p144-01.jpeg",
+      "pdf_page": 144,
+      "width": 1920,
+      "height": 631,
+      "sha256": "1bfbc396fabdcba1678c2af5d662d5a253f90e2419be2d6ecf68c0b658f9720c"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "scope": "洪武三年十一月六公二十八侯，不含十二月另封的薛显；常茂与康铎为遗功受封者。",
+  "notes": "本人死亡、追罪和后裔处分分开编码；卒不等于已经确诊自然死因。",
+  "counts": {
+    "洪武朝处死": 14,
+    "卒或病卒，未记本人处死": 16,
+    "获罪安置后卒": 1,
+    "召还途中卒": 1,
+    "洪武后自杀": 1,
+    "战死": 1
+  },
+  "people": [
+    {
+      "order": 1,
+      "person_and_title": "李善长，韩国公",
+      "personal_fate": "1390 年以胡党案被诛",
+      "later_events": "家口大量被杀；子李祺因尚公主获不同处理",
+      "death_category": "洪武朝处死"
+    },
+    {
+      "order": 2,
+      "person_and_title": "徐达，魏国公",
+      "personal_fate": "1385 年病卒",
+      "later_events": "子女及两支公爵家族后续命运不同；不能据此编成全家被杀",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 3,
+      "person_and_title": "常茂，郑国公",
+      "personal_fate": "1387 年获罪安置龙州，1391 年卒",
+      "later_events": "父常遇春已于 1369 年军中病卒；弟常升之死有异说",
+      "death_category": "获罪安置后卒"
+    },
+    {
+      "order": 4,
+      "person_and_title": "李文忠，曹国公",
+      "personal_fate": "1384 年病卒",
+      "later_events": "朱元璋怀疑华中投毒，处分华中及医者；不是李文忠谋逆伏诛",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 5,
+      "person_and_title": "冯胜，宋国公",
+      "personal_fate": "1395 年被赐死",
+      "later_events": "诸子不得袭爵；不能简单写成 1393 年蓝案当场被杀",
+      "death_category": "洪武朝处死"
+    },
+    {
+      "order": 6,
+      "person_and_title": "邓愈，卫国公",
+      "personal_fate": "1377 年征还途中病卒",
+      "later_events": "子邓镇后来因李善长案受牵连被诛",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 7,
+      "person_and_title": "汤和，中山侯（后信国公）",
+      "personal_fate": "1395 年病卒",
+      "later_events": "本人获优礼；后嗣袭封仍有中断，不等于家族一路无事",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 8,
+      "person_and_title": "唐胜宗，延安侯",
+      "personal_fate": "1390 年坐胡党被诛",
+      "later_events": "曾因擅用驿骑削爵，后复爵；旧过与最后谋逆指控须分开",
+      "death_category": "洪武朝处死"
+    },
+    {
+      "order": 9,
+      "person_and_title": "陆仲亨，吉安侯",
+      "personal_fate": "1390 年坐胡党被诛",
+      "later_events": "与唐胜宗等被家奴告发，籍没家产",
+      "death_category": "洪武朝处死"
+    },
+    {
+      "order": 10,
+      "person_and_title": "周德兴，江夏侯",
+      "personal_fate": "1392 年因子周骥“乱宫”案一并被诛",
+      "later_events": "本人军事功绩不能替代对连坐责任的审查",
+      "death_category": "洪武朝处死"
+    },
+    {
+      "order": 11,
+      "person_and_title": "华云龙，淮安侯",
+      "personal_fate": "1374 年被召还，途中卒",
+      "later_events": "有僭用宫室器物指控；子华中另受处分并被追列胡党",
+      "death_category": "召还途中卒"
+    },
+    {
+      "order": 12,
+      "person_and_title": "顾时，济宁侯",
+      "personal_fate": "1379 年卒",
+      "later_events": "1390 年死后追列胡党，子顾敬被诛",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 13,
+      "person_and_title": "耿炳文，长兴侯",
+      "personal_fate": "活过洪武朝；永乐初被劾后自杀",
+      "later_events": "《列传》指向 1403 年，《世表》作 1404 年，保留异文",
+      "death_category": "洪武后自杀"
+    },
+    {
+      "order": 14,
+      "person_and_title": "陈德，临江侯",
+      "personal_fate": "1378 年卒",
+      "later_events": "1390 年追列胡党；子陈镛此前已在北征中败没",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 15,
+      "person_and_title": "郭兴，巩昌侯",
+      "personal_fate": "1384 年卒",
+      "later_events": "1390 年追列胡党；他又名郭子兴，非朱元璋早年的主帅郭子兴",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 16,
+      "person_and_title": "王志，六安侯",
+      "personal_fate": "1386 年卒",
+      "later_events": "死后追列胡党，家族袭爵受损",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 17,
+      "person_and_title": "郑遇春，荥阳侯",
+      "personal_fate": "1390 年坐胡党被诛",
+      "later_events": "与常遇春并非一人；爵除",
+      "death_category": "洪武朝处死"
+    },
+    {
+      "order": 18,
+      "person_and_title": "费聚，平凉侯",
+      "personal_fate": "1390 年坐胡党被诛",
+      "later_events": "云南建功与酒色、失职指控应并列考察",
+      "death_category": "洪武朝处死"
+    },
+    {
+      "order": 19,
+      "person_and_title": "吴良，江阴侯",
+      "personal_fate": "1381 年卒",
+      "later_events": "子吴高在建文、永乐朝几经处分；不能倒算为吴良被杀",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 20,
+      "person_and_title": "吴祯，靖海侯",
+      "personal_fate": "1379 年卒",
+      "later_events": "1390 年追列胡党，爵位被除",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 21,
+      "person_and_title": "赵庸，南雄侯",
+      "personal_fate": "1390 年坐胡党被诛",
+      "later_events": "封侯时已因私纳奴婢受责，不能直接据此证明十多年后的谋逆",
+      "death_category": "洪武朝处死"
+    },
+    {
+      "order": 22,
+      "person_and_title": "廖永忠，德庆侯",
+      "personal_fate": "1375 年因僭用龙凤等罪被赐死",
+      "later_events": "韩林儿覆舟案与其有关，但死因不能径写成“奉密令后被灭口”",
+      "death_category": "洪武朝处死"
+    },
+    {
+      "order": 23,
+      "person_and_title": "俞通源，南安侯",
+      "personal_fate": "1389 年卒",
+      "later_events": "次年追列胡党，以已死不再究问，爵除",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 24,
+      "person_and_title": "华高，广德侯",
+      "personal_fate": "1371 年在琼州卒",
+      "later_events": "无亲子，诰券随葬；爵终不等于刑杀",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 25,
+      "person_and_title": "杨璟，营阳侯",
+      "personal_fate": "1382 年卒",
+      "later_events": "1390 年被追列胡党",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 26,
+      "person_and_title": "康铎，蕲春侯",
+      "personal_fate": "1382 年军中卒",
+      "later_events": "1370 年承父康茂才之功受封，不是幼年即已建立父辈战功",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 27,
+      "person_and_title": "朱亮祖，永嘉侯",
+      "personal_fate": "1380 年与子朱暹一同被鞭死",
+      "later_events": "1390 年又追列胡党，是两次不同的政治处置",
+      "death_category": "洪武朝处死"
+    },
+    {
+      "order": 28,
+      "person_and_title": "傅友德，颍川侯（后颍国公）",
+      "personal_fate": "1394 年被赐死",
+      "later_events": "处死的完整罪证链不见于本传，不采用戏剧化杀子故事填补",
+      "death_category": "洪武朝处死"
+    },
+    {
+      "order": 29,
+      "person_and_title": "胡美，豫章侯（后临川侯）",
+      "personal_fate": "1384 年获罪被赐死",
+      "later_events": "1390 年诏书追述“入乱宫禁”；不应把后来的公布年份当死亡年份",
+      "death_category": "洪武朝处死"
+    },
+    {
+      "order": 30,
+      "person_and_title": "韩政，东平侯",
+      "personal_fate": "1378 年卒",
+      "later_events": "子韩勋 1393 年坐蓝党被诛",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 31,
+      "person_and_title": "黄彬，宜春侯",
+      "personal_fate": "1390 年坐胡党被诛",
+      "later_events": "早年从陈友谅阵营转归朱元璋，曾改善辖境治理",
+      "death_category": "洪武朝处死"
+    },
+    {
+      "order": 32,
+      "person_and_title": "曹良臣，宣宁侯",
+      "personal_fate": "1372 年北征战死",
+      "later_events": "子曹泰 1393 年坐蓝党被诛",
+      "death_category": "战死"
+    },
+    {
+      "order": 33,
+      "person_and_title": "梅思祖，汝南侯",
+      "personal_fate": "1382 年卒",
+      "later_events": "1390 年追列胡党并株连家族",
+      "death_category": "卒或病卒，未记本人处死"
+    },
+    {
+      "order": 34,
+      "person_and_title": "陆聚，河南侯",
+      "personal_fate": "1390 年坐胡党被诛",
+      "later_events": "与陆仲亨、费聚均为不同人物",
+      "death_category": "洪武朝处死"
+    }
+  ]
+}

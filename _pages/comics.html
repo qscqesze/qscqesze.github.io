@@ -1,0 +1,46 @@
+---
+layout: default
+title: "漫画 · 青君作品"
+permalink: /comics/
+excerpt: "青君的黑白短篇漫画：《雨爱》与《会呼吸的痛》。"
+comics: true
+---
+
+<main id="main" class="comic-library">
+  <header class="comic-library__heading">
+    <p class="comic-eyebrow">青君 · 漫画作品</p>
+    <h1>有些话，留在画里。</h1>
+    <p>关于青春，关于那些没能说出口的喜欢。</p>
+  </header>
+
+  <nav class="comic-tabs" aria-label="选择漫画" data-comic-tabs>
+    {% for comic in site.data.comics %}
+    <a id="tab-{{ comic.id }}" href="#{{ comic.id }}" data-comic-tab="{{ comic.id }}"><span class="comic-tabs__number">0{{ forloop.index }}</span> {{ comic.title }} <span class="comic-tabs__length">{{ comic.page_count }} 页</span></a>
+    {% endfor %}
+  </nav>
+
+  {% for comic in site.data.comics %}
+  <section class="comic-feature" id="{{ comic.id }}" aria-labelledby="tab-{{ comic.id }}" data-comic-panel>
+    <a class="comic-feature__cover" href="{{ comic.reader_url | relative_url }}" aria-label="开始阅读《{{ comic.title }}》">
+      <img src="{{ comic.cover | relative_url }}" alt="《{{ comic.title }}》{% if comic.has_cover %}封面{% else %}首页{% endif %}" width="1024" height="1536" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}" decoding="async">
+      <span>阅读漫画 <span aria-hidden="true">↗</span></span>
+    </a>
+    <div class="comic-feature__info">
+      <p class="comic-eyebrow">黑白短篇 / {{ comic.genre }}</p>
+      <h2><a href="{{ comic.reader_url | relative_url }}">{{ comic.title }}</a></h2>
+      <p class="comic-feature__description">{{ comic.description }}</p>
+      <p class="comic-feature__meta">青君 著 <span aria-hidden="true">·</span> {{ comic.page_count }} 页正文{% if comic.has_cover %} + 封面{% endif %} <span aria-hidden="true">·</span> 已完结</p>
+      <div class="comic-feature__actions">
+        <a class="comic-button comic-button--primary" href="{{ comic.reader_url | relative_url }}" data-continue-comic="{{ comic.id }}">开始阅读 <span aria-hidden="true">→</span></a>
+        <a class="comic-feature__restart" href="{{ comic.reader_url | relative_url }}#{{ comic.pages.first.id }}" data-restart-comic="{{ comic.id }}" hidden>从头阅读</a>
+      </div>
+      <p class="comic-feature__hint">支持连续滚动与逐页翻阅，自动记住上次读到的位置。</p>
+      <div class="comic-feature__links">
+        <a href="{{ comic.pdf | relative_url }}" download="{{ comic.title }}-青君-完整版.pdf">下载 PDF <span aria-hidden="true">↗</span></a>
+        {% if comic.script_url %}<a href="{{ comic.script_url | relative_url }}">分镜脚本 <span aria-hidden="true">↗</span></a>{% endif %}
+      </div>
+    </div>
+  </section>
+  {% endfor %}
+  <p class="comic-library__note">阅读顺序：每页自上而下，同排从右向左。</p>
+</main>

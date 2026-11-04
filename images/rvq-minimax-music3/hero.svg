@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">MiniMax Music 3 中 RVQ 的位置</title>
+  <desc id="desc">音乐波形经过八层残差向量量化形成一层语义码与七层声学残差码；全局和局部语言模型预测这些码，并用连续隐藏状态驱动 Flow Matching 与 Flow-VAE 合成立体声音乐。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".55" stop-color="#111c36"/><stop offset="1" stop-color="#28194a"/></linearGradient>
+    <linearGradient id="semantic" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#2389da"/></linearGradient>
+    <linearGradient id="acoustic" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#d946ef"/></linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f59e0b"/><stop offset="1" stop-color="#ef476f"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="15" flood-color="#000" flood-opacity=".36"/></filter>
+    <marker id="arrow" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto"><path d="M0 0L11 5.5L0 11Z" fill="#8bdcff"/></marker>
+  </defs>
+  <rect width="1600" height="900" rx="34" fill="url(#bg)"/>
+  <g opacity=".18" fill="none" stroke="#76dfff" stroke-width="2">
+    <path d="M0 698C120 604 219 788 343 689S567 605 694 699s220 84 346-9 222-88 349 7 135 55 211 1"/>
+    <path d="M0 728C120 634 219 818 343 719s224-84 351 10 220 84 346-9 222-88 349 7 135 55 211 1"/>
+  </g>
+  <g font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">
+    <text x="70" y="82" fill="#f8fbff" font-size="39" font-weight="760">RVQ：MiniMax Music 3 的离散音乐语言</text>
+    <text x="70" y="126" fill="#a8b9d1" font-size="21">一层语义骨架 + 七层声学残差，把五分钟歌曲拆成可生成、可细化、可连续渲染的表示。</text>
+
+    <g filter="url(#shadow)">
+      <rect x="70" y="224" width="260" height="260" rx="28" fill="#0d2237" stroke="#31597c" stroke-width="2"/>
+      <text x="200" y="274" text-anchor="middle" fill="#fff" font-size="25" font-weight="700">真实音乐</text>
+      <text x="200" y="307" text-anchor="middle" fill="#94aac5" font-size="17">连续波形 / 浮点特征</text>
+      <g fill="none" stroke="#60d9ff" stroke-width="5" stroke-linecap="round">
+        <path d="M98 380L111 366l13 33 13-70 13 83 13-51 13 17 13-96 13 151 13-93 13 57 13-30 13 16 13-65 13 111 13-71 13 45 13-20 13 8"/>
+      </g>
+      <text x="200" y="454" text-anchor="middle" fill="#8ca2bd" font-size="16">44.1 kHz stereo</text>
+    </g>
+
+    <path d="M345 354H410" stroke="#8bdcff" stroke-width="5" marker-end="url(#arrow)"/>
+
+    <g filter="url(#shadow)">
+      <rect x="430" y="176" width="340" height="358" rx="28" fill="#0d2036" stroke="#385e84" stroke-width="2"/>
+      <text x="600" y="222" text-anchor="middle" fill="#fff" font-size="27" font-weight="720">8 层 RVQ / 帧</text>
+      <rect x="472" y="254" width="256" height="58" rx="15" fill="url(#semantic)"/>
+      <text x="600" y="290" text-anchor="middle" fill="#06141d" font-size="20" font-weight="800">c₀ · 语义码 · 16,384</text>
+      <g fill="url(#acoustic)">
+        <rect x="472" y="329" width="256" height="30" rx="10"/><rect x="472" y="369" width="256" height="30" rx="10"/>
+        <rect x="472" y="409" width="256" height="30" rx="10"/><rect x="472" y="449" width="256" height="30" rx="10"/>
+      </g>
+      <text x="600" y="351" text-anchor="middle" fill="#fff" font-size="16" font-weight="650">c₁ · residual</text>
+      <text x="600" y="391" text-anchor="middle" fill="#fff" font-size="16" font-weight="650">c₂ · residual</text>
+      <text x="600" y="431" text-anchor="middle" fill="#fff" font-size="16" font-weight="650">c₃ … c₆</text>
+      <text x="600" y="471" text-anchor="middle" fill="#fff" font-size="16" font-weight="650">c₇ · residual · 1,024</text>
+      <text x="600" y="510" text-anchor="middle" fill="#a5b6cd" font-size="16">25 帧/秒 · 理论索引率 2.1 kbps</text>
+    </g>
+
+    <path d="M790 354H855" stroke="#8bdcff" stroke-width="5" marker-end="url(#arrow)"/>
+
+    <g filter="url(#shadow)">
+      <rect x="875" y="176" width="310" height="358" rx="28" fill="#151c39" stroke="#7758a6" stroke-width="2"/>
+      <text x="1030" y="222" text-anchor="middle" fill="#fff" font-size="27" font-weight="720">Hybrid-LM</text>
+      <rect x="915" y="254" width="230" height="92" rx="17" fill="#123d52" stroke="#2dd4bf"/>
+      <text x="1030" y="289" text-anchor="middle" fill="#a7fff2" font-size="21" font-weight="700">8B Global LLM</text>
+      <text x="1030" y="321" text-anchor="middle" fill="#b8c8da" font-size="16">沿时间预测 c₀</text>
+      <rect x="915" y="366" width="230" height="92" rx="17" fill="#39244f" stroke="#c084fc"/>
+      <text x="1030" y="401" text-anchor="middle" fill="#edd3ff" font-size="21" font-weight="700">0.6B Local LLM</text>
+      <text x="1030" y="433" text-anchor="middle" fill="#b8c8da" font-size="16">帧内预测 c₁…c₇</text>
+      <text x="1030" y="497" text-anchor="middle" fill="#81ddff" font-size="16" font-weight="650">保留 8 份连续隐藏状态</text>
+    </g>
+
+    <path d="M1205 354H1270" stroke="#8bdcff" stroke-width="5" marker-end="url(#arrow)"/>
+
+    <g filter="url(#shadow)">
+      <rect x="1290" y="224" width="240" height="260" rx="28" fill="#291f35" stroke="#e07675" stroke-width="2"/>
+      <text x="1410" y="273" text-anchor="middle" fill="#fff" font-size="25" font-weight="720">连续合成</text>
+      <rect x="1322" y="301" width="176" height="61" rx="14" fill="url(#flow)"/>
+      <text x="1410" y="338" text-anchor="middle" fill="#25100a" font-size="18" font-weight="800">Flow Matching</text>
+      <rect x="1322" y="379" width="176" height="61" rx="14" fill="#5f325d"/>
+      <text x="1410" y="417" text-anchor="middle" fill="#fff" font-size="18" font-weight="700">Flow-VAE</text>
+      <text x="1410" y="467" text-anchor="middle" fill="#f4b9ae" font-size="16">最终立体声波形</text>
+    </g>
+
+    <rect x="70" y="646" width="1460" height="142" rx="25" fill="#091729" stroke="#294766" stroke-width="2"/>
+    <text x="107" y="693" fill="#fff" font-size="23" font-weight="720">关键区别</text>
+    <text x="107" y="734" fill="#b5c4d8" font-size="19">传统神经 codec：RVQ token → 查码本 → codec decoder → 波形</text>
+    <text x="107" y="770" fill="#82e5ff" font-size="19" font-weight="700">MiniMax Music 3：RVQ 组织与监督生成；LLM 连续隐藏状态 → Flow Matching → Flow-VAE → 波形</text>
+  </g>
+</svg>

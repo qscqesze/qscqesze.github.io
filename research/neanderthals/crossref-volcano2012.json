@@ -1,0 +1,1120 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        11
+      ]
+    ],
+    "date-time": "2026-07-11T19:52:37Z",
+    "timestamp": 1783799557887,
+    "version": "3.55.0"
+  },
+  "reference-count": 48,
+  "publisher": "National Academy of Sciences",
+  "issue": "34",
+  "content-domain": {
+    "domain": [
+      "www.pnas.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Proc. Natl. Acad. Sci. U.S.A."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2012,
+        8,
+        21
+      ]
+    ]
+  },
+  "abstract": "<jats:p>\n                    Marked changes in human dispersal and development during the Middle to Upper Paleolithic transition have been attributed to massive volcanic eruption and/or severe climatic deterioration. We test this concept using records of volcanic ash layers of the Campanian Ignimbrite eruption dated to\n                    <jats:italic>ca.</jats:italic>\n                    40,000 y ago (40 ka B.P.). The distribution of the Campanian Ignimbrite has been enhanced by the discovery of cryptotephra deposits (volcanic ash layers that are not visible to the naked eye) in archaeological cave sequences. They enable us to synchronize archaeological and paleoclimatic records through the period of transition from Neanderthal to the earliest anatomically modern human populations in Europe. Our results confirm that the combined effects of a major volcanic eruption and severe climatic cooling failed to have lasting impacts on Neanderthals or early modern humans in Europe. We infer that modern humans proved a greater competitive threat to indigenous populations than natural disasters.\n                  </jats:p>",
+  "DOI": "10.1073/pnas.1204579109",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2012,
+        7,
+        24
+      ]
+    ],
+    "date-time": "2012-07-24T00:48:19Z",
+    "timestamp": 1343090899000
+  },
+  "page": "13532-13537",
+  "update-policy": "https://doi.org/10.1073/pnas.cm10313",
+  "source": "Crossref",
+  "is-referenced-by-count": 183,
+  "title": [
+    "Volcanic ash layers illuminate the resilience of Neanderthals and early modern humans to natural hazards"
+  ],
+  "prefix": "10.1073",
+  "volume": "109",
+  "author": [
+    {
+      "given": "John",
+      "family": "Lowe",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Geography, Royal Holloway University of London, Surrey TW20 0EX, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Nick",
+      "family": "Barton",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Archaeology, Oxford University, Oxford OX1 2PG, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Simon",
+      "family": "Blockley",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Geography, Royal Holloway University of London, Surrey TW20 0EX, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Christopher Bronk",
+      "family": "Ramsey",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Research Laboratory for Archaeology and the History of Art, Oxford University, Oxford OX1 3QY, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Victoria L.",
+      "family": "Cullen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Research Laboratory for Archaeology and the History of Art, Oxford University, Oxford OX1 3QY, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "William",
+      "family": "Davies",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Archaeology Department, University of Southampton, National Oceanography Centre, Southampton SO17 1BF, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Clive",
+      "family": "Gamble",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Archaeology Department, University of Southampton, National Oceanography Centre, Southampton SO17 1BF, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Katharine",
+      "family": "Grant",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "School of Ocean and Earth Science, University of Southampton, Hampshire SO14 3ZH, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mark",
+      "family": "Hardiman",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Geography, Royal Holloway University of London, Surrey TW20 0EX, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Rupert",
+      "family": "Housley",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Geography, Royal Holloway University of London, Surrey TW20 0EX, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Christine S.",
+      "family": "Lane",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Research Laboratory for Archaeology and the History of Art, Oxford University, Oxford OX1 3QY, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sharen",
+      "family": "Lee",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Research Laboratory for Archaeology and the History of Art, Oxford University, Oxford OX1 3QY, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mark",
+      "family": "Lewis",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Palaeontology Department, Natural History Museum, London SW7 5BD, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Alison",
+      "family": "MacLeod",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Geography, Royal Holloway University of London, Surrey TW20 0EX, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Martin",
+      "family": "Menzies",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Earth Sciences, Royal Holloway University of London, Surrey TW20 0EX, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Wolfgang",
+      "family": "Müller",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Earth Sciences, Royal Holloway University of London, Surrey TW20 0EX, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mark",
+      "family": "Pollard",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Research Laboratory for Archaeology and the History of Art, Oxford University, Oxford OX1 3QY, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Catherine",
+      "family": "Price",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Archaeology, Oxford University, Oxford OX1 2PG, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Andrew P.",
+      "family": "Roberts",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Research School of Earth Sciences, Australian National University, Acton ACT 0200, Australia;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Eelco J.",
+      "family": "Rohling",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "School of Ocean and Earth Science, University of Southampton, Hampshire SO14 3ZH, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Chris",
+      "family": "Satow",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Geography, Royal Holloway University of London, Surrey TW20 0EX, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Victoria C.",
+      "family": "Smith",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Research Laboratory for Archaeology and the History of Art, Oxford University, Oxford OX1 3QY, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Chris B.",
+      "family": "Stringer",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Palaeontology Department, Natural History Museum, London SW7 5BD, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Emma L.",
+      "family": "Tomlinson",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Earth Sciences, Royal Holloway University of London, Surrey TW20 0EX, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Dustin",
+      "family": "White",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Archaeology, Oxford University, Oxford OX1 2PG, United Kingdom;"
+        },
+        {
+          "name": "Archaeology Department, University of Southampton, National Oceanography Centre, Southampton SO17 1BF, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Paul",
+      "family": "Albert",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Earth Sciences, Royal Holloway University of London, Surrey TW20 0EX, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ilenia",
+      "family": "Arienzo",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Geofisica e Vulcanologia, Sezione di Napoli, Osservatorio Vesuviano, 80124 Naples, Italy;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Graeme",
+      "family": "Barker",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "McDonald Institute for Archaeological Research, University of Cambridge, Department of Archaeology and Anthropology, Cambridge CB2 3ER, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Dušan",
+      "family": "Borić",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Cardiff School of History, Ancient History, Archaeology and Religion, Cardiff University, Cardiff CF10 3EU, United Kingdom;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Antonio",
+      "family": "Carandente",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Geofisica e Vulcanologia, Sezione di Napoli, Osservatorio Vesuviano, 80124 Naples, Italy;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Lucia",
+      "family": "Civetta",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Scienze Fisiche, Università Federico II, 80126 Naples, Italy;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Catherine",
+      "family": "Ferrier",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "De la Préhistoire à l’Actuel: Culture, Environnement et Anthropologie, Préhistoire, Palèoenvironnement, Patrimonie, Unité Mixte de Recherche 5199 Centre National de la Recherche Scientifique, Université Bordeaux 1, 33405 Talence Cedex, France;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jean-Luc",
+      "family": "Guadelli",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "De la Préhistoire à l’Actuel: Culture, Environnement et Anthropologie, Préhistoire, Palèoenvironnement, Patrimonie, Unité Mixte de Recherche 5199 Centre National de la Recherche Scientifique, Université Bordeaux 1, 33405 Talence Cedex, France;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Panagiotis",
+      "family": "Karkanas",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Ephoreia of Palaeoanthropology–Speleology of Southern Greece, 116 36 Athens, Greece;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Margarita",
+      "family": "Koumouzelis",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Ephoreia of Palaeoanthropology–Speleology of Southern Greece, 116 36 Athens, Greece;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ulrich C.",
+      "family": "Müller",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Geosciences, Goethe University Frankfurt, 60438 Frankfurt am Main, Germany;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Giovanni",
+      "family": "Orsi",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Geofisica e Vulcanologia, Sezione di Napoli, Osservatorio Vesuviano, 80124 Naples, Italy;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jörg",
+      "family": "Pross",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Geosciences, Goethe University Frankfurt, 60438 Frankfurt am Main, Germany;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mauro",
+      "family": "Rosi",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Scienze della Terra, Università di Pisa, 56126 Pisa, Italy;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ljiljiana",
+      "family": "Shalamanov-Korobar",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "National Institution Museum of Macedonia, Skopje, Republic of Macedonia;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Nikolay",
+      "family": "Sirakov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "National Institute of Archaeology and Museum of Bulgarian Academy of Sciences, Prehistory, Sofia 1000, Bulgaria; and"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Polychronis C.",
+      "family": "Tzedakis",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Geography, University College London, London WC1E 6BT, United Kingdom"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "341",
+  "published-online": {
+    "date-parts": [
+      [
+        2012,
+        7,
+        23
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_3_1_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1098/rstb.2003.1396"
+    },
+    {
+      "key": "e_1_3_3_2_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "315",
+      "DOI": "10.1007/978-1-4020-5121-0_18",
+      "volume-title": "Neanderthals Revisited: New Approaches and Perspectives",
+      "author": "Stringer C",
+      "year": "2006",
+      "unstructured": "C Stringer Neanderthals Revisited: New Approaches and Perspectives, eds K Harvati, T Harrison (Springer, Heidelberg), pp. 315–324 (2006)."
+    },
+    {
+      "key": "e_1_3_3_3_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature02805"
+    },
+    {
+      "key": "e_1_3_3_4_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev.anthro.31.040402.085416"
+    },
+    {
+      "key": "e_1_3_3_5_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00438240802452676"
+    },
+    {
+      "key": "e_1_3_3_6_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature06117"
+    },
+    {
+      "key": "e_1_3_3_7_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quascirev.2010.11.016"
+    },
+    {
+      "key": "e_1_3_3_8_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1469-185X.2008.00071.x"
+    },
+    {
+      "key": "e_1_3_3_9_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF02597680"
+    },
+    {
+      "key": "e_1_3_3_10_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2012GL051605"
+    },
+    {
+      "key": "e_1_3_3_11_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/656185"
+    },
+    {
+      "key": "e_1_3_3_12_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2008.08.012"
+    },
+    {
+      "key": "e_1_3_3_13_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2008.08.008"
+    },
+    {
+      "key": "e_1_3_3_14_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2008.08.009"
+    },
+    {
+      "key": "e_1_3_3_15_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quageo.2010.08.003"
+    },
+    {
+      "key": "e_1_3_3_16_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s007100170010"
+    },
+    {
+      "key": "e_1_3_3_17_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/gea.20163"
+    },
+    {
+      "key": "e_1_3_3_18_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2008.08.018"
+    },
+    {
+      "key": "e_1_3_3_19_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quascirev.2010.07.021"
+    },
+    {
+      "key": "e_1_3_3_20_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "301",
+      "DOI": "10.1029/139GM20",
+      "volume-title": "Volcanism and Earth’s Atmosphere",
+      "author": "Fedele FG",
+      "year": "2003",
+      "unstructured": "FG Fedele, B Giaccio, R Isaia, G Orsi Volcanism and Earth’s Atmosphere, eds A Robock, C Oppenheimer (AGU Geophys, Washington, DC), pp. 301–325 (2003)."
+    },
+    {
+      "key": "e_1_3_3_21_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.gca.2012.05.043"
+    },
+    {
+      "key": "e_1_3_3_22_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00382-002-0266-4"
+    },
+    {
+      "key": "e_1_3_3_23_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00382-001-0194-8"
+    },
+    {
+      "key": "e_1_3_3_24_2",
+      "first-page": "343",
+      "volume-title": "When Neanderthals and Modern Humans Met",
+      "author": "Giaccio B",
+      "year": "2006",
+      "unstructured": "B Giaccio, et al. When Neanderthals and Modern Humans Met, ed NJ Conard (Kerns Verlag, Tübingen, Germany), pp. 343–375 (2006)."
+    },
+    {
+      "key": "e_1_3_3_25_2",
+      "volume-title": "Proceedings of Symposium Held in Lisbon, Portugal, June 25–30, 2002",
+      "author": "Bar-Yosef O",
+      "year": "2002",
+      "unstructured": ", eds O Bar-Yosef, J Zilhão (Instituto Português de Arqueologia, Lisbon Portugal, Towards a definition of the Aurignacian. Proceedings of Symposium Held in Lisbon, Portugal, June 25–30, 2002, 2002)."
+    },
+    {
+      "key": "e_1_3_3_26_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jas.2009.11.006"
+    },
+    {
+      "key": "e_1_3_3_27_2",
+      "first-page": "249",
+      "volume-title": "Rethinking the Human Revolution: New Behavioural and Biological Perspectives on the Origin and Dispersal of Modern Humans",
+      "author": "Zilhão J",
+      "year": "2007",
+      "unstructured": "J Zilhão, et al. Rethinking the Human Revolution: New Behavioural and Biological Perspectives on the Origin and Dispersal of Modern Humans, eds P Mellars, K Boyle, O Bar-Yosef, C Stringer (McDonald Institute Archaeological Research Monographs, Cambridge, UK), pp. 249–262 (2007)."
+    },
+    {
+      "key": "e_1_3_3_28_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0510005103"
+    },
+    {
+      "key": "e_1_3_3_29_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2010.07.022"
+    },
+    {
+      "key": "e_1_3_3_30_2",
+      "volume-title": "Earliest Italy: An Overview of the Italian Paleolithic and Mesolithic",
+      "author": "Mussi M",
+      "year": "2001",
+      "unstructured": "M Mussi Earliest Italy: An Overview of the Italian Paleolithic and Mesolithic (Plenum, New York, 2001)."
+    },
+    {
+      "key": "e_1_3_3_31_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature10617"
+    },
+    {
+      "key": "e_1_3_3_32_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.yqres.2011.02.005"
+    },
+    {
+      "key": "e_1_3_3_33_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0003598X00061962"
+    },
+    {
+      "key": "e_1_3_3_34_2",
+      "first-page": "309",
+      "article-title": "Klissoura Cave 1 and the Upper Paleolithic of southern Greece in cultural and ecological context",
+      "volume": "7",
+      "author": "Stiner MC",
+      "year": "2010",
+      "unstructured": "MC Stiner, JK Kozlowski, SL Kuhn, P Karkanas, M Koumouzelis, Klissoura Cave 1 and the Upper Paleolithic of southern Greece in cultural and ecological context. Eurasian Prehist 7, 309–321 (2010).",
+      "journal-title": "Eurasian Prehist"
+    },
+    {
+      "key": "e_1_3_3_35_2",
+      "first-page": "131",
+      "article-title": "Nouveau faciès lamellaire du début de Paléolithique supérieur dans les Balkans",
+      "volume": "19",
+      "author": "Sirakov N",
+      "year": "2007",
+      "unstructured": "N Sirakov, et al., Nouveau faciès lamellaire du début de Paléolithique supérieur dans les Balkans. Revue d’Archéologie Préhistorique, PALÉO 19, 131–144 (2007).",
+      "journal-title": "Revue d’Archéologie Préhistorique, PALÉO"
+    },
+    {
+      "key": "e_1_3_3_36_2",
+      "first-page": "85",
+      "volume-title": "The Palaeolithic of the Balkans",
+      "author": "Shalamanov-Korobar L",
+      "year": "2008",
+      "unstructured": "L Shalamanov-Korobar The Palaeolithic of the Balkans, eds A Darlas, D Mihailović (BAR International Series 1819, Oxford), pp. 85–92 (2008)."
+    },
+    {
+      "key": "e_1_3_3_37_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2005.12.007"
+    },
+    {
+      "key": "e_1_3_3_38_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0263718900000273"
+    },
+    {
+      "key": "e_1_3_3_39_2",
+      "volume-title": "The Haua Fteah in Cyrenaica",
+      "author": "McBurney CBM",
+      "year": "1967",
+      "unstructured": "CBM McBurney The Haua Fteah in Cyrenaica (Cambridge Univ Press, Cambridge, UK, 1967)."
+    },
+    {
+      "key": "e_1_3_3_40_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-94-007-2929-2"
+    },
+    {
+      "key": "e_1_3_3_41_2",
+      "first-page": "66",
+      "volume-title": "South-Eastern Mediterranean Peoples Between 130,000 and 10,000 Years Ago",
+      "author": "Vermeersch PM",
+      "year": "2010",
+      "unstructured": "PM Vermeersch South-Eastern Mediterranean Peoples Between 130,000 and 10,000 Years Ago, ed EAA Garcea (Oxbow Books, Oxford), pp. 66–88 (2010)."
+    },
+    {
+      "key": "e_1_3_3_42_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2012.03.003"
+    },
+    {
+      "key": "e_1_3_3_43_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/molbev/mss074"
+    },
+    {
+      "key": "e_1_3_3_44_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quascirev.2004.12.008"
+    },
+    {
+      "key": "e_1_3_3_45_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.chemgeo.2010.09.013"
+    },
+    {
+      "key": "e_1_3_3_46_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quascirev.2011.07.012"
+    },
+    {
+      "key": "e_1_3_3_47_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2005GC001060"
+    },
+    {
+      "key": "e_1_3_3_48_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1039/B805995K"
+    }
+  ],
+  "container-title": [
+    "Proceedings of the National Academy of Sciences"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://pnas.org/doi/pdf/10.1073/pnas.1204579109",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        4,
+        12
+      ]
+    ],
+    "date-time": "2022-04-12T20:43:37Z",
+    "timestamp": 1649796217000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://pnas.org/doi/full/10.1073/pnas.1204579109"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2012,
+        7,
+        23
+      ]
+    ]
+  },
+  "references-count": 48,
+  "journal-issue": {
+    "issue": "34",
+    "published-print": {
+      "date-parts": [
+        [
+          2012,
+          8,
+          21
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1073/pnas.1204579109"
+  ],
+  "URL": "https://doi.org/10.1073/pnas.1204579109",
+  "relation": {},
+  "ISSN": [
+    "0027-8424",
+    "1091-6490"
+  ],
+  "issn-type": [
+    {
+      "value": "0027-8424",
+      "type": "print"
+    },
+    {
+      "value": "1091-6490",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2012,
+        7,
+        23
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2012-07-23",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

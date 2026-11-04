@@ -1,0 +1,1270 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        8
+      ]
+    ],
+    "date-time": "2026-09-08T11:04:17Z",
+    "timestamp": 1788865457928,
+    "version": "build-2803163510"
+  },
+  "reference-count": 87,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "11",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            9,
+            29
+          ]
+        ],
+        "date-time": "2022-09-29T00:00:00Z",
+        "timestamp": 1664409600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            9,
+            29
+          ]
+        ],
+        "date-time": "2022-09-29T00:00:00Z",
+        "timestamp": 1664409600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nat Ecol Evol"
+  ],
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    What role did fluctuations play in biomass availability for secondary consumers in the disappearance of Neanderthals and the survival of modern humans? To answer this, we quantify the effects of stadial and interstadial conditions on ecosystem productivity and human spatiotemporal distribution patterns during the Middle to Upper Palaeolithic transition (50,000–30,000 calibrated years before the present) in Iberia. First, we used summed probability distribution, optimal linear estimation and Bayesian age modelling to reconstruct an updated timescale for the transition. Next, we executed a generalized dynamic vegetation model to estimate the net primary productivity. Finally, we developed a macroecological model validated with present-day observations to calculate herbivore abundance. The results indicate that, in the Eurosiberian region, the disappearance of Neanderthal groups was contemporaneous with a significant decrease in the available biomass for secondary consumers, and the arrival of the first\n                    <jats:italic>Homo sapiens</jats:italic>\n                    populations coincided with an increase in herbivore carrying capacity. During stadials, the Mediterranean region had the most stable conditions and the highest biomass of medium and medium–large herbivores. These outcomes support an ecological cause for the hiatus between the Mousterian and Aurignacian technocomplexes in Northern Iberia and the longer persistence of Neanderthals in southern latitudes.\n                  </jats:p>",
+  "DOI": "10.1038/s41559-022-01861-5",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        29
+      ]
+    ],
+    "date-time": "2022-09-29T12:08:39Z",
+    "timestamp": 1664453319000
+  },
+  "page": "1644-1657",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 52,
+  "title": [
+    "Ecosystem productivity affected the spatiotemporal disappearance of Neanderthals in Iberia"
+  ],
+  "prefix": "10.1038",
+  "volume": "6",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-0595-0633",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Vidal-Cordasco",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4900-4606",
+      "authenticated-orcid": false,
+      "given": "D.",
+      "family": "Ocio",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "T.",
+      "family": "Hickler",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3353-5581",
+      "authenticated-orcid": false,
+      "given": "A. B.",
+      "family": "Marín-Arroyo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        29
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "1861_CR1",
+      "volume": "8",
+      "author": "D Wolf",
+      "year": "2018",
+      "unstructured": "Wolf, D. et al. Climate deteriorations and Neanderthal demise in interior Iberia. Sci. Rep. 8, 7048 (2018).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "1861_CR2",
+      "doi-asserted-by": "crossref",
+      "first-page": "213",
+      "DOI": "10.1016/j.tree.2007.02.001",
+      "volume": "22",
+      "author": "C Finlayson",
+      "year": "2007",
+      "unstructured": "Finlayson, C. & Carrión, J. S. Rapid ecological turnover and its impact on Neanderthal and other human populations. Trends Ecol. Evol. 22, 213–222 (2007).",
+      "journal-title": "Trends Ecol. Evol."
+    },
+    {
+      "key": "1861_CR3",
+      "doi-asserted-by": "crossref",
+      "first-page": "9116",
+      "DOI": "10.1073/pnas.1808647115",
+      "volume": "115",
+      "author": "M Staubwasser",
+      "year": "2018",
+      "unstructured": "Staubwasser, M. et al. Impact of climate change on the transition of Neanderthals to modern humans in Europe. Proc. Natl Acad. Sci. USA 115, 9116–9121 (2018).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "1861_CR4",
+      "doi-asserted-by": "crossref",
+      "first-page": "480",
+      "DOI": "10.1016/j.oneear.2020.09.007",
+      "volume": "3",
+      "author": "P Raia",
+      "year": "2020",
+      "unstructured": "Raia, P. et al. Past extinctions of Homo species coincided with increased vulnerability to climatic change. One Earth 3, 480–490 (2020).",
+      "journal-title": "One Earth"
+    },
+    {
+      "key": "1861_CR5",
+      "doi-asserted-by": "crossref",
+      "first-page": "2781",
+      "DOI": "10.1073/pnas.1207656110",
+      "volume": "110",
+      "author": "RE Wood",
+      "year": "2013",
+      "unstructured": "Wood, R. E. et al. Radiocarbon dating casts doubt on the late chronology of the Middle to Upper Palaeolithic transition in southern Iberia. Proc. Natl Acad. Sci. USA 110, 2781–2786 (2013).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "1861_CR6",
+      "doi-asserted-by": "crossref",
+      "first-page": "306",
+      "DOI": "10.1038/nature13621",
+      "volume": "512",
+      "author": "T Higham",
+      "year": "2014",
+      "unstructured": "Higham, T. et al. The timing and spatiotemporal patterning of Neanderthal disappearance. Nature 512, 306–309 (2014).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "1861_CR7",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0194708",
+      "DOI": "10.1371/journal.pone.0194708",
+      "volume": "13",
+      "author": "AB Marín-Arroyo",
+      "year": "2018",
+      "unstructured": "Marín-Arroyo, A. B. et al. Chronological reassessment of the Middle to Upper Paleolithic transition and Early Upper Paleolithic cultures in Cantabrian Spain. PLoS ONE 13, e0194708 (2018).",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "1861_CR8",
+      "doi-asserted-by": "crossref",
+      "first-page": "14842",
+      "DOI": "10.1038/s41598-018-32493-0",
+      "volume": "8",
+      "author": "JR Jones",
+      "year": "2018",
+      "unstructured": "Jones, J. R. et al. Changing environments during the Middle–Upper Palaeolithic transition in the eastern Cantabrian Region (Spain): direct evidence from stable isotope studies on ungulate bones. Sci. Rep. 8, 14842 (2018).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "1861_CR9",
+      "unstructured": "Iriarte-Chiapusso, J. in Ocupaciones Humanas en Aitzbitarte III (Pais Vasco) 33.600–18.400 BP: Zona de Entrada a la Cueva (eds Altuna, J., Mariezkurrena, K. & Rios, J.) 57–75 (Colección de Patrimonio Cultural Vasco, 2013)."
+    },
+    {
+      "key": "1861_CR10",
+      "doi-asserted-by": "crossref",
+      "first-page": "110096",
+      "DOI": "10.1016/j.palaeo.2020.110096",
+      "volume": "562",
+      "author": "A Álvarez-Vena",
+      "year": "2021",
+      "unstructured": "Álvarez-Vena, A. et al. Environmental context for the Late Pleistocene (MIS 3) transition from Neanderthals to early modern humans: analysis of small mammals from La Güelga Cave, Asturias, northern Spain. Palaeogeogr. Palaeoclimatol. Palaeoecol. 562, 110096 (2021).",
+      "journal-title": "Palaeogeogr. Palaeoclimatol. Palaeoecol."
+    },
+    {
+      "key": "1861_CR11",
+      "doi-asserted-by": "crossref",
+      "first-page": "22",
+      "DOI": "10.1016/j.quaint.2014.09.039",
+      "volume": "364",
+      "author": "E Serrano",
+      "year": "2015",
+      "unstructured": "Serrano, E. et al. Glacial chronology, environmental changes and implications for human occupation during the upper Pleistocene in the eastern Cantabrian Mountains. Quat. Int. 364, 22–34 (2015).",
+      "journal-title": "Quat. Int."
+    },
+    {
+      "key": "1861_CR12",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0180823",
+      "DOI": "10.1371/journal.pone.0180823",
+      "volume": "12",
+      "author": "M Alcaraz-Castaño",
+      "year": "2017",
+      "unstructured": "Alcaraz-Castaño, M. et al. A context for the last Neandertals of interior Iberia: Los Casares cave revisited. PLoS ONE 12, e0180823 (2017).",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "1861_CR13",
+      "doi-asserted-by": "crossref",
+      "first-page": "335",
+      "DOI": "10.1002/jqs.3339",
+      "volume": "37",
+      "author": "J Ochando",
+      "year": "2022",
+      "unstructured": "Ochando, J. et al. Iberian Neanderthals in forests and savannahs. J. Quat. Sci. 37, 335–362 (2022).",
+      "journal-title": "J. Quat. Sci."
+    },
+    {
+      "key": "1861_CR14",
+      "doi-asserted-by": "crossref",
+      "first-page": "836",
+      "DOI": "10.1016/j.quascirev.2006.12.013",
+      "volume": "26",
+      "author": "FJ Jiménez-Espejo",
+      "year": "2007",
+      "unstructured": "Jiménez-Espejo, F. J. et al. Climate forcing and Neanderthal extinction in Southern Iberia: insights from a multiproxy marine record. Quat. Sci. Rev. 26, 836–852 (2007).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "1861_CR15",
+      "doi-asserted-by": "crossref",
+      "first-page": "300",
+      "DOI": "10.1002/jqs.3363",
+      "volume": "37",
+      "author": "M Carvalho",
+      "year": "2022",
+      "unstructured": "Carvalho, M. et al. Neanderthal palaeoecology in the late Middle Palaeolithic of western Iberia: a stable isotope analysis of ungulate teeth from Lapa do Picareiro (Portugal). J. Quat. Sci. 37, 300–319 (2022).",
+      "journal-title": "J. Quat. Sci."
+    },
+    {
+      "key": "1861_CR16",
+      "doi-asserted-by": "crossref",
+      "first-page": "769",
+      "DOI": "10.1016/S0277-3791(03)00009-X",
+      "volume": "22",
+      "author": "F D’Errico",
+      "year": "2003",
+      "unstructured": "D’Errico, F. & Goñi, M. F. S. Neandertal extinction and the millennial scale climatic variability of OIS 3. Quat. Sci. Rev. 22, 769–788 (2003).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "1861_CR17",
+      "doi-asserted-by": "crossref",
+      "first-page": "2604",
+      "DOI": "10.1016/j.quascirev.2010.05.031",
+      "volume": "29",
+      "author": "JRM Allen",
+      "year": "2010",
+      "unstructured": "Allen, J. R. M. et al. Last glacial vegetation of northern Eurasia. Quat. Sci. Rev. 29, 2604–2618 (2010).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "1861_CR18",
+      "doi-asserted-by": "crossref",
+      "first-page": "283",
+      "DOI": "10.1016/j.epsl.2007.03.041",
+      "volume": "258",
+      "author": "P Sepulchre",
+      "year": "2007",
+      "unstructured": "Sepulchre, P. et al. H4 abrupt event and late Neanderthal presence in Iberia. Earth Planet. Sci. Lett. 258, 283–292 (2007).",
+      "journal-title": "Earth Planet. Sci. Lett."
+    },
+    {
+      "key": "1861_CR19",
+      "doi-asserted-by": "crossref",
+      "first-page": "870",
+      "DOI": "10.1038/nature02619",
+      "volume": "429",
+      "author": "ML Imhoff",
+      "year": "2004",
+      "unstructured": "Imhoff, M. L. et al. Global patterns in human consumption of net primary production. Nature 429, 870–873 (2004).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "1861_CR20",
+      "doi-asserted-by": "crossref",
+      "first-page": "4453",
+      "DOI": "10.1111/gcb.14364",
+      "volume": "24",
+      "author": "DC Stoner",
+      "year": "2018",
+      "unstructured": "Stoner, D. C. et al. Climatically driven changes in primary production propagate through trophic levels. Glob. Change Biol. 24, 4453–4463 (2018).",
+      "journal-title": "Glob. Change Biol."
+    },
+    {
+      "key": "1861_CR21",
+      "doi-asserted-by": "crossref",
+      "first-page": "1536",
+      "DOI": "10.1038/s41559-021-01548-3",
+      "volume": "5",
+      "author": "D Zhu",
+      "year": "2021",
+      "unstructured": "Zhu, D., Galbraith, E. D., Reyes-García, V. & Ciais, P. Global hunter-gatherer population densities constrained by influence of seasonality on diet composition. Nat. Ecol. Evol. 5, 1536–1545 (2021).",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "1861_CR22",
+      "doi-asserted-by": "crossref",
+      "first-page": "4116",
+      "DOI": "10.1038/s41467-021-24290-7",
+      "volume": "12",
+      "author": "M Will",
+      "year": "2021",
+      "unstructured": "Will, M., Krapp, M., Stock, J. T. & Manica, A.Different environmental variables predict body and brain size evolution in Homo. Nat. Commun. 12, 4116 (2021).",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "1861_CR23",
+      "doi-asserted-by": "crossref",
+      "first-page": "640",
+      "DOI": "10.1038/s41559-018-0481-y",
+      "volume": "2",
+      "author": "D Zhu",
+      "year": "2018",
+      "unstructured": "Zhu, D. et al. The large mean body size of mammalian herbivores explains the productivity paradox during the last glacial maximum. Nat. Ecol. Evol. 2, 640–649 (2018).",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "1861_CR24",
+      "doi-asserted-by": "crossref",
+      "first-page": "243",
+      "DOI": "10.1016/j.quascirev.2017.06.008",
+      "volume": "169",
+      "author": "L Domingo",
+      "year": "2017",
+      "unstructured": "Domingo, L., Rodríguez-Gómez, G., Libano, I. & Gómez-Olivencia, A. New insights into the Middle Pleistocene paleoecology and paleoenvironment of the Northern Iberian Peninsula (Punta Lucero Quarry site, Biscay): a combined approach using mammalian stable isotope analysis and trophic resource availability modeling. Quat. Sci. Rev. 169, 243–262 (2017).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "1861_CR25",
+      "doi-asserted-by": "crossref",
+      "first-page": "645",
+      "DOI": "10.1016/j.jhevol.2013.02.007",
+      "volume": "64",
+      "author": "G Rodríguez-Gómez",
+      "year": "2013",
+      "unstructured": "Rodríguez-Gómez, G. et al. Modeling trophic resource availability for the first human settlers of Europe: the case of Atapuerca TD6. J. Hum. Evol. 64, 645–657 (2013).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "1861_CR26",
+      "doi-asserted-by": "crossref",
+      "first-page": "64",
+      "DOI": "10.1016/j.quaint.2013.07.046",
+      "volume": "337",
+      "author": "E Discamps",
+      "year": "2014",
+      "unstructured": "Discamps, E. Ungulate biomass fluctuations endured by Middle and Early Upper Paleolithic societies (SW France, MIS 5-3): the contributions of modern analogs and cave hyena paleodemography. Quat. Int. 337, 64–79 (2014).",
+      "journal-title": "Quat. Int."
+    },
+    {
+      "key": "1861_CR27",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0265219",
+      "DOI": "10.1371/journal.pone.0265219",
+      "volume": "17",
+      "author": "J Rios-Garaizar",
+      "year": "2022",
+      "unstructured": "Rios-Garaizar, J. et al. The intrusive nature of the Châtelperronian in the Iberian Peninsula. PLoS ONE 17, e0265219 (2022).",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "1861_CR28",
+      "doi-asserted-by": "crossref",
+      "first-page": "15134",
+      "DOI": "10.1038/s41598-018-33084-9",
+      "volume": "8",
+      "author": "B Gravina",
+      "year": "2018",
+      "unstructured": "Gravina, B. et al. No reliable evidence for a Neanderthal–Châtelperronian association at La Roche-à-Pierrot, Saint-Césaire. Sci. Rep. 8, 15134 (2018).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "1861_CR29",
+      "doi-asserted-by": "crossref",
+      "first-page": "320",
+      "DOI": "10.1002/jqs.3291",
+      "volume": "37",
+      "author": "AB Marín‐Arroyo",
+      "year": "2022",
+      "unstructured": "Marín‐Arroyo, A. B. & Sanz‐Royo, A.What Neanderthals and AMH ate: reassessment of the subsistence across the Middle–Upper Palaeolithic transition in the Vasco‐Cantabrian region of SW Europe. J. Quat. Sci. 37, 320–334 (2022).",
+      "journal-title": "J. Quat. Sci."
+    },
+    {
+      "key": "1861_CR30",
+      "doi-asserted-by": "crossref",
+      "first-page": "107098",
+      "DOI": "10.1016/j.quascirev.2021.107098",
+      "volume": "270",
+      "author": "J Zilhão",
+      "year": "2021",
+      "unstructured": "Zilhão, J. The late persistence of the Middle Palaeolithic and Neandertals in Iberia: a review of the evidence for and against the ‘Ebro Frontier’ model. Quat. Sci. Rev. 270, 107098 (2021).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "1861_CR31",
+      "doi-asserted-by": "crossref",
+      "first-page": "e00435",
+      "DOI": "10.1016/j.heliyon.2017.e00435",
+      "volume": "3",
+      "author": "J Zilhão",
+      "year": "2017",
+      "unstructured": "Zilhão, J. et al. Precise dating of the Middle-to-Upper Paleolithic transition in Murcia (Spain) supports late Neandertal persistence in Iberia. Heliyon 3, e00435 (2017).",
+      "journal-title": "Heliyon"
+    },
+    {
+      "key": "1861_CR32",
+      "doi-asserted-by": "crossref",
+      "first-page": "207",
+      "DOI": "10.1038/s41559-018-0753-6",
+      "volume": "3",
+      "author": "M Cortés-Sánchez",
+      "year": "2019",
+      "unstructured": "Cortés-Sánchez, M. et al. An early Aurignacian arrival in southwestern Europe. Nat. Ecol. Evol. 3, 207–212 (2019).",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "1861_CR33",
+      "doi-asserted-by": "crossref",
+      "first-page": "25414",
+      "DOI": "10.1073/pnas.2016062117",
+      "volume": "117",
+      "author": "JA Haws",
+      "year": "2020",
+      "unstructured": "Haws, J. A. et al. The early Aurignacian dispersal of modern humans into westernmost Eurasia. Proc. Natl Acad. Sci. USA 117, 25414–25422 (2020).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "1861_CR34",
+      "first-page": "135",
+      "volume": "22",
+      "author": "JC Díez Fernández Lomana",
+      "year": "2008",
+      "unstructured": "Díez Fernández Lomana, J. C. et al. El Paleolítico Medio en el Valle del Arlanza (Burgos). Los sitios de la Ermita, Millán y La Mina = Middle Palaeolithic in the Arlanza valley. The sites of La Ermita, Millán and La Mina. Cuaternario Geomorfol. 22, 135–157 (2008).",
+      "journal-title": "Cuaternario Geomorfol."
+    },
+    {
+      "key": "1861_CR35",
+      "doi-asserted-by": "crossref",
+      "first-page": "123",
+      "DOI": "10.1007/s12520-021-01360-x",
+      "volume": "13",
+      "author": "J Rios-Garaizar",
+      "year": "2021",
+      "unstructured": "Rios-Garaizar, J. & Eixea, A. Lithic technological choices of late Neandertals in a mountain environment south of the Ebro Valley, Iberian Peninsula (Peña Miel level e). Archaeol. Anthropol. Sci. 13, 123 (2021).",
+      "journal-title": "Archaeol. Anthropol. Sci."
+    },
+    {
+      "key": "1861_CR36",
+      "doi-asserted-by": "crossref",
+      "first-page": "179",
+      "DOI": "10.1016/j.quaint.2012.01.018",
+      "volume": "274",
+      "author": "I Schmidt",
+      "year": "2012",
+      "unstructured": "Schmidt, I. et al. Rapid climate change and variability of settlement patterns in Iberia during the Late Pleistocene. Quat. Int. 274, 179–204 (2012).",
+      "journal-title": "Quat. Int."
+    },
+    {
+      "key": "1861_CR37",
+      "doi-asserted-by": "crossref",
+      "first-page": "15161",
+      "DOI": "10.1038/s41598-021-94408-w",
+      "volume": "11",
+      "author": "M Alcaraz-Castaño",
+      "year": "2021",
+      "unstructured": "Alcaraz-Castaño, M. et al. First modern human settlement recorded in the Iberian hinterland occurred during Heinrich Stadial 2 within harsh environmental conditions. Sci. Rep. 11, 15161 (2021).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "1861_CR38",
+      "doi-asserted-by": "crossref",
+      "first-page": "e61963",
+      "DOI": "10.1371/journal.pone.0061963",
+      "volume": "8",
+      "author": "B Huntley",
+      "year": "2013",
+      "unstructured": "Huntley, B. et al. Millennial climatic fluctuations are key to the structure of last glacial ecosystems. PLoS ONE 8, e61963 (2013).",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "1861_CR39",
+      "doi-asserted-by": "crossref",
+      "first-page": "eaav9106",
+      "DOI": "10.1126/sciadv.aav9106",
+      "volume": "5",
+      "author": "E Morin",
+      "year": "2019",
+      "unstructured": "Morin, E. et al. New evidence of broader diets for archaic Homo populations in the northwestern Mediterranean. Sci. Adv. 5, eaav9106 (2019).",
+      "journal-title": "Sci. Adv."
+    },
+    {
+      "key": "1861_CR40",
+      "doi-asserted-by": "crossref",
+      "first-page": "665",
+      "DOI": "10.1016/j.crpv.2014.06.001",
+      "volume": "13",
+      "author": "A Rufà",
+      "year": "2014",
+      "unstructured": "Rufà, A., Blasco, R., Rivals, F. & Rosell, J. Leporids as a potential resource for predators (hominins, mammalian carnivores, raptors): an example of mixed contribution from level III of Teixoneres Cave (MIS 3, Barcelona, Spain). C. R. Palevol. 13, 665–680 (2014).",
+      "journal-title": "C. R. Palevol."
+    },
+    {
+      "key": "1861_CR41",
+      "doi-asserted-by": "crossref",
+      "first-page": "620",
+      "DOI": "10.1007/s00442-002-0919-3",
+      "volume": "131",
+      "author": "H Fritz",
+      "year": "2002",
+      "unstructured": "Fritz, H., Duncan, P., Gordon, I. J. & Illius, A. W. Megaherbivores influence trophic guilds structure in African ungulate communities. Oecologia 131, 620–625 (2002).",
+      "journal-title": "Oecologia"
+    },
+    {
+      "key": "1861_CR42",
+      "doi-asserted-by": "crossref",
+      "first-page": "1357",
+      "DOI": "10.1046/j.1365-2699.2003.00926.x",
+      "volume": "30",
+      "author": "C Cristoffer",
+      "year": "2003",
+      "unstructured": "Cristoffer, C. & Peres, C. A. Elephants versus butterflies: the ecological role of large herbivores in the evolutionary history of two tropical worlds. J. Biogeogr. 30, 1357–1380 (2003).",
+      "journal-title": "J. Biogeogr."
+    },
+    {
+      "key": "1861_CR43",
+      "doi-asserted-by": "crossref",
+      "first-page": "857",
+      "DOI": "10.1111/1365-2656.12522",
+      "volume": "85",
+      "author": "JH Daskin",
+      "year": "2016",
+      "unstructured": "Daskin, J. H. & Pringle, R. M. Does primary productivity modulate the indirect effects of large herbivores? A global meta-analysis. J. Anim. Ecol. 85, 857–868 (2016).",
+      "journal-title": "J. Anim. Ecol."
+    },
+    {
+      "key": "1861_CR44",
+      "doi-asserted-by": "crossref",
+      "first-page": "63",
+      "DOI": "10.1016/j.revpalbo.2018.09.007",
+      "volume": "259",
+      "author": "JS Carrión",
+      "year": "2018",
+      "unstructured": "Carrión, J. S. et al. Last Neanderthals in the warmest refugium of Europe: palynological data from Vanguard Cave. Rev. Palaeobot. Palynol. 259, 63–80 (2018).",
+      "journal-title": "Rev. Palaeobot. Palynol."
+    },
+    {
+      "key": "1861_CR45",
+      "doi-asserted-by": "crossref",
+      "first-page": "1188",
+      "DOI": "10.1038/s41559-020-1243-1",
+      "volume": "4",
+      "author": "A Columbu",
+      "year": "2020",
+      "unstructured": "Columbu, A. et al. Speleothem record attests to stable environmental conditions during Neanderthal–modern human turnover in southern Italy. Nat. Ecol. Evol. 4, 1188–1195 (2020).",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "1861_CR46",
+      "doi-asserted-by": "crossref",
+      "first-page": "393",
+      "DOI": "10.1111/j.1365-2656.2010.01771.x",
+      "volume": "80",
+      "author": "JC Svenning",
+      "year": "2011",
+      "unstructured": "Svenning, J. C., Fløjgaard, C. & Baselga, A. Climate, history and neutrality as drivers of mammal beta diversity in Europe: insights from multiscale deconstruction. J. Anim. Ecol. 80, 393–402 (2011).",
+      "journal-title": "J. Anim. Ecol."
+    },
+    {
+      "key": "1861_CR47",
+      "doi-asserted-by": "crossref",
+      "first-page": "2418",
+      "DOI": "10.1111/jbi.14213",
+      "volume": "48",
+      "author": "B Huntley",
+      "year": "2021",
+      "unstructured": "Huntley, B. et al. Projected climatic changes lead to biome changes in areas of previously constant biome. J. Biogeogr. 48, 2418–2428 (2021).",
+      "journal-title": "J. Biogeogr."
+    },
+    {
+      "key": "1861_CR48",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1038/nature10574",
+      "volume": "479",
+      "author": "ED Lorenzen",
+      "year": "2011",
+      "unstructured": "Lorenzen, E. D. et al. Species-specific responses of Late Quaternary megafauna to climate and humans. Nature 479, 359–364 (2011).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "1861_CR49",
+      "doi-asserted-by": "crossref",
+      "first-page": "881",
+      "DOI": "10.1534/genetics.116.186890",
+      "volume": "203",
+      "author": "K Harris",
+      "year": "2016",
+      "unstructured": "Harris, K. & Nielsen, R. The genetic cost of Neanderthal introgression. Genetics 203, 881–891 (2016).",
+      "journal-title": "Genetics"
+    },
+    {
+      "key": "1861_CR50",
+      "doi-asserted-by": "crossref",
+      "first-page": "e3972",
+      "DOI": "10.1371/journal.pone.0003972",
+      "volume": "3",
+      "author": "WE Banks",
+      "year": "2008",
+      "unstructured": "Banks, W. E. et al. Neanderthal extinction by competitive exclusion. PLoS ONE 3, e3972 (2008).",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "1861_CR51",
+      "doi-asserted-by": "crossref",
+      "first-page": "14",
+      "DOI": "10.1016/j.quascirev.2014.09.007",
+      "volume": "106",
+      "author": "SO Rasmussen",
+      "year": "2014",
+      "unstructured": "Rasmussen, S. O. et al. A stratigraphic framework for abrupt climatic changes during the Last Glacial period based on three synchronized Greenland ice-core records: refining and extending the INTIMATE event stratigraphy. Quat. Sci. Rev. 106, 14–28 (2014).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "1861_CR52",
+      "doi-asserted-by": "crossref",
+      "first-page": "105473",
+      "DOI": "10.1016/j.jas.2021.105473",
+      "volume": "135",
+      "author": "MH Price",
+      "year": "2021",
+      "unstructured": "Price, M. H. et al. End-to-end Bayesian analysis for summarizing sets of radiocarbon dates. J. Archaeol. Sci. 135, 105473 (2021).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "1861_CR53",
+      "doi-asserted-by": "crossref",
+      "first-page": "2626",
+      "DOI": "10.1002/ecy.2443",
+      "volume": "99",
+      "author": "S Faurby",
+      "year": "2018",
+      "unstructured": "Faurby, S. et al. PHYLACINE 1.2: the phylogenetic atlas of mammal macroecology. Ecology 99, 2626 (2018).",
+      "journal-title": "Ecology"
+    },
+    {
+      "key": "1861_CR54",
+      "doi-asserted-by": "crossref",
+      "first-page": "725",
+      "DOI": "10.1017/RDC.2020.41",
+      "volume": "62",
+      "author": "PJ Reimer",
+      "year": "2020",
+      "unstructured": "Reimer, P. J. et al. The IntCal20 Northern Hemisphere radiocarbon age calibration curve (0–55 cal kBP). Radiocarbon 62, 725–757 (2020).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "1861_CR55",
+      "doi-asserted-by": "crossref",
+      "first-page": "337",
+      "DOI": "10.1017/S0033822200033865",
+      "volume": "51",
+      "author": "CB Ramsey",
+      "year": "2009",
+      "unstructured": "Ramsey, C. B. Bayesian analysis of radiocarbon dates. Radiocarbon 51, 337–360 (2009).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "1861_CR56",
+      "doi-asserted-by": "crossref",
+      "first-page": "5",
+      "DOI": "10.1007/s11634-006-0004-6",
+      "volume": "1",
+      "author": "AD Chouakria",
+      "year": "2007",
+      "unstructured": "Chouakria, A. D. & Nagabhushan, P. N. Adaptive dissimilarity index for measuring time series proximity. Adv. Data Anal. Classif. 1, 5–21 (2007).",
+      "journal-title": "Adv. Data Anal. Classif."
+    },
+    {
+      "key": "1861_CR57",
+      "first-page": "1",
+      "volume": "62",
+      "author": "P Montero",
+      "year": "2015",
+      "unstructured": "Montero, P. & Vilar, J. A. TSclust: an R package for time series clustering. J. Stat. Softw. 62, 1–43 (2015).",
+      "journal-title": "J. Stat. Softw."
+    },
+    {
+      "key": "1861_CR58",
+      "doi-asserted-by": "crossref",
+      "first-page": "55",
+      "DOI": "10.1057/s41599-021-00735-8",
+      "volume": "8",
+      "author": "AJM Key",
+      "year": "2021",
+      "unstructured": "Key, A. J. M., Jarić, I. & Roberts, D. L. Modelling the end of the Acheulean at global and continental levels suggests widespread persistence into the Middle Palaeolithic. Humanit. Soc. Sci. Commun. 8, 55 (2021).",
+      "journal-title": "Humanit. Soc. Sci. Commun."
+    },
+    {
+      "key": "1861_CR59",
+      "doi-asserted-by": "crossref",
+      "first-page": "267",
+      "DOI": "10.1017/aaq.2021.121",
+      "volume": "87",
+      "author": "MR Bebber",
+      "year": "2022",
+      "unstructured": "Bebber, M. R. & Key, A. J. M. Optimal linear estimation (OLE) modeling supports Early Holocene (9000–8000 RCYBP) copper tool production in North America. Am. Antiq. 87, 267–283 (2022).",
+      "journal-title": "Am. Antiq."
+    },
+    {
+      "key": "1861_CR60",
+      "doi-asserted-by": "crossref",
+      "first-page": "102976",
+      "DOI": "10.1016/j.jhevol.2021.102976",
+      "volume": "154",
+      "author": "AJM Key",
+      "year": "2021",
+      "unstructured": "Key, A. J. M., Roberts, D. L. & Jarić, I. Statistical inference of earlier origins for the first flaked stone technologies. J. Hum. Evol. 154, 102976 (2021).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "1861_CR61",
+      "doi-asserted-by": "crossref",
+      "first-page": "23",
+      "DOI": "10.1017/RDC.2020.95",
+      "volume": "63",
+      "author": "ER Crema",
+      "year": "2021",
+      "unstructured": "Crema, E. R. & Bevan, A. Inference from large sets of radiocarbon dates: software and methods. Radiocarbon 63, 23–39 (2021).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "1861_CR62",
+      "doi-asserted-by": "crossref",
+      "first-page": "176",
+      "DOI": "10.1016/j.quaint.2018.04.037",
+      "volume": "515",
+      "author": "GA Clark",
+      "year": "2019",
+      "unstructured": "Clark, G. A., Barton, C. M. & Straus, L. G. Landscapes, climate change & forager mobility in the Upper Paleolithic of northern Spain. Quat. Int. 515, 176–187 (2019).",
+      "journal-title": "Quat. Int."
+    },
+    {
+      "key": "1861_CR63",
+      "doi-asserted-by": "crossref",
+      "first-page": "1872",
+      "DOI": "10.1038/s41467-019-09833-3",
+      "volume": "10",
+      "author": "J López de Pablo",
+      "year": "2019",
+      "unstructured": "López de Pablo, J. et al. Palaeodemographic modelling supports a population bottleneck during the Pleistocene–Holocene transition in Iberia. Nat. Commun. 10, 1872 (2019).",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "1861_CR64",
+      "doi-asserted-by": "crossref",
+      "first-page": "265",
+      "DOI": "10.1038/s41597-019-0277-1",
+      "volume": "6",
+      "author": "E Armstrong",
+      "year": "2019",
+      "unstructured": "Armstrong, E., Hopcroft, P. O. & Valdes, P. J. A simulated Northern Hemisphere terrestrial climate dataset for the past 60,000 years. Sci. Data 6, 265 (2019).",
+      "journal-title": "Sci. Data"
+    },
+    {
+      "key": "1861_CR65",
+      "first-page": "1493",
+      "volume": "16",
+      "author": "R Beyer",
+      "year": "2020",
+      "unstructured": "Beyer, R., Krapp, M. & Manica, A. An empirical evaluation of bias correction methods for palaeoclimate simulations. Climate 16, 1493–1508 (2020).",
+      "journal-title": "Climate"
+    },
+    {
+      "key": "1861_CR66",
+      "doi-asserted-by": "crossref",
+      "first-page": "106385",
+      "DOI": "10.1016/j.quascirev.2020.106385",
+      "volume": "240",
+      "author": "Y Sun",
+      "year": "2020",
+      "unstructured": "Sun, Y. et al. A novel procedure for quantitative regional paleoclimatic reconstruction using surface pollen assemblages. Quat. Sci. Rev. 240, 106385 (2020).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "1861_CR67",
+      "doi-asserted-by": "crossref",
+      "first-page": "103384",
+      "DOI": "10.1016/j.earscirev.2020.103384",
+      "volume": "210",
+      "author": "M Chevalier",
+      "year": "2020",
+      "unstructured": "Chevalier, M. et al. Pollen-based climate reconstruction techniques for Late Quaternary studies. Earth Sci. Rev. 210, 103384 (2020).",
+      "journal-title": "Earth Sci. Rev."
+    },
+    {
+      "key": "1861_CR68",
+      "doi-asserted-by": "crossref",
+      "first-page": "2423",
+      "DOI": "10.5194/essd-12-2423-2020",
+      "volume": "12",
+      "author": "BAS Davis",
+      "year": "2020",
+      "unstructured": "Davis, B. A. S. et al. The Eurasian Modern Pollen Database (EMPD), version 2. Earth Syst. Sci. Data 12, 2423–2445 (2020).",
+      "journal-title": "Earth Syst. Sci. Data"
+    },
+    {
+      "key": "1861_CR69",
+      "doi-asserted-by": "crossref",
+      "first-page": "109",
+      "DOI": "10.1038/s41597-020-0453-3",
+      "volume": "7",
+      "author": "I Harris",
+      "year": "2020",
+      "unstructured": "Harris, I., Osborn, T. J., Jones, P. & Lister, D. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci. Data 7, 109 (2020).",
+      "journal-title": "Sci. Data"
+    },
+    {
+      "key": "1861_CR70",
+      "doi-asserted-by": "crossref",
+      "first-page": "2027",
+      "DOI": "10.5194/bg-11-2027-2014",
+      "volume": "11",
+      "author": "B Smith",
+      "year": "2014",
+      "unstructured": "Smith, B. et al. Implications of incorporating N cycling and N limitations on primary production in an individual-based dynamic vegetation model. Biogeosciences 11, 2027–2054 (2014).",
+      "journal-title": "Biogeosciences"
+    },
+    {
+      "key": "1861_CR71",
+      "doi-asserted-by": "crossref",
+      "first-page": "2073",
+      "DOI": "10.1111/jbi.13930",
+      "volume": "47",
+      "author": "JRM Allen",
+      "year": "2020",
+      "unstructured": "Allen, J. R. M. et al. Global vegetation patterns of the past 140,000 years. J. Biogeogr. 47, 2073–2090 (2020).",
+      "journal-title": "J. Biogeogr."
+    },
+    {
+      "key": "1861_CR72",
+      "doi-asserted-by": "crossref",
+      "first-page": "379",
+      "DOI": "10.1038/nature06949",
+      "volume": "453",
+      "author": "D Lüthi",
+      "year": "2008",
+      "unstructured": "Lüthi, D. et al. High-resolution carbon dioxide concentration record 650,000–800,000 years before present. Nature 453, 379–382 (2008).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "1861_CR73",
+      "unstructured": "Zobler, L. A World Soil File for Global Climate Modelling (NASA Technical Memorandum volume 87802, National Aeronautics and Space Administration, Goddard Space Flight Center & Institute for Space Studies, 1986)."
+    },
+    {
+      "key": "1861_CR74",
+      "doi-asserted-by": "crossref",
+      "first-page": "236",
+      "DOI": "10.1038/s41597-020-0552-1",
+      "volume": "7",
+      "author": "RM Beyer",
+      "year": "2020",
+      "unstructured": "Beyer, R. M., Krapp, M. & Manica, A. High-resolution terrestrial climate, bioclimate and vegetation for the last 120,000 years. Sci. Data 7, 236 (2020).",
+      "journal-title": "Sci. Data"
+    },
+    {
+      "key": "1861_CR75",
+      "doi-asserted-by": "crossref",
+      "first-page": "5137",
+      "DOI": "10.5194/gmd-12-5137-2019",
+      "volume": "12",
+      "author": "PB Holden",
+      "year": "2019",
+      "unstructured": "Holden, P. B. et al. PALEO-PGEM v1.0: a statistical emulator of Pliocene–Pleistocene climate. Geosci. Model Dev. 12, 5137–5155 (2019).",
+      "journal-title": "Geosci. Model Dev."
+    },
+    {
+      "key": "1861_CR76",
+      "doi-asserted-by": "crossref",
+      "first-page": "968",
+      "DOI": "10.1111/geb.12758",
+      "volume": "27",
+      "author": "L Santini",
+      "year": "2018",
+      "unstructured": "Santini, L. et al. Global drivers of population density in terrestrial vertebrates. Glob. Ecol. Biogeogr. 27, 968–979 (2018).",
+      "journal-title": "Glob. Ecol. Biogeogr."
+    },
+    {
+      "key": "1861_CR77",
+      "doi-asserted-by": "crossref",
+      "first-page": "341",
+      "DOI": "10.1007/BF00345312",
+      "volume": "22",
+      "author": "MJ Coe",
+      "year": "1976",
+      "unstructured": "Coe, M. J., Cumming, D. H. & Phillipson, J. Biomass and production of large African herbivores in relation to rainfall and primary production. Oecologia 22, 341–354 (1976).",
+      "journal-title": "Oecologia"
+    },
+    {
+      "key": "1861_CR78",
+      "doi-asserted-by": "crossref",
+      "first-page": "aac6284",
+      "DOI": "10.1126/science.aac6284",
+      "volume": "349",
+      "author": "IA Hatton",
+      "year": "2015",
+      "unstructured": "Hatton, I. A. et al. The predator–prey power law: biomass scaling across terrestrial and aquatic biomes. Science 349, aac6284 (2015).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "1861_CR79",
+      "doi-asserted-by": "crossref",
+      "unstructured": "McNaughton, S. J., Oesterheld, M., Frank, D. A. & Williams, K. J. in Comparative Analyses of Ecosystems 120–139 (Springer, 1991).",
+      "DOI": "10.1007/978-1-4612-3122-6_7"
+    },
+    {
+      "key": "1861_CR80",
+      "doi-asserted-by": "crossref",
+      "first-page": "699",
+      "DOI": "10.1038/290699a0",
+      "volume": "290",
+      "author": "J Damuth",
+      "year": "1981",
+      "unstructured": "Damuth, J. Population density and body size in mammals. Nature 290, 699–700 (1981).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "1861_CR81",
+      "doi-asserted-by": "crossref",
+      "first-page": "704",
+      "DOI": "10.1086/285764",
+      "volume": "145",
+      "author": "M Silva",
+      "year": "1995",
+      "unstructured": "Silva, M. & Downing, J. A. The allometric scaling of density and body mass: a nonlinear relationship for terrestrial mammals. Am. Nat. 145, 704–727 (1995).",
+      "journal-title": "Am. Nat."
+    },
+    {
+      "key": "1861_CR82",
+      "doi-asserted-by": "crossref",
+      "first-page": "1205",
+      "DOI": "10.1111/1365-2656.12701",
+      "volume": "86",
+      "author": "RØ Pedersen",
+      "year": "2017",
+      "unstructured": "Pedersen, R. Ø., Faurby, S. & Svenning, J. C. Shallow size–density relations within mammal clades suggest greater intra-guild ecological impact of large-bodied species. J. Anim. Ecol. 86, 1205–1213 (2017).",
+      "journal-title": "J. Anim. Ecol."
+    },
+    {
+      "key": "1861_CR83",
+      "doi-asserted-by": "crossref",
+      "first-page": "72",
+      "DOI": "10.1016/j.jhevol.2018.01.004",
+      "volume": "118",
+      "author": "J Rodríguez",
+      "year": "2018",
+      "unstructured": "Rodríguez, J. & Mateos, A. Carrying capacity, carnivoran richness and hominin survival in Europe. J. Hum. Evol. 118, 72–88 (2018).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "1861_CR84",
+      "doi-asserted-by": "crossref",
+      "first-page": "836",
+      "DOI": "10.1086/285255",
+      "volume": "138",
+      "author": "MD Pagel",
+      "year": "1991",
+      "unstructured": "Pagel, M. D., Harvey, P. H. & Godfray, H. C. J. Species–abundance, biomass, and resource–use distributions. Am. Nat. 138, 836–850 (1991).",
+      "journal-title": "Am. Nat."
+    },
+    {
+      "key": "1861_CR85",
+      "doi-asserted-by": "crossref",
+      "first-page": "458",
+      "DOI": "10.1086/284929",
+      "volume": "133",
+      "author": "G Sugihara",
+      "year": "1989",
+      "unstructured": "Sugihara, G. How do species divide resources? Am. Nat. 133, 458–463 (1989).",
+      "journal-title": "Am. Nat."
+    },
+    {
+      "key": "1861_CR86",
+      "doi-asserted-by": "crossref",
+      "first-page": "787",
+      "DOI": "10.1111/geb.12756",
+      "volume": "27",
+      "author": "L Santini",
+      "year": "2018",
+      "unstructured": "Santini, L., Isaac, N. J. B. & Ficetola, G. F. TetraDENSITY: a database of population density estimates in terrestrial vertebrates. Glob. Ecol. Biogeogr. 27, 787–791 (2018).",
+      "journal-title": "Glob. Ecol. Biogeogr."
+    },
+    {
+      "key": "1861_CR87",
+      "doi-asserted-by": "crossref",
+      "first-page": "846",
+      "DOI": "10.1016/j.quascirev.2005.07.010",
+      "volume": "25",
+      "author": "P Raia",
+      "year": "2006",
+      "unstructured": "Raia, P., Piras, P. & Kotsakis, T. Detection of Plio-Quaternary large mammal communities of Italy. An integration of fossil faunas biochronology and similarity. Quat. Sci. Rev. 25, 846–854 (2006).",
+      "journal-title": "Quat. Sci. Rev."
+    }
+  ],
+  "updated-by": [
+    {
+      "DOI": "10.1038/s41559-022-01917-6",
+      "type": "correction",
+      "label": "Correction",
+      "source": "publisher",
+      "updated": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            21
+          ]
+        ],
+        "date-time": "2022-10-21T00:00:00Z",
+        "timestamp": 1666310400000
+      }
+    }
+  ],
+  "container-title": [
+    "Nature Ecology &amp; Evolution"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41559-022-01861-5.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41559-022-01861-5",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41559-022-01861-5.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        11,
+        2
+      ]
+    ],
+    "date-time": "2022-11-02T13:27:34Z",
+    "timestamp": 1667395654000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41559-022-01861-5"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        29
+      ]
+    ]
+  },
+  "references-count": 87,
+  "journal-issue": {
+    "issue": "11",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "1861"
+  ],
+  "URL": "https://doi.org/10.1038/s41559-022-01861-5",
+  "relation": {},
+  "ISSN": [
+    "2397-334X"
+  ],
+  "issn-type": [
+    {
+      "value": "2397-334X",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        29
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "17 February 2022",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "28 July 2022",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "29 September 2022",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "21 October 2022",
+      "order": 4,
+      "name": "change_date",
+      "label": "Change Date",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "Correction",
+      "order": 5,
+      "name": "change_type",
+      "label": "Change Type",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "A Correction to this paper has been published:",
+      "order": 6,
+      "name": "change_details",
+      "label": "Change Details",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "https://doi.org/10.1038/s41559-022-01917-6",
+      "URL": "https://doi.org/10.1038/s41559-022-01917-6",
+      "order": 7,
+      "name": "change_details",
+      "label": "Change Details",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 980" role="img" aria-labelledby="title desc">
+  <title id="title">MiniMax H3-Base 模型架构</title>
+  <desc id="desc">文本和视觉参考由 Qwen3-VL-32B 编码，视觉内容也由 VisualVAE 编码，声音由 AudioVAE 编码。文本、视频和音频行被打包成一个序列，送入 33B 单流 Transformer，共同预测视频和音频速度，再分别由两个 VAE 解码。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".6" stop-color="#121d37"/><stop offset="1" stop-color="#211741"/></linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3b83d6"/><stop offset=".5" stop-color="#7c5ce2"/><stop offset="1" stop-color="#c85ab6"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000" flood-opacity=".34"/></filter>
+    <marker id="arrow" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto"><path d="M0 0L11 5.5L0 11Z" fill="#9adfff"/></marker>
+  </defs>
+  <rect width="1600" height="980" rx="34" fill="url(#bg)"/>
+  <g font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">
+    <text x="70" y="78" fill="#f8fbff" font-size="39" font-weight="760">H3-Base：不同入口，同一条 Transformer 主干</text>
+    <text x="70" y="122" fill="#aabbd1" font-size="21">模态差异主要留在输入/输出投影与 AdaLN；Attention 和 FFN 不为某个模态另设专家。</text>
+
+    <text x="72" y="187" fill="#8fa7c4" font-size="18" font-weight="700">① 理解与压缩</text>
+    <g filter="url(#shadow)">
+      <rect x="70" y="214" width="250" height="104" rx="20" fill="#102943" stroke="#3e688d" stroke-width="2"/>
+      <text x="195" y="254" text-anchor="middle" fill="#fff" font-size="22" font-weight="720">文本</text><text x="195" y="286" text-anchor="middle" fill="#a9c2da" font-size="16">提示词 / Context-IR</text>
+      <rect x="70" y="344" width="250" height="104" rx="20" fill="#10343d" stroke="#3e837f" stroke-width="2"/>
+      <text x="195" y="384" text-anchor="middle" fill="#fff" font-size="22" font-weight="720">图片 / 视频参考</text><text x="195" y="416" text-anchor="middle" fill="#abd6d2" font-size="16">人物、动作、镜头、风格</text>
+      <rect x="70" y="474" width="250" height="104" rx="20" fill="#402741" stroke="#86567e" stroke-width="2"/>
+      <text x="195" y="514" text-anchor="middle" fill="#fff" font-size="22" font-weight="720">音频参考</text><text x="195" y="546" text-anchor="middle" fill="#e0bbd9" font-size="16">声音、节奏、音色</text>
+      <rect x="70" y="604" width="250" height="104" rx="20" fill="#2c2a50" stroke="#6f65a7" stroke-width="2"/>
+      <text x="195" y="644" text-anchor="middle" fill="#fff" font-size="22" font-weight="720">待生成目标</text><text x="195" y="676" text-anchor="middle" fill="#c8c0ee" font-size="16">视频噪声 + 音频噪声</text>
+    </g>
+
+    <g filter="url(#shadow)">
+      <rect x="407" y="238" width="278" height="170" rx="24" fill="#12344a" stroke="#42a9b8" stroke-width="2"/>
+      <text x="546" y="283" text-anchor="middle" fill="#fff" font-size="25" font-weight="760">H3-Encoder</text>
+      <text x="546" y="321" text-anchor="middle" fill="#b7d9e1" font-size="18">完整 Qwen3-VL-32B</text>
+      <text x="546" y="353" text-anchor="middle" fill="#b7d9e1" font-size="18">读取第 50 层隐藏状态</text>
+      <text x="546" y="384" text-anchor="middle" fill="#82e5f2" font-size="16" font-weight="700">文本 + 视觉语义</text>
+
+      <rect x="407" y="454" width="278" height="126" rx="24" fill="#202c52" stroke="#7470cf" stroke-width="2"/>
+      <text x="546" y="498" text-anchor="middle" fill="#fff" font-size="24" font-weight="760">H3-VisualVAE</text>
+      <text x="546" y="534" text-anchor="middle" fill="#cdcaf4" font-size="17">f16 × t4 × d24</text>
+      <text x="546" y="560" text-anchor="middle" fill="#9fa8e7" font-size="15">再做 1×2×2 patchify</text>
+
+      <rect x="407" y="626" width="278" height="126" rx="24" fill="#432849" stroke="#a15e97" stroke-width="2"/>
+      <text x="546" y="670" text-anchor="middle" fill="#fff" font-size="24" font-weight="760">H3-AudioVAE</text>
+      <text x="546" y="706" text-anchor="middle" fill="#ebc8e4" font-size="17">32 kHz → 40 Hz latent</text>
+      <text x="546" y="732" text-anchor="middle" fill="#d18cc5" font-size="15">左右声道共享权重、独立处理</text>
+    </g>
+
+    <path d="M320 266H387" stroke="#9adfff" stroke-width="4" marker-end="url(#arrow)"/>
+    <path d="M320 380H365V323H387" fill="none" stroke="#9adfff" stroke-width="4" marker-end="url(#arrow)"/>
+    <path d="M320 412H365V517H387" fill="none" stroke="#9adfff" stroke-width="4" marker-end="url(#arrow)"/>
+    <path d="M320 526H365V689H387" fill="none" stroke="#9adfff" stroke-width="4" marker-end="url(#arrow)"/>
+    <path d="M320 656H365V517H387" fill="none" stroke="#8a8ee9" stroke-width="3" stroke-dasharray="9 8" marker-end="url(#arrow)"/>
+    <path d="M320 680H365V689H387" fill="none" stroke="#cf79bd" stroke-width="3" stroke-dasharray="9 8" marker-end="url(#arrow)"/>
+
+    <text x="748" y="187" fill="#8fa7c4" font-size="18" font-weight="700">② 统一打包</text>
+    <g filter="url(#shadow)">
+      <rect x="730" y="214" width="228" height="538" rx="26" fill="#0b1f34" stroke="#3b6386" stroke-width="2"/>
+      <text x="844" y="257" text-anchor="middle" fill="#fff" font-size="24" font-weight="740">Packed Sequence</text>
+      <text x="844" y="288" text-anchor="middle" fill="#9db3cc" font-size="15">一个请求 = 一份长文档</text>
+      <g font-size="17" font-weight="700">
+        <rect x="766" y="322" width="156" height="52" rx="13" fill="#194a62"/><text x="844" y="355" text-anchor="middle" fill="#cdf5ff">Text rows · tag 1</text>
+        <rect x="766" y="388" width="156" height="52" rx="13" fill="#28517d"/><text x="844" y="421" text-anchor="middle" fill="#d9eaff">Vision semantics</text>
+        <rect x="766" y="454" width="156" height="52" rx="13" fill="#4a3f8a"/><text x="844" y="487" text-anchor="middle" fill="#eeeaff">Video rows · tag 0</text>
+        <rect x="766" y="520" width="156" height="52" rx="13" fill="#7a3d73"/><text x="844" y="553" text-anchor="middle" fill="#ffe4f8">Audio rows · tag 2</text>
+      </g>
+      <text x="844" y="612" text-anchor="middle" fill="#b8c7d8" font-size="16">每行携带 (t, h, w)</text>
+      <text x="844" y="641" text-anchor="middle" fill="#b8c7d8" font-size="16">独立 timestep 索引</text>
+      <text x="844" y="670" text-anchor="middle" fill="#b8c7d8" font-size="16">模态 tag 与行索引</text>
+      <text x="844" y="712" text-anchor="middle" fill="#7fd9ff" font-size="16" font-weight="700">3D MM-RoPE 定位时空</text>
+    </g>
+    <path d="M705 356H716" stroke="#9adfff" stroke-width="4" marker-end="url(#arrow)"/>
+    <path d="M705 517H716" stroke="#9adfff" stroke-width="4" marker-end="url(#arrow)"/>
+    <path d="M705 689H716" stroke="#9adfff" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <text x="1012" y="187" fill="#8fa7c4" font-size="18" font-weight="700">③ 联合建模</text>
+    <g filter="url(#shadow)">
+      <rect x="995" y="214" width="320" height="538" rx="28" fill="url(#core)"/>
+      <text x="1155" y="276" text-anchor="middle" fill="#fff" font-size="29" font-weight="800">H3-Omni-Transformer</text>
+      <text x="1155" y="312" text-anchor="middle" fill="#f0edff" font-size="19">33B · Dense · Single-stream</text>
+      <g fill="#171633" fill-opacity=".72" stroke="#fff" stroke-opacity=".18">
+        <rect x="1043" y="353" width="224" height="62" rx="16"/><rect x="1043" y="430" width="224" height="62" rx="16"/><rect x="1043" y="507" width="224" height="62" rx="16"/><rect x="1043" y="584" width="224" height="62" rx="16"/>
+      </g>
+      <g fill="#fff" font-size="18" font-weight="650" text-anchor="middle">
+        <text x="1155" y="391">50 层 Transformer block</text><text x="1155" y="468">56 heads × 128 dim</text><text x="1155" y="545">Attention + SwiGLU FFN</text><text x="1155" y="622">模态专属 AdaLN</text>
+      </g>
+      <text x="1155" y="688" text-anchor="middle" fill="#fff" font-size="16" font-weight="650">公开版全注意力</text>
+      <text x="1155" y="716" text-anchor="middle" fill="#f2d9ff" font-size="16">原生稀疏注意力代码待开放</text>
+    </g>
+    <path d="M977 483H981" stroke="#9adfff" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <text x="1370" y="187" fill="#8fa7c4" font-size="18" font-weight="700">④ 分头解码</text>
+    <g filter="url(#shadow)">
+      <rect x="1360" y="284" width="170" height="158" rx="22" fill="#27305a" stroke="#7775d4" stroke-width="2"/>
+      <text x="1445" y="329" text-anchor="middle" fill="#fff" font-size="22" font-weight="740">视频速度</text><text x="1445" y="361" text-anchor="middle" fill="#c9cbf6" font-size="16">VisualVAE decode</text><text x="1445" y="400" text-anchor="middle" fill="#9da9ec" font-size="16">24 FPS · 768p</text>
+      <rect x="1360" y="515" width="170" height="158" rx="22" fill="#522b51" stroke="#b561a6" stroke-width="2"/>
+      <text x="1445" y="560" text-anchor="middle" fill="#fff" font-size="22" font-weight="740">音频速度</text><text x="1445" y="592" text-anchor="middle" fill="#f0cee9" font-size="16">AudioVAE decode</text><text x="1445" y="631" text-anchor="middle" fill="#d799cb" font-size="16">32 kHz · stereo</text>
+    </g>
+    <path d="M1334 386H1346" stroke="#a8b3ff" stroke-width="4" marker-end="url(#arrow)"/>
+    <path d="M1334 594H1346" stroke="#ee91d8" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <rect x="70" y="824" width="1460" height="102" rx="23" fill="#091727" stroke="#2b4864" stroke-width="2"/>
+    <text x="104" y="866" fill="#fff" font-size="21" font-weight="740">“联合生成”的含义</text>
+    <text x="104" y="900" fill="#b8c7d8" font-size="18">不是先画无声视频再配音；同一次 Transformer 前向里，视频行与音频行彼此注意并同时预测，但各自使用不同的噪声日程和输出头。</text>
+  </g>
+</svg>

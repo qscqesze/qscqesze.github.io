@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1120" viewBox="0 0 1600 1120" role="img" aria-labelledby="title desc">
+  <title id="title">成人 MASLD 的非侵入性纤维化分层流程</title>
+  <desc id="desc">从高风险人群识别到FIB-4初筛、弹性成像复核、肝病专科转诊和随访的临床流程。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbfaf6"/><stop offset="1" stop-color="#f1f7f5"/></linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="#647874"/></marker>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#253f39" flood-opacity=".12"/></filter>
+    <style>
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif}
+      .title{font-size:42px;font-weight:760;fill:#243734}.subtitle{font-size:20px;fill:#5c6e69}
+      .head{font-size:24px;font-weight:730;fill:#283d38}.body{font-size:17px;fill:#4e625d}.small{font-size:15px;fill:#647570}
+      .branch{font-size:22px;font-weight:760}.white{fill:#fff}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:19px;fill:#314944}
+    </style>
+  </defs>
+  <rect width="1600" height="1120" rx="30" fill="url(#bg)"/>
+  <text x="80" y="72" class="sans title">临床关键不是“有没有脂肪”，而是“有没有进展期纤维化”</text>
+  <text x="80" y="110" class="sans subtitle">以下为成人、非妊娠场景的简化分层路径；阈值须结合病因、急性炎症、设备与当地指南解释。</text>
+
+  <g class="sans" filter="url(#shadow)">
+    <rect x="80" y="155" width="1440" height="145" rx="25" fill="#fff" stroke="#cedbd7" stroke-width="2"/>
+    <text x="800" y="194" text-anchor="middle" class="head">进入路径：存在以下任一高风险线索</text>
+    <g class="body" text-anchor="middle">
+      <text x="245" y="240">2 型糖尿病</text><text x="245" y="269">或糖调节异常</text>
+      <text x="610" y="240">肥胖／腹型肥胖</text><text x="610" y="269">＋其他代谢风险</text>
+      <text x="980" y="240">影像偶然发现</text><text x="980" y="269">肝脂肪变</text>
+      <text x="1345" y="240">肝酶持续异常</text><text x="1345" y="269">或临床疑似慢性肝病</text>
+    </g>
+    <path d="M425 215 V277 M795 215 V277 M1165 215 V277" stroke="#d2dedb" stroke-width="2"/>
+  </g>
+
+  <path d="M800 300 V345" stroke="#647874" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <g class="sans" filter="url(#shadow)">
+    <rect x="170" y="350" width="1260" height="150" rx="25" fill="#f9f1df" stroke="#dbc99e" stroke-width="2"/>
+    <text x="800" y="390" text-anchor="middle" class="head">第一步：确认表型并寻找并存病因</text>
+    <text x="800" y="427" text-anchor="middle" class="body">病史（尤其酒精、药物）＋体格与代谢评估＋血常规／肝肾功能／血糖／血脂＋HBV/HCV；按线索检查自身免疫、铁、铜等。</text>
+    <text x="800" y="462" text-anchor="middle" class="body">超声可发现中重度脂肪变但不能可靠排除轻度脂肪变、MASH 或纤维化；MRI-PDFF 可精确定量肝脂肪。</text>
+  </g>
+
+  <path d="M800 500 V545" stroke="#647874" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <g class="sans" filter="url(#shadow)">
+    <rect x="390" y="550" width="820" height="145" rx="25" fill="#eaf3f0" stroke="#a9c5bd" stroke-width="2"/>
+    <text x="800" y="590" text-anchor="middle" class="head">第二步：FIB-4 初筛进展期纤维化风险</text>
+    <text x="800" y="628" text-anchor="middle" class="mono">FIB-4 = 年龄 × AST ÷［血小板 × √ALT］</text>
+    <text x="800" y="665" text-anchor="middle" class="small">年龄：岁；AST/ALT：U/L；血小板：10⁹/L。不要在急性肝炎或显著短期转氨酶波动时机械套用。</text>
+  </g>
+
+  <g stroke="#647874" stroke-width="5" fill="none" marker-end="url(#arrow)"><path d="M800 695 V735 H300 V775"/><path d="M800 695 V775"/><path d="M800 695 V735 H1300 V775"/></g>
+
+  <g class="sans" filter="url(#shadow)">
+    <g transform="translate(95 780)"><rect width="410" height="215" rx="25" fill="#e7f3e9" stroke="#9dc4a6" stroke-width="2"/><rect width="410" height="52" rx="25" fill="#4f8663"/><path d="M0 27 H410 V52 H0Z" fill="#4f8663"/><text x="205" y="35" text-anchor="middle" class="branch white">FIB-4 &lt;1.30</text><text x="205" y="92" text-anchor="middle" class="head">低风险：主要用于排除</text><text x="205" y="128" text-anchor="middle" class="body">强化体重与代谢危险因素管理</text><text x="205" y="158" text-anchor="middle" class="body">通常 1–3 年复评 FIB-4</text><text x="205" y="188" text-anchor="middle" class="small">T2D／多重风险者取更短间隔</text></g>
+    <g transform="translate(595 780)"><rect width="410" height="215" rx="25" fill="#fff3df" stroke="#dfbe78" stroke-width="2"/><rect width="410" height="52" rx="25" fill="#c48737"/><path d="M0 27 H410 V52 H0Z" fill="#c48737"/><text x="205" y="35" text-anchor="middle" class="branch white">FIB-4 1.30–2.67</text><text x="205" y="92" text-anchor="middle" class="head">不确定区：做第二线 NIT</text><text x="205" y="128" text-anchor="middle" class="body">首选 VCTE；可选 ELF、MRE／SWE</text><text x="205" y="158" text-anchor="middle" class="body">VCTE &lt;8 kPa：进展期纤维化较不支持</text><text x="205" y="188" text-anchor="middle" class="small">≥8 kPa 或结果矛盾：转肝病专科</text></g>
+    <g transform="translate(1095 780)"><rect width="410" height="215" rx="25" fill="#f7e9e7" stroke="#d3a09b" stroke-width="2"/><rect width="410" height="52" rx="25" fill="#a9534d"/><path d="M0 27 H410 V52 H0Z" fill="#a9534d"/><text x="205" y="35" text-anchor="middle" class="branch white">FIB-4 &gt;2.67</text><text x="205" y="92" text-anchor="middle" class="head">高风险：肝病专科评估</text><text x="205" y="128" text-anchor="middle" class="body">弹性成像／ELF／MRE，排除其他病因</text><text x="205" y="158" text-anchor="middle" class="body">VCTE ≥12 kPa 支持进展期纤维化</text><text x="205" y="188" text-anchor="middle" class="small">必要时活检；评估治疗与并发症监测</text></g>
+  </g>
+
+  <rect x="80" y="1030" width="1440" height="62" rx="17" fill="#e9edef"/>
+  <text x="105" y="1069" class="sans small"><tspan font-weight="750">阈值陷阱：</tspan>＞65 岁者低界值常改用 2.0；＜35 岁 FIB-4 准确性不足。肥胖、非空腹、胆汁淤积、肝充血和急性炎症也会影响肝硬度。</text>
+  <text x="1505" y="1108" text-anchor="end" class="sans small">依据 EASL 2024、AASLD 2023 与中国 2024 指南整合</text>
+</svg>

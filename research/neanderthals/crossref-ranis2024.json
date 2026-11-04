@@ -1,0 +1,1507 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        14
+      ]
+    ],
+    "date-time": "2026-08-14T20:59:16Z",
+    "timestamp": 1786741156306,
+    "version": "build-2736575974"
+  },
+  "reference-count": 83,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "7998",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            31
+          ]
+        ],
+        "date-time": "2024-01-31T00:00:00Z",
+        "timestamp": 1706659200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            31
+          ]
+        ],
+        "date-time": "2024-01-31T00:00:00Z",
+        "timestamp": 1706659200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nature"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        8
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>The Middle to Upper Palaeolithic transition in Europe is associated with the regional disappearance of Neanderthals and the spread of <jats:italic>Homo sapiens</jats:italic>. Late Neanderthals persisted in western Europe several millennia after the occurrence of <jats:italic>H.</jats:italic> <jats:italic>sapiens</jats:italic> in eastern Europe<jats:sup>1</jats:sup>. Local hybridization between the two groups occurred<jats:sup>2</jats:sup>, but not on all occasions<jats:sup>3</jats:sup>. Archaeological evidence also indicates the presence of several technocomplexes during this transition, complicating our understanding and the association of behavioural adaptations with specific hominin groups<jats:sup>4</jats:sup>. One such technocomplex for which the makers are unknown is the Lincombian–Ranisian–Jerzmanowician (LRJ), which has been described in northwestern and central Europe<jats:sup>5–8</jats:sup>. Here we present the morphological and proteomic taxonomic identification, mitochondrial DNA analysis and direct radiocarbon dating of human remains directly associated with an LRJ assemblage at the site Ilsenhöhle in Ranis (Germany). These human remains are among the earliest directly dated Upper Palaeolithic <jats:italic>H.</jats:italic> <jats:italic>sapiens</jats:italic> remains in Eurasia. We show that early <jats:italic>H.</jats:italic> <jats:italic>sapiens</jats:italic> associated with the LRJ were present in central and northwestern Europe long before the extinction of late Neanderthals in southwestern Europe. Our results strengthen the notion of a patchwork of distinct human populations and technocomplexes present in Europe during this transitional period.</jats:p>",
+  "DOI": "10.1038/s41586-023-06923-7",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        31
+      ]
+    ],
+    "date-time": "2024-01-31T17:02:59Z",
+    "timestamp": 1706720579000
+  },
+  "page": "341-346",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 66,
+  "title": [
+    "Homo sapiens reached the higher latitudes of Europe by 45,000 years ago"
+  ],
+  "prefix": "10.1038",
+  "volume": "626",
+  "author": [
+    {
+      "given": "Dorothea",
+      "family": "Mylopotamitaki",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0778-5520",
+      "authenticated-orcid": false,
+      "given": "Marcel",
+      "family": "Weiss",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9093-3490",
+      "authenticated-orcid": false,
+      "given": "Helen",
+      "family": "Fewlass",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7687-5370",
+      "authenticated-orcid": false,
+      "given": "Elena Irene",
+      "family": "Zavala",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0358-0285",
+      "authenticated-orcid": false,
+      "given": "Hélène",
+      "family": "Rougier",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Arev Pelin",
+      "family": "Sümer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4064-0331",
+      "authenticated-orcid": false,
+      "given": "Mateja",
+      "family": "Hajdinjak",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7155-5140",
+      "authenticated-orcid": false,
+      "given": "Geoff M.",
+      "family": "Smith",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5621-5786",
+      "authenticated-orcid": false,
+      "given": "Karen",
+      "family": "Ruebens",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Virginie",
+      "family": "Sinet-Mathiot",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sarah",
+      "family": "Pederzani",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2642-8043",
+      "authenticated-orcid": false,
+      "given": "Elena",
+      "family": "Essel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5553-1421",
+      "authenticated-orcid": false,
+      "given": "Florian S.",
+      "family": "Harking",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4171-4427",
+      "authenticated-orcid": false,
+      "given": "Huan",
+      "family": "Xia",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jakob",
+      "family": "Hansen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6124-8021",
+      "authenticated-orcid": false,
+      "given": "André",
+      "family": "Kirchner",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Tobias",
+      "family": "Lauer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mareike",
+      "family": "Stahlschmidt",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Michael",
+      "family": "Hein",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2406-3132",
+      "authenticated-orcid": false,
+      "given": "Sahra",
+      "family": "Talamo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8215-2678",
+      "authenticated-orcid": false,
+      "given": "Lukas",
+      "family": "Wacker",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Harald",
+      "family": "Meller",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Holger",
+      "family": "Dietl",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3629-8251",
+      "authenticated-orcid": false,
+      "given": "Jörg",
+      "family": "Orschiedt",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4747-4938",
+      "authenticated-orcid": false,
+      "given": "Jesper V.",
+      "family": "Olsen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7118-1249",
+      "authenticated-orcid": false,
+      "given": "Hugo",
+      "family": "Zeberg",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6242-3058",
+      "authenticated-orcid": false,
+      "given": "Kay",
+      "family": "Prüfer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9144-3920",
+      "authenticated-orcid": false,
+      "given": "Johannes",
+      "family": "Krause",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4760-558X",
+      "authenticated-orcid": false,
+      "given": "Matthias",
+      "family": "Meyer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Frido",
+      "family": "Welker",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2063-468X",
+      "authenticated-orcid": false,
+      "given": "Shannon P.",
+      "family": "McPherron",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9190-8054",
+      "authenticated-orcid": false,
+      "given": "Tim",
+      "family": "Schüler",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6283-8114",
+      "authenticated-orcid": false,
+      "given": "Jean-Jacques",
+      "family": "Hublin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        31
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "6923_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "299",
+      "DOI": "10.1038/s41586-020-2259-z",
+      "volume": "581",
+      "author": "J-J Hublin",
+      "year": "2020",
+      "unstructured": "Hublin, J.-J. et al. Initial Upper Palaeolithic Homo sapiens from Bacho Kiro Cave, Bulgaria. Nature 581, 299–302 (2020).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "6923_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "253",
+      "DOI": "10.1038/s41586-021-03335-3",
+      "volume": "592",
+      "author": "M Hajdinjak",
+      "year": "2021",
+      "unstructured": "Hajdinjak, M. et al. Initial Upper Palaeolithic humans in Europe had recent Neanderthal ancestry. Nature 592, 253–257 (2021).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "6923_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "820",
+      "DOI": "10.1038/s41559-021-01443-x",
+      "volume": "5",
+      "author": "K Prüfer",
+      "year": "2021",
+      "unstructured": "Prüfer, K. et al. A genome sequence from a modern human skull over 45,000 years old from Zlatý kůň in Czechia. Nat. Ecol. Evol. 5, 820–825 (2021).",
+      "journal-title": "Nat. Ecol. Evol."
+    },
+    {
+      "key": "6923_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "17",
+      "DOI": "10.1007/s41982-022-00126-8",
+      "volume": "5",
+      "author": "O Jöris",
+      "year": "2022",
+      "unstructured": "Jöris, O., Neruda, P., Wiśniewski, A. & Weiss, M. The Late and Final Middle Palaeolithic of central Europe and its contributions to the formation of the regional Upper Palaeolithic: a review and a synthesis. J. Paleolit. Archaeol. 5, 17 (2022).",
+      "journal-title": "J. Paleolit. Archaeol."
+    },
+    {
+      "key": "6923_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "605",
+      "DOI": "10.1080/00438243.2011.624725",
+      "volume": "43",
+      "author": "D Flas",
+      "year": "2011",
+      "unstructured": "Flas, D. The Middle to Upper Paleolithic transition in Northern Europe: the Lincombian-Ranisian-Jerzmanowician and the issue of acculturation of the last Neanderthals. World Archaeol. 43, 605–627 (2011).",
+      "journal-title": "World Archaeol."
+    },
+    {
+      "key": "6923_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "421",
+      "DOI": "10.1002/ajpa.20954",
+      "volume": "138",
+      "author": "P Semal",
+      "year": "2009",
+      "unstructured": "Semal, P. et al. New data on the late Neandertals: direct dating of the Belgian Spy fossils. Am. J. Phys. Anthropol. 138, 421–428 (2009).",
+      "journal-title": "Am. J. Phys. Anthropol."
+    },
+    {
+      "key": "6923_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "521",
+      "DOI": "10.1038/nature10484",
+      "volume": "479",
+      "author": "T Higham",
+      "year": "2011",
+      "unstructured": "Higham, T. et al. The earliest evidence for anatomically modern humans in northwestern Europe. Nature 479, 521–524 (2011).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "6923_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "392",
+      "DOI": "10.1179/1461957112Y.0000000019",
+      "volume": "15",
+      "author": "M White",
+      "year": "2012",
+      "unstructured": "White, M. & Pettitt, P. Ancient digs and modern myths: the age and context of the Kent’s Cavern 4 maxilla and the earliest Homo sapiens specimens in Europe. Eur. J. Archaeol. 15, 392–420 (2012).",
+      "journal-title": "Eur. J. Archaeol."
+    },
+    {
+      "key": "6923_CR9",
+      "unstructured": "Desbrosse, R. & Kozlowski, J. K. Hommes et Climats à l’Âge du Mammouth: le Paléolithique Supérieur d’Eurasie Centrale (Masson, 1988)."
+    },
+    {
+      "key": "6923_CR10",
+      "unstructured": "Flas, D. La transition du Paléolithique moyen au supérieur dans la plaine septentrionale de l’Europe. Anthropol. Praehist. 119, 1–254 (2008)."
+    },
+    {
+      "key": "6923_CR11",
+      "unstructured": "Swainston, S. in Dorothy Garrod and the Progress of the Palaeolithic: Studies in the Prehistoric Archaeology of the Near East and Europe (eds Davies, W. & Charles, R.) 41–56 (Oxbow, 1999)."
+    },
+    {
+      "key": "6923_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "229",
+      "DOI": "10.1017/S0079497X00000098",
+      "volume": "73",
+      "author": "R Jacobi",
+      "year": "2007",
+      "unstructured": "Jacobi, R., Debenham, N. & Catt, J. A collection of Early Upper Palaeolithic artefacts from Beedings, near Pulborough, West Sussex, and the context of similar finds from the British Isles. Proc. Prehist. Soc. 73, 229–326 (2007).",
+      "journal-title": "Proc. Prehist. Soc."
+    },
+    {
+      "key": "6923_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "73",
+      "DOI": "10.1017/S0079497X00027110",
+      "volume": "78",
+      "author": "LP Cooper",
+      "year": "2012",
+      "unstructured": "Cooper, L. P. et al. An Early Upper Palaeolithic open-air station and Mid-Devensian hyaena den at Grange Farm, Glaston, Rutland, UK. Proc. Prehist. Soc. 78, 73–93 (2012).",
+      "journal-title": "Proc. Prehist. Soc."
+    },
+    {
+      "key": "6923_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "664",
+      "DOI": "10.1016/j.jhevol.2012.03.003",
+      "volume": "62",
+      "author": "T Higham",
+      "year": "2012",
+      "unstructured": "Higham, T. et al. Τesting models for the beginnings of the Aurignacian and the advent of figurative art and music: the radiocarbon chronology of Geißenklösterle. J. Hum. Evol. 62, 664–676 (2012).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "6923_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "14394",
+      "DOI": "10.1073/pnas.1412201111",
+      "volume": "111",
+      "author": "PR Nigst",
+      "year": "2014",
+      "unstructured": "Nigst, P. R. et al. Early modern human settlement of Europe north of the Alps occurred 43,500 years ago in a cold steppe-type environment. Proc. Natl Acad. Sci. USA 111, 14394–14399 (2014).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "6923_CR16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41598-022-19162-z",
+      "volume": "12",
+      "author": "I Djakovic",
+      "year": "2022",
+      "unstructured": "Djakovic, I., Key, A. & Soressi, M. Optimal linear estimation models predict 1400-2900 years of overlap between Homo sapiens and Neandertals prior to their disappearance from France and northern Spain. Sci. Rep. 12, 15000 (2022).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "6923_CR17",
+      "unstructured": "Hülle, W. Die Ilsenhöhle unter Burg Ranis, Thüringen: eine Paläolithische Jägerstation (Gustav Fischer, 1977)."
+    },
+    {
+      "key": "6923_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "95",
+      "DOI": "10.1017/S0079497X00000797",
+      "volume": "72",
+      "author": "JM Grünberg",
+      "year": "2006",
+      "unstructured": "Grünberg, J. M. New AMS dates for Palaeolithic and Mesolithic camp sites and single finds in Saxony-Anhalt and Thuringia (Germany). Proc. Prehist. Soc. 72, 95–112 (2006).",
+      "journal-title": "Proc. Prehist. Soc."
+    },
+    {
+      "key": "6923_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "2458",
+      "DOI": "10.1038/s41467-022-30097-x",
+      "volume": "13",
+      "author": "PL Rüther",
+      "year": "2022",
+      "unstructured": "Rüther, P. L. et al. SPIN enables high throughput species identification of archaeological bone by proteomics. Nat. Commun. 13, 2458 (2022).",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "6923_CR20",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Smith, G. M. et al. The ecology, subsistence and diet of ~45,000-year-old Homo sapiens at Ilsenhöhle in Ranis, Germany. Nat. Ecol. Evol. https://doi.org/10.1038/s41559-023-02303-6 (2024).",
+      "DOI": "10.1038/s41559-023-02303-6"
+    },
+    {
+      "key": "6923_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "593",
+      "DOI": "10.1016/S0016-6995(82)80076-4",
+      "volume": "15",
+      "author": "C Guérin",
+      "year": "1982",
+      "unstructured": "Guérin, C. Première biozonation du Pléistocène Européen, principal résultat biostratigraphique de l’étude des Rhinocerotidae (Mammalia, Perissodactyla) du Miocène terminal au Pléistocène supérieur d’Europe Occidentale. Geobios 15, 593–598 (1982).",
+      "journal-title": "Geobios"
+    },
+    {
+      "key": "6923_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "103074",
+      "DOI": "10.1016/j.jhevol.2021.103074",
+      "volume": "161",
+      "author": "GM Smith",
+      "year": "2021",
+      "unstructured": "Smith, G. M. et al. Subsistence behavior during the Initial Upper Paleolithic in Europe: site use, dietary practice, and carnivore exploitation at Bacho Kiro Cave (Bulgaria). J. Hum. Evol. 161, 103074 (2021).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "6923_CR23",
+      "first-page": "102723",
+      "volume": "35",
+      "author": "C Berto",
+      "year": "2021",
+      "unstructured": "Berto, C. et al. Environment changes during Middle to Upper Palaeolithic transition in southern Poland (Central Europe). A multiproxy approach for the MIS 3 sequence of Koziarnia Cave (Kraków-Częstochowa Upland). J. Archaeol. Sci. Rep. 35, 102723 (2021).",
+      "journal-title": "J. Archaeol. Sci. Rep."
+    },
+    {
+      "key": "6923_CR24",
+      "unstructured": "Kahlke, R.-D. The History of the Origin, Evolution and Dispersal of the Late Pleistocene Mammuthus-Coelodonta Faunal Complex in Eurasia (Large Mammals) (Mammoth Site of Hot Springs, 1999)."
+    },
+    {
+      "key": "6923_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "101409",
+      "DOI": "10.1016/j.jaa.2022.101409",
+      "volume": "66",
+      "author": "ST Hussain",
+      "year": "2022",
+      "unstructured": "Hussain, S. T., Weiss, M. & Kellberg Nielsen, T. Being-with other predators: cultural negotiations of Neanderthal-carnivore relationships in Late Pleistocene Europe. J. Anthropol. Archaeol. 66, 101409 (2022).",
+      "journal-title": "J. Anthropol. Archaeol."
+    },
+    {
+      "key": "6923_CR26",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Pederzani, S. et al. Stable isotopes show Homo sapiens dispersed into cold steppes ~45,000 years ago at Ilsenhöhle in Ranis, Germany. Nat. Ecol. Evol. https://doi.org/10.1038/s41559-023-02318-z (2024).",
+      "DOI": "10.1038/s41559-023-02318-z"
+    },
+    {
+      "key": "6923_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "eabj9496",
+      "DOI": "10.1126/sciadv.abj9496",
+      "volume": "8",
+      "author": "L Slimak",
+      "year": "2022",
+      "unstructured": "Slimak, L. et al. Modern human incursion into Neanderthal territories 54,000 years ago at Mandrin, France. Sci. Adv. 8, eabj9496 (2022).",
+      "journal-title": "Sci. Adv."
+    },
+    {
+      "key": "6923_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "117",
+      "DOI": "10.1038/s41586-023-05726-0",
+      "volume": "615",
+      "author": "C Posth",
+      "year": "2023",
+      "unstructured": "Posth, C. et al. Palaeogenomics of Upper Palaeolithic to Neolithic European hunter-gatherers. Nature 615, 117–126 (2023).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "6923_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "207",
+      "DOI": "10.1111/j.1475-4754.1989.tb01015.x",
+      "volume": "31",
+      "author": "REM Hedges",
+      "year": "1989",
+      "unstructured": "Hedges, R. E. M., Housley, R. A., Law, I. A. & Bronk, C. R. Radiocarbon dates from the Oxford AMS system: archaeometry datelist 9. Archaeometry 31, 207–234 (1989).",
+      "journal-title": "Archaeometry"
+    },
+    {
+      "key": "6923_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "74",
+      "DOI": "10.1017/eaa.2016.1",
+      "volume": "20",
+      "author": "C Proctor",
+      "year": "2017",
+      "unstructured": "Proctor, C., Douka, K., Proctor, J. W. & Higham, T. The age and context of the KC4 maxilla, Kent’s Cavern, UK. Eur. J. Archaeol. 20, 74–97 (2017).",
+      "journal-title": "Eur. J. Archaeol."
+    },
+    {
+      "key": "6923_CR31",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mester, Z. What about the Szeletian leaf point as fossile directeur?. Študijné Zvesti Archeologického Ústavu SAV Suppl. 2, 49–62 (2021).",
+      "DOI": "10.31577/szausav.2021.suppl.2.4"
+    },
+    {
+      "key": "6923_CR32",
+      "first-page": "133",
+      "volume": "1",
+      "author": "F Prošek",
+      "year": "1953",
+      "unstructured": "Prošek, F. Szeletien na Slovensku. Slov. Archeol. 1, 133–194 (1953).",
+      "journal-title": "Slov. Archeol."
+    },
+    {
+      "key": "6923_CR33",
+      "first-page": "3",
+      "volume": "1",
+      "author": "A Bohmers",
+      "year": "1951",
+      "unstructured": "Bohmers, A. Die Höhlen von Mauern. Teil I. Kulturgeschichte der Altsteinzeitlichen Besiedlung. Palaeohistoria 1, 3–58 (1951).",
+      "journal-title": "Palaeohistoria"
+    },
+    {
+      "key": "6923_CR34",
+      "unstructured": "Bosinski, G. Die Mittelpaläolithischen Funde im Westlichen Mitteleuropa (Böhlau, 1967)."
+    },
+    {
+      "key": "6923_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "871",
+      "DOI": "10.1016/j.jhevol.2008.04.008",
+      "volume": "55",
+      "author": "D Richter",
+      "year": "2008",
+      "unstructured": "Richter, D., Tostevin, G. & Škrdla, P. Bohunician technology and thermoluminescence dating of the type locality of Brno-Bohunice (Czech Republic). J. Hum. Evol. 55, 871–885 (2008).",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "6923_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "17",
+      "DOI": "10.1007/s41982-023-00142-2",
+      "volume": "6",
+      "author": "YE Demidenko",
+      "year": "2023",
+      "unstructured": "Demidenko, Y. E. & Škrdla, P. Lincombian-Ranisian-Jerzmanowician industry and South Moravian sites: a Homo sapiens Late Initial Upper Paleolithic with Bohunician industrial generic roots in Europe. J. Paleolit. Archaeol. 6, 17 (2023).",
+      "journal-title": "J. Paleolit. Archaeol."
+    },
+    {
+      "key": "6923_CR37",
+      "doi-asserted-by": "publisher",
+      "first-page": "116",
+      "DOI": "10.1016/j.quaint.2016.07.029",
+      "volume": "450",
+      "author": "P Škrdla",
+      "year": "2017",
+      "unstructured": "Škrdla, P. Middle to Upper Paleolithic transition in Moravia: new sites, new dates, new ideas. Quat. Int. 450, 116–125 (2017).",
+      "journal-title": "Quat. Int."
+    },
+    {
+      "key": "6923_CR38",
+      "doi-asserted-by": "publisher",
+      "first-page": "e2022466118",
+      "DOI": "10.1073/pnas.2022466118",
+      "volume": "118",
+      "author": "T Devièse",
+      "year": "2021",
+      "unstructured": "Devièse, T. et al. Reevaluating the timing of Neanderthal disappearance in Northwest Europe. Proc. Natl Acad. Sci. USA 118, e2022466118 (2021).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "6923_CR39",
+      "unstructured": "QGIS Development Team. QGIS Geographic Information System. http://qgis.osgeo.org. (Open Source Geospatial Foundation Project, 2023)."
+    },
+    {
+      "key": "6923_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "983",
+      "DOI": "10.1080/13658810601169899",
+      "volume": "21",
+      "author": "HI Reuter",
+      "year": "2007",
+      "unstructured": "Reuter, H. I., Nelson, A. & Jarvis, A. An evaluation of void‐filling interpolation methods for SRTM data. Int. J. Geogr. Inf. Sci. 21, 983–1008 (2007).",
+      "journal-title": "Int. J. Geogr. Inf. Sci."
+    },
+    {
+      "key": "6923_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "1809",
+      "DOI": "10.1017/RDC.2017.108",
+      "volume": "59",
+      "author": "BC Bronk-Ramsey",
+      "year": "2017",
+      "unstructured": "Bronk-Ramsey, B. C. Methods for summarizing radiocarbon datasets. Radiocarbon 59, 1809–1833 (2017).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "6923_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "3843",
+      "DOI": "10.1002/rcm.4316",
+      "volume": "23",
+      "author": "M Buckley",
+      "year": "2009",
+      "unstructured": "Buckley, M., Collins, M., Thomas-Oates, J. & Wilson, J. C. Species identification by analysis of bone collagen using matrix-assisted laser desorption/ionisation time-of-flight mass spectrometry. Rapid Commun. Mass Spectrom. 23, 3843–3854 (2009).",
+      "journal-title": "Rapid Commun. Mass Spectrom."
+    },
+    {
+      "key": "6923_CR43",
+      "doi-asserted-by": "publisher",
+      "first-page": "281",
+      "DOI": "10.1007/s12520-011-0067-y",
+      "volume": "3",
+      "author": "NL van Doorn",
+      "year": "2011",
+      "unstructured": "van Doorn, N. L., Hollund, H. & Collins, M. J. A novel and non-destructive approach for ZooMS analysis: ammonium bicarbonate buffer extraction. Archaeol. Anthropol. Sci. 3, 281–289 (2011).",
+      "journal-title": "Archaeol. Anthropol. Sci."
+    },
+    {
+      "key": "6923_CR44",
+      "doi-asserted-by": "publisher",
+      "first-page": "104041",
+      "DOI": "10.1016/j.jprot.2020.104041",
+      "volume": "235",
+      "author": "S Brown",
+      "year": "2021",
+      "unstructured": "Brown, S., Douka, K., Collins, M. J. & Richter, K. K. On the standardization of ZooMS nomenclature. J. Proteomics 235, 104041 (2021).",
+      "journal-title": "J. Proteomics"
+    },
+    {
+      "key": "6923_CR45",
+      "doi-asserted-by": "publisher",
+      "first-page": "4648",
+      "DOI": "10.1021/ac100818g",
+      "volume": "82",
+      "author": "M Strohalm",
+      "year": "2010",
+      "unstructured": "Strohalm, M., Kavan, D., Novák, P., Volný, M. & Havlícek, V. mMass 3: a cross-platform software environment for precise analysis of mass spectrometric data. Anal. Chem. 82, 4648–4651 (2010).",
+      "journal-title": "Anal. Chem."
+    },
+    {
+      "key": "6923_CR46",
+      "doi-asserted-by": "publisher",
+      "first-page": "4849",
+      "DOI": "10.1039/c3an00925d",
+      "volume": "138",
+      "author": "DP Kirby",
+      "year": "2013",
+      "unstructured": "Kirby, D. P., Buckley, M., Promise, E., Trauger, S. A. & Holdcraft, T. R. Identification of collagen-based materials in cultural heritage. Analyst 138, 4849–4858 (2013).",
+      "journal-title": "Analyst"
+    },
+    {
+      "key": "6923_CR47",
+      "doi-asserted-by": "publisher",
+      "first-page": "631",
+      "DOI": "10.1016/j.jas.2013.08.021",
+      "volume": "41",
+      "author": "M Buckley",
+      "year": "2014",
+      "unstructured": "Buckley, M. et al. Species identification of archaeological marine mammals using collagen fingerprinting. J. Archaeol. Sci. 41, 631–641 (2014).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "6923_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "9041",
+      "DOI": "10.1021/ac301333t",
+      "volume": "84",
+      "author": "J Wilson",
+      "year": "2012",
+      "unstructured": "Wilson, J., van Doorn, N. L. & Collins, M. J. Assessing the extent of bone degradation using glutamine deamidation in collagen. Anal. Chem. 84, 9041–9048 (2012).",
+      "journal-title": "Anal. Chem."
+    },
+    {
+      "key": "6923_CR49",
+      "doi-asserted-by": "publisher",
+      "first-page": "2284",
+      "DOI": "10.1074/mcp.TIR118.000853",
+      "volume": "17",
+      "author": "N Bache",
+      "year": "2018",
+      "unstructured": "Bache, N. et al. A novel LC system embeds analytes in pre-formed gradients for rapid, ultra-robust proteomics. Mol. Cell. Proteomics 17, 2284–2296 (2018).",
+      "journal-title": "Mol. Cell. Proteomics"
+    },
+    {
+      "key": "6923_CR50",
+      "doi-asserted-by": "publisher",
+      "first-page": "2296",
+      "DOI": "10.1074/mcp.RA117.000314",
+      "volume": "16",
+      "author": "R Bruderer",
+      "year": "2017",
+      "unstructured": "Bruderer, R. et al. Optimization of experimental parameters in data-independent mass spectrometry significantly increases depth and reproducibility of results. Mol. Cell. Proteomics 16, 2296–2309 (2017).",
+      "journal-title": "Mol. Cell. Proteomics"
+    },
+    {
+      "key": "6923_CR51",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41467-020-14609-1",
+      "volume": "11",
+      "author": "DB Bekker-Jensen",
+      "year": "2020",
+      "unstructured": "Bekker-Jensen, D. B. et al. Rapid and site-specific deep phosphoproteome profiling by data-independent acquisition without the need for spectral libraries. Nat. Commun. 11, 787 (2020).",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "6923_CR52",
+      "unstructured": "R Core Team. R: A language and Environment for Statistical Computing. https://www.R-project.org/ (Foundation for Statistical Computing, 2013)."
+    },
+    {
+      "key": "6923_CR53",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41598-023-44885-y",
+      "volume": "13",
+      "author": "D Mylopotamitaki",
+      "year": "2023",
+      "unstructured": "Mylopotamitaki, D. et al. Comparing extraction method efficiency for high-throughput palaeoproteomic bone species identification. Sci. Rep. 13, 18345 (2023).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "6923_CR54",
+      "doi-asserted-by": "publisher",
+      "first-page": "5342",
+      "DOI": "10.1038/s41598-019-41557-8",
+      "volume": "9",
+      "author": "H Fewlass",
+      "year": "2019",
+      "unstructured": "Fewlass, H. et al. Pretreatment and gaseous radiocarbon dating of 40–100 mg archaeological bone. Sci. Rep. 9, 5342 (2019).",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "6923_CR55",
+      "first-page": "62",
+      "volume": "7",
+      "author": "S Talamo",
+      "year": "2021",
+      "unstructured": "Talamo, S., Fewlass, H., Maria, R. & Jaouen, K. ‘Here we go again’: the inspection of collagen extraction protocols for 14C dating and palaeodietary analysis. Sci. Technol. Archaeol. Res. 7, 62–77 (2021).",
+      "journal-title": "Sci. Technol. Archaeol. Res."
+    },
+    {
+      "key": "6923_CR56",
+      "doi-asserted-by": "publisher",
+      "first-page": "687",
+      "DOI": "10.1006/jasc.1998.0385",
+      "volume": "26",
+      "author": "GJ van Klinken",
+      "year": "1999",
+      "unstructured": "van Klinken, G. J. Bone collagen quality indicators for palaeodietary and radiocarbon measurements. J. Archaeol. Sci. 26, 687–695 (1999).",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "6923_CR57",
+      "doi-asserted-by": "publisher",
+      "first-page": "931",
+      "DOI": "10.1016/j.nimb.2009.10.067",
+      "volume": "268",
+      "author": "L Wacker",
+      "year": "2010",
+      "unstructured": "Wacker, L., Němec, M. & Bourquin, J. A revolutionary graphitisation system: fully automated, compact and simple. Nucl. Instrum. Methods Phys. Res. B 268, 931–934 (2010).",
+      "journal-title": "Nucl. Instrum. Methods Phys. Res. B"
+    },
+    {
+      "key": "6923_CR58",
+      "doi-asserted-by": "publisher",
+      "first-page": "7",
+      "DOI": "10.1016/j.nimb.2007.01.138",
+      "volume": "259",
+      "author": "H-A Synal",
+      "year": "2007",
+      "unstructured": "Synal, H.-A., Stocker, M. & Suter, M. MICADAS: a new compact radiocarbon AMS system. Nucl. Instrum. Methods Phys. Res. B 259, 7–13 (2007).",
+      "journal-title": "Nucl. Instrum. Methods Phys. Res. B"
+    },
+    {
+      "key": "6923_CR59",
+      "doi-asserted-by": "publisher",
+      "first-page": "252",
+      "DOI": "10.1017/S0033822200045288",
+      "volume": "52",
+      "author": "L Wacker",
+      "year": "2010",
+      "unstructured": "Wacker, L. et al. MICADAS: routine and high-precision radiocarbon dating. Radiocarbon 52, 252–262 (2010).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "6923_CR60",
+      "doi-asserted-by": "publisher",
+      "first-page": "976",
+      "DOI": "10.1016/j.nimb.2009.10.078",
+      "volume": "268",
+      "author": "L Wacker",
+      "year": "2010",
+      "unstructured": "Wacker, L., Christl, M. & Synal, H.-A. Bats: a new tool for AMS data reduction. Nucl. Instrum. Methods Phys. Res. B 268, 976–979 (2010).",
+      "journal-title": "Nucl. Instrum. Methods Phys. Res. B"
+    },
+    {
+      "key": "6923_CR61",
+      "doi-asserted-by": "publisher",
+      "first-page": "11",
+      "DOI": "10.1016/j.nimb.2012.01.015",
+      "volume": "294",
+      "author": "B Kromer",
+      "year": "2013",
+      "unstructured": "Kromer, B., Lindauer, S., Synal, H.-A. & Wacker, L. MAMS – a new AMS facility at the Curt-Engelhorn-Centre for Achaeometry, Mannheim, Germany. Nucl. Instrum. Methods Phys. Res. B 294, 11–13 (2013).",
+      "journal-title": "Nucl. Instrum. Methods Phys. Res. B"
+    },
+    {
+      "key": "6923_CR62",
+      "doi-asserted-by": "publisher",
+      "first-page": "337",
+      "DOI": "10.1017/S0033822200033865",
+      "volume": "51",
+      "author": "C Bronk-Ramsey",
+      "year": "2009",
+      "unstructured": "Bronk-Ramsey, C. Bayesian analysis of radiocarbon dates. Radiocarbon 51, 337–360 (2009).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "6923_CR63",
+      "doi-asserted-by": "publisher",
+      "first-page": "725",
+      "DOI": "10.1017/RDC.2020.41",
+      "volume": "62",
+      "author": "PJ Reimer",
+      "year": "2020",
+      "unstructured": "Reimer, P. J. et al. The IntCal20 Northern Hemisphere radiocarbon age calibration curve (0–55 cal kBP). Radiocarbon 62, 725–757 (2020).",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "6923_CR64",
+      "doi-asserted-by": "publisher",
+      "first-page": "2447",
+      "DOI": "10.1038/s41596-018-0050-5",
+      "volume": "13",
+      "author": "N Rohland",
+      "year": "2018",
+      "unstructured": "Rohland, N., Glocke, I., Aximu-Petri, A. & Meyer, M. Extraction of highly degraded DNA from ancient bones, teeth and sediments for high-throughput sequencing. Nat. Protoc. 13, 2447–2461 (2018).",
+      "journal-title": "Nat. Protoc."
+    },
+    {
+      "key": "6923_CR65",
+      "doi-asserted-by": "publisher",
+      "first-page": "2279",
+      "DOI": "10.1038/s41596-020-0338-0",
+      "volume": "15",
+      "author": "MT Gansauge",
+      "year": "2020",
+      "unstructured": "Gansauge, M. T., Aximu-Petri, A., Nagel, S. & Meyer, M. Manual and automated preparation of single-stranded DNA libraries for the sequencing of DNA from ancient biological remains and other sources of highly degraded DNA. Nat. Protoc. 15, 2279–2300 (2020).",
+      "journal-title": "Nat. Protoc."
+    },
+    {
+      "key": "6923_CR66",
+      "doi-asserted-by": "publisher",
+      "first-page": "2196",
+      "DOI": "10.1111/1755-0998.13607",
+      "volume": "22",
+      "author": "EI Zavala",
+      "year": "2022",
+      "unstructured": "Zavala, E. I. et al. Quantifying and reducing cross‐contamination in single‐ and multiplex hybridization capture of ancient DNA. Mol. Ecol. Resour. 22, 2196–2207 (2022).",
+      "journal-title": "Mol. Ecol. Resour."
+    },
+    {
+      "key": "6923_CR67",
+      "doi-asserted-by": "publisher",
+      "first-page": "e141",
+      "DOI": "10.1093/nar/gku699",
+      "volume": "42",
+      "author": "G Renaud",
+      "year": "2014",
+      "unstructured": "Renaud, G., Stenzel, U. & Kelso, J. leeHom: adaptor trimming and merging for Illumina sequencing reads. Nucleic Acids Res. 42, e141 (2014).",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "6923_CR68",
+      "doi-asserted-by": "publisher",
+      "first-page": "589",
+      "DOI": "10.1093/bioinformatics/btp698",
+      "volume": "26",
+      "author": "H Li",
+      "year": "2010",
+      "unstructured": "Li, H. & Durbin, R. Fast and accurate long-read alignment with Burrows–Wheeler transform. Bioinformatics 26, 589–595 (2010).",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "6923_CR69",
+      "doi-asserted-by": "publisher",
+      "first-page": "222",
+      "DOI": "10.1126/science.1224344",
+      "volume": "338",
+      "author": "M Meyer",
+      "year": "2012",
+      "unstructured": "Meyer, M. et al. A high-coverage genome sequence from an archaic Denisovan individual. Science 338, 222–226 (2012).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "6923_CR70",
+      "doi-asserted-by": "publisher",
+      "first-page": "147",
+      "DOI": "10.1038/13779",
+      "volume": "23",
+      "author": "RM Andrews",
+      "year": "1999",
+      "unstructured": "Andrews, R. M. et al. Reanalysis and revision of the Cambridge reference sequence for human mitochondrial DNA. Nat. Genet. 23, 147 (1999).",
+      "journal-title": "Nat. Genet."
+    },
+    {
+      "key": "6923_CR71",
+      "doi-asserted-by": "publisher",
+      "first-page": "2078",
+      "DOI": "10.1093/bioinformatics/btp352",
+      "volume": "25",
+      "author": "H Li",
+      "year": "2009",
+      "unstructured": "Li, H. et al. The Sequence Alignment/Map format and SAMtools. Bioinformatics 25, 2078–2079 (2009).",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "6923_CR72",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/s13059-020-02123-y",
+      "volume": "21",
+      "author": "S Peyrégne",
+      "year": "2020",
+      "unstructured": "Peyrégne, S. & Peter, B. M. AuthentiCT: a model of ancient DNA damage to estimate the proportion of present-day DNA contamination. Genome Biol. 21, 246 (2020).",
+      "journal-title": "Genome Biol."
+    },
+    {
+      "key": "6923_CR73",
+      "doi-asserted-by": "publisher",
+      "first-page": "399",
+      "DOI": "10.1038/s41586-021-03675-0",
+      "volume": "595",
+      "author": "EI Zavala",
+      "year": "2021",
+      "unstructured": "Zavala, E. I. et al. Pleistocene sediment DNA reveals hominin and faunal turnovers at Denisova Cave. Nature 595, 399–403 (2021).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "6923_CR74",
+      "doi-asserted-by": "publisher",
+      "first-page": "W58",
+      "DOI": "10.1093/nar/gkw233",
+      "volume": "44",
+      "author": "H Weissensteiner",
+      "year": "2016",
+      "unstructured": "Weissensteiner, H. et al. HaploGrep 2: mitochondrial haplogroup classification in the era of high-throughput sequencing. Nucleic Acids Res. 44, W58–W63 (2016).",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "6923_CR75",
+      "doi-asserted-by": "publisher",
+      "first-page": "772",
+      "DOI": "10.1093/molbev/mst010",
+      "volume": "30",
+      "author": "K Katoh",
+      "year": "2013",
+      "unstructured": "Katoh, K. & Standley, D. M. MAFFT multiple sequence alignment software version 7: improvements in performance and usability. Mol. Biol. Evol. 30, 772–780 (2013).",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "6923_CR76",
+      "doi-asserted-by": "publisher",
+      "first-page": "e1006650",
+      "DOI": "10.1371/journal.pcbi.1006650",
+      "volume": "15",
+      "author": "R Bouckaert",
+      "year": "2019",
+      "unstructured": "Bouckaert, R. et al. BEAST 2.5: an advanced software platform for Bayesian evolutionary analysis. PLoS Comput. Biol. 15, e1006650 (2019).",
+      "journal-title": "PLoS Comput. Biol."
+    },
+    {
+      "key": "6923_CR77",
+      "doi-asserted-by": "publisher",
+      "first-page": "D442",
+      "DOI": "10.1093/nar/gky1106",
+      "volume": "47",
+      "author": "Y Perez-Riverol",
+      "year": "2019",
+      "unstructured": "Perez-Riverol, Y. et al. The PRIDE database and related tools and resources in 2019: improving support for quantification data. Nucleic Acids Res. 47, D442–D450 (2019).",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "6923_CR78",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Chue Hong, N. P. et al. Software Citation Checklist for Authors (0.9.0). Zenodo, https://doi.org/10.5281/zenodo.3479199 (2019).",
+      "DOI": "10.5281/zenodo.3479199"
+    },
+    {
+      "key": "6923_CR79",
+      "doi-asserted-by": "publisher",
+      "first-page": "47",
+      "DOI": "10.5194/cp-4-47-2008",
+      "volume": "4",
+      "author": "A Svensson",
+      "year": "2008",
+      "unstructured": "Svensson, A. et al. A 60 000 year Greenland stratigraphic ice core chronology. Clim. Past 4, 47–57 (2008).",
+      "journal-title": "Clim. Past"
+    },
+    {
+      "key": "6923_CR80",
+      "doi-asserted-by": "publisher",
+      "first-page": "14",
+      "DOI": "10.1016/j.quascirev.2014.09.007",
+      "volume": "106",
+      "author": "SO Rasmussen",
+      "year": "2014",
+      "unstructured": "Rasmussen, S. O. et al. A stratigraphic framework for abrupt climatic changes during the Last Glacial period based on three synchronized Greenland ice-core records: refining and extending the INTIMATE event stratigraphy. Quat. Sci. Rev. 106, 14–28 (2014).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "6923_CR81",
+      "doi-asserted-by": "publisher",
+      "first-page": "107505",
+      "DOI": "10.1016/j.quascirev.2022.107505",
+      "volume": "284",
+      "author": "OA Kern",
+      "year": "2022",
+      "unstructured": "Kern, O. A. et al. A near-continuous record of climate and ecosystem variability in Central Europe during the past 130 kyrs (Marine Isotope Stages 5–1) from Füramoos, southern Germany. Quat. Sci. Rev. 284, 107505 (2022).",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "6923_CR82",
+      "doi-asserted-by": "publisher",
+      "first-page": "108",
+      "DOI": "10.1016/j.gloplacha.2016.03.005",
+      "volume": "142",
+      "author": "F Sirocko",
+      "year": "2016",
+      "unstructured": "Sirocko, F. et al. The ELSA-Vegetation-Stack: reconstruction of landscape evolution zones (LEZ) from laminated Eifel maar sediments of the last 60,000 years. Glob. Planet. Change 142, 108–135 (2016).",
+      "journal-title": "Glob. Planet. Change"
+    },
+    {
+      "key": "6923_CR83",
+      "doi-asserted-by": "publisher",
+      "first-page": "1275",
+      "DOI": "10.5194/cp-18-1275-2022",
+      "volume": "18",
+      "author": "E Myrvoll-Nilsen",
+      "year": "2022",
+      "unstructured": "Myrvoll-Nilsen, E., Riechers, K., Rypdal, M. W. & Boers, N. Comprehensive uncertainty estimation of the timing of Greenland warmings in the Greenland ice core records. Clim. Past 18, 1275–1294 (2022).",
+      "journal-title": "Clim. Past"
+    }
+  ],
+  "container-title": [
+    "Nature"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41586-023-06923-7.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41586-023-06923-7",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41586-023-06923-7.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        11
+      ]
+    ],
+    "date-time": "2024-03-11T12:05:37Z",
+    "timestamp": 1710158737000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41586-023-06923-7"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        31
+      ]
+    ]
+  },
+  "references-count": 83,
+  "journal-issue": {
+    "issue": "7998",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          8
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "6923"
+  ],
+  "URL": "https://doi.org/10.1038/s41586-023-06923-7",
+  "relation": {},
+  "ISSN": [
+    "0028-0836",
+    "1476-4687"
+  ],
+  "issn-type": [
+    {
+      "value": "0028-0836",
+      "type": "print"
+    },
+    {
+      "value": "1476-4687",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        31
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "27 June 2023",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "30 November 2023",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "31 January 2024",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ]
+}

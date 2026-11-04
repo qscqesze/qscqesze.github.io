@@ -1,0 +1,77 @@
+---
+- id: yu-ai
+  title: 雨爱
+  genre: 校园 / 暗恋
+  description: 放学以后，他总有一道题没有做完。后来，他替朋友写了两封情书。一个月后，雨又下了起来。
+  page_count: 12
+  has_cover: true
+  pdf: "/files/daibi-qingjun-complete.pdf"
+  script_url: /comics/yu-ai/storyboard/
+  pages:
+  - id: manga-cover
+    image: "/images/daibi/rain-v2/yu-ai-cover.png"
+    label: 封面
+  - id: manga-page-01
+    image: "/images/daibi/rain-v2/yu-ai-01.png"
+    label: 第 1 页
+  - id: manga-page-02
+    image: "/images/daibi/rain-v2/daibi-02.png"
+    label: 第 2 页
+  - id: manga-page-03
+    image: "/images/daibi/rain-v2/daibi-03.png"
+    label: 第 3 页
+  - id: manga-page-04
+    image: "/images/daibi/rain-v2/daibi-04.png"
+    label: 第 4 页
+  - id: manga-page-05
+    image: "/images/daibi/rain-v2/daibi-05.png"
+    label: 第 5 页
+  - id: manga-page-06
+    image: "/images/daibi/rain-v2/daibi-06.png"
+    label: 第 6 页
+  - id: manga-page-07
+    image: "/images/daibi/rain-v2/daibi-07.png"
+    label: 第 7 页
+  - id: manga-page-08
+    image: "/images/daibi/rain-v2/daibi-08.png"
+    label: 第 8 页
+  - id: manga-page-09
+    image: "/images/daibi/rain-v2/daibi-09.png"
+    label: 第 9 页
+  - id: manga-page-10
+    image: "/images/daibi/rain-v2/daibi-10.png"
+    label: 第 10 页
+  - id: manga-page-11
+    image: "/images/daibi/rain-v2/daibi-11.png"
+    label: 第 11 页
+  - id: manga-page-12
+    image: "/images/daibi/rain-v2/daibi-12-rain-tilted.png"
+    label: 第 12 页
+  cover: "/images/daibi/rain-v2/yu-ai-cover.png"
+  reader_url: "/comics/yu-ai/"
+- id: hui-hu-xi-de-tong
+  title: 会呼吸的痛
+  genre: 青春 / 爱情
+  description: 她想和他一起回家，再分给他一只耳机。有些心事，只在两个人之间安静地呼吸。
+  page_count: 5
+  has_cover: false
+  pdf: "/files/hui-hu-xi-de-tong-qingjun-complete.pdf"
+  script_url: /comics/hui-hu-xi-de-tong/storyboard/
+  pages:
+  - id: manga-page-01
+    image: "/images/hui-hu-xi-de-tong/page-01.png"
+    label: 第 1 页
+  - id: manga-page-02
+    image: "/images/hui-hu-xi-de-tong/page-02.png"
+    label: 第 2 页
+  - id: manga-page-03
+    image: "/images/hui-hu-xi-de-tong/page-03.png"
+    label: 第 3 页
+  - id: manga-page-04
+    image: "/images/hui-hu-xi-de-tong/page-04.png"
+    label: 第 4 页
+  - id: manga-page-05
+    image: "/images/hui-hu-xi-de-tong/page-05.png"
+    label: 第 5 页
+  cover: "/images/hui-hu-xi-de-tong/page-01.png"
+  reader_url: "/comics/hui-hu-xi-de-tong/"

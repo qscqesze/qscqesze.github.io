@@ -1,0 +1,27 @@
+---
+layout: single
+permalink: /search/
+title: "搜索"
+excerpt: "搜索博客文章、旧文、分类与标签。"
+comments: false
+share: false
+related: false
+---
+
+<div class="site-search" data-site-search>
+  <form class="site-search__form" action="{{ '/search/' | relative_url }}" method="get" role="search">
+    <label class="site-search__label" for="site-search-input">搜索文章</label>
+    <div class="site-search__control">
+      <input id="site-search-input" class="site-search__input" type="search" name="q" autocomplete="off" placeholder="输入标题、主题或关键词" aria-describedby="site-search-help">
+      <button class="site-search__button" type="submit">搜索</button>
+    </div>
+    <p class="site-search__help" id="site-search-help">支持搜索正文、标题、分类和标签。</p>
+  </form>
+
+  <p class="site-search__status" data-search-status aria-live="polite">输入关键词开始搜索。</p>
+  <div class="site-search__results" data-search-results></div>
+
+  <noscript><p>站内搜索需要启用 JavaScript。你仍可以通过<a href="{{ '/categories/' | relative_url }}">分类</a>或<a href="{{ '/tags/' | relative_url }}">标签</a>浏览文章。</p></noscript>
+</div>
+
+<script type="module" src="{{ '/assets/js/search.js' | relative_url }}"></script>

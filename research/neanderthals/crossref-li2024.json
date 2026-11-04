@@ -1,0 +1,717 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        29
+      ]
+    ],
+    "date-time": "2026-08-29T06:46:44Z",
+    "timestamp": 1787986004424,
+    "version": "build-2784847793"
+  },
+  "reference-count": 93,
+  "publisher": "American Association for the Advancement of Science (AAAS)",
+  "issue": "6705",
+  "content-domain": {
+    "domain": [
+      "www.science.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Science"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        12
+      ]
+    ]
+  },
+  "abstract": "<jats:p>Although it is well known that the ancestors of modern humans and Neanderthals admixed, the effects of gene flow on the Neanderthal genome are not well understood. We develop methods to estimate the amount of human-introgressed sequences in Neanderthals and apply it to whole-genome sequence data from 2000 modern humans and three Neanderthals. We estimate that Neanderthals have 2.5 to 3.7% human ancestry, and we leverage human-introgressed sequences in Neanderthals to revise estimates of Neanderthal ancestry in modern humans, show that Neanderthal population sizes were significantly smaller than previously estimated, and identify two distinct waves of modern human gene flow into Neanderthals. Our data provide insights into the genetic legacy of recurrent gene flow between modern humans and Neanderthals.</jats:p>",
+  "DOI": "10.1126/science.adi1768",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        11
+      ]
+    ],
+    "date-time": "2024-07-11T13:59:53Z",
+    "timestamp": 1720706393000
+  },
+  "update-policy": "https://doi.org/10.34133/aaas_crossmark",
+  "source": "Crossref",
+  "is-referenced-by-count": 72,
+  "title": [
+    "Recurrent gene flow between Neanderthals and modern humans over the past 200,000 years"
+  ],
+  "prefix": "10.1126",
+  "volume": "385",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-2187-5688",
+      "authenticated-orcid": true,
+      "given": "Liming",
+      "family": "Li",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Medical Genetics and Developmental Biology, School of Medicine, The Key Laboratory of Developmental Genes and Human Diseases, Ministry of Education, Southeast University, Nanjing 210009, China."
+        },
+        {
+          "name": "The Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, NJ 08540, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3215-4026",
+      "authenticated-orcid": true,
+      "given": "Troy J.",
+      "family": "Comi",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "The Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, NJ 08540, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8513-7425",
+      "authenticated-orcid": true,
+      "given": "Rob F.",
+      "family": "Bierman",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "The Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, NJ 08540, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4411-1330",
+      "authenticated-orcid": true,
+      "given": "Joshua M.",
+      "family": "Akey",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "The Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, NJ 08540, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "221",
+  "reference": [
+    {
+      "key": "e_1_3_2_2_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cell.2023.12.029"
+    },
+    {
+      "key": "e_1_3_2_3_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1188021"
+    },
+    {
+      "key": "e_1_3_2_4_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature12886"
+    },
+    {
+      "key": "e_1_3_2_5_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aao1887"
+    },
+    {
+      "key": "e_1_3_2_6_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.2004944117"
+    },
+    {
+      "key": "e_1_3_2_7_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1224344"
+    },
+    {
+      "key": "e_1_3_2_8_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-022-05283-y"
+    },
+    {
+      "key": "e_1_3_2_9_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature26151"
+    },
+    {
+      "key": "e_1_3_2_10_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1903984116"
+    },
+    {
+      "key": "e_1_3_2_11_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-018-0455-x"
+    },
+    {
+      "key": "e_1_3_2_12_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature21347"
+    },
+    {
+      "key": "e_1_3_2_13_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cell.2018.02.031"
+    },
+    {
+      "key": "e_1_3_2_14_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "B. M. Peter 100 000 years of gene flow between Neandertals and Denisovans in the Altai mountains. BioRxiv 2020.03.13.990523 (2020); 10.1101/2020.03.13.990523",
+      "DOI": "10.1101/2020.03.13.990523"
+    },
+    {
+      "key": "e_1_3_2_15_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41576-023-00643-4"
+    },
+    {
+      "key": "e_1_3_2_16_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nrg3936"
+    },
+    {
+      "key": "e_1_3_2_17_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.gde.2020.05.026"
+    },
+    {
+      "key": "e_1_3_2_18_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pgen.1007349"
+    },
+    {
+      "key": "e_1_3_2_19_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/s13059-017-1181-7"
+    },
+    {
+      "key": "e_1_3_2_20_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cub.2016.10.041"
+    },
+    {
+      "key": "e_1_3_2_21_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cell.2017.01.038"
+    },
+    {
+      "key": "e_1_3_2_22_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aad2149"
+    },
+    {
+      "key": "e_1_3_2_23_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-020-2818-3"
+    },
+    {
+      "key": "e_1_3_2_24_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cub.2022.08.027"
+    },
+    {
+      "key": "e_1_3_2_25_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1245938"
+    },
+    {
+      "key": "e_1_3_2_26_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature12961"
+    },
+    {
+      "key": "e_1_3_2_27_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1814338116"
+    },
+    {
+      "key": "e_1_3_2_28_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aad9416"
+    },
+    {
+      "key": "e_1_3_2_29_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41559-018-0735-8"
+    },
+    {
+      "key": "e_1_3_2_30_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ajhg.2014.12.029"
+    },
+    {
+      "key": "e_1_3_2_31_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/sciadv.adg9817"
+    },
+    {
+      "key": "e_1_3_2_32_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature16544"
+    },
+    {
+      "key": "e_1_3_2_33_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pgen.1008895"
+    },
+    {
+      "key": "e_1_3_2_34_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cell.2020.01.012"
+    },
+    {
+      "key": "e_1_3_2_35_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-021-03244-5"
+    },
+    {
+      "key": "e_1_3_2_36_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature19472"
+    },
+    {
+      "key": "e_1_3_2_37_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature18299"
+    },
+    {
+      "key": "e_1_3_2_38_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature18964"
+    },
+    {
+      "key": "e_1_3_2_39_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature19792"
+    },
+    {
+      "key": "e_1_3_2_40_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pgen.1002947"
+    },
+    {
+      "key": "e_1_3_2_41_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature15393"
+    },
+    {
+      "key": "e_1_3_2_43_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ajhg.2015.01.006"
+    },
+    {
+      "key": "e_1_3_2_44_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ajhg.2011.02.001"
+    },
+    {
+      "key": "e_1_3_2_45_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ajhg.2022.05.009"
+    },
+    {
+      "key": "e_1_3_2_46_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3109/08039488.2013.780260"
+    },
+    {
+      "key": "e_1_3_2_47_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/ng.3792"
+    },
+    {
+      "key": "e_1_3_2_48_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ajhg.2021.07.007"
+    },
+    {
+      "key": "e_1_3_2_49_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1001/jamapsychiatry.2016.3798"
+    },
+    {
+      "key": "e_1_3_2_50_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1534/genetics.116.186890"
+    },
+    {
+      "key": "e_1_3_2_51_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pgen.1006340"
+    },
+    {
+      "key": "e_1_3_2_52_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nrg1318"
+    },
+    {
+      "key": "e_1_3_2_53_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev-statistics-030718-105212"
+    },
+    {
+      "key": "e_1_3_2_54_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.gde.2018.06.016"
+    },
+    {
+      "key": "e_1_3_2_55_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/oxfordjournals.molbev.a026091"
+    },
+    {
+      "key": "e_1_3_2_56_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/genetics/162.4.2025"
+    },
+    {
+      "key": "e_1_3_2_57_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cub.2023.09.066"
+    },
+    {
+      "key": "e_1_3_2_58_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature22336"
+    },
+    {
+      "key": "e_1_3_2_59_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.tree.2018.05.005"
+    },
+    {
+      "key": "e_1_3_2_60_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature22335"
+    },
+    {
+      "key": "e_1_3_2_61_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/546212a"
+    },
+    {
+      "key": "e_1_3_2_62_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-021-04275-8"
+    },
+    {
+      "key": "e_1_3_2_63_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-019-1376-z"
+    },
+    {
+      "key": "e_1_3_2_64_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aap8369"
+    },
+    {
+      "key": "e_1_3_2_65_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aas8954"
+    },
+    {
+      "key": "e_1_3_2_66_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41467-021-24779-1"
+    },
+    {
+      "key": "e_1_3_2_67_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhevol.2005.04.006"
+    },
+    {
+      "key": "e_1_3_2_68_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41559-018-0518-2"
+    },
+    {
+      "key": "e_1_3_2_69_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-021-03863-y"
+    },
+    {
+      "key": "e_1_3_2_70_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/sciadv.abj9496"
+    },
+    {
+      "key": "e_1_3_2_71_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.7554/eLife.75464"
+    },
+    {
+      "key": "e_1_3_2_72_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.abb6460"
+    },
+    {
+      "key": "e_1_3_2_73_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/ncomms16046"
+    },
+    {
+      "key": "e_1_3_2_74_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature14558"
+    },
+    {
+      "key": "e_1_3_2_75_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-021-03335-3"
+    },
+    {
+      "key": "e_1_3_2_76_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.48738/2022.iss2.130"
+    },
+    {
+      "key": "e_1_3_2_77_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.quaint.2004.11.016"
+    },
+    {
+      "key": "e_1_3_2_78_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41559-021-01421-3"
+    },
+    {
+      "key": "e_1_3_2_79_2",
+      "unstructured": "L. Chen A. B. Wolf W. Fu L. Li J. M. Akey IBDmix: Identifying and Interpreting Apparent Neanderthal Ancestry in African Individuals Source Code Code Ocean (2021); 10.24433/CO.5781869.v1"
+    },
+    {
+      "key": "e_1_3_2_80_2",
+      "unstructured": "L. Li T. Comi R. Bierman J. Akey IBDmix calls of introgressed Neanderthal sequences in individuals from the 1000 Genomics Project populations Data set Zenodo (2024); 10.5281/zenodo.10578630"
+    },
+    {
+      "key": "e_1_3_2_81_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pcbi.1004842"
+    },
+    {
+      "key": "e_1_3_2_82_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1219240"
+    },
+    {
+      "key": "e_1_3_2_83_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature12228"
+    },
+    {
+      "key": "e_1_3_2_84_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/sciadv.aaw9206"
+    },
+    {
+      "key": "e_1_3_2_85_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1101/gr.076554.108"
+    },
+    {
+      "key": "e_1_3_2_86_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1101/gr.076521.108"
+    },
+    {
+      "key": "e_1_3_2_87_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/bioinformatics/btac255"
+    },
+    {
+      "key": "e_1_3_2_88_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cub.2016.03.037"
+    },
+    {
+      "key": "e_1_3_2_89_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pgen.1007641"
+    },
+    {
+      "key": "e_1_3_2_90_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/mec.14565"
+    },
+    {
+      "key": "e_1_3_2_91_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/nar/gkz401"
+    },
+    {
+      "key": "e_1_3_2_92_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature10231"
+    },
+    {
+      "key": "e_1_3_2_93_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1534/genetics.112.145037"
+    },
+    {
+      "key": "e_1_3_2_94_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/h0045186"
+    },
+    {
+      "key": "e_1_3_2_95_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.2041-210X.2011.00179.x"
+    }
+  ],
+  "container-title": [
+    "Science"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.science.org/doi/pdf/10.1126/science.adi1768",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        11
+      ]
+    ],
+    "date-time": "2024-07-11T14:00:08Z",
+    "timestamp": 1720706408000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.science.org/doi/10.1126/science.adi1768"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        12
+      ]
+    ]
+  },
+  "references-count": 93,
+  "journal-issue": {
+    "issue": "6705",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1126/science.adi1768"
+  ],
+  "URL": "https://doi.org/10.1126/science.adi1768",
+  "relation": {},
+  "ISSN": [
+    "0036-8075",
+    "1095-9203"
+  ],
+  "issn-type": [
+    {
+      "value": "0036-8075",
+      "type": "print"
+    },
+    {
+      "value": "1095-9203",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        12
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2023-07-05",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-05-14",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-07-12",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ],
+  "article-number": "eadi1768"
+}

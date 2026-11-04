@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 720" role="img" aria-labelledby="title desc">
+  <title id="title">流路径的曲率、ODE 步数与采样误差</title>
+  <desc id="desc">左图表示弯曲路径使用少量欧拉步会偏离，右图表示更直路径或二阶 Heun 方法能以相同步数更接近真实积分曲线。</desc>
+  <defs>
+    <linearGradient id="b3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#18243d"/></linearGradient>
+    <marker id="arr" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9Z" fill="#ffad69"/></marker>
+  </defs>
+  <rect width="1400" height="720" rx="28" fill="url(#b3)"/>
+  <text x="55" y="72" fill="#f7f9ff" font-size="34" font-weight="700" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">少步采样的核心不是“直线训练”，而是可积分的几何</text>
+  <text x="55" y="111" fill="#9eb1cc" font-size="20" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">误差同时取决于路径曲率、速度场光滑性、时间参数化、CFG 强度和求解器阶数。</text>
+
+  <rect x="55" y="155" width="610" height="500" rx="22" fill="#0d192b" stroke="#2b405f" stroke-width="2"/>
+  <text x="90" y="205" fill="#fff" font-size="25" font-weight="650" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">弯曲 / 刚性路径 + 少量 Euler 步</text>
+  <path d="M125 575 C220 235 445 245 600 345 C510 485 340 610 125 575" fill="none" stroke="#69ddff" stroke-width="6" opacity=".9"/>
+  <g fill="#69ddff"><circle cx="125" cy="575" r="10"/><circle cx="600" cy="345" r="10"/></g>
+  <polyline points="125,575 190,340 388,248 600,345" fill="none" stroke="#ffad69" stroke-width="5" stroke-dasharray="12 9" marker-end="url(#arr)"/>
+  <g fill="#ffad69"><circle cx="190" cy="340" r="7"/><circle cx="388" cy="248" r="7"/></g>
+  <path d="M388 248 L495 310" stroke="#ff6b7f" stroke-width="3"/>
+  <text x="392" y="232" fill="#ff8798" font-size="17" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">局部切线跨太远</text>
+  <text x="102" y="618" fill="#a8bad2" font-size="17" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">噪声</text>
+  <text x="598" y="378" fill="#a8bad2" font-size="17" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">数据</text>
+
+  <rect x="735" y="155" width="610" height="500" rx="22" fill="#0d192b" stroke="#2b405f" stroke-width="2"/>
+  <text x="770" y="205" fill="#fff" font-size="25" font-weight="650" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">更直的耦合 / 更高阶求解器</text>
+  <path d="M805 575 C930 500 1065 415 1275 315" fill="none" stroke="#69ddff" stroke-width="7"/>
+  <g fill="#69ddff"><circle cx="805" cy="575" r="10"/><circle cx="1275" cy="315" r="10"/></g>
+  <polyline points="805,575 930,498 1060,418 1168,362 1275,315" fill="none" stroke="#ffad69" stroke-width="4" stroke-dasharray="10 8" marker-end="url(#arr)"/>
+  <g fill="#ffad69"><circle cx="930" cy="498" r="6"/><circle cx="1060" cy="418" r="6"/><circle cx="1168" cy="362" r="6"/></g>
+  <text x="815" y="286" fill="#cfefff" font-size="19" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">同样的 NFE，离真实积分曲线更近</text>
+  <text x="815" y="330" fill="#9eb2cc" font-size="17" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">Heun 每步两次网络评估，但有二阶精度；</text>
+  <text x="815" y="360" fill="#9eb2cc" font-size="17" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">是否更划算要按 NFE，而不是按“步数”比较。</text>
+  <text x="782" y="618" fill="#a8bad2" font-size="17" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">噪声</text>
+  <text x="1257" y="350" fill="#a8bad2" font-size="17" font-family="system-ui,-apple-system,'Noto Sans SC',sans-serif">数据</text>
+</svg>

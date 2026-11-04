@@ -1,0 +1,1990 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        8
+      ]
+    ],
+    "date-time": "2026-09-08T11:04:43Z",
+    "timestamp": 1788865483374,
+    "version": "build-2803163510"
+  },
+  "reference-count": 141,
+  "publisher": "Elsevier BV",
+  "issue": "9",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2024-09-01T00:00:00Z",
+        "timestamp": 1725148800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2024-09-01T00:00:00Z",
+        "timestamp": 1725148800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            5
+          ]
+        ],
+        "date-time": "2024-06-05T00:00:00Z",
+        "timestamp": 1717545600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "cell.com",
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Cell Genomics"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        9
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.xgen.2024.100593",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        11
+      ]
+    ],
+    "date-time": "2024-09-11T14:40:22Z",
+    "timestamp": 1726065622000
+  },
+  "page": "100593",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 39,
+  "title": [
+    "Long genetic and social isolation in Neanderthals before their extinction"
+  ],
+  "prefix": "10.1016",
+  "volume": "4",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-0688-8405",
+      "authenticated-orcid": false,
+      "given": "Ludovic",
+      "family": "Slimak",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Tharsika",
+      "family": "Vimala",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Andaine",
+      "family": "Seguin-Orlando",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Laure",
+      "family": "Metz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Clément",
+      "family": "Zanolli",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Renaud",
+      "family": "Joannes-Boyau",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Marine",
+      "family": "Frouin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Lee J.",
+      "family": "Arnold",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Martina",
+      "family": "Demuro",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Thibaut",
+      "family": "Devièse",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Daniel",
+      "family": "Comeskey",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Michael",
+      "family": "Buckley",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hubert",
+      "family": "Camus",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xavier",
+      "family": "Muth",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jason E.",
+      "family": "Lewis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hervé",
+      "family": "Bocherens",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Pascale",
+      "family": "Yvorra",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Christophe",
+      "family": "Tenailleau",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Benjamin",
+      "family": "Duployer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hélène",
+      "family": "Coqueugniot",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Olivier",
+      "family": "Dutour",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Thomas",
+      "family": "Higham",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Martin",
+      "family": "Sikora",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib1",
+      "doi-asserted-by": "crossref",
+      "first-page": "eabj9496",
+      "DOI": "10.1126/sciadv.abj9496",
+      "article-title": "Modern human incursion into Neanderthal territories 54,000 years ago at Mandrin, France",
+      "volume": "8",
+      "author": "Slimak",
+      "year": "2022",
+      "journal-title": "Sci. Adv."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib2",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1126/sciadv.add4675",
+      "article-title": "Bow-and-arrow, technology of the first modern humans in Europe 54,000 years ago at Mandrin, France",
+      "volume": "9",
+      "author": "Metz",
+      "year": "2023",
+      "journal-title": "Sci. Adv."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib3",
+      "doi-asserted-by": "crossref",
+      "first-page": "330",
+      "DOI": "10.1016/j.quascirev.2018.12.019",
+      "article-title": "For a cultural anthropology of the last Neanderthals",
+      "volume": "217",
+      "author": "Slimak",
+      "year": "2019",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib4",
+      "doi-asserted-by": "crossref",
+      "first-page": "306",
+      "DOI": "10.1038/nature13621",
+      "article-title": "The timing and spatiotemporal patterning of Neanderthal disappearance",
+      "volume": "512",
+      "author": "Higham",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib5",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1371/journal.pone.0277444",
+      "article-title": "The three waves: Rethinking the structure of the first Upper Paleolithic in Western Eurasia",
+      "volume": "18",
+      "author": "Slimak",
+      "year": "2023",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib6",
+      "doi-asserted-by": "crossref",
+      "first-page": "2204",
+      "DOI": "10.1016/j.jas.2008.02.005",
+      "article-title": "The Neronian and the historical structure of cultural shifts from Middle to Upper Palaeolithic in Mediterranean France",
+      "volume": "35",
+      "author": "Slimak",
+      "year": "2008",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib7",
+      "doi-asserted-by": "crossref",
+      "first-page": "1697",
+      "DOI": "10.1038/s41598-019-38571-1",
+      "article-title": "Skeletal Anomalies in The Neandertal Family of El Sidrón (Spain) Support A Role of Inbreeding in Neandertal Extinction",
+      "volume": "9",
+      "author": "Ríos",
+      "year": "2019",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib8",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.1038/nature12886",
+      "article-title": "The complete genome sequence of a Neanderthal from the Altai Mountains",
+      "volume": "505",
+      "author": "Prüfer",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib9",
+      "doi-asserted-by": "crossref",
+      "first-page": "659",
+      "DOI": "10.1126/science.aao1807",
+      "article-title": "Ancient genomes show social and reproductive behavior of early Upper Paleolithic foragers",
+      "volume": "358",
+      "author": "Sikora",
+      "year": "2017",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib10",
+      "doi-asserted-by": "crossref",
+      "first-page": "5425",
+      "DOI": "10.1038/s41467-021-25289-w",
+      "article-title": "Parental relatedness through time revealed by runs of homozygosity in ancient DNA",
+      "volume": "12",
+      "author": "Ringbauer",
+      "year": "2021",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib11",
+      "doi-asserted-by": "crossref",
+      "first-page": "710",
+      "DOI": "10.1126/science.1188021",
+      "article-title": "A draft sequence of the neandertal genome",
+      "volume": "328",
+      "author": "Green",
+      "year": "2010",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib12",
+      "first-page": "1",
+      "article-title": "A high-coverage Neandertal genome from Vindija Cave in Croatia",
+      "volume": "1887",
+      "author": "Prüfer",
+      "year": "2017",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib13",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1126/sciadv.aaw5873",
+      "article-title": "Nuclear DNA from two early Neandertals reveals 80,000 years of genetic continuity in Europe",
+      "volume": "5",
+      "author": "Peyrégne",
+      "year": "2019",
+      "journal-title": "Sci. Adv."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib14",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1126/science.abf1667",
+      "article-title": "Unearthing Neanderthal population history using nuclear and mitochondrial DNA from cave sediments",
+      "volume": "372",
+      "author": "Vernot",
+      "year": "2021",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib15",
+      "doi-asserted-by": "crossref",
+      "first-page": "15132",
+      "DOI": "10.1073/pnas.2004944117",
+      "article-title": "A high-coverage Neandertal genome from Chagyrskaya Cave",
+      "volume": "117",
+      "author": "Mafessoni",
+      "year": "2020",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib16",
+      "doi-asserted-by": "crossref",
+      "first-page": "652",
+      "DOI": "10.1038/nature26151",
+      "article-title": "Reconstructing the genetic history of late Neanderthals",
+      "volume": "555",
+      "author": "Hajdinjak",
+      "year": "2018",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib17",
+      "first-page": "187",
+      "article-title": "Les découvertes de restes humains dans un horizon castelperronien de Saint-Césaire (Charente-Maritime)",
+      "volume": "77",
+      "author": "Léve^que",
+      "year": "1980",
+      "journal-title": "Bull. Soc. Prehist. Fr."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib18",
+      "doi-asserted-by": "crossref",
+      "first-page": "133",
+      "DOI": "10.3406/bspf.1999.10937",
+      "article-title": "Pour une individualisation des Moustériens de type Quina dans le quart sud-est de la France? La Baume Néron (Soyons, Ardèche) et le Champ Grand (Saint-Maurice-sur-Loire, Loire), premières données",
+      "volume": "96",
+      "author": "Slimak",
+      "year": "1999",
+      "journal-title": "bspf."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib19",
+      "series-title": "Les Dernières Expressions du Moustérien entre Loire et Rho^ne",
+      "author": "Slimak",
+      "year": "2004"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib20",
+      "doi-asserted-by": "crossref",
+      "first-page": "148",
+      "DOI": "10.1002/ar.10116",
+      "article-title": "A closer look at Neanderthal postcanine dental morphology: The mandibular dentition",
+      "volume": "269",
+      "author": "Bailey",
+      "year": "2002",
+      "journal-title": "Anat. Rec."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib21",
+      "first-page": "57",
+      "article-title": "Derived morphology in Neanderthal maxillary molars: Insights from above",
+      "volume": "123",
+      "author": "Bailey",
+      "year": "2004",
+      "journal-title": "Am. J. Phys. Anthropol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib22",
+      "first-page": "59",
+      "article-title": "The phalanges of Neanderthal and Upper Palaeolithic hands",
+      "author": "Musgrave",
+      "year": "1973"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib23",
+      "doi-asserted-by": "crossref",
+      "first-page": "37",
+      "DOI": "10.1002/ajpa.1330570107",
+      "article-title": "The Shanidar 3 Neandertal",
+      "volume": "57",
+      "author": "Trinkaus",
+      "year": "1982",
+      "journal-title": "Am. J. Phys. Anthropol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib24",
+      "first-page": "103",
+      "article-title": "Presence of the fourth molar. Literature review",
+      "volume": "22",
+      "author": "Vázquez Mosquerira",
+      "year": "2018",
+      "journal-title": "Rev. Odont. Mex."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib25",
+      "doi-asserted-by": "crossref",
+      "first-page": "45",
+      "DOI": "10.3406/bmsap.1974.2088",
+      "article-title": "Étude odontologique des restes humains périgordiens et proto-magdaléniens de l'Abri-Pataud (Dordogne) (seconde partie)",
+      "volume": "1",
+      "author": "Legoux",
+      "year": "1974",
+      "journal-title": "bmsap."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib26",
+      "series-title": "Continuity and Discontinuity in the Peopling of Europe",
+      "first-page": "155",
+      "article-title": "Dental Development and Age at Death of a Middle Paleolithic Juvenile Hominin from Obi-Rakhmat Grotto, Uzbekistan",
+      "author": "Smith",
+      "year": "2011"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib27",
+      "doi-asserted-by": "crossref",
+      "first-page": "11941",
+      "DOI": "10.1073/pnas.1814989115",
+      "article-title": "An abundance of developmental anomalies and abnormalities in Pleistocene people",
+      "volume": "115",
+      "author": "Trinkaus",
+      "year": "2018",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib28",
+      "doi-asserted-by": "crossref",
+      "first-page": "1291",
+      "DOI": "10.1006/jasc.2001.0678",
+      "article-title": "Dolnı́ Věstonice 15: Pathology and Persistence in the Pavlovian",
+      "volume": "28",
+      "author": "Trinkaus",
+      "year": "2001",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib29",
+      "doi-asserted-by": "crossref",
+      "first-page": "54",
+      "DOI": "10.1016/j.jhevol.2014.05.004",
+      "article-title": "Further evidence for phenotypic signatures of hybridization in descendant baboon populations",
+      "volume": "76",
+      "author": "Ackermann",
+      "year": "2014",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib30",
+      "doi-asserted-by": "crossref",
+      "first-page": "189",
+      "DOI": "10.1002/evan.21787",
+      "article-title": "Hybridization in human evolution: Insights from other organisms",
+      "volume": "28",
+      "author": "Ackermann",
+      "year": "2019",
+      "journal-title": "Evol. Anthropol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib31",
+      "doi-asserted-by": "crossref",
+      "first-page": "13342",
+      "DOI": "10.1073/pnas.192464099",
+      "article-title": "The Neandertal type site revisited: interdisciplinary investigations of skeletal remains from the Neander Valley, Germany",
+      "volume": "99",
+      "author": "Schmitz",
+      "year": "2002",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib32",
+      "doi-asserted-by": "crossref",
+      "first-page": "8611",
+      "DOI": "10.1073/pnas.1018938108",
+      "article-title": "Revised age of late Neanderthal occupation and the end of the Middle Paleolithic in the northern Caucasus",
+      "volume": "108",
+      "author": "Pinhasi",
+      "year": "2011",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib33",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1038/srep29005",
+      "article-title": "Neandertal cannibalism and Neandertal bones used as tools in Northern Europe",
+      "volume": "6",
+      "author": "Rougier",
+      "year": "2016",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib34",
+      "doi-asserted-by": "crossref",
+      "first-page": "10606",
+      "DOI": "10.1073/pnas.1709235114",
+      "article-title": "Direct dating of Neanderthal remains from the site of Vindija Cave and implications for the Middle to Upper Paleolithic transition",
+      "volume": "114",
+      "author": "Devièse",
+      "year": "2017",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib35",
+      "doi-asserted-by": "crossref",
+      "first-page": "4928",
+      "DOI": "10.1073/pnas.1814087116",
+      "article-title": "Exceptionally high δ15N values in collagen single amino acids confirm Neanderthals as high-trophic level carnivores",
+      "volume": "116",
+      "author": "Jaouen",
+      "year": "2019",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib36",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1038/s41598-020-77611-z",
+      "article-title": "Pluridisciplinary evidence for burial for the La Ferrassie 8 Neandertal child",
+      "volume": "10",
+      "author": "Balzeau",
+      "year": "2020",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib37",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1073/pnas.2022466118",
+      "article-title": "Reevaluating the timing of Neanderthal disappearance in Northwest Europe",
+      "volume": "118",
+      "author": "Devièse",
+      "year": "2021",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib38",
+      "doi-asserted-by": "crossref",
+      "first-page": "11162",
+      "DOI": "10.1073/pnas.1605834113",
+      "article-title": "Palaeoproteomic evidence identifies archaic hominins associated with the Châtelperronian at the Grotte du Renne",
+      "volume": "113",
+      "author": "Welker",
+      "year": "2016",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib39",
+      "doi-asserted-by": "crossref",
+      "first-page": "18743",
+      "DOI": "10.1073/pnas.1212924109",
+      "article-title": "Radiocarbon dates from the Grotte du Renne and Saint-Césaire support a Neandertal origin for the Châtelperronian",
+      "volume": "109",
+      "author": "Hublin",
+      "year": "2012",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib40",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.15184/aqy.2019.3",
+      "article-title": "FINDER project: collagen fingerprinting (ZooMS) for the identification of new human fossils",
+      "volume": "93",
+      "author": "Douka",
+      "year": "2019",
+      "journal-title": "Antiquity"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib41",
+      "doi-asserted-by": "crossref",
+      "first-page": "3843",
+      "DOI": "10.1002/rcm.4316",
+      "article-title": "Species identification by analysis of bone collagen using matrix-assisted laser desorption/ionisation time-of-flight mass spectrometry",
+      "volume": "23",
+      "author": "Buckley",
+      "year": "2009",
+      "journal-title": "Rapid Commun. Mass Spectrom."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib42",
+      "doi-asserted-by": "crossref",
+      "first-page": "80",
+      "DOI": "10.1016/j.palaeo.2014.06.003",
+      "article-title": "Combining histology, stable isotope analysis and ZooMS collagen fingerprinting to investigate the taphonomic history and dietary behaviour of extinct giant tortoises from the Mare aux Songes deposit on Mauritius",
+      "volume": "416",
+      "author": "van der Sluis",
+      "year": "2014",
+      "journal-title": "Palaeogeogr. Palaeoclimatol. Palaeoecol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib43",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1038/srep23559",
+      "article-title": "Identification of a new hominin bone from Denisova Cave, Siberia using collagen fingerprinting and mitochondrial DNA analysis",
+      "volume": "6",
+      "author": "Brown",
+      "year": "2016",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib44",
+      "doi-asserted-by": "crossref",
+      "first-page": "373",
+      "DOI": "10.1002/rcm.8047",
+      "article-title": "New protocol for compound specific radiocarbon analysis of archaeological bones",
+      "volume": "32",
+      "author": "Devièse",
+      "year": "2018",
+      "journal-title": "Rapid Commun. Mass Spectrom."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib45",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1038/s41598-020-71504-x",
+      "article-title": "New perspectives on Neanderthal dispersal and turnover from Stajnia Cave (Poland)",
+      "volume": "10",
+      "author": "Picin",
+      "year": "2020",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib46",
+      "doi-asserted-by": "crossref",
+      "first-page": "1053",
+      "DOI": "10.1038/nature09710",
+      "article-title": "Genetic history of an archaic hominin group from Denisova cave in Siberia",
+      "volume": "468",
+      "author": "Reich",
+      "year": "2010",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib47",
+      "doi-asserted-by": "crossref",
+      "first-page": "15610",
+      "DOI": "10.1073/pnas.1903984116",
+      "article-title": "A genetic analysis of the Gibraltar Neanderthals",
+      "volume": "116",
+      "author": "Bokelmann",
+      "year": "2019",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib48",
+      "doi-asserted-by": "crossref",
+      "first-page": "519",
+      "DOI": "10.1038/s41586-022-05283-y",
+      "article-title": "Genetic insights into the social organization of Neanderthals",
+      "volume": "610",
+      "author": "Skov",
+      "year": "2022",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib49",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1371/journal.pcbi.1006650",
+      "article-title": "BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis",
+      "volume": "15",
+      "author": "Bouckaert",
+      "year": "2019",
+      "journal-title": "PLoS Comput. Biol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib50",
+      "doi-asserted-by": "crossref",
+      "first-page": "1911",
+      "DOI": "10.1111/mec.13586",
+      "article-title": "Inferences from tip-calibrated phylogenies: a review and a practical guide",
+      "volume": "25",
+      "author": "Rieux",
+      "year": "2016",
+      "journal-title": "Mol. Ecol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib51",
+      "doi-asserted-by": "crossref",
+      "first-page": "219",
+      "DOI": "10.1016/j.apradiso.2004.08.008",
+      "article-title": "ESR dating at Mezmaiskaya Cave, Russia",
+      "volume": "62",
+      "author": "Skinner",
+      "year": "2005",
+      "journal-title": "Appl. Radiat. Isot."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib52",
+      "doi-asserted-by": "crossref",
+      "first-page": "2229",
+      "DOI": "10.1073/pnas.1318934111",
+      "article-title": "Separating endogenous ancient DNA from modern day contamination in a Siberian Neandertal",
+      "volume": "111",
+      "author": "Skoglund",
+      "year": "2014",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib53",
+      "doi-asserted-by": "crossref",
+      "first-page": "222",
+      "DOI": "10.1126/science.1224344",
+      "article-title": "A high-coverage genome sequence from an archaic Denisovan individual",
+      "volume": "338",
+      "author": "Meyer",
+      "year": "2012",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib54",
+      "doi-asserted-by": "crossref",
+      "first-page": "1472",
+      "DOI": "10.1080/01621459.2019.1635482",
+      "article-title": "Efficiently Inferring the Demographic History of Many Populations With Allele Count Data",
+      "volume": "115",
+      "author": "Kamm",
+      "year": "2020",
+      "journal-title": "J. Am. Stat. Assoc."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib55",
+      "doi-asserted-by": "crossref",
+      "first-page": "2747",
+      "DOI": "10.1016/j.jas.2010.06.010",
+      "article-title": "Le Grand Abri aux Puces, a Mousterian site from the Last Interglacial: paleogeography, paleoenvironment, and new excavation results",
+      "volume": "37",
+      "author": "Slimak",
+      "year": "2010",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib56",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jas.2019.105034",
+      "article-title": "Cannibals in the forest: A comment on Defleur and Desclaux (2019)",
+      "volume": "117",
+      "author": "Slimak",
+      "year": "2020",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib57",
+      "series-title": "The Elementary Structures of Kinship",
+      "author": "Lévi-Strauss",
+      "year": "1949"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib58",
+      "series-title": "Le Paléolithique de L'Ardèche dans son Cadre Paléoclimatique",
+      "author": "Combier",
+      "year": "1967"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib105",
+      "doi-asserted-by": "crossref",
+      "first-page": "147",
+      "DOI": "10.1038/13779",
+      "article-title": "Reanalysis and revision of the Cambridge reference sequence for human mitochondrial DNA",
+      "volume": "23",
+      "author": "Andrews",
+      "year": "1999",
+      "journal-title": "Nat. Genet."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib150",
+      "doi-asserted-by": "crossref",
+      "first-page": "182",
+      "DOI": "10.1038/s41597-024-03031-7",
+      "article-title": "The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes",
+      "volume": "11",
+      "author": "Mallick",
+      "year": "2024",
+      "journal-title": "Sci. Data"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib151",
+      "doi-asserted-by": "crossref",
+      "first-page": "1061",
+      "DOI": "10.1038/nature09534",
+      "article-title": "A map of human genome variation from population-scale sequencing",
+      "volume": "467",
+      "author": "Abecasis",
+      "year": "2010",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib63",
+      "doi-asserted-by": "crossref",
+      "first-page": "2508",
+      "DOI": "10.1039/c1ja10172b",
+      "article-title": "Iolite: Freeware for the visualisation and processing of mass spectrometric data",
+      "volume": "26",
+      "author": "Paton",
+      "year": "2011",
+      "journal-title": "J. Anal. At. Spectrom."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib70",
+      "doi-asserted-by": "crossref",
+      "first-page": "13",
+      "DOI": "10.1016/j.quageo.2017.11.003",
+      "article-title": "MCDoseE 2.0. A new Markov Chain Monte Carlo program for ESR dose response curve fitting and dose evaluation",
+      "volume": "44",
+      "author": "Joannes-Boyau",
+      "year": "2018",
+      "journal-title": "Quat. Geochronol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib73",
+      "doi-asserted-by": "crossref",
+      "first-page": "337",
+      "DOI": "10.1017/S0033822200033865",
+      "article-title": "Bayesian analysis of radiocarbon dates",
+      "volume": "51",
+      "author": "Bronk Ramsey",
+      "year": "2009",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib101",
+      "doi-asserted-by": "crossref",
+      "first-page": "1056",
+      "DOI": "10.1038/nprot.2014.063",
+      "article-title": "Characterization of ancient and modern genomes by SNP detection and phylogenomic and metagenomic analysis using PALEOMIX",
+      "volume": "9",
+      "author": "Schubert",
+      "year": "2014",
+      "journal-title": "Nat. Protoc."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib102",
+      "doi-asserted-by": "crossref",
+      "first-page": "337",
+      "DOI": "10.1186/1756-0500-5-337",
+      "article-title": "AdapterRemoval: Easy cleaning of next-generation sequencing reads",
+      "volume": "5",
+      "author": "Lindgreen",
+      "year": "2012",
+      "journal-title": "BMC Res. Notes"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib103",
+      "doi-asserted-by": "crossref",
+      "first-page": "1754",
+      "DOI": "10.1093/bioinformatics/btp324",
+      "article-title": "Fast and accurate short read alignment with Burrows-Wheeler transform",
+      "volume": "25",
+      "author": "Li",
+      "year": "2009",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib104",
+      "doi-asserted-by": "crossref",
+      "first-page": "1297",
+      "DOI": "10.1101/gr.107524.110",
+      "article-title": "The Genome Analysis Toolkit: A MapReduce framework for analyzing next-generation DNA sequencing data",
+      "volume": "20",
+      "author": "McKenna",
+      "year": "2010",
+      "journal-title": "Genome Res."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib123",
+      "doi-asserted-by": "crossref",
+      "first-page": "2078",
+      "DOI": "10.1093/bioinformatics/btp352",
+      "article-title": "The Sequence Alignment/Map format and SAMtools",
+      "volume": "25",
+      "author": "Li",
+      "year": "2009",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib106",
+      "doi-asserted-by": "crossref",
+      "first-page": "1682",
+      "DOI": "10.1093/bioinformatics/btt193",
+      "article-title": "mapDamage2.0: Fast approximate Bayesian estimates of ancient DNA damage parameters",
+      "volume": "29",
+      "author": "Jónsson",
+      "year": "2013",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib107",
+      "doi-asserted-by": "crossref",
+      "first-page": "1292",
+      "DOI": "10.1093/bioinformatics/bty779",
+      "article-title": "Inference and visualization of DNA damage patterns using a grade of membership model",
+      "volume": "35",
+      "author": "Al-Asadi",
+      "year": "2019",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib119",
+      "doi-asserted-by": "crossref",
+      "first-page": "356",
+      "DOI": "10.1186/s12859-014-0356-4",
+      "article-title": "ANGSD: Analysis of Next Generation Sequencing Data",
+      "volume": "15",
+      "author": "Korneliussen",
+      "year": "2014",
+      "journal-title": "BMC Bioinf."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib120",
+      "doi-asserted-by": "crossref",
+      "first-page": "553",
+      "DOI": "10.1016/j.cub.2013.02.044",
+      "article-title": "A revised timescale for human evolution based on ancient mitochondrial genomes",
+      "volume": "23",
+      "author": "Fu",
+      "year": "2013",
+      "journal-title": "Curr. Biol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib121",
+      "doi-asserted-by": "crossref",
+      "first-page": "2987",
+      "DOI": "10.1093/bioinformatics/btr509",
+      "article-title": "A statistical framework for SNP calling, mutation discovery, association mapping and population genetical parameter estimation from sequencing data",
+      "volume": "27",
+      "author": "Li",
+      "year": "2011",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib122",
+      "doi-asserted-by": "crossref",
+      "first-page": "772",
+      "DOI": "10.1093/molbev/mst010",
+      "article-title": "MAFFT multiple sequence alignment software version 7: Improvements in performance and usability",
+      "volume": "30",
+      "author": "Katoh",
+      "year": "2013",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib124",
+      "doi-asserted-by": "crossref",
+      "first-page": "198",
+      "DOI": "10.1186/s13059-018-1568-0",
+      "article-title": "KrakenUniq: confident and fast metagenomics classification using unique k-mer counts",
+      "volume": "19",
+      "author": "Breitwieser",
+      "year": "2018",
+      "journal-title": "Genome Biol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib134",
+      "doi-asserted-by": "crossref",
+      "first-page": "4453",
+      "DOI": "10.1093/bioinformatics/btz305",
+      "article-title": "RAxML-NG: A fast, scalable, and user-friendly tool for maximum likelihood phylogenetic inference",
+      "volume": "35",
+      "author": "Kozlov",
+      "year": "2019",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib135",
+      "doi-asserted-by": "crossref",
+      "first-page": "592",
+      "DOI": "10.1093/bioinformatics/btq706",
+      "article-title": "Phangorn: phylogenetic analysis in R",
+      "volume": "27",
+      "author": "Schliep",
+      "year": "2011",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib139",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1186/s12862-017-0890-6",
+      "article-title": "bModelTest: Bayesian phylogenetic site model averaging and model comparison",
+      "volume": "17",
+      "author": "Bouckaert",
+      "year": "2017",
+      "journal-title": "BMC Evol. Biol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib143",
+      "doi-asserted-by": "crossref",
+      "first-page": "559",
+      "DOI": "10.1086/519795",
+      "article-title": "PLINK: A tool set for whole-genome association and population-based linkage analyses",
+      "volume": "81",
+      "author": "Purcell",
+      "year": "2007",
+      "journal-title": "Am. J. Hum. Genet."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib144",
+      "doi-asserted-by": "crossref",
+      "first-page": "e190",
+      "DOI": "10.1371/journal.pgen.0020190",
+      "article-title": "Population structure and eigenanalysis",
+      "volume": "2",
+      "author": "Patterson",
+      "year": "2006",
+      "journal-title": "PLoS Genet."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib145",
+      "article-title": "Vegan: Community Ecology Package",
+      "author": "Oksanen",
+      "year": "2019",
+      "journal-title": "R package version 2.5-4."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib147",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1371/journal.pgen.1002967",
+      "article-title": "Inference of Population Splits and Mixtures from Genome-Wide Allele Frequency Data",
+      "volume": "8",
+      "author": "Pickrell",
+      "year": "2012",
+      "journal-title": "PLoS Genet."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib149",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1080/10618600.2015.1008638",
+      "article-title": "Efficient Implementations of the Generalized Lasso Dual Path Algorithm",
+      "volume": "25",
+      "author": "Arnold",
+      "year": "2016",
+      "journal-title": "J. Comput. Graph Stat."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib59",
+      "doi-asserted-by": "crossref",
+      "first-page": "271",
+      "DOI": "10.1007/s12520-011-0066-z",
+      "article-title": "Collagen fingerprinting of archaeological bone and teeth remains from Domuztepe, South Eastern Turkey",
+      "volume": "3",
+      "author": "Buckley",
+      "year": "2011",
+      "journal-title": "Archaeol. Anthropol. Sci."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib62",
+      "doi-asserted-by": "crossref",
+      "first-page": "449",
+      "DOI": "10.1016/S0168-583X(00)00337-2",
+      "article-title": "Refinement of Graphite Target Production at ORAU",
+      "volume": "172",
+      "author": "Dee",
+      "year": "2000",
+      "journal-title": "Nucl. Instrum. Methods Phys. Res. B"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib65",
+      "doi-asserted-by": "crossref",
+      "first-page": "1798",
+      "DOI": "10.1016/j.apradiso.2010.03.015",
+      "article-title": "Decomposition of the laboratory gamma irradiation component of angular ESR spectra of fossil tooth enamel fragments",
+      "volume": "68",
+      "author": "Joannes-Boyau",
+      "year": "2010",
+      "journal-title": "Appl. Radiat. Isot."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib66",
+      "doi-asserted-by": "crossref",
+      "first-page": "82",
+      "DOI": "10.1016/j.quageo.2010.09.001",
+      "article-title": "A comprehensive model for CO2− radicals in fossil tooth enamel: Implications for ESR dating",
+      "volume": "6",
+      "author": "Joannes-Boyau",
+      "year": "2011",
+      "journal-title": "Quat. Geochronol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib67",
+      "doi-asserted-by": "crossref",
+      "first-page": "322",
+      "DOI": "10.2478/s13386-013-0132-7",
+      "article-title": "Detailed protocol for an accurate non-destructive direct dating of tooth enamel fragment using Electron Spin Resonance",
+      "volume": "40",
+      "author": "Joannes-Boyau",
+      "year": "2013",
+      "journal-title": "Geochronometria"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib68",
+      "doi-asserted-by": "crossref",
+      "first-page": "665",
+      "DOI": "10.1016/j.radmeas.2012.03.018",
+      "article-title": "Ionization efficiencies of alanine dosimeters and tooth enamel irradiated by gamma and X-ray sources",
+      "volume": "47",
+      "author": "Grün",
+      "year": "2012",
+      "journal-title": "Rad. Meas."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib69",
+      "doi-asserted-by": "crossref",
+      "first-page": "505",
+      "DOI": "10.1016/j.radmeas.2009.02.010",
+      "article-title": "Thermal behavior of orientated and non-orientated CO2− radicals in tooth enamel",
+      "volume": "44",
+      "author": "Joannes-Boyau",
+      "year": "2009",
+      "journal-title": "Rad. Meas."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib74",
+      "doi-asserted-by": "crossref",
+      "first-page": "725",
+      "DOI": "10.1017/RDC.2020.41",
+      "article-title": "The IntCal20 Northern Hemisphere radiocarbon age calibration curve (0–55 cal kBP)",
+      "volume": "62",
+      "author": "Reimer",
+      "year": "2020",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib75",
+      "doi-asserted-by": "crossref",
+      "first-page": "1023",
+      "DOI": "10.1017/S0033822200034093",
+      "article-title": "Dealing with outliers and offsets in radiocarbon dating",
+      "volume": "51",
+      "author": "Bronk Ramsey",
+      "year": "2009",
+      "journal-title": "Radiocarbon"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib76",
+      "series-title": "Stable Isotopes in Ecology and Environmental Science 2",
+      "first-page": "99",
+      "article-title": "Isotopic study of the biology of modern and fossil vertebrates",
+      "author": "Koch",
+      "year": "2007"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib77",
+      "series-title": "Encyclopedia of Quaternary Sciences",
+      "first-page": "304",
+      "article-title": "Terrestrial teeth and bones",
+      "author": "Bocherens",
+      "year": "2013"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib78",
+      "doi-asserted-by": "crossref",
+      "first-page": "363",
+      "DOI": "10.1016/j.jhevol.2013.06.013",
+      "article-title": "Middle Pleistocene ecology and Neanderthal subsistence: insights from stable isotope analyses in Payre (Ardèche, southeastern France)",
+      "volume": "65",
+      "author": "Ecker",
+      "year": "2013",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib79",
+      "doi-asserted-by": "crossref",
+      "first-page": "226",
+      "DOI": "10.1016/j.quascirev.2016.11.004",
+      "article-title": "Direct isotopic evidence for subsistence variability in Middle Pleistocene Neanderthals (Payre, southeastern France)",
+      "volume": "154",
+      "author": "Bocherens",
+      "year": "2016",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib80",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1371/journal.pone.0214925",
+      "article-title": "Rocks, teeth, and tools: New insights into early Neanderthal mobility strategies in South-Eastern France from lithic reconstructions and strontium isotope analysis",
+      "volume": "14",
+      "author": "Moncel",
+      "year": "2019",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib81",
+      "doi-asserted-by": "crossref",
+      "first-page": "213",
+      "DOI": "10.1016/0031-0182(94)90095-7",
+      "article-title": "Diet, physiology and ecology of fossil mammals as inferred from stable carbon and nitrogen isotope biogeochemistry: implications for Pleistocene bears",
+      "volume": "107",
+      "author": "Bocherens",
+      "year": "1994",
+      "journal-title": "Palaeogeogr. Palaeoclimatol. Palaeoecol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib82",
+      "doi-asserted-by": "crossref",
+      "first-page": "1886",
+      "DOI": "10.1016/j.jas.2011.03.033",
+      "article-title": "Low regional diversity of late cave bears mitochondrial DNA at the time of Chauvet Aurignacian paintings",
+      "volume": "38",
+      "author": "Bon",
+      "year": "2011",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib83",
+      "doi-asserted-by": "crossref",
+      "first-page": "185",
+      "DOI": "10.1016/j.crpv.2010.05.002",
+      "article-title": "New data on the Late Mousterian in Mediterranean France: First radiocarbon (AMS) dates at Saint-Marcel Cave (Ardèche)",
+      "volume": "9",
+      "author": "Szmidt",
+      "year": "2010",
+      "journal-title": "C. R. Palevol"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib84",
+      "doi-asserted-by": "crossref",
+      "first-page": "3320",
+      "DOI": "10.1016/j.jas.2010.08.001",
+      "article-title": "Direct radiocarbon (AMS) dating of split-based points from the (Proto)Aurignacian of Trou de la Mère Clochette, Northeastern France. Implications for the characterization of the Aurignacian and the timing of technical innovations in Europe",
+      "volume": "37",
+      "author": "Szmidt",
+      "year": "2010",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib85",
+      "doi-asserted-by": "crossref",
+      "first-page": "985",
+      "DOI": "10.1007/s12520-017-0580-8",
+      "article-title": "Neanderthal selective hunting of reindeer? The case study of Abri du Maras (south-eastern France)",
+      "volume": "11",
+      "author": "Daujeard",
+      "year": "2019",
+      "journal-title": "Archaeol. Anthropol. Sci."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib87",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1371/journal.pone.0142895",
+      "article-title": "Exploring the potential of laser ablation carbon isotope analysis for examining ecology during the ontogeny of Middle Pleistocene Hominins from Sima de los Huesos (Northern Spain)",
+      "volume": "10",
+      "author": "Garcia",
+      "year": "2015",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib88",
+      "first-page": "735",
+      "article-title": "A knot in a network: Residential mobility at the Late Iron Age proto-urban centre of Basel-Gasfabrik (Switzerland) revealed by isotope analyses",
+      "volume": "17",
+      "author": "Knipper",
+      "year": "2018",
+      "journal-title": "J. Archaeol. Sci. Rep"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib89",
+      "doi-asserted-by": "crossref",
+      "first-page": "370",
+      "DOI": "10.1006/qres.1997.1927",
+      "article-title": "Paleobiological implications of the isotopic signatures (13C, 15N) of fossil mammal collagen in Scladina Cave (Sclayn, Belgium)",
+      "volume": "48",
+      "author": "Bocherens",
+      "year": "1997",
+      "journal-title": "Quat. Res."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib90",
+      "doi-asserted-by": "crossref",
+      "first-page": "806",
+      "DOI": "10.1038/317806a0",
+      "article-title": "Postmortem preservation and alteration of in vivo bone collagen isotope ratios in relation to palaeodietary reconstruction",
+      "volume": "317",
+      "author": "DeNiro",
+      "year": "1985",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib91",
+      "doi-asserted-by": "crossref",
+      "first-page": "687",
+      "DOI": "10.1006/jasc.1998.0385",
+      "article-title": "Bone collagen quality indicators for palaeodietary and radiocarbon measurements",
+      "volume": "26",
+      "author": "Van Klinken",
+      "year": "1999",
+      "journal-title": "J. Archaeol. Sci."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib92",
+      "doi-asserted-by": "crossref",
+      "first-page": "327",
+      "DOI": "10.1016/j.quaint.2015.09.091",
+      "article-title": "Isotopic evidence for dietary ecology of late Neandertals in North-Western Europe",
+      "volume": "411",
+      "author": "Wißing",
+      "year": "2016",
+      "journal-title": "Quat. Int."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib93",
+      "doi-asserted-by": "crossref",
+      "first-page": "71",
+      "DOI": "10.1016/j.jhevol.2005.03.003",
+      "article-title": "Isotopic evidence for diet and subsistence pattern of the Saint-Césaire I Neanderthal: Review and use of a multi-source mixing model",
+      "volume": "49",
+      "author": "Bocherens",
+      "year": "2005",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib94",
+      "doi-asserted-by": "crossref",
+      "first-page": "31",
+      "DOI": "10.1016/j.jhevol.2013.12.015",
+      "article-title": "Evidence for a 15N positive excursion in terrestrial foodwebs at the middle to upper Palaeolithic transition in South-western France: implication for early modern human palaeodiet and palaeoenvironment",
+      "volume": "69",
+      "author": "Bocherens",
+      "year": "2014",
+      "journal-title": "J. Hum. Evol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib97",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1098/rstb.2013.0624",
+      "article-title": "Partial uracil-DNA-glycosylase treatment for screening of ancient DNA",
+      "volume": "370",
+      "author": "Rohland",
+      "year": "2015",
+      "journal-title": "Philos. Trans. R. Soc. Lond. B Biol. Sci."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib100",
+      "doi-asserted-by": "crossref",
+      "first-page": "1292",
+      "DOI": "10.1093/molbev/msu074",
+      "article-title": "Ancient whole genome enrichment using baits built from modern DNA",
+      "volume": "31",
+      "author": "Enk",
+      "year": "2014",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib98",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1101/pdb.prot5448",
+      "article-title": "Illumina sequencing library preparation for highly multiplexed target capture and sequencing",
+      "volume": "2010",
+      "author": "Meyer",
+      "year": "2010",
+      "journal-title": "Cold Spring Harb. Protoc."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib108",
+      "doi-asserted-by": "crossref",
+      "first-page": "182",
+      "DOI": "10.1038/s41586-019-1279-z",
+      "article-title": "The population history of northeastern Siberia since the Pleistocene",
+      "volume": "570",
+      "author": "Sikora",
+      "year": "2019",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib109",
+      "doi-asserted-by": "crossref",
+      "first-page": "499",
+      "DOI": "10.1126/science.aaf7943",
+      "article-title": "Early Neolithic genomes from the eastern Fertile Crescent",
+      "volume": "353",
+      "author": "Broushaki",
+      "year": "2016",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib110",
+      "doi-asserted-by": "crossref",
+      "first-page": "6886",
+      "DOI": "10.1073/pnas.1523951113",
+      "article-title": "Early farmers from across Europe directly descended from Neolithic Aegeans",
+      "volume": "113",
+      "author": "Hofmanová",
+      "year": "2016",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib111",
+      "doi-asserted-by": "crossref",
+      "first-page": "8912",
+      "DOI": "10.1038/ncomms9912",
+      "article-title": "Upper Palaeolithic genomes reveal deep roots of modern Eurasians",
+      "volume": "6",
+      "author": "Jones",
+      "year": "2015",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib112",
+      "doi-asserted-by": "crossref",
+      "first-page": "409",
+      "DOI": "10.1038/nature13673",
+      "article-title": "Ancient human genomes suggest three ancestral populations for present-day Europeans",
+      "volume": "513",
+      "author": "Lazaridis",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib113",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1126/science.aar7711",
+      "article-title": "The first horse herders and the impact of early Bronze Age steppe expansions into Asia",
+      "volume": "360",
+      "author": "de Barros Damgaard",
+      "year": "2018",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib114",
+      "doi-asserted-by": "crossref",
+      "first-page": "445",
+      "DOI": "10.1038/nature13810",
+      "article-title": "Genome sequence of a 45,000-year-old modern human from western Siberia",
+      "volume": "514",
+      "author": "Fu",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib115",
+      "doi-asserted-by": "crossref",
+      "first-page": "203",
+      "DOI": "10.1038/nature25173",
+      "article-title": "Terminal Pleistocene Alaskan genome reveals first founding population of Native Americans",
+      "volume": "553",
+      "author": "Moreno-Mayar",
+      "year": "2018",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib116",
+      "doi-asserted-by": "crossref",
+      "first-page": "113",
+      "DOI": "10.1038/s41586-018-0455-x",
+      "article-title": "The genome of the offspring of a Neanderthal mother and a Denisovan father",
+      "volume": "561",
+      "author": "Slon",
+      "year": "2018",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib117",
+      "doi-asserted-by": "crossref",
+      "first-page": "201",
+      "DOI": "10.1038/nature18964",
+      "article-title": "The Simons Genome Diversity Project: 300 genomes from 142 diverse populations",
+      "volume": "538",
+      "author": "Mallick",
+      "year": "2016",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib125",
+      "doi-asserted-by": "crossref",
+      "first-page": "231",
+      "DOI": "10.1016/j.cub.2009.11.068",
+      "article-title": "A Complete mtDNA Genome of an Early Modern Human from Kostenki, Russia",
+      "volume": "20",
+      "author": "Krause",
+      "year": "2010",
+      "journal-title": "Curr. Biol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib126",
+      "doi-asserted-by": "crossref",
+      "first-page": "827",
+      "DOI": "10.1016/j.cub.2016.01.037",
+      "article-title": "Pleistocene mitochondrial genomes suggest a single major dispersal of non-africans and a late glacial population turnover in Europe",
+      "volume": "26",
+      "author": "Posth",
+      "year": "2016",
+      "journal-title": "Curr. Biol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib127",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1038/ncomms16046",
+      "article-title": "Deeply divergent archaic mitochondrial genome provides lower time boundary for African gene flow into Neanderthals",
+      "volume": "8",
+      "author": "Posth",
+      "year": "2017",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib128",
+      "doi-asserted-by": "crossref",
+      "first-page": "1543",
+      "DOI": "10.1101/gr.174201.114",
+      "article-title": "Selective enrichment of damaged DNA molecules for ancient genome sequencing",
+      "volume": "24",
+      "author": "Gansauge",
+      "year": "2014",
+      "journal-title": "Genome Res."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib129",
+      "doi-asserted-by": "crossref",
+      "first-page": "318",
+      "DOI": "10.1126/science.1174462",
+      "article-title": "Targeted retrieval and analysis of five neandertal mtDNA genomes",
+      "volume": "325",
+      "author": "Briggs",
+      "year": "2009",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib130",
+      "doi-asserted-by": "crossref",
+      "first-page": "504",
+      "DOI": "10.1038/nature17405",
+      "article-title": "Nuclear DNA sequences from the Middle Pleistocene Sima de los Huesos hominins",
+      "volume": "531",
+      "author": "Meyer",
+      "year": "2016",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib131",
+      "doi-asserted-by": "crossref",
+      "first-page": "605",
+      "DOI": "10.1126/science.aam9695",
+      "article-title": "Neandertal and Denisovan DNA from Pleistocene sediments",
+      "volume": "356",
+      "author": "Slon",
+      "year": "2017",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib132",
+      "doi-asserted-by": "crossref",
+      "first-page": "15696",
+      "DOI": "10.1073/pnas.1519905112",
+      "article-title": "Nuclear and mitochondrial DNA sequences from two Denisovan individuals",
+      "volume": "112",
+      "author": "Sawyer",
+      "year": "2015",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib133",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1126/sciadv.1700186",
+      "article-title": "A fourth Denisovan individual",
+      "volume": "3",
+      "author": "Slon",
+      "year": "2017",
+      "journal-title": "Sci. Adv."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib136",
+      "doi-asserted-by": "crossref",
+      "first-page": "2223",
+      "DOI": "10.1073/pnas.1221359110",
+      "article-title": "DNA analysis of an early modern human from Tianyuan Cave, China",
+      "volume": "110",
+      "author": "Fu",
+      "year": "2013",
+      "journal-title": "Proc. Natl. Acad. Sci. USA"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib137",
+      "doi-asserted-by": "crossref",
+      "first-page": "894",
+      "DOI": "10.1038/nature08976",
+      "article-title": "The complete mitochondrial DNA genome of an unknown hominin from southern Siberia",
+      "volume": "464",
+      "author": "Krause",
+      "year": "2010",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib138",
+      "doi-asserted-by": "crossref",
+      "first-page": "611",
+      "DOI": "10.1038/35069127",
+      "article-title": "Erratum: correction: Mitochondrial genome variation and the origin of modern humans",
+      "volume": "410",
+      "author": "Ingman",
+      "year": "2001",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib140",
+      "first-page": "512",
+      "article-title": "Estimation of the number of nucleotide substitutions in the control region of mitochondrial DNA in humans and chimpanzees",
+      "volume": "10",
+      "author": "Tamura",
+      "year": "1993",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib96",
+      "doi-asserted-by": "crossref",
+      "first-page": "5257",
+      "DOI": "10.1038/ncomms6257",
+      "article-title": "Genome flux and stasis in a five millennium transect of European prehistory",
+      "volume": "5",
+      "author": "Gamba",
+      "year": "2014",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib142",
+      "doi-asserted-by": "crossref",
+      "first-page": "466",
+      "DOI": "10.1126/science.1216304",
+      "article-title": "Origins and Genetic Legacy of Neolithic Farmers and Hunter-Gatherers in Europe",
+      "volume": "336",
+      "author": "Skoglund",
+      "year": "2012",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib146",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.7554/eLife.85492",
+      "article-title": "On the limits of fitting complex models of population history to f-statistics",
+      "volume": "12",
+      "author": "Maier",
+      "year": "2023",
+      "journal-title": "Elife"
+    },
+    {
+      "key": "10.1016/j.xgen.2024.100593_bib148",
+      "doi-asserted-by": "crossref",
+      "first-page": "91",
+      "DOI": "10.1111/j.1467-9868.2005.00490.x",
+      "article-title": "Sparsity and smoothness via the fused lasso",
+      "volume": "67",
+      "author": "Tibshirani",
+      "year": "2005",
+      "journal-title": "J. Royal Stat. Soc. B."
+    }
+  ],
+  "container-title": [
+    "Cell Genomics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2666979X24001770?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2666979X24001770?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        7
+      ]
+    ],
+    "date-time": "2025-02-07T22:42:01Z",
+    "timestamp": 1738968121000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2666979X24001770"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9
+      ]
+    ]
+  },
+  "references-count": 141,
+  "journal-issue": {
+    "issue": "9",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S2666979X24001770"
+  ],
+  "URL": "https://doi.org/10.1016/j.xgen.2024.100593",
+  "relation": {},
+  "ISSN": [
+    "2666-979X"
+  ],
+  "issn-type": [
+    {
+      "value": "2666-979X",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        9
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Long genetic and social isolation in Neanderthals before their extinction",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Cell Genomics",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.xgen.2024.100593",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2024 The Authors. Published by Elsevier Inc.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "100593"
+}

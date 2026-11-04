@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="940" viewBox="0 0 1600 940" role="img" aria-labelledby="title desc">
+  <title id="title">深海鲸落生态系统的形成与重叠演替</title>
+  <desc id="desc">鲸尸沉降后经历移动食腐、机会种富集、硫化以及可能的礁体阶段。阶段相互重叠，持续时间取决于鲸尸大小、骨脂、氧、水深、水动力和生物侵蚀。</desc>
+  <defs>
+    <linearGradient id="ocean" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eaf6f7"/><stop offset=".42" stop-color="#c8e0e4"/><stop offset="1" stop-color="#1e3e52"/></linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#183447"/><stop offset="1" stop-color="#102635"/></linearGradient>
+    <linearGradient id="bone" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3ead2"/><stop offset="1" stop-color="#c7b98f"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#071722" flood-opacity=".24"/></filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="#d5e6e8"/></marker>
+    <style>
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif}.title{font-size:42px;font-weight:760;fill:#183447}.sub{font-size:20px;fill:#456272}.stage{font-size:23px;font-weight:760;fill:#fff}.num{font-size:17px;font-weight:800;fill:#183447}.cardText{font-size:17px;fill:#d9e8ea}.pill{font-size:15px;font-weight:720;fill:#fff}.label{font-size:16px;font-weight:700;fill:#173345}.small{font-size:15px;fill:#d0e1e5}.factor{font-size:15px;font-weight:690;fill:#284b5d}
+    </style>
+  </defs>
+  <rect width="1600" height="940" fill="url(#ocean)"/>
+  <path d="M0 650 C230 620 390 685 610 655 C870 620 1040 676 1250 640 C1390 615 1490 625 1600 646 L1600 940 L0 940 Z" fill="url(#floor)"/>
+  <g class="sans">
+    <text x="72" y="65" class="title">鲸落不是四次“换班”，而是一组重叠的功能状态</text>
+    <text x="74" y="103" class="sub">软组织、骨骼与周围沉积物以不同速度变化；图中时长仅为常见数量级。</text>
+  </g>
+
+  <g transform="translate(112 154)" filter="url(#shadow)">
+    <rect width="310" height="390" rx="26" fill="#315e70"/>
+    <circle cx="38" cy="40" r="20" fill="#ecb65e"/><text x="38" y="46" text-anchor="middle" class="sans num">1</text>
+    <text x="72" y="48" class="sans stage">尸体沉降与食腐</text>
+    <rect x="24" y="76" width="118" height="28" rx="14" fill="#bc7a40"/><text x="83" y="96" text-anchor="middle" class="sans pill">数周—数月</text>
+    <g transform="translate(45 135)">
+      <path d="M18 65 C76 12 181 15 225 63 C195 68 178 83 158 98 C115 110 66 96 18 65 Z" fill="#6f8490"/>
+      <path d="M217 61 L259 35 L244 69 L263 91 L220 77 Z" fill="#6f8490"/>
+      <path d="M86 40 C80 20 87 5 97 0 C102 18 105 27 120 38 Z" fill="#6f8490"/>
+      <circle cx="55" cy="57" r="4" fill="#102b3a"/>
+      <path d="M4 69 C-12 50 -13 35 0 27 C3 44 8 54 25 62 Z" fill="#536d7a"/>
+      <path d="M84 112 C115 127 156 126 190 108" fill="none" stroke="#c9d5d9" stroke-width="5" stroke-linecap="round"/>
+    </g>
+    <text x="24" y="295" class="sans cardText">大型食腐者移除软组织</text>
+    <text x="24" y="324" class="sans cardText">碎屑、体液与排泄物进入沉积物</text>
+    <text x="24" y="353" class="sans cardText">微生物耗氧已经同步启动</text>
+  </g>
+
+  <g transform="translate(468 154)" filter="url(#shadow)">
+    <rect width="310" height="390" rx="26" fill="#356f72"/>
+    <circle cx="38" cy="40" r="20" fill="#ecb65e"/><text x="38" y="46" text-anchor="middle" class="sans num">2</text>
+    <text x="72" y="48" class="sans stage">机会种富集</text>
+    <rect x="24" y="76" width="118" height="28" rx="14" fill="#6e9477"/><text x="83" y="96" text-anchor="middle" class="sans pill">数月—数年</text>
+    <g transform="translate(38 135)">
+      <path d="M20 130 C60 78 93 99 120 60 C145 23 183 38 220 76" fill="none" stroke="#d9c68c" stroke-width="10" stroke-linecap="round"/>
+      <path d="M33 116 C45 94 53 87 67 76 M76 100 C84 80 93 70 103 58 M132 53 C145 57 153 64 165 76 M177 51 C190 58 200 68 210 80" fill="none" stroke="#e29d73" stroke-width="5" stroke-linecap="round"/>
+      <g fill="#e9b77c"><circle cx="45" cy="151" r="6"/><circle cx="78" cy="143" r="5"/><circle cx="110" cy="153" r="7"/><circle cx="147" cy="141" r="5"/><circle cx="184" cy="152" r="7"/><circle cx="222" cy="141" r="5"/></g>
+      <path d="M0 167 C55 150 170 176 240 157" fill="none" stroke="#244c58" stroke-width="18" opacity=".7"/>
+    </g>
+    <text x="24" y="295" class="sans cardText">多毛类与甲壳类高密度聚集</text>
+    <text x="24" y="324" class="sans cardText">富有机沉积物形成缺氧微区</text>
+    <text x="24" y="353" class="sans cardText">与食腐、硫化过程显著重叠</text>
+  </g>
+
+  <g transform="translate(824 154)" filter="url(#shadow)">
+    <rect width="310" height="390" rx="26" fill="#215b67"/>
+    <circle cx="38" cy="40" r="20" fill="#ecb65e"/><text x="38" y="46" text-anchor="middle" class="sans num">3</text>
+    <text x="72" y="48" class="sans stage">硫化与化能合成</text>
+    <rect x="24" y="76" width="136" height="28" rx="14" fill="#9b7d4e"/><text x="92" y="96" text-anchor="middle" class="sans pill">数年—数十年</text>
+    <g transform="translate(36 131)">
+      <path d="M20 119 C62 71 97 90 126 50 C152 15 190 31 226 71" fill="none" stroke="url(#bone)" stroke-width="13" stroke-linecap="round"/>
+      <path d="M4 135 C65 103 174 146 242 112" fill="none" stroke="#f1e8bc" stroke-width="14" stroke-linecap="round" opacity=".9"/>
+      <g stroke="#b34862" stroke-width="4" fill="none"><path d="M54 88 C50 62 56 42 64 24"/><path d="M71 82 C80 59 82 42 80 25"/><path d="M164 72 C161 48 166 31 174 13"/></g>
+      <g fill="#d95f78"><ellipse cx="64" cy="22" rx="7" ry="17"/><ellipse cx="80" cy="23" rx="7" ry="15"/><ellipse cx="174" cy="13" rx="7" ry="16"/></g>
+      <g fill="#e7c56f" opacity=".8"><circle cx="34" cy="142" r="5"/><circle cx="66" cy="151" r="4"/><circle cx="100" cy="141" r="6"/><circle cx="139" cy="151" r="5"/><circle cx="188" cy="140" r="6"/><circle cx="224" cy="148" r="4"/></g>
+      <text x="119" y="183" text-anchor="middle" class="sans label" fill="#f6eaa7">H₂S → 硫氧化菌 → 新生产</text>
+    </g>
+    <text x="24" y="295" class="sans cardText">骨脂与沉积物厌氧分解供还原力</text>
+    <text x="24" y="324" class="sans cardText">菌席、食菌者和化能共生动物</text>
+    <text x="24" y="353" class="sans cardText">Osedax 可同时加速骨骼崩解</text>
+  </g>
+
+  <g transform="translate(1180 154)" filter="url(#shadow)">
+    <rect width="310" height="390" rx="26" fill="#294e64"/>
+    <circle cx="38" cy="40" r="20" fill="#ecb65e"/><text x="38" y="46" text-anchor="middle" class="sans num">4</text>
+    <text x="72" y="48" class="sans stage">可能的礁体阶段</text>
+    <rect x="24" y="76" width="168" height="28" rx="14" fill="#7d6879"/><text x="108" y="96" text-anchor="middle" class="sans pill">证据有限／并非必经</text>
+    <g transform="translate(35 135)">
+      <path d="M16 117 C60 75 102 92 131 55 C157 21 194 37 229 75" fill="none" stroke="#a99f82" stroke-width="11" stroke-linecap="round"/>
+      <g fill="#c57b86"><path d="M60 89 C48 54 56 32 70 17 C80 42 77 65 60 89 Z"/><path d="M105 77 C95 49 101 29 115 12 C126 39 123 58 105 77 Z"/></g>
+      <g fill="#d8b76d"><circle cx="167" cy="62" r="13"/><circle cx="188" cy="73" r="10"/><circle cx="210" cy="80" r="14"/></g>
+      <path d="M163 62 l-12 -22 M188 73 l8 -28 M210 80 l19 -23" stroke="#d8b76d" stroke-width="5" stroke-linecap="round"/>
+      <path d="M0 162 C72 138 175 170 244 145" fill="none" stroke="#183b4e" stroke-width="19"/>
+    </g>
+    <text x="24" y="295" class="sans cardText">贫有机残骨提供稀缺硬基质</text>
+    <text x="24" y="324" class="sans cardText">悬浮摄食与附着生物可能定殖</text>
+    <text x="24" y="353" class="sans cardText">侵蚀、埋藏可使该阶段缺失</text>
+  </g>
+
+  <g stroke="#d5e6e8" stroke-width="4" fill="none" marker-end="url(#arrow)" opacity=".92"><path d="M422 349 C440 349 450 349 467 349"/><path d="M778 349 C796 349 806 349 823 349"/><path d="M1134 349 C1152 349 1162 349 1179 349"/></g>
+  <g stroke="#f3ca77" stroke-width="3" fill="none" stroke-dasharray="8 8" opacity=".9"><path d="M370 518 C490 594 596 568 680 510"/><path d="M714 518 C840 591 947 570 1031 510"/></g>
+
+  <g class="sans" transform="translate(78 702)">
+    <text x="0" y="0" class="stage">决定路径的不是时间本身，而是资源储量、环境通量与定殖机会</text>
+    <g transform="translate(0 34)">
+      <rect x="0" y="0" width="212" height="48" rx="24" fill="#e8f1ef"/><text x="106" y="30" text-anchor="middle" class="factor">鲸体大小 · 骨脂</text>
+      <rect x="230" y="0" width="212" height="48" rx="24" fill="#e8f1ef"/><text x="336" y="30" text-anchor="middle" class="factor">水深 · 温度 · 压力</text>
+      <rect x="460" y="0" width="212" height="48" rx="24" fill="#e8f1ef"/><text x="566" y="30" text-anchor="middle" class="factor">溶解氧 · 硫酸盐</text>
+      <rect x="690" y="0" width="212" height="48" rx="24" fill="#e8f1ef"/><text x="796" y="30" text-anchor="middle" class="factor">水动力 · 埋藏</text>
+      <rect x="920" y="0" width="212" height="48" rx="24" fill="#e8f1ef"/><text x="1026" y="30" text-anchor="middle" class="factor">Osedax 生物侵蚀</text>
+      <rect x="1150" y="0" width="292" height="48" rx="24" fill="#e8f1ef"/><text x="1296" y="30" text-anchor="middle" class="factor">当地物种库 · 扩散与偶然性</text>
+    </g>
+    <text x="0" y="126" class="small">资料综合：Smith &amp; Baco 2003；Lundsten et al. 2010；Smith et al. 2015；De Leo et al. 2026。阶段持续时间会因海区和鲸尸状态跨越数量级。</text>
+  </g>
+</svg>

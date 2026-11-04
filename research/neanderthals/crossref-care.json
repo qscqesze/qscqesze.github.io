@@ -1,0 +1,1270 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        11
+      ]
+    ],
+    "date-time": "2026-09-11T07:04:50Z",
+    "timestamp": 1789110290679,
+    "version": "build-2803163510"
+  },
+  "reference-count": 101,
+  "publisher": "Public Library of Science (PLoS)",
+  "issue": "10",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2017,
+            10,
+            20
+          ]
+        ],
+        "date-time": "2017-10-20T00:00:00Z",
+        "timestamp": 1508457600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/100000001",
+      "name": "National Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "BNS76-14344"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "BNS76-14344"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/100000001",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/100000001",
+      "name": "National Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "BNS80-04578"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "BNS80-04578"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/100000001",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "www.plosone.org"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "PLoS ONE"
+  ],
+  "DOI": "10.1371/journal.pone.0186684",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2017,
+        10,
+        20
+      ]
+    ],
+    "date-time": "2017-10-20T17:37:45Z",
+    "timestamp": 1508521065000
+  },
+  "page": "e0186684",
+  "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 36,
+  "title": [
+    "External auditory exostoses and hearing loss in the Shanidar 1 Neandertal"
+  ],
+  "prefix": "10.1371",
+  "volume": "12",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-5175-1651",
+      "authenticated-orcid": true,
+      "given": "Erik",
+      "family": "Trinkaus",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sébastien",
+      "family": "Villotte",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "340",
+  "published-online": {
+    "date-parts": [
+      [
+        2017,
+        10,
+        20
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "issue": "49",
+      "key": "ref1",
+      "doi-asserted-by": "crossref",
+      "first-page": "19558",
+      "DOI": "10.1073/pnas.1117113108",
+      "article-title": "Antemortem trauma and survival in the Late Middle Pleistocene human cranium from Maba, south China",
+      "volume": "108",
+      "author": "XJ Wu",
+      "year": "2011",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "key": "ref2",
+      "unstructured": "Lacy SA. Oral Health and its Implications in Late Pleistocene Western Eurasian Humans [dissertation]. Saint Louis: Washington University; 2014."
+    },
+    {
+      "key": "ref3",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1093/oso/9780199381050.001.0001",
+      "article-title": "The People of Sunghir",
+      "author": "E Trinkaus",
+      "year": "2014"
+    },
+    {
+      "key": "ref4",
+      "unstructured": "Martín-Francés L. Revisión y Estudio des las Manifestaciones Paleopatológicas en los Homininos del Plio-Pleistoceno, con Especial Referencia a Algunos Fósiles de la Sierra de Atapuerca [dissertation]. Alacalá: Universidad de Alcalá; 2015."
+    },
+    {
+      "issue": "3",
+      "key": "ref5",
+      "doi-asserted-by": "crossref",
+      "first-page": "e59587",
+      "DOI": "10.1371/journal.pone.0059587",
+      "article-title": "An enlarged parietal foramen in the late archaic Xujiayao 11 neurocranium from northern China, and rare anomalies among Pleistocene <italic>Homo</italic>",
+      "volume": "8",
+      "author": "XJ Wu",
+      "year": "2013",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "ref6",
+      "article-title": "The Shanidar Neandertals",
+      "author": "E Trinkaus",
+      "year": "1983"
+    },
+    {
+      "key": "ref7",
+      "unstructured": "Hublin JJ. L’émergence des Homo sapiens archaïques: Afrique du Nord-Ouest et Europe Occidentale [dissertation]. Bordeaux: Université de Bordeaux I; 1991."
+    },
+    {
+      "issue": "1",
+      "key": "ref8",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1002/(SICI)1096-8644(199809)107:1<41::AID-AJPA4>3.0.CO;2-G",
+      "article-title": "Rare temporal bone pathology of the Singa calvaria from Sudan",
+      "volume": "107",
+      "author": "F Spoor",
+      "year": "1998",
+      "journal-title": "Am J Phys Anthropol"
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "crossref",
+      "first-page": "717",
+      "DOI": "10.1038/434717b",
+      "article-title": "The earliest toothless hominin skull",
+      "volume": "434",
+      "author": "D Lordkipanidze",
+      "year": "2005",
+      "journal-title": "Nature"
+    },
+    {
+      "issue": "5",
+      "key": "ref10",
+      "doi-asserted-by": "crossref",
+      "first-page": "659",
+      "DOI": "10.1006/jhev.2002.0598",
+      "article-title": "Middle Pleistocene human remains from the Bau de l’Aubesier",
+      "volume": "43",
+      "author": "S Lebel",
+      "year": "2002",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "issue": "16",
+      "key": "ref11",
+      "doi-asserted-by": "crossref",
+      "first-page": "6573",
+      "DOI": "10.1073/pnas.0900965106",
+      "article-title": "Craniosynostosis in a Middle Pleistocene human: Cranium 14 from the Sima de los Huesos, Atapuerca, Spain",
+      "volume": "106",
+      "author": "A Gracia",
+      "year": "2009",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "issue": "3",
+      "key": "ref12",
+      "doi-asserted-by": "crossref",
+      "first-page": "409",
+      "DOI": "10.1006/jhev.1997.0139",
+      "article-title": "Paleopathological evidence of the cranial remains from the Sima de los Huesos Middle Pleistocene site (Sierra de Atapuerca, Spain). Description and preliminary inferences",
+      "volume": "33",
+      "author": "PJ Pérez",
+      "year": "1997",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "ref13",
+      "article-title": "Epigenetic Variants of the Human Skull",
+      "author": "G Hauser",
+      "year": "1989",
+      "journal-title": "Stuttgart: Schweizerbart’sche"
+    },
+    {
+      "key": "ref14",
+      "first-page": "181",
+      "article-title": "Clinical Otology",
+      "author": "JP Leonetti",
+      "year": "2015"
+    },
+    {
+      "key": "ref15",
+      "doi-asserted-by": "crossref",
+      "first-page": "566",
+      "DOI": "10.1177/000348947908800422",
+      "article-title": "Osteomas and exostoses of the external auditory canal. A clinical,histopathologic and scanning electron microscopic study",
+      "volume": "88",
+      "author": "MD Graham",
+      "year": "1979",
+      "journal-title": "Ann Otol Rhinol Laryngol"
+    },
+    {
+      "issue": "4",
+      "key": "ref16",
+      "first-page": "633",
+      "article-title": "External auditory exostoses and prehistoric aquatic resource procurement",
+      "volume": "6",
+      "author": "S Villotte",
+      "year": "2016",
+      "journal-title": "J Archaeol Sci Rep"
+    },
+    {
+      "issue": "4",
+      "key": "ref17",
+      "doi-asserted-by": "crossref",
+      "first-page": "401",
+      "DOI": "10.1002/ajpa.1330710403",
+      "article-title": "The relationship between auditory exostoses and cold water: a latitudinal analysis",
+      "volume": "71",
+      "author": "GE Kennedy",
+      "year": "1986",
+      "journal-title": "Am J Phys Anthropol"
+    },
+    {
+      "issue": "5",
+      "key": "ref18",
+      "doi-asserted-by": "crossref",
+      "first-page": "303",
+      "DOI": "10.1016/S0196-0709(96)90015-0",
+      "article-title": "Exostoses of the external auditory canal in Oregon surfers",
+      "volume": "17",
+      "author": "FWB Deleyiannis",
+      "year": "1996",
+      "journal-title": "Am J Otolaryngol"
+    },
+    {
+      "key": "ref19",
+      "doi-asserted-by": "crossref",
+      "first-page": "144",
+      "DOI": "10.1136/bjsm.2008.048157",
+      "article-title": "External auditory canal exostoses in white water kayakers",
+      "volume": "44",
+      "author": "A Cooper",
+      "year": "2010",
+      "journal-title": "Br J Sports Med"
+    },
+    {
+      "issue": "9",
+      "key": "ref20",
+      "first-page": "187",
+      "article-title": "The relationship of osteomata of the external auditory meatus to swimming",
+      "volume": "31",
+      "author": "DFN Harrison",
+      "year": "1962",
+      "journal-title": "Ann Roy Coll Surg Engl"
+    },
+    {
+      "key": "ref21",
+      "first-page": "329",
+      "article-title": "External ear canal exostosis: a physiopathological lesion in aquatic sports",
+      "volume": "22",
+      "author": "R Filipo",
+      "year": "1982",
+      "journal-title": "J Sports Med"
+    },
+    {
+      "issue": "3",
+      "key": "ref22",
+      "first-page": "301",
+      "article-title": "Incidence of bony outgrowths of the external ear canal in U.S. Navy divers",
+      "volume": "22",
+      "author": "JC Karegeannes",
+      "year": "1995",
+      "journal-title": "Undersea Hyperbaric Med"
+    },
+    {
+      "issue": "5",
+      "key": "ref23",
+      "doi-asserted-by": "crossref",
+      "first-page": "499",
+      "DOI": "10.1067/mhn.2002.124474",
+      "article-title": "Surfer’s ear: External auditory exostoses are more prevalent in cold water surfers",
+      "volume": "126",
+      "author": "DF Kroon",
+      "year": "2002",
+      "journal-title": "Otolaryngol Head Neck Surg"
+    },
+    {
+      "key": "ref24",
+      "first-page": "364",
+      "article-title": "Prevalence of exostoses surfers of the Basque coast",
+      "volume": "55",
+      "author": "X Altuna",
+      "year": "2004",
+      "journal-title": "Acta Otorrinolaringol Esp"
+    },
+    {
+      "issue": "3",
+      "key": "ref25",
+      "doi-asserted-by": "crossref",
+      "first-page": "355",
+      "DOI": "10.1002/ajpa.21229",
+      "article-title": "Water-related occupations and diet in two Roman coastal communities (Italy, first to third century AD): correlation between stable carbon and nitrogen isotope values and auricular exostosis prevalence",
+      "volume": "142",
+      "author": "F Crowe",
+      "year": "2010",
+      "journal-title": "Am J Phys Anthropol"
+    },
+    {
+      "issue": "1",
+      "key": "ref26",
+      "first-page": "73",
+      "article-title": "External auditory exostoses and aquatic activities during the Mesolithic and the Neolithic in Europe: results from a large prehistoric sample",
+      "volume": "52",
+      "author": "S Villotte",
+      "year": "2014",
+      "journal-title": "Anthropol (Brno)"
+    },
+    {
+      "issue": "1",
+      "key": "ref27",
+      "doi-asserted-by": "crossref",
+      "first-page": "119",
+      "DOI": "10.1002/(SICI)1096-8644(199705)103:1<119::AID-AJPA8>3.0.CO;2-R",
+      "article-title": "Santoro CM. External auditory exostosis in prehistoric Chilean populations: a test of the cold water hypothesis",
+      "volume": "103",
+      "author": "VG Standen",
+      "year": "1997",
+      "journal-title": "Am J Phys Anthropol"
+    },
+    {
+      "issue": "1",
+      "key": "ref28",
+      "doi-asserted-by": "crossref",
+      "first-page": "49",
+      "DOI": "10.1002/(SICI)1096-8644(200005)112:1<49::AID-AJPA6>3.0.CO;2-U",
+      "article-title": "Auricular exostoses in the prehistoric population of Gran Canaria",
+      "volume": "112",
+      "author": "J Velasco-Vázquez",
+      "year": "2000",
+      "journal-title": "Am J Phys Anthropol"
+    },
+    {
+      "key": "ref29",
+      "doi-asserted-by": "crossref",
+      "first-page": "1014",
+      "DOI": "10.1002/oa.2512",
+      "article-title": "External auditory exostoses and its relationship to prehistoric abalone harvesting on Santa Rosa Island, California",
+      "volume": "26",
+      "author": "SC Kuzminsky",
+      "year": "2016",
+      "journal-title": "Intl J Osteoarchaeol"
+    },
+    {
+      "issue": "11",
+      "key": "ref30",
+      "doi-asserted-by": "crossref",
+      "first-page": "1080",
+      "DOI": "10.1177/000348940111001117",
+      "article-title": "Auricular exostoses among the prehistoric population of different islands of the Canary archipelago",
+      "volume": "110",
+      "author": "M Arnay-de-la-Rosa",
+      "year": "2001",
+      "journal-title": "Ann Otol Rhinol Laryngol"
+    },
+    {
+      "key": "ref31",
+      "doi-asserted-by": "crossref",
+      "first-page": "558",
+      "DOI": "10.1002/ajpa.20544",
+      "article-title": "Auditory exostoses as an aquatic activity marker: A comparison of coastal and inland skeletal remains from tropical and subtropical regions of Brazil",
+      "volume": "132",
+      "author": "MMM Okamura",
+      "year": "2007",
+      "journal-title": "Am J Phys Anthropol"
+    },
+    {
+      "key": "ref32",
+      "doi-asserted-by": "crossref",
+      "first-page": "420",
+      "DOI": "10.1002/oa.2432",
+      "article-title": "Auditory exostoses in Pre-Hispanic populations of the Lower Paraná wetlands, Argentina",
+      "volume": "26",
+      "author": "B Mazza",
+      "year": "2016",
+      "journal-title": "Int J Osteoarchaeol"
+    },
+    {
+      "issue": "4",
+      "key": "ref33",
+      "doi-asserted-by": "crossref",
+      "first-page": "285",
+      "DOI": "10.1537/ase.106.285",
+      "article-title": "Auditory exostoses among ancient human populations in the Circum-Pacific area: Regional variation in the occurrence and its implications",
+      "volume": "106",
+      "author": "K Katayama",
+      "year": "1998",
+      "journal-title": "Anthropol Sci"
+    },
+    {
+      "key": "ref34",
+      "first-page": "101",
+      "article-title": "External auditory exostosis “at the end of the world”: the southernmost evidence according to the latitudinal hypothesis",
+      "volume": "S1743",
+      "author": "P Ponce",
+      "year": "2008",
+      "journal-title": "Brit Archaeol Rep"
+    },
+    {
+      "key": "ref35",
+      "first-page": "1",
+      "article-title": "The skull of <italic>Sinanthropus pekinensis</italic>",
+      "volume": "10D",
+      "author": "F Weidenreich",
+      "year": "1943",
+      "journal-title": "Palaeontol Sinica"
+    },
+    {
+      "key": "ref36",
+      "first-page": "111",
+      "article-title": "L’homme fossile de La Chapelle-aux-Saints",
+      "volume": "6",
+      "author": "M Boule",
+      "year": "1911",
+      "journal-title": "Ann Paléontol"
+    },
+    {
+      "issue": "1",
+      "key": "ref37",
+      "first-page": "90",
+      "article-title": "The restored Shanidar I skull",
+      "volume": "14",
+      "author": "TD Stewart",
+      "year": "1958",
+      "journal-title": "Sumer"
+    },
+    {
+      "key": "ref38",
+      "article-title": "Les Néandertaliens de La Chaise",
+      "author": "S Condemi",
+      "year": "2001",
+      "journal-title": "Paris: Comité des Travaux Historiques et Scientifiques"
+    },
+    {
+      "key": "ref39",
+      "doi-asserted-by": "crossref",
+      "first-page": "969",
+      "DOI": "10.1126/science.aal2482",
+      "article-title": "Late Pleistocene archaic human crania from Xuchang, China",
+      "volume": "355",
+      "author": "ZY Li",
+      "year": "2017",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref40",
+      "first-page": "7",
+      "article-title": "Skulls of the Minatogawa man",
+      "volume": "19",
+      "author": "H Suzuki",
+      "year": "1982",
+      "journal-title": "Bull Univ Mus Univ Tokyo"
+    },
+    {
+      "key": "ref41",
+      "unstructured": "Verna C. Les Restes Humains Moustériens de la Station Amont de La Quina (Charente, France) [dissertation]. Bordeaux: Université de Bordeaux 1; 2006."
+    },
+    {
+      "key": "ref42",
+      "doi-asserted-by": "crossref",
+      "first-page": "462",
+      "DOI": "10.1016/j.crpv.2016.09.004",
+      "article-title": "The paleobiology of two adult skeletons from Baousso da Torre (Bausu da Ture) (Liguria, Italy): Implications for Gravettian lifestyle",
+      "volume": "16",
+      "author": "S Villotte",
+      "year": "2017",
+      "journal-title": "C R Palevol"
+    },
+    {
+      "key": "ref43",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1093/oso/9780199381050.001.0001",
+      "article-title": "The People of Sunghir",
+      "author": "E Trinkaus",
+      "year": "2014"
+    },
+    {
+      "issue": "2",
+      "key": "ref44",
+      "first-page": "121",
+      "article-title": "The Neanderthal skeletal remains from Shanidar Cave, Iraq: A summary of findings to date",
+      "volume": "121",
+      "author": "TD Stewart",
+      "year": "1977",
+      "journal-title": "Proc Am Phil Soc"
+    },
+    {
+      "key": "ref45",
+      "doi-asserted-by": "crossref",
+      "first-page": "123",
+      "DOI": "10.1002/ajpa.1330720115",
+      "article-title": "Femoral diaphyseal histomorphometric age determinations for the Shanidar 3, 4, 5 and 6 Neandertals and Neandertal longevity",
+      "volume": "72",
+      "author": "E Trinkaus",
+      "year": "1987",
+      "journal-title": "Am J Phys Anthropol"
+    },
+    {
+      "issue": "2546",
+      "key": "ref46",
+      "first-page": "1137",
+      "article-title": "The etiology of exostoses of the external auditory meatus",
+      "volume": "2",
+      "author": "G Jackson",
+      "year": "1909",
+      "journal-title": "Br Med J"
+    },
+    {
+      "issue": "6S",
+      "key": "ref47",
+      "first-page": "1",
+      "article-title": "Exostoses of the external auditory canal",
+      "volume": "88",
+      "author": "JR DiBartolomeo",
+      "year": "1979",
+      "journal-title": "Ann Otol Rhinol Laryngol"
+    },
+    {
+      "issue": "6",
+      "key": "ref48",
+      "first-page": "367",
+      "article-title": "Disorders of the external auditory canal",
+      "volume": "8",
+      "author": "PS Roland",
+      "year": "1997",
+      "journal-title": "J Am Acad Audiol"
+    },
+    {
+      "key": "ref49",
+      "first-page": "139",
+      "article-title": "Clinical Otology",
+      "author": "LA Rabach",
+      "year": "2015"
+    },
+    {
+      "issue": "2",
+      "key": "ref50",
+      "doi-asserted-by": "crossref",
+      "first-page": "172",
+      "DOI": "10.1016/j.crad.2011.08.019",
+      "article-title": "Masses and disease entities of the external auditory canal: radiological and clinical correlation",
+      "volume": "67",
+      "author": "RD White",
+      "year": "2011",
+      "journal-title": "Clin Radiol"
+    },
+    {
+      "issue": "2",
+      "key": "ref51",
+      "doi-asserted-by": "crossref",
+      "first-page": "195",
+      "DOI": "10.1097/00005537-199802000-00007",
+      "article-title": "Treatment of external auditory canal exostoses",
+      "volume": "108",
+      "author": "SR Whitaker",
+      "year": "1998",
+      "journal-title": "Laryngoscope"
+    },
+    {
+      "issue": "8",
+      "key": "ref52",
+      "doi-asserted-by": "crossref",
+      "first-page": "477",
+      "DOI": "10.1093/qjmed/hch082",
+      "article-title": "Impacted cerumen: composition, production, epidemiology and management",
+      "volume": "97",
+      "author": "JF Guest",
+      "year": "2004",
+      "journal-title": "Quart J Med"
+    },
+    {
+      "key": "ref53",
+      "first-page": "192",
+      "article-title": "Clinical Otology",
+      "author": "BW Kesser",
+      "year": "2015"
+    },
+    {
+      "issue": "2",
+      "key": "ref54",
+      "doi-asserted-by": "crossref",
+      "first-page": "187",
+      "DOI": "10.1097/AUD.0b013e31803126b6",
+      "article-title": "Hearing impairment and health-related quality of life: The Blue Mountain hearing study",
+      "volume": "28",
+      "author": "EM Chia",
+      "year": "2007",
+      "journal-title": "Ear Hearing"
+    },
+    {
+      "issue": "5",
+      "key": "ref55",
+      "doi-asserted-by": "crossref",
+      "first-page": "661",
+      "DOI": "10.1093/geront/43.5.661",
+      "article-title": "The impact of hearing loss on quality of life in older adults",
+      "volume": "43",
+      "author": "DS Dalton",
+      "year": "2003",
+      "journal-title": "Gerontologist"
+    },
+    {
+      "issue": "7",
+      "key": "ref56",
+      "doi-asserted-by": "crossref",
+      "first-page": "159",
+      "DOI": "10.2147/CIA.S26059",
+      "article-title": "The impact of hearing loss on the quality of life of elderly adults",
+      "volume": "2012",
+      "author": "A Ciorba",
+      "year": "2012",
+      "journal-title": "Clin Intervent Aging"
+    },
+    {
+      "issue": "4",
+      "key": "ref57",
+      "doi-asserted-by": "crossref",
+      "first-page": "564",
+      "DOI": "10.1016/j.wocn.2007.06.006",
+      "article-title": "The vocal tract of newborn humans and Neanderthals: Acoustic capabilities and consequences for the debate on the origin of language",
+      "volume": "35",
+      "author": "LJ Boë",
+      "year": "2007",
+      "journal-title": "J Phonetics"
+    },
+    {
+      "issue": "21",
+      "key": "ref58",
+      "doi-asserted-by": "crossref",
+      "first-page": "1908",
+      "DOI": "10.1016/j.cub.2007.10.008",
+      "article-title": "The derived FOXP2 variant of modern humans was shared with Neandertals",
+      "volume": "17",
+      "author": "J Krause",
+      "year": "2007",
+      "journal-title": "Curr Biol"
+    },
+    {
+      "issue": "1",
+      "key": "ref59",
+      "doi-asserted-by": "crossref",
+      "first-page": "94",
+      "DOI": "10.1016/j.quaint.2012.07.001",
+      "article-title": "Communicative capacities in Middle Pleistocene humans from the Sierra de Atapuerca in Spain",
+      "volume": "295",
+      "author": "I Martínez",
+      "year": "2013",
+      "journal-title": "Quatern Intl"
+    },
+    {
+      "issue": "6",
+      "key": "ref60",
+      "doi-asserted-by": "crossref",
+      "first-page": "508",
+      "DOI": "10.1016/j.evolhumbehav.2014.07.001",
+      "article-title": "Upper-body strength predicts hunting reputation and reproductive success in Hadza hunter-gatherers",
+      "volume": "35",
+      "author": "CL Apicella",
+      "year": "2014",
+      "journal-title": "Evol Hum Beh"
+    },
+    {
+      "key": "ref61",
+      "doi-asserted-by": "crossref",
+      "first-page": "0102",
+      "DOI": "10.1038/s41562-017-0102",
+      "article-title": "The functional brain networks that underlie Early Stone Age tool manufacture",
+      "volume": "1",
+      "author": "SS Putt",
+      "year": "2017",
+      "journal-title": "Nature Hum Beh"
+    },
+    {
+      "issue": "3/4",
+      "key": "ref62",
+      "first-page": "125",
+      "article-title": "New insights on hominid-carnivore interactions during the Pleistocene",
+      "volume": "10",
+      "author": "J Rosell",
+      "year": "2012",
+      "journal-title": "J Taphonomy"
+    },
+    {
+      "issue": "6",
+      "key": "ref63",
+      "doi-asserted-by": "crossref",
+      "first-page": "678",
+      "DOI": "10.1002/oa.997",
+      "article-title": "Carnivores and their prey in the Wezmeh Cave, (Kermanshah, Iran): A Late Pleistocene refuge in the Zagros",
+      "volume": "19",
+      "author": "M Mashkour",
+      "year": "2009",
+      "journal-title": "Intl J Osteoarchaeol"
+    },
+    {
+      "issue": "1",
+      "key": "ref64",
+      "doi-asserted-by": "crossref",
+      "first-page": "37",
+      "DOI": "10.3406/paleo.1982.4308",
+      "article-title": "The fauna from Shanidar Cave: Mousterian wild goat exploitation in northeastern Iraq",
+      "volume": "8",
+      "author": "MA Evins",
+      "year": "1982",
+      "journal-title": "Paléorient"
+    },
+    {
+      "issue": "4",
+      "key": "ref65",
+      "doi-asserted-by": "crossref",
+      "first-page": "411",
+      "DOI": "10.1002/ajpa.1330890402",
+      "article-title": "Shanidar 1: A case of hyperostotic disease (DISH) in the Middle Paleolithic",
+      "volume": "89",
+      "author": "E Crubézy",
+      "year": "1992",
+      "journal-title": "Am J Phys Anthropol"
+    },
+    {
+      "issue": "6190",
+      "key": "ref66",
+      "doi-asserted-by": "crossref",
+      "first-page": "1358",
+      "DOI": "10.1126/science.1253958",
+      "article-title": "Neandertal roots: Cranial and chronological evidence from Sima de los Huesos",
+      "volume": "344",
+      "author": "JL Arsuaga",
+      "year": "2014",
+      "journal-title": "Science"
+    },
+    {
+      "key": "ref67",
+      "first-page": "54",
+      "article-title": "Otologic Surgery",
+      "author": "A De La Cruz",
+      "year": "2001"
+    },
+    {
+      "issue": "4",
+      "key": "ref68",
+      "doi-asserted-by": "crossref",
+      "first-page": "e418",
+      "DOI": "10.1097/SCS.0b013e3182942d11",
+      "article-title": "Congenital aural atresia",
+      "volume": "24",
+      "author": "M Abdel-Aziz",
+      "year": "2013",
+      "journal-title": "J Craniofacial Surg"
+    },
+    {
+      "issue": "16",
+      "key": "ref69",
+      "doi-asserted-by": "crossref",
+      "first-page": "6429",
+      "DOI": "10.1073/pnas.0902614106",
+      "article-title": "The prehistory of compassion",
+      "volume": "106",
+      "author": "JJ Hublin",
+      "year": "2009",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "issue": "12",
+      "key": "ref70",
+      "doi-asserted-by": "crossref",
+      "first-page": "1435",
+      "DOI": "10.1006/jasc.2001.0808",
+      "article-title": "Comparative skeletal pathology and the case for conspecific care in middle Pleistocene hominids",
+      "volume": "29",
+      "author": "D DeGusta",
+      "year": "2002",
+      "journal-title": "J Archaeol Sci"
+    },
+    {
+      "issue": "5",
+      "key": "ref71",
+      "doi-asserted-by": "crossref",
+      "first-page": "623",
+      "DOI": "10.1016/j.jhevol.2004.02.004",
+      "article-title": "Tooth loss, survival, and resource use in wild ringtailed lemurs (<italic>Lemur catta</italic>): implications for inferring conspecific care in fossil hominids",
+      "volume": "46",
+      "author": "FP Cuozzo",
+      "year": "2004",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "issue": "1",
+      "key": "ref72",
+      "first-page": "47",
+      "article-title": "Social consequences of disability in a nonhuman primate",
+      "volume": "68",
+      "author": "SE Turner",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "issue": "1",
+      "key": "ref73",
+      "doi-asserted-by": "crossref",
+      "first-page": "3",
+      "DOI": "10.1007/s10329-015-0499-6",
+      "article-title": "An observation of a severely disabled infant chimpanzee in the wild and her interactions with her mother",
+      "volume": "57",
+      "author": "T Matsumoto",
+      "year": "2016",
+      "journal-title": "Primates"
+    },
+    {
+      "key": "ref74",
+      "doi-asserted-by": "crossref",
+      "first-page": "691",
+      "DOI": "10.1525/aa.1965.67.3.02a00050",
+      "article-title": "Some behavioral comparisons between the chimpanzee and the mountain gorilla in the wild",
+      "volume": "67",
+      "author": "V Reynolds",
+      "year": "1965",
+      "journal-title": "Am Anthropol"
+    },
+    {
+      "issue": "3",
+      "key": "ref75",
+      "doi-asserted-by": "crossref",
+      "first-page": "539",
+      "DOI": "10.1023/A:1014917600198",
+      "article-title": "Effects of manual disability on feeding skills in gorillas and chimpanzees",
+      "volume": "23",
+      "author": "RW Byrne",
+      "year": "2002",
+      "journal-title": "Intl J Primatol"
+    },
+    {
+      "key": "ref76",
+      "doi-asserted-by": "crossref",
+      "first-page": "479",
+      "DOI": "10.1007/s10764-016-9914-0",
+      "article-title": "Feeding consequences of hand and foot disability in wild adult chimpanzees (<italic>Pan troglodytes schweinfurthii</italic>)",
+      "volume": "37",
+      "author": "M Cibot",
+      "year": "2016",
+      "journal-title": "Intl J Primatol"
+    },
+    {
+      "key": "ref77",
+      "article-title": "Patterns of Injury and Illness in Great Apes",
+      "author": "NC Lovell",
+      "year": "1990"
+    },
+    {
+      "key": "ref78",
+      "article-title": "L’Enfant Néanderthalien du Pech de l’Azé",
+      "author": "E Patte",
+      "year": "1957"
+    },
+    {
+      "key": "ref79",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1002/ajpa.1330930102",
+      "article-title": "Postcranial robusticity in <italic>Homo</italic>, II: Humeral bilateral asymmetry and bone plasticity",
+      "volume": "93",
+      "author": "E Trinkaus",
+      "year": "1994",
+      "journal-title": "Am J Phys Anthropol"
+    },
+    {
+      "key": "ref80",
+      "article-title": "The Krapina Human Postcranial Remains",
+      "author": "E. Trinkaus",
+      "year": "2016"
+    },
+    {
+      "issue": "1",
+      "key": "ref81",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1002/ajpa.1330670105",
+      "article-title": "Pathology and the posture of the La Chapelle-aux-Saints Neandertal",
+      "volume": "67",
+      "author": "E Trinkaus",
+      "year": "1985",
+      "journal-title": "Am J Phys Anthropol"
+    },
+    {
+      "key": "ref82",
+      "article-title": "Il Cranio Neandertaliano del Monte Circeo (Circeo I)",
+      "author": "S Sergi",
+      "year": "1974"
+    },
+    {
+      "issue": "1",
+      "key": "ref83",
+      "doi-asserted-by": "crossref",
+      "first-page": "81",
+      "DOI": "10.1073/pnas.1316780110",
+      "article-title": "Evidence supporting an intentional Neandertal burial at La Chapelle-aux-Saints",
+      "volume": "111",
+      "author": "W Rendu",
+      "year": "2014",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "issue": "1",
+      "key": "ref84",
+      "doi-asserted-by": "crossref",
+      "first-page": "6",
+      "DOI": "10.1017/S0081130000002525",
+      "article-title": "Mortuary practices: Their study and their potential",
+      "volume": "25",
+      "author": "LR Binford",
+      "year": "1971",
+      "journal-title": "Mem Soc Am Archaeol"
+    },
+    {
+      "key": "ref85",
+      "doi-asserted-by": "crossref",
+      "first-page": "105",
+      "DOI": "10.1016/B978-0-12-003101-6.50010-X",
+      "article-title": "Mortuary practices and the study of prehistoric social systems",
+      "volume": "1",
+      "author": "JA Tainter",
+      "year": "1978",
+      "journal-title": "Adv Archaeol Meth Theory"
+    },
+    {
+      "issue": "21",
+      "key": "ref86",
+      "doi-asserted-by": "crossref",
+      "first-page": "R917",
+      "DOI": "10.1016/j.cub.2007.09.055",
+      "article-title": "Neandertal gene speaks out",
+      "volume": "17",
+      "author": "E Trinkaus",
+      "year": "2007",
+      "journal-title": "Curr Biol"
+    },
+    {
+      "issue": "3",
+      "key": "ref87",
+      "doi-asserted-by": "crossref",
+      "first-page": "1023",
+      "DOI": "10.1073/pnas.0914088107",
+      "article-title": "Symbolic use of marine shells and mineral pigments by Iberian Neandertals",
+      "volume": "107",
+      "author": "J Zilhão",
+      "year": "2010",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "issue": "10",
+      "key": "ref88",
+      "doi-asserted-by": "crossref",
+      "first-page": "3888",
+      "DOI": "10.1073/pnas.1016212108",
+      "article-title": "Late Neandertals and the intentional removal of feathers as evidenced from bird bone taphonomy at Fumane Cave 44 ky B.P., Italy",
+      "volume": "108",
+      "author": "M Peresani",
+      "year": "2011",
+      "journal-title": "Proc. Natl Acad Sci USA"
+    },
+    {
+      "key": "ref89",
+      "first-page": "A13",
+      "article-title": "Systematic use of manganese pigment by the Pech-de-l’Azé Neandertals: implications for the origin of behavioral modernity",
+      "volume": "42",
+      "author": "F d’Errico",
+      "year": "2002",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "ref90",
+      "first-page": "7",
+      "article-title": "L’ocre et les récipients pour ocre de la grotte Cioarei",
+      "volume": "11",
+      "author": "M Cârciumaru",
+      "year": "2009",
+      "journal-title": "Ann Univ Valahia Targoviste—Sect Archéol Hist"
+    },
+    {
+      "key": "ref91",
+      "first-page": "161",
+      "article-title": "L’Abri des Canalettes",
+      "author": "L Meignen",
+      "year": "1993"
+    },
+    {
+      "key": "ref92",
+      "first-page": "15",
+      "article-title": "A estação paleolítica de Vilas Ruivas (Ródão)—campanha de 1979",
+      "volume": "1",
+      "year": "1983",
+      "journal-title": "Arqueól Portug"
+    },
+    {
+      "key": "ref93",
+      "doi-asserted-by": "crossref",
+      "first-page": "497",
+      "DOI": "10.1086/204112",
+      "article-title": "The excavations in Kebara Cave, Mt. Carmel",
+      "volume": "33",
+      "author": "O Bar-Yosef",
+      "year": "1992",
+      "journal-title": "Curr Anthropol"
+    },
+    {
+      "key": "ref94",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1038/nature18291",
+      "article-title": "Early Neanderthal constructions deep in Bruniquel Cave in southwestern France",
+      "volume": "534",
+      "author": "J Jaubert",
+      "year": "2016",
+      "journal-title": "Nature"
+    },
+    {
+      "issue": "1",
+      "key": "ref95",
+      "doi-asserted-by": "crossref",
+      "first-page": "51",
+      "DOI": "10.1016/j.jhevol.2014.07.007",
+      "article-title": "Division of labor by sex and age in Neandertals: an approach through the study of activity-related dental wear",
+      "volume": "80",
+      "author": "A Estalrrich",
+      "year": "2015",
+      "journal-title": "J Hum Evol"
+    },
+    {
+      "key": "ref96",
+      "article-title": "Patterns of humeral asymmetry among Late Pleistocene humans",
+      "author": "VS Sparacello",
+      "year": "2016",
+      "journal-title": "C R Palevol"
+    },
+    {
+      "issue": "18",
+      "key": "ref97",
+      "doi-asserted-by": "crossref",
+      "first-page": "7367",
+      "DOI": "10.1073/pnas.0702214104",
+      "article-title": "European early modern humans and the fate of the Neandertals",
+      "volume": "104",
+      "author": "E Trinkaus",
+      "year": "2007",
+      "journal-title": "Proc Natl Acad Sci USA"
+    },
+    {
+      "key": "ref98",
+      "doi-asserted-by": "crossref",
+      "first-page": "200",
+      "DOI": "10.1038/nature17993",
+      "article-title": "The genetic history of ice age Europe",
+      "volume": "534",
+      "author": "QM Fu",
+      "year": "2016",
+      "journal-title": "Nature"
+    },
+    {
+      "issue": "4",
+      "key": "ref99",
+      "doi-asserted-by": "crossref",
+      "first-page": "e96424",
+      "DOI": "10.1371/journal.pone.0096424",
+      "article-title": "Neandertal demise: An archaeological analysis of the modern human superiority complex",
+      "volume": "9",
+      "author": "P Villa",
+      "year": "2014",
+      "journal-title": "PloS ONE"
+    },
+    {
+      "key": "ref100",
+      "first-page": "393",
+      "article-title": "Origins of Modern Humans: Biology Reconsidered",
+      "author": "E Trinkaus",
+      "year": "2013"
+    },
+    {
+      "issue": "23",
+      "key": "ref101",
+      "doi-asserted-by": "crossref",
+      "first-page": "6372",
+      "DOI": "10.1073/pnas.1521269113",
+      "article-title": "Neandertals revisited",
+      "volume": "113",
+      "author": "W Roebroeks",
+      "year": "2016",
+      "journal-title": "Proc Natl Acad Sci USA"
+    }
+  ],
+  "container-title": [
+    "PLOS ONE"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://dx.plos.org/10.1371/journal.pone.0186684",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        5
+      ]
+    ],
+    "date-time": "2022-08-05T00:03:22Z",
+    "timestamp": 1659657802000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://dx.plos.org/10.1371/journal.pone.0186684"
+    }
+  },
+  "subtitle": [],
+  "editor": [
+    {
+      "given": "Karen",
+      "family": "Rosenberg",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "editor"
+        }
+      ]
+    }
+  ],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2017,
+        10,
+        20
+      ]
+    ]
+  },
+  "references-count": 101,
+  "journal-issue": {
+    "issue": "10",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          20
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1371/journal.pone.0186684",
+  "relation": {},
+  "ISSN": [
+    "1932-6203"
+  ],
+  "issn-type": [
+    {
+      "value": "1932-6203",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2017,
+        10,
+        20
+      ]
+    ]
+  }
+}

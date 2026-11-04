@@ -1,0 +1,160 @@
+{
+  "checked_on": "2026-10-08",
+  "description": "Manually transcribed published aggregate statistics, not game-level microdata. Charts reproduce aggregates; no causal effects or significance tests are estimated.",
+  "sources": {
+    "gdco_june": "https://newsletter.gamediscover.co/p/who-won-june-2026s-steam-next-fest",
+    "htmag_benchmark": "https://howtomarketagame.com/2025/03/26/benchmarks-how-many-wishlists-can-i-get-from-steam-next-fest/",
+    "htmag_momentum": "https://howtomarketagame.com/2026/07/14/games-that-used-momentum-for-steam-next-fest-success/",
+    "htmag_june": "https://howtomarketagame.com/2026/07/13/did-ai-slop-ruin-steam-next-fest-june-2026/"
+  },
+  "supply": {
+    "source": "gdco_june",
+    "editions": ["2025-06", "2026-06"],
+    "demo_count": [2645, 4382],
+    "follower_gain_at_top_10_percent_position": [163, 121],
+    "note": "Follower gain is not wishlist gain; these are comparable rank positions, not a longitudinal panel of the same games. The source describes the position as a game in the top 10%."
+  },
+  "february_2026_benchmark": {
+    "source": "htmag_benchmark",
+    "responses_received": 182,
+    "table_n": 174,
+    "momentum_followup_responses": 81,
+    "note": "URL retains a 2025 date; the current article explicitly uses February 2026 survey data. P30-P70 covers the middle 40% of observations, not a confidence interval. Self-selected survey, no population weighting.",
+    "groups": [
+      {"base": "0–999", "n": 71, "minimum": 41, "p30": 179, "median": 322, "p70": 485, "maximum": 5880},
+      {"base": "1,000–9,999", "n": 60, "minimum": 74, "p30": 549, "median": 1006, "p70": 1722, "maximum": 15614},
+      {"base": "10,000–99,999", "n": 36, "minimum": 515, "p30": 2584, "median": 5215, "p70": 9633, "maximum": 17342},
+      {"base": "100,000+", "n": 7, "minimum": 5990, "p30": 9989, "median": 12882, "p70": 27661, "maximum": 57074}
+    ]
+  },
+  "june_2026_correlations": {
+    "source": "htmag_momentum",
+    "survey_responses_reported_in_companion_article": 119,
+    "complete_case_n_for_each_coefficient": null,
+    "outcome": "Wishlists gained during Steam Next Fest",
+    "base_definition": "Wishlists before Steam Next Fest",
+    "momentum_definition": "Wishlists gained June 1–14, 2026",
+    "rows": [
+      {"statistic": "Pearson r (raw)", "base": 0.47, "momentum": 0.61},
+      {"statistic": "Spearman rho", "base": 0.76, "momentum": 0.81},
+      {"statistic": "Pearson r (log-log)", "base": 0.76, "momentum": 0.80}
+    ],
+    "note": "Published coefficients only. Raw paired observations, per-coefficient complete-case sample sizes, uncertainty intervals and tests of differences were not provided in the displayed table. Do not treat point differences as established significant effects."
+  },
+  "june_2026_contingency": {
+    "source": "htmag_momentum",
+    "outcome": "At least 3,000 wishlists gained during SNF",
+    "groups": [
+      {"base": "<2000", "momentum": "<2000", "successes": 3, "n": 47},
+      {"base": "<2000", "momentum": ">2000", "successes": 1, "n": 1},
+      {"base": ">2000", "momentum": "<2000", "successes": 10, "n": 37},
+      {"base": ">2000", "momentum": ">2000", "successes": 28, "n": 34}
+    ],
+    "note": "Exact inequality labels retained from source; treatment of values exactly 2000 is unspecified. Cell counts sum to 119. The 1/1 cell cannot support a reliable population success probability."
+  },
+  "case_sources": {
+    "parcel": "https://howtomarketagame.com/2025/08/26/the-demo-effect-from-7000-wishlists-to-42000/",
+    "beast": "https://howtomarketagame.com/2024/06/18/the-double-jump-trick-to-steam-next-fest/",
+    "feb_analysis": "https://howtomarketagame.com/2026/04/13/making-sense-of-the-february-2026-steam-next-fest/"
+  },
+  "cases": [
+    {
+      "game": "Parcel Simulator",
+      "edition": "2025-02",
+      "source": "parcel",
+      "wishlist_before_demo_approx": 7000,
+      "festival_wishlist_additions_approx": 10000,
+      "festival_peak_ccu_approx": 300,
+      "private_testers_approx": 15,
+      "creator_coverage_wishlist_additions_developer_estimate": 7000,
+      "wishlists_at_june_20_release_approx": 42000,
+      "units_sold_first_24_hours_approx": 10000,
+      "units_sold_first_two_weeks_approx": 50000,
+      "note": "Sales are subsequent release-period outcomes. Exact initial demo release day is inconsistent between the source timeline and developer quote, so the article uses near the festival."
+    },
+    {
+      "game": "I Am Your Beast",
+      "edition": "2024-06",
+      "source": "beast",
+      "wishlist_additions_24_hours_before_festival_approx": 15000,
+      "wishlist_additions_festival_first_24_hours_approx": 16000,
+      "combined_48_hours_approx": 31000,
+      "note": "Two different periods, not 31,000 festival-only additions. Original 2024 interview is used instead of the later July 2026 retelling."
+    },
+    {
+      "game": "Cat Mail Co.",
+      "edition": "2026-06",
+      "source": "htmag_momentum",
+      "wishlists_at_entry": 5293,
+      "festival_wishlist_additions_approx": 42000
+    },
+    {
+      "game": "Speak",
+      "edition": "2026-06",
+      "source": "htmag_momentum",
+      "wishlists_at_entry": 694,
+      "festival_wishlist_additions_approx": 13000,
+      "tiktok_views_approx": 1000000
+    },
+    {
+      "game": "Ship Shaper",
+      "edition": "2026-02",
+      "source": "feb_analysis",
+      "announcement_wishlist_additions_approx": 5000,
+      "festival_wishlist_additions": 11566,
+      "peak_demo_rank": 27,
+      "later_demo_rank_range": [
+        60,
+        70
+      ]
+    }
+  ],
+  "butterscotch_comparison": {
+    "source": "feb_analysis",
+    "note": "Impressions and visits are festival-source traffic; wishlist additions are festival-period totals. Do not divide the third by the second as a measured funnel conversion.",
+    "games": [
+      {
+        "game": "Crashlands 2",
+        "edition": "2024-06",
+        "festival_impressions": 6247962,
+        "festival_visits": 38406,
+        "festival_period_wishlist_additions": 15987
+      },
+      {
+        "game": "How Many Dudes?",
+        "edition": "2026-02",
+        "festival_impressions": 645745,
+        "festival_visits": 15342,
+        "festival_period_wishlist_additions": 14740
+      }
+    ],
+    "calculated_impressions_ratio": 9.675587112559912,
+    "calculated_wishlist_difference": 1247
+  },
+  "images": [
+    {
+      "game": "Parcel Simulator",
+      "file": "images/steam-next-fest-research-2026/04-parcel-simulator.jpg",
+      "source": "https://store.steampowered.com/app/2424010/",
+      "asset_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424010/ss_d88fe3f3a0697a577b74f364f0e70dc702de0335.1920x1080.jpg?t=1790152453",
+      "retrieved_on": "2026-10-08",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "note": "Current official store screenshot illustrating gameplay; not an archived Next Fest demo capture."
+    },
+    {
+      "game": "I Am Your Beast",
+      "file": "images/steam-next-fest-research-2026/05-i-am-your-beast.jpg",
+      "source": "https://store.steampowered.com/app/1876590/",
+      "asset_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876590/ss_476b39aed95cbe566fadcc9b26fc50ae4e8ab6b9.1920x1080.jpg?t=1776695015",
+      "retrieved_on": "2026-10-08",
+      "dimensions": [
+        1920,
+        1079
+      ],
+      "note": "Current official store screenshot illustrating gameplay; not an archived Next Fest demo capture."
+    }
+  ]
+}

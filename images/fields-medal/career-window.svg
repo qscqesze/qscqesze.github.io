@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+  <title id="title">菲尔兹奖与其他数学大奖的职业阶段差异</title>
+  <desc id="desc">菲尔兹奖有四十岁资格门槛，阿贝尔奖、陈省身奖和突破奖没有同样的年龄上限。</desc>
+  <rect width="1200" height="660" fill="#f8fafc"/>
+  <text x="70" y="72" fill="#0f172a" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="34" font-weight="700">它们表彰的不是同一个职业阶段</text>
+  <text x="70" y="112" fill="#64748b" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="19">横轴仅表示年龄与职业时间，不代表数学能力随年龄线性变化</text>
+
+  <line x1="250" y1="570" x2="1120" y2="570" stroke="#94a3b8" stroke-width="2"/>
+  <g fill="#64748b" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="17" text-anchor="middle">
+    <text x="250" y="606">20岁</text>
+    <text x="468" y="606">40岁</text>
+    <text x="685" y="606">60岁</text>
+    <text x="903" y="606">80岁</text>
+    <text x="1120" y="606">100岁</text>
+  </g>
+  <g stroke="#cbd5e1" stroke-width="1" stroke-dasharray="5 7">
+    <line x1="250" y1="145" x2="250" y2="570"/>
+    <line x1="468" y1="145" x2="468" y2="570"/>
+    <line x1="685" y1="145" x2="685" y2="570"/>
+    <line x1="903" y1="145" x2="903" y2="570"/>
+    <line x1="1120" y1="145" x2="1120" y2="570"/>
+  </g>
+
+  <g font-family="Noto Sans SC, PingFang SC, sans-serif">
+    <text x="70" y="194" fill="#0f172a" font-size="23" font-weight="700">菲尔兹奖</text>
+    <text x="70" y="220" fill="#64748b" font-size="16">成果 + 未来潜力</text>
+    <rect x="250" y="170" width="218" height="58" rx="14" fill="#d6a84a"/>
+    <text x="359" y="206" fill="#34230a" font-size="18" font-weight="700" text-anchor="middle">资格窗口</text>
+    <path d="M468 164v70" stroke="#92400e" stroke-width="3"/>
+    <text x="482" y="158" fill="#92400e" font-size="15">40岁规则</text>
+
+    <text x="70" y="304" fill="#0f172a" font-size="23" font-weight="700">阿贝尔奖</text>
+    <text x="70" y="330" fill="#64748b" font-size="16">开创性成就，常偏终身评价</text>
+    <rect x="250" y="280" width="870" height="58" rx="14" fill="#dbeafe"/>
+    <text x="685" y="316" fill="#1e3a8a" font-size="18" font-weight="700" text-anchor="middle">任何在世数学家均可获奖</text>
+
+    <text x="70" y="414" fill="#0f172a" font-size="23" font-weight="700">陈省身奖</text>
+    <text x="70" y="440" fill="#64748b" font-size="16">最高等级的整体成就</text>
+    <rect x="250" y="390" width="870" height="58" rx="14" fill="#dcfce7"/>
+    <text x="685" y="426" fill="#14532d" font-size="18" font-weight="700" text-anchor="middle">不限年龄，强调职业生涯贡献</text>
+
+    <text x="70" y="524" fill="#0f172a" font-size="23" font-weight="700">数学突破奖</text>
+    <text x="70" y="550" fill="#64748b" font-size="16">重视近十年重要进展</text>
+    <rect x="250" y="500" width="870" height="58" rx="14" fill="#f3e8ff"/>
+    <text x="685" y="536" fill="#581c87" font-size="18" font-weight="700" text-anchor="middle">主奖无统一年龄上限</text>
+  </g>
+</svg>

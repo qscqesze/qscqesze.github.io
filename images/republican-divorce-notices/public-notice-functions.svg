@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">民国离婚的三层文本</title>
+  <desc id="desc">离婚协议或法院裁判决定法律关系，报纸启事向社会公示，公众据此调整债务信用、亲友往来、名誉与再婚判断。</desc>
+  <rect width="1200" height="620" fill="#f7f3ea"/>
+  <text x="600" y="70" text-anchor="middle" font-family="Noto Serif SC, Songti SC, serif" font-size="34" font-weight="700" fill="#2b2721">民国离婚不是一张纸：法律、报纸与社会的三层文本</text>
+  <line x1="310" y1="300" x2="472" y2="300" stroke="#9b392d" stroke-width="4"/>
+  <polygon points="472,300 448,286 448,314" fill="#9b392d"/>
+  <line x1="728" y1="300" x2="890" y2="300" stroke="#9b392d" stroke-width="4"/>
+  <polygon points="890,300 866,286 866,314" fill="#9b392d"/>
+
+  <rect x="70" y="155" width="240" height="290" rx="12" fill="#fffdf8" stroke="#3d3a35" stroke-width="2"/>
+  <text x="190" y="215" text-anchor="middle" font-family="Noto Serif SC, Songti SC, serif" font-size="28" font-weight="700" fill="#2b2721">法律文件</text>
+  <text x="190" y="265" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="21" fill="#514b43">两愿离婚书</text>
+  <text x="190" y="301" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="21" fill="#514b43">两名以上证人</text>
+  <text x="190" y="337" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="21" fill="#514b43">或法院判决</text>
+  <line x1="105" y1="370" x2="275" y2="370" stroke="#d4c8b5"/>
+  <text x="190" y="409" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="18" fill="#7b3329">决定法律关系</text>
+
+  <rect x="480" y="155" width="240" height="290" rx="12" fill="#fffdf8" stroke="#3d3a35" stroke-width="2"/>
+  <text x="600" y="215" text-anchor="middle" font-family="Noto Serif SC, Songti SC, serif" font-size="28" font-weight="700" fill="#2b2721">报纸启事</text>
+  <text x="600" y="265" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="21" fill="#514b43">宣布关系终止</text>
+  <text x="600" y="301" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="21" fill="#514b43">划定今后责任</text>
+  <text x="600" y="337" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="21" fill="#514b43">争夺叙事先手</text>
+  <line x1="515" y1="370" x2="685" y2="370" stroke="#d4c8b5"/>
+  <text x="600" y="409" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="18" fill="#7b3329">制造公共可见性</text>
+
+  <rect x="890" y="155" width="240" height="290" rx="12" fill="#fffdf8" stroke="#3d3a35" stroke-width="2"/>
+  <text x="1010" y="215" text-anchor="middle" font-family="Noto Serif SC, Songti SC, serif" font-size="28" font-weight="700" fill="#2b2721">社会后果</text>
+  <text x="1010" y="265" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="21" fill="#514b43">债务与交易信用</text>
+  <text x="1010" y="301" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="21" fill="#514b43">亲友往来与名誉</text>
+  <text x="1010" y="337" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="21" fill="#514b43">再婚身份判断</text>
+  <line x1="925" y1="370" x2="1095" y2="370" stroke="#d4c8b5"/>
+  <text x="1010" y="409" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="18" fill="#7b3329">让外界调整关系</text>
+
+  <text x="600" y="515" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="22" fill="#49443e">关键区别：登报可以“通知社会”，却不能自动补足双方真实同意、证人签名与财产清算。</text>
+  <text x="600" y="560" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="17" fill="#7b746b">据1930年《中华民国民法·亲属编》第1049—1052条整理</text>
+</svg>

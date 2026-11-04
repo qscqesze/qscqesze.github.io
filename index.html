@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "文章"
+home_category_sidebar: true
+lang: zh-CN
+translation_url: /en/
+---
+
+{% include base_path %}
+
+<section class="home-latest" aria-labelledby="home-latest-title">
+  <div class="home-section-heading">
+    <h1 id="home-latest-title">最新文章</h1>
+    <a href="{{ '/year-archive/' | relative_url }}">查看全部</a>
+  </div>
+
+{% assign archive_posts = paginator.posts | default: site.posts %}
+{% for post in archive_posts %}
+  {% include archive-single.html show_teaser=true %}
+{% endfor %}
+
+{% include archive-pagination.html %}
+</section>

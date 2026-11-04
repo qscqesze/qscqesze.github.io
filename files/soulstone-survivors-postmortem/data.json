@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-10-08",
+  "concurrent_peaks": [
+    {"label": "原始 Demo", "appid": 2083070, "players": 3205, "date": "2022-08-02", "source": "https://steamdb.info/app/2083070/charts/"},
+    {"label": "免费序章", "appid": 2113430, "players": 4818, "date": "2022-08-28", "source": "https://steamdb.info/app/2113430/charts/"},
+    {"label": "付费本体", "appid": 2066020, "players": 18854, "date": "2022-11-13", "source": "https://steamdb.info/app/2066020/charts/"}
+  ],
+  "playtime": {
+    "event": "2022 年 10 月 Steam Next Fest",
+    "survey_games": 41,
+    "soulstone_median_minutes": 180,
+    "median_of_game_medians_minutes": 18,
+    "source": "https://howtomarketagame.com/2022/11/04/steam-next-fest-october-2022-how-did-games-perform/",
+    "note": "41 is the article's surveyed game count. It does not separately report the number answering the playtime question. 18 is the median of reported game-level medians, not a pooled player median. 180 is accumulated demo playtime, not one run duration."
+  },
+  "early_wishlists": {
+    "report_date": "2022-08-04",
+    "reported_month_gain": 34724,
+    "reported_single_day_gain": 2986,
+    "source": "https://howtomarketagame.com/2022/08/04/inspiration-thursday-august-4th/",
+    "note": "Source says in one month without exact start/end. Demo released 2022-07-27 UTC, announcement 2022-07-28. Do not describe the 34,724 as a month following demo release or as October Next Fest gains."
+  },
+  "timeline": [
+    {"date": "2022-07-27", "event": "Demo release (SteamDB UTC); official announcement July 28"},
+    {"date": "2022-08-05", "event": "Skill Weekend begins; runs through August 7"},
+    {"date": "2022-08-26", "event": "Prologue store release date; three new characters replace original three"},
+    {"date": "2022-09-22", "event": "Expanded six-character Demo; official planned date"},
+    {"date": "2022-10-03", "event": "Next Fest opens; November 7 Early Access date announced"},
+    {"date": "2022-10-10", "event": "Next Fest ends"},
+    {"date": "2022-10-12", "event": "Announced closing date for six-character Demo; Prologue to remain available"},
+    {"date": "2022-10-26", "event": "Prologue update and pre-release speedrun event"},
+    {"date": "2022-11-07", "event": "Early Access launch"},
+    {"date": "2025-06-17", "event": "1.0 release"}
+  ],
+  "china_partner_report": {
+    "start": "2023-08", "duration_months": 4,
+    "china_sales_share_before_percent": 12.9, "china_sales_share_after_percent": 20,
+    "china_units_during_collaboration": 23000, "china_units_cumulative": 118000,
+    "heybox_wishlists": 54000,
+    "source": "https://www.huqiaogames.com/insights/53-increase-in-percent-of-sales-in-china-in-4-months-game-smithing-x-huqiao",
+    "note": "Partner-reported. Sales-share increase is 7.1 percentage points. These are 2023 activities, not 2022 Demo launch attribution. Heybox wishlists are not Steam wishlists."
+  },
+  "lifetime_sales": {
+    "as_of": "2026-09-03", "lower_bound_exclusive": 1300000, "scope": "all platforms",
+    "source": "https://www.gamesmithing.blog/posts/intro/"
+  }
+}

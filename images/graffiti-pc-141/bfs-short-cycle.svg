@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">广度优先树中的非树边产生短圈</title>
+  <desc id="desc">以 v 为根的广度优先生成树中，如果所有顶点都离根很近，一条不属于树的边 xy 会和树路径围成比图的围长更短的圈。</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07182d"/>
+      <stop offset="1" stop-color="#12304c"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .zh { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif; }
+      .tree { stroke: #7dd3e8; stroke-width: 8; stroke-linecap: round; fill: none; }
+      .faint { stroke: #35516a; stroke-width: 5; stroke-linecap: round; fill: none; }
+      .node { fill: #e9fbff; stroke: #7dd3e8; stroke-width: 6; }
+      .small { fill: #9cb0c1; stroke: #35516a; stroke-width: 5; }
+    </style>
+  </defs>
+  <rect width="1600" height="900" rx="42" fill="url(#bg2)"/>
+  <text class="zh" x="800" y="78" text-anchor="middle" font-size="48" font-weight="750" fill="#f8f5ec">为什么一定能走到足够远的地方？</text>
+  <text class="zh" x="800" y="126" text-anchor="middle" font-size="25" fill="#aec5d7">反设所有顶点到根 v 的距离都不超过 r−1</text>
+
+  <!-- BFS layer guides -->
+  <path d="M 800 315 C 660 325 540 390 458 495" stroke="#29445d" stroke-width="3" stroke-dasharray="10 15" fill="none"/>
+  <path d="M 800 315 C 940 325 1060 390 1142 495" stroke="#29445d" stroke-width="3" stroke-dasharray="10 15" fill="none"/>
+  <path d="M 800 315 C 530 355 335 520 254 720" stroke="#29445d" stroke-width="3" stroke-dasharray="10 15" fill="none"/>
+  <path d="M 800 315 C 1070 355 1265 520 1346 720" stroke="#29445d" stroke-width="3" stroke-dasharray="10 15" fill="none"/>
+
+  <!-- Main two tree branches -->
+  <path class="tree" d="M 800 265 L 690 385 L 545 500 L 365 650"/>
+  <path class="tree" d="M 800 265 L 910 385 L 1055 500 L 1235 650"/>
+  <path class="faint" d="M 690 385 L 575 315 M 545 500 L 430 430 M 910 385 L 1025 315 M 1055 500 L 1170 430"/>
+
+  <!-- Non-tree edge -->
+  <path d="M 365 650 Q 800 812 1235 650" stroke="#ff806f" stroke-width="12" stroke-linecap="round" fill="none" filter="url(#glow)"/>
+
+  <!-- Nodes -->
+  <circle cx="800" cy="265" r="45" fill="#ffc857" stroke="#fff0bd" stroke-width="7" filter="url(#glow)"/>
+  <circle class="node" cx="690" cy="385" r="32"/>
+  <circle class="node" cx="545" cy="500" r="32"/>
+  <circle class="node" cx="365" cy="650" r="39"/>
+  <circle class="node" cx="910" cy="385" r="32"/>
+  <circle class="node" cx="1055" cy="500" r="32"/>
+  <circle class="node" cx="1235" cy="650" r="39"/>
+  <circle class="small" cx="575" cy="315" r="24"/>
+  <circle class="small" cx="430" cy="430" r="24"/>
+  <circle class="small" cx="1025" cy="315" r="24"/>
+  <circle class="small" cx="1170" cy="430" r="24"/>
+
+  <text class="zh" x="800" y="276" text-anchor="middle" font-size="28" font-weight="800" fill="#102a43">v</text>
+  <text class="zh" x="365" y="662" text-anchor="middle" font-size="28" font-weight="800" fill="#102a43">x</text>
+  <text class="zh" x="1235" y="662" text-anchor="middle" font-size="28" font-weight="800" fill="#102a43">y</text>
+  <text class="zh" x="800" y="787" text-anchor="middle" font-size="27" font-weight="700" fill="#ffb3a9">非树边 xy</text>
+
+  <g>
+    <rect x="190" y="163" width="360" height="92" rx="24" fill="#173b57" stroke="#355b76" stroke-width="2"/>
+    <text class="zh" x="370" y="201" text-anchor="middle" font-size="23" fill="#d9edf5">蓝线：广度优先生成树</text>
+    <text class="zh" x="370" y="232" text-anchor="middle" font-size="23" fill="#d9edf5">树距离 = 原图距离</text>
+  </g>
+  <g>
+    <rect x="1050" y="163" width="360" height="92" rx="24" fill="#173b57" stroke="#355b76" stroke-width="2"/>
+    <text class="zh" x="1230" y="201" text-anchor="middle" font-size="23" fill="#d9edf5">红线 + 树路径 = 一个圈</text>
+    <text class="zh" x="1230" y="232" text-anchor="middle" font-size="23" fill="#d9edf5">长度至多 2(r−1)+1</text>
+  </g>
+
+  <rect x="420" y="830" width="760" height="48" rx="24" fill="#f8f5ec"/>
+  <text class="zh" x="800" y="862" text-anchor="middle" font-size="25" font-weight="700" fill="#102a43">若这个上界小于围长 g，就与“g 是最短圈”矛盾</text>
+</svg>

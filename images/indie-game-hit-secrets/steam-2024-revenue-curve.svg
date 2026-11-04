@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">2024 年 Steam 新作收入排名与预估总收入</title>
+  <desc id="desc">GameDiscoverCo 对 2024 年 Steam 新作的估算。第 25 名为 3350 万美元，第 2500 名为 1.1 万美元。纵轴使用对数刻度，横轴为选定名次，不是等距名次。</desc>
+  <rect width="1200" height="720" rx="24" fill="#f7f3ea"/>
+  <text x="72" y="66" fill="#17202a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans SC',sans-serif" font-size="31" font-weight="700">2024 年 Steam 新作：头部与长尾之间有多陡</text>
+  <text x="72" y="101" fill="#5e6871" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans SC',sans-serif" font-size="17">预估毛收入，纵轴为对数刻度；名次为选定节点</text>
+
+  <g stroke="#d9d2c3" stroke-width="1">
+    <line x1="112" y1="150" x2="1120" y2="150"/>
+    <line x1="112" y1="260" x2="1120" y2="260"/>
+    <line x1="112" y1="370" x2="1120" y2="370"/>
+    <line x1="112" y1="480" x2="1120" y2="480"/>
+    <line x1="112" y1="590" x2="1120" y2="590"/>
+  </g>
+  <g fill="#65717a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans SC',sans-serif" font-size="16" text-anchor="end">
+    <text x="96" y="156">$1 亿</text>
+    <text x="96" y="266">$1000 万</text>
+    <text x="96" y="376">$100 万</text>
+    <text x="96" y="486">$10 万</text>
+    <text x="96" y="596">$1 万</text>
+  </g>
+
+  <path d="M150 202 L307 250 L464 293 L621 353 L778 408 L935 472 L1092 586" fill="none" stroke="#d0523e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 202 L307 250 L464 293 L621 353 L778 408 L935 472 L1092 586 L1092 590 L150 590 Z" fill="#d0523e" opacity="0.09"/>
+
+  <g fill="#f7f3ea" stroke="#d0523e" stroke-width="5">
+    <circle cx="150" cy="202" r="9"/>
+    <circle cx="307" cy="250" r="9"/>
+    <circle cx="464" cy="293" r="9"/>
+    <circle cx="621" cy="353" r="9"/>
+    <circle cx="778" cy="408" r="9"/>
+    <circle cx="935" cy="472" r="9"/>
+    <circle cx="1092" cy="586" r="9"/>
+  </g>
+
+  <g fill="#17202a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans SC',sans-serif" font-size="17" font-weight="650" text-anchor="middle">
+    <text x="150" y="179">$3350 万</text>
+    <text x="307" y="227">$1220 万</text>
+    <text x="464" y="270">$500 万</text>
+    <text x="621" y="330">$143 万</text>
+    <text x="778" y="385">$45.7 万</text>
+    <text x="935" y="449">$11.8 万</text>
+    <text x="1066" y="558">$1.1 万</text>
+  </g>
+  <g fill="#5e6871" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans SC',sans-serif" font-size="16" text-anchor="middle">
+    <text x="150" y="632">第 25 名</text>
+    <text x="307" y="632">第 50 名</text>
+    <text x="464" y="632">第 100 名</text>
+    <text x="621" y="632">第 250 名</text>
+    <text x="778" y="632">第 500 名</text>
+    <text x="935" y="632">第 1000 名</text>
+    <text x="1092" y="632">第 2500 名</text>
+  </g>
+  <text x="72" y="681" fill="#7a817f" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans SC',sans-serif" font-size="14">来源：GameDiscoverCo，2025-02；金额为退款、税费与平台分成前的第三方估算</text>
+</svg>

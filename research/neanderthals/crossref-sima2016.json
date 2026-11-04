@@ -1,0 +1,800 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        5
+      ]
+    ],
+    "date-time": "2026-09-05T09:37:18Z",
+    "timestamp": 1788601038447,
+    "version": "build-2803163510"
+  },
+  "reference-count": 36,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "7595",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2016,
+            3,
+            14
+          ]
+        ],
+        "date-time": "2016-03-14T00:00:00Z",
+        "timestamp": 1457913600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springer.com/tdm"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2016,
+            3,
+            14
+          ]
+        ],
+        "date-time": "2016-03-14T00:00:00Z",
+        "timestamp": 1457913600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nature"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2016,
+        3,
+        24
+      ]
+    ]
+  },
+  "DOI": "10.1038/nature17405",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2016,
+        3,
+        11
+      ]
+    ],
+    "date-time": "2016-03-11T09:44:17Z",
+    "timestamp": 1457689457000
+  },
+  "page": "504-507",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 511,
+  "title": [
+    "Nuclear DNA sequences from the Middle Pleistocene Sima de los Huesos hominins"
+  ],
+  "prefix": "10.1038",
+  "volume": "531",
+  "author": [
+    {
+      "given": "Matthias",
+      "family": "Meyer",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Juan-Luis",
+      "family": "Arsuaga",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Cesare",
+      "family": "de Filippo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sarah",
+      "family": "Nagel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ayinuer",
+      "family": "Aximu-Petri",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Birgit",
+      "family": "Nickel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ignacio",
+      "family": "Martínez",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ana",
+      "family": "Gracia",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "José María Bermúdez",
+      "family": "de Castro",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Eudald",
+      "family": "Carbonell",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Bence",
+      "family": "Viola",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Janet",
+      "family": "Kelso",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Kay",
+      "family": "Prüfer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Svante",
+      "family": "Pääbo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2016,
+        3,
+        14
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "BFnature17405_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "1358",
+      "DOI": "10.1126/science.1253958",
+      "volume": "344",
+      "author": "JL Arsuaga",
+      "year": "2014",
+      "unstructured": "Arsuaga, J. L. et al. Neandertal roots: cranial and chronological evidence from Sima de los Huesos. Science 344, 1358–1363 (2014)",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BFnature17405_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "403",
+      "DOI": "10.1038/nature12788",
+      "volume": "505",
+      "author": "M Meyer",
+      "year": "2014",
+      "unstructured": "Meyer, M. et al. A mitochondrial genome sequence of a hominin from Sima de los Huesos. Nature 505, 403–406 (2014)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature17405_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "1053",
+      "DOI": "10.1038/nature09710",
+      "volume": "468",
+      "author": "D Reich",
+      "year": "2010",
+      "unstructured": "Reich, D. et al. Genetic history of an archaic hominin group from Denisova Cave in Siberia. Nature 468, 1053–1060 (2010)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature17405_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "15696",
+      "DOI": "10.1073/pnas.1519905112",
+      "volume": "112",
+      "author": "S Sawyer",
+      "year": "2015",
+      "unstructured": "Sawyer, S. et al. Nuclear and mitochondrial DNA sequences from two Denisovan individuals. Proc. Natl Acad. Sci. USA 112, 15696–15700 (2015)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature17405_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "2665",
+      "DOI": "10.1093/molbev/msv141",
+      "volume": "32",
+      "author": "P Qin",
+      "year": "2015",
+      "unstructured": "Qin, P. & Stoneking, M. Denisovan ancestry in East Eurasian and Native American populations. Mol. Biol. Evol. 32, 2665–2674 (2015)",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "BFnature17405_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "222",
+      "DOI": "10.1126/science.1224344",
+      "volume": "338",
+      "author": "M Meyer",
+      "year": "2012",
+      "unstructured": "Meyer, M. et al. A high-coverage genome sequence from an archaic Denisovan individual. Science 338, 222–226 (2012)",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BFnature17405_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "43",
+      "DOI": "10.1038/nature12886",
+      "volume": "505",
+      "author": "K Prüfer",
+      "year": "2014",
+      "unstructured": "Prüfer, K. et al. The complete genome sequence of a Neanderthal from the Altai Mountains. Nature 505, 43–49 (2014)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature17405_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "11524",
+      "DOI": "10.1073/pnas.1514828112",
+      "volume": "112",
+      "author": "JL Arsuaga",
+      "year": "2015",
+      "unstructured": "Arsuaga, J. L. et al. Postcranial morphology of the middle Pleistocene humans from Sima de los Huesos, Spain. Proc. Natl Acad. Sci. USA 112, 11524–11529 (2015)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature17405_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "14616",
+      "DOI": "10.1073/pnas.0704665104",
+      "volume": "104",
+      "author": "AW Briggs",
+      "year": "2007",
+      "unstructured": "Briggs, A. W. et al. Patterns of damage in genomic DNA sequences from a Neandertal. Proc. Natl Acad. Sci. USA 104, 14616–14621 (2007)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature17405_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "894",
+      "DOI": "10.1038/nature08976",
+      "volume": "464",
+      "author": "J Krause",
+      "year": "2010",
+      "unstructured": "Krause, J. et al. The complete mitochondrial DNA genome of an unknown hominin from southern Siberia. Nature 464, 894–897 (2010)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature17405_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "e34131",
+      "DOI": "10.1371/journal.pone.0034131",
+      "volume": "7",
+      "author": "S Sawyer",
+      "year": "2012",
+      "unstructured": "Sawyer, S., Krause, J., Guschanski, K., Savolainen, V. & Pääbo, S. Temporal patterns of nucleotide misincorporations and DNA fragmentation in ancient DNA. PLoS ONE 7, e34131 (2012)",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "BFnature17405_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "15758",
+      "DOI": "10.1073/pnas.1314445110",
+      "volume": "110",
+      "author": "J Dabney",
+      "year": "2013",
+      "unstructured": "Dabney, J. et al. Complete mitochondrial genome sequence of a Middle Pleistocene cave bear reconstructed from ultrashort DNA fragments. Proc. Natl Acad. Sci. USA 110, 15758–15763 (2013)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature17405_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "710",
+      "DOI": "10.1126/science.1188021",
+      "volume": "328",
+      "author": "RE Green",
+      "year": "2010",
+      "unstructured": "Green, R. E. et al. A draft sequence of the Neandertal genome. Science 328, 710–722 (2010)",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BFnature17405_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "94",
+      "DOI": "10.1126/science.1211177",
+      "volume": "334",
+      "author": "M Rasmussen",
+      "year": "2011",
+      "unstructured": "Rasmussen, M. et al. An Aboriginal Australian genome reveals separate human dispersals into Asia. Science 334, 94–98 (2011)",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BFnature17405_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "101",
+      "DOI": "10.1002/evan.21311",
+      "volume": "21",
+      "author": "C Stringer",
+      "year": "2012",
+      "unstructured": "Stringer, C. The status of Homo heidelbergensis (Schoetensack 1908). Evol. Anthropol. 21, 101–107 (2012)",
+      "journal-title": "Evol. Anthropol."
+    },
+    {
+      "key": "BFnature17405_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "e7404",
+      "DOI": "10.1371/journal.pone.0007404",
+      "volume": "4",
+      "author": "SJ Lycett",
+      "year": "2009",
+      "unstructured": "Lycett, S. J. Understanding ancient hominin dispersals using artefactual data: a phylogeographic analysis of Acheulean handaxes. PLoS ONE 4, e7404 (2009)",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "BFnature17405_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "137",
+      "DOI": "10.1002/(SICI)1096-8644(1998)107:27+<137::AID-AJPA6>3.0.CO;2-Q",
+      "volume": "41",
+      "author": "MM Lahr",
+      "year": "1998",
+      "unstructured": "Lahr, M. M. & Foley, R. A. Towards a theory of modern human origins: Geography, demography, and diversity in recent human evolution. Yb. Phys. Anthropol . 41, 137–176 (1998)",
+      "journal-title": "Yb. Phys. Anthropol"
+    },
+    {
+      "key": "BFnature17405_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "1511",
+      "DOI": "10.1016/j.quascirev.2009.11.027",
+      "volume": "30",
+      "author": "RW Dennell",
+      "year": "2011",
+      "unstructured": "Dennell, R. W., Martinon-Torres, Bermúdez de Castro, J. M. Hominin variability, climatic instability and population demography in Middle Pleistocene Europe. Quat. Sci. Rev. 30, 1511–1524 (2011)",
+      "journal-title": "Quat. Sci. Rev."
+    },
+    {
+      "key": "BFnature17405_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "e54608",
+      "DOI": "10.1371/journal.pone.0054608",
+      "volume": "8",
+      "author": "WJ Rink",
+      "year": "2013",
+      "unstructured": "Rink, W. J. et al. New radiometric ages for the BH-1 hominin from Balanica (Serbia): implications for understanding the role of the Balkans in Middle Pleistocene human evolution. PLoS ONE 8, e54608 (2013)",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "BFnature17405_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "87",
+      "DOI": "10.2144/000114320",
+      "volume": "59",
+      "author": "P Korlevic´",
+      "year": "2015",
+      "unstructured": "Korlevic´, P. et al. Reducing microbial and human contamination in DNA extractions from ancient bones and teeth. Biotechniques 59, 87–93 (2015)",
+      "journal-title": "Biotechniques"
+    },
+    {
+      "key": "BFnature17405_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "737",
+      "DOI": "10.1038/nprot.2013.038",
+      "volume": "8",
+      "author": "MT Gansauge",
+      "year": "2013",
+      "unstructured": "Gansauge, M. T. & Meyer, M. Single-stranded DNA library preparation for the sequencing of ancient or damaged DNA. Nature Protocols 8, 737–748 (2013)",
+      "journal-title": "Nature Protocols"
+    },
+    {
+      "key": "BFnature17405_CR22",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Slon, V., Glocke, I., Barkai, R., Gopher, A., Hershkovitz, I. & Meyer, M. Mammalian mitochondrial capture, a tool for rapid screening of DNA preservation in faunal and undiagnostic remains, and its application to Middle Pleistocene specimens from Qesem Cave (Israel). Quat. Int. http://dx.doi.org/10.1016/j.quaint.2015.03.039 (2015)",
+      "DOI": "10.1016/j.quaint.2015.03.039"
+    },
+    {
+      "key": "BFnature17405_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "e3",
+      "DOI": "10.1093/nar/gkr771",
+      "volume": "40",
+      "author": "M Kircher",
+      "year": "2012",
+      "unstructured": "Kircher, M., Sawyer, S. & Meyer, M. Double indexing overcomes inaccuracies in multiplex sequencing on the Illumina platform. Nucleic Acids Res. 40, e3 (2012)",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "BFnature17405_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "87",
+      "DOI": "10.2144/000113809",
+      "volume": "52",
+      "author": "J Dabney",
+      "year": "2012",
+      "unstructured": "Dabney, J. & Meyer, M. Length and GC-biases during sequencing library amplification: a comparison of various polymerase-buffer systems with ancient and modern DNA sequencing libraries. Biotechniques 52, 87–94 (2012)",
+      "journal-title": "Biotechniques"
+    },
+    {
+      "key": "BFnature17405_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "e14004",
+      "DOI": "10.1371/journal.pone.0014004",
+      "volume": "5",
+      "author": "T Maricic",
+      "year": "2010",
+      "unstructured": "Maricic, T., Whitten, M. & Pääbo, S. Multiplexed DNA sequence capture of mitochondrial genomes using PCR products. PLoS ONE 5, e14004 (2010)",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "BFnature17405_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "2223",
+      "DOI": "10.1073/pnas.1221359110",
+      "volume": "110",
+      "author": "Q Fu",
+      "year": "2013",
+      "unstructured": "Fu, Q. et al. DNA analysis of an early modern human from Tianyuan Cave, China. Proc. Natl Acad. Sci. USA 110, 2223–2227 (2013)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature17405_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "1208",
+      "DOI": "10.1093/bioinformatics/btt117",
+      "volume": "29",
+      "author": "G Renaud",
+      "year": "2013",
+      "unstructured": "Renaud, G., Kircher, M., Stenzel, U. & Kelso, J. freeIbis: an efficient basecaller with calibrated quality scores for Illumina sequencers. Bioinformatics 29, 1208–1209 (2013)",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "BFnature17405_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "e141",
+      "DOI": "10.1093/nar/gku699",
+      "volume": "42",
+      "author": "G Renaud",
+      "year": "2014",
+      "unstructured": "Renaud, G., Stenzel, U. & Kelso, J. leeHom: adaptor trimming and merging for Illumina sequencing reads. Nucleic Acids Res. 42, e141 (2014)",
+      "journal-title": "Nucleic Acids Res."
+    },
+    {
+      "key": "BFnature17405_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "1754",
+      "DOI": "10.1093/bioinformatics/btp324",
+      "volume": "25",
+      "author": "H Li",
+      "year": "2009",
+      "unstructured": "Li, H. & Durbin, R. Fast and accurate short read alignment with Burrows-Wheeler transform. Bioinformatics 25, 1754–1760 (2009)",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "BFnature17405_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "416",
+      "DOI": "10.1016/j.cell.2008.06.021",
+      "volume": "134",
+      "author": "RE Green",
+      "year": "2008",
+      "unstructured": "Green, R. E. et al. A complete Neandertal mitochondrial genome sequence determined by high-throughput sequencing. Cell 134, 416–426 (2008)",
+      "journal-title": "Cell"
+    },
+    {
+      "key": "BFnature17405_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "318",
+      "DOI": "10.1126/science.1174462",
+      "volume": "325",
+      "author": "AW Briggs",
+      "year": "2009",
+      "unstructured": "Briggs, A. W. et al. Targeted retrieval and analysis of five Neandertal mtDNA genomes. Science 325, 318–321 (2009)",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BFnature17405_CR32",
+      "doi-asserted-by": "publisher",
+      "first-page": "1543",
+      "DOI": "10.1101/gr.174201.114",
+      "volume": "24",
+      "author": "MT Gansauge",
+      "year": "2014",
+      "unstructured": "Gansauge, M. T. & Meyer, M. Selective enrichment of damaged DNA molecules for ancient genome sequencing. Genome Res. 24, 1543–1549 (2014)",
+      "journal-title": "Genome Res."
+    },
+    {
+      "key": "BFnature17405_CR33",
+      "doi-asserted-by": "publisher",
+      "first-page": "2229",
+      "DOI": "10.1073/pnas.1318934111",
+      "volume": "111",
+      "author": "P Skoglund",
+      "year": "2014",
+      "unstructured": "Skoglund, P. et al. Separating endogenous ancient DNA from modern day contamination in a Siberian Neandertal. Proc. Natl Acad. Sci. USA 111, 2229–2234 (2014)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature17405_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "32",
+      "DOI": "10.1007/BF00160258",
+      "volume": "35",
+      "author": "S Horai",
+      "year": "1992",
+      "unstructured": "Horai, S. et al. Man’s place in Hominoidea revealed by mitochondrial DNA genealogy. J. Mol. Evol. 35, 32–43 (1992)",
+      "journal-title": "J. Mol. Evol."
+    },
+    {
+      "key": "BFnature17405_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "772",
+      "DOI": "10.1093/molbev/mst010",
+      "volume": "30",
+      "author": "K Katoh",
+      "year": "2013",
+      "unstructured": "Katoh, K. & Standley, D. M. MAFFT multiple sequence alignment software version 7: improvements in performance and usability. Mol. Biol. Evol. 30, 772–780 (2013)",
+      "journal-title": "Mol. Biol. Evol."
+    },
+    {
+      "key": "BFnature17405_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "445",
+      "DOI": "10.1038/nature13810",
+      "volume": "514",
+      "author": "Q Fu",
+      "year": "2014",
+      "unstructured": "Fu, Q. et al. Genome sequence of a 45,000-year-old modern human from western Siberia. Nature 514, 445–449 (2014)",
+      "journal-title": "Nature"
+    }
+  ],
+  "container-title": [
+    "Nature"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://www.nature.com/articles/nature17405.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://www.nature.com/articles/nature17405",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://www.nature.com/articles/nature17405.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        18
+      ]
+    ],
+    "date-time": "2023-05-18T13:51:00Z",
+    "timestamp": 1684417860000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/nature17405"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        3,
+        14
+      ]
+    ]
+  },
+  "references-count": 36,
+  "journal-issue": {
+    "issue": "7595",
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          24
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "BFnature17405"
+  ],
+  "URL": "https://doi.org/10.1038/nature17405",
+  "relation": {},
+  "ISSN": [
+    "0028-0836",
+    "1476-4687"
+  ],
+  "issn-type": [
+    {
+      "value": "0028-0836",
+      "type": "print"
+    },
+    {
+      "value": "1476-4687",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2016,
+        3,
+        14
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "16 September 2015",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "2 February 2016",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "14 March 2016",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing financial interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ]
+}
