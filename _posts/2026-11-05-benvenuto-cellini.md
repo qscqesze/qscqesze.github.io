@@ -410,7 +410,51 @@ tags:
 
 曾被他仔细解释过的右脚，已经成为那具可以长久承重的身体的一部分。经过浇铸、补做和多年修整，作品终于能够离开工场，承受观看与时间。围绕它的许诺、付款、病痛和争吵没有一起凝固进青铜，留在纸上的请求和叙述里，成为雕像背面仍可追索的生活。
 
-## 资料与注释
+<!-- biography-body-end -->
+
+## 简明年表
+
+| 年份 | 事件 |
+|---|---|
+| 1500 | 11月3日生于佛罗伦萨。 |
+| 1510年代 | 学金工与音乐，先后在锡耶纳、博洛尼亚、比萨等地工作。 |
+| 1520年代 | 在罗马制作金银器，并在教皇乐队演奏。 |
+| 1527 | 罗马遭劫，参加圣天使堡防卫。 |
+| 1534 | 为克莱孟七世制作纪念章；庞佩奥凶案。 |
+| 1538—1539 | 珠宝案囚禁、逃脱、再囚，1539年末获释。 |
+| 1540—1545 | 在法国为弗朗索瓦一世服务。 |
+| 1543 | 盐器完成。 |
+| 1545 | 返回佛罗伦萨，承接珀尔修斯。 |
+| 1554 | 珀尔修斯公开展示。 |
+| 1556—1557 | 两起不同案件带来司法处分。 |
+| 1558起 | 写作《自传》，叙事止于1562年的行程。 |
+| 1565 | 致卡奇尼信，安排海神模型迁移并提出改作朱庇特。 |
+| 1568 | 两部技术论著印行。 |
+| 1571 | 2月13日去世，安葬于圣母领报大殿。 |
+| 1576 | 基督像由美第奇赠给腓力二世，送往埃斯科里亚尔。 |
+
+## 史料与版本说明
+
+切利尼留下的《自传》提供了大量工场、交易与人际冲突的过程，但同时是一部辩护书。正文中的长段事件如主要据其自述，保留归属，不把其中的对话、异象、揣测和受欢迎程度当作独立确认的事实。技术论著与自传互相补充，却同属一位作者，不能因此计为独立互证。现存作品、馆藏编目、修复检查、司法研究与存世书信各自核对不同问题；物件的保存不能为围绕它讲述的一切言行担保。
+
+两种英译本不是同期逐字记录。Symonds旧译注对艺术家、民族和女性的评价未照收。Ashbee在1898年译本导言中说明，其底本接续Milanesi整理的手稿系统，不等同于1568年经润饰的初印文本。工艺术语作概括说明，不把16世纪操作解释冒充现代实验验证。不同币种不换算购买力，估值也不当作实收款。
+
+晚年婚年在旧传与后出研究中不尽一致：Camesasca区分1562秘密婚姻与1567正式仪式，旧英译补记则将结婚置于另一年份。正文不据单一旧说落到某一日。《自传》初版传统系于1728年；Gallucci与Rossi编2004年论文集所附初版图版说明为“传统称1728，实为那不勒斯1730”。本篇不将争议年份写成确定年款。旧式佛罗伦萨历与新式历法的卒年差异，也与误记月份不是同一问题。
+
+六幅配图均为1898年书中刊印的历史图版，其中技术示意属于后世说明，作品图也不代表今日陈列状态；未使用生成图。完整来源、原图地址、机构核对及公版依据见图像许可表。
+
+## 主要书目及资料
+
+- Benvenuto Cellini，*The Life of Benvenuto Cellini*，John Addington Symonds英译，London: John C. Nimmo，1888；本文依卷、节定位，[Project Gutenberg全文](https://www.gutenberg.org/cache/epub/4028/pg4028-images.html)。晚年补记另见[Wikisource公开本](https://en.wikisource.org/wiki/The_Life_of_Benvenuto_Cellini/Notes)。旧译注的论断另行甄别。
+- Benvenuto Cellini，*The Treatises of Benvenuto Cellini on Goldsmithing and Sculpture*，C. R. Ashbee英译，London: Edward Arnold，1898。[公开全文及原版页码](https://www.gutenberg.org/cache/epub/72995/pg72995-images.html)。主要阅读作者导言、金工第14及25章、雕塑第2—3章相关段落。
+- Ettore Camesasca，“Cellini, Benvenuto”，*Dizionario Biografico degli Italiani*，vol.23，Roma: Istituto della Enciclopedia Italiana，1979。[条目](https://www.treccani.it/enciclopedia/benvenuto-cellini_(Dizionario-Biografico)/)。用于年序及版本问题，不代替原始叙述。
+- Michael W. Cole，*Cellini and the Principles of Sculpture*，Cambridge University Press，2002。[出版社试读](https://assets.cambridge.org/97805218/13211/sample/9780521813211ws.pdf)。实际阅读导论第1—7页，未宣称通读全书。
+- Margaret A. Gallucci，*Benvenuto Cellini: Sexuality, Masculinity, and Artistic Identity in Renaissance Italy*，New York: Palgrave Macmillan，2003，章“Criminal Acts and Literary Practice”，第23—43页。[章节公开摘要](https://www.researchgate.net/publication/313006569_Criminal_Acts_and_Literary_Practice)。本次阅读范围为摘要及其中的判决引文，未取得全章。
+- Diletta Gamberini，“Una silloge d’autore e un autocommento di Benvenuto Cellini”，*Studi di filologia italiana*，70（2012），第183—259页。[大学书目与摘要](https://flore.unifi.it/handle/2158/648097)。本次仅阅读摘要。
+- Margaret A. Gallucci、Paolo L. Rossi编，*Benvenuto Cellini: Sculptor, Goldsmith, Writer*，Cambridge University Press，2004。[出版信息、图版说明及导论试读](https://assets.cambridge.org/97805218/16618/sample/9780521816618ws.pdf)。本文采用初版图版的版本说明，未宣称读过未开放的各章。
+- Benvenuto Cellini，致Giovanni Caccini，1565年11月27日，Newberry Library，VAULT Case MS 5A56。[意大利文转录](https://italian.newberry.t-pen.org/transcription/036)。
+
+## 注释
 
 [^1]: 切利尼《自传》，John Addington Symonds英译，卷二第74节。原文经Project Gutenberg公开整理：<https://www.gutenberg.org/cache/epub/4028/pg4028-images.html> 。此处为本人事后叙述，不把对话作现场记录。
 
@@ -454,7 +498,7 @@ tags:
 
 [^21]: 同书，卷一第24节。
 
-[^22]: 同书，卷一第24节后半，已接读至付款、收据。原文的排外辱语不照引，也不替作者辩解为当代事实。
+[^22]: 同书，卷一第24节后半，付款、收据段。原文的排外辱语不照引，也不替作者辩解为当代事实。
 
 [^23]: 同书，卷一第34节。
 
@@ -462,7 +506,7 @@ tags:
 
 [^25]: 同书，第34—37节。防守成效、击杀数及本人不可替代性的说法均未独立证实，正文不用确切战果。
 
-[^26]: 同书，第38—39节，仍须与1538—1539案材料对读。熔金重量不采用。
+[^26]: 同书，第38—39节。经手财物的经历与后来侵占指控区别处理，熔金重量不采用。
 
 [^27]: 同书，第39节。
 
@@ -563,47 +607,3 @@ tags:
 [^75]: Camesasca，1979传记条目，皮耶拉、孩子与婚姻；Symonds，“Notes on the Life of Benvenuto Cellini after the Year 1562”，见<https://en.wikisource.org/wiki/The_Life_of_Benvenuto_Cellini/Notes> 。后者旧婚年说不采用，也不把皮耶拉与铸像时的无名照料者直接等同。
 
 [^76]: 同上两种资料，遗嘱、1571年2月13日死亡及领报大殿安葬。旧佛罗伦萨历以3月起年，因此1570旧式与1571新式可同指一个日期；不能据旧译另一导言的May 13写成5月。
-
-
-## 简明年表
-
-| 年份 | 事件 |
-|---|---|
-| 1500 | 11月3日生于佛罗伦萨。 |
-| 1510年代 | 学金工与音乐，先后在锡耶纳、博洛尼亚、比萨等地工作。 |
-| 1520年代 | 在罗马制作金银器，并在教皇乐队演奏。 |
-| 1527 | 罗马遭劫，参加圣天使堡防卫。 |
-| 1534 | 为克莱孟七世制作纪念章；庞佩奥凶案。 |
-| 1538—1539 | 珠宝案囚禁、逃脱、再囚，1539年末获释。 |
-| 1540—1545 | 在法国为弗朗索瓦一世服务。 |
-| 1543 | 盐器完成。 |
-| 1545 | 返回佛罗伦萨，承接珀尔修斯。 |
-| 1554 | 珀尔修斯公开展示。 |
-| 1556—1557 | 两起不同案件带来司法处分。 |
-| 1558起 | 写作《自传》，叙事止于1562年的行程。 |
-| 1565 | 致卡奇尼信，安排海神模型迁移并提出改作朱庇特。 |
-| 1568 | 两部技术论著印行。 |
-| 1571 | 2月13日去世，安葬于圣母领报大殿。 |
-| 1576 | 基督像由美第奇赠给腓力二世，送往埃斯科里亚尔。 |
-
-## 史料与版本说明
-
-切利尼留下的《自传》提供了大量工场、交易与人际冲突的过程，但同时是一部辩护书。正文中的长段事件如主要据其自述，保留归属，不把其中的对话、异象、揣测和受欢迎程度当作独立确认的事实。技术论著与自传互相补充，却同属一位作者，不能因此计为独立互证。现存作品、馆藏编目、修复检查、司法研究与存世书信各自核对不同问题；物件的保存不能为围绕它讲述的一切言行担保。
-
-两种英译本不是同期逐字记录。Symonds旧译注对艺术家、民族和女性的评价未照收。Ashbee在1898年译本导言中说明，其底本接续Milanesi整理的手稿系统，不等同于1568年经润饰的初印文本。工艺术语作概括说明，不把16世纪操作解释冒充现代实验验证。不同币种不换算购买力，估值也不当作实收款。
-
-晚年婚年在旧传与后出研究中不尽一致：Camesasca区分1562秘密婚姻与1567正式仪式，旧英译补记则将结婚置于另一年份。正文不据单一旧说落到某一日。《自传》初版传统系于1728年；Gallucci与Rossi编2004年论文集所附初版图版说明为“传统称1728，实为那不勒斯1730”。本篇不将争议年份写成确定年款。旧式佛罗伦萨历与新式历法的卒年差异，也与误记月份不是同一问题。
-
-六幅配图均为1898年书中刊印的历史图版，其中技术示意属于后世说明，作品图也不代表今日陈列状态；未使用生成图。完整来源、原图地址、机构核对及公版依据见图像许可表。
-
-## 主要书目及资料
-
-- Benvenuto Cellini，*The Life of Benvenuto Cellini*，John Addington Symonds英译，London: John C. Nimmo，1888；本文依卷、节定位，[Project Gutenberg全文](https://www.gutenberg.org/cache/epub/4028/pg4028-images.html)。晚年补记另见[Wikisource公开本](https://en.wikisource.org/wiki/The_Life_of_Benvenuto_Cellini/Notes)。旧译注的论断另行甄别。
-- Benvenuto Cellini，*The Treatises of Benvenuto Cellini on Goldsmithing and Sculpture*，C. R. Ashbee英译，London: Edward Arnold，1898。[公开全文及原版页码](https://www.gutenberg.org/cache/epub/72995/pg72995-images.html)。主要阅读作者导言、金工第14及25章、雕塑第2—3章相关段落。
-- Ettore Camesasca，“Cellini, Benvenuto”，*Dizionario Biografico degli Italiani*，vol.23，Roma: Istituto della Enciclopedia Italiana，1979。[条目](https://www.treccani.it/enciclopedia/benvenuto-cellini_(Dizionario-Biografico)/)。用于年序及版本问题，不代替原始叙述。
-- Michael W. Cole，*Cellini and the Principles of Sculpture*，Cambridge University Press，2002。[出版社试读](https://assets.cambridge.org/97805218/13211/sample/9780521813211ws.pdf)。实际阅读导论第1—7页，未宣称通读全书。
-- Margaret A. Gallucci，*Benvenuto Cellini: Sexuality, Masculinity, and Artistic Identity in Renaissance Italy*，New York: Palgrave Macmillan，2003，章“Criminal Acts and Literary Practice”，第23—43页。[章节公开摘要](https://www.researchgate.net/publication/313006569_Criminal_Acts_and_Literary_Practice)。本次阅读范围为摘要及其中的判决引文，未取得全章。
-- Diletta Gamberini，“Una silloge d’autore e un autocommento di Benvenuto Cellini”，*Studi di filologia italiana*，70（2012），第183—259页。[大学书目与摘要](https://flore.unifi.it/handle/2158/648097)。本次仅阅读摘要。
-- Margaret A. Gallucci、Paolo L. Rossi编，*Benvenuto Cellini: Sculptor, Goldsmith, Writer*，Cambridge University Press，2004。[出版信息、图版说明及导论试读](https://assets.cambridge.org/97805218/16618/sample/9780521816618ws.pdf)。本文采用初版图版的版本说明，未宣称读过未开放的各章。
-- Benvenuto Cellini，致Giovanni Caccini，1565年11月27日，Newberry Library，VAULT Case MS 5A56。[意大利文转录](https://italian.newberry.t-pen.org/transcription/036)。
-
