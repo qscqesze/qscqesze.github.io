@@ -46,3 +46,5 @@ Git传输先按AGENTS尝试SSH，因github.com DNS失败；没有换origin，没
 ## 2026-11-05最新恢复入口（优先于上面历史检查点）
 
 已继续同一人物，完整稿正文18740汉字、六幅本地图版、76条连续注释。正式文章：`_posts/2026-11-05-benvenuto-cellini.md`；归档草稿仍published:false。已完成两轮具体修改，见audit-2026-11-05.md。图像见images.md及images/cellini-2026-11/LICENSE.md。发表状态以progress.json的部署和公开页检查为准；未成功前不能仅以文件存在认定发布。旧三篇completed状态不动。
+
+完成：2026-11-05。最终排版提交e420d445，Pages 41948807181、41948806544成功；公开页末注标题修正已复核。下一次可研究新人物，不再续写本篇。

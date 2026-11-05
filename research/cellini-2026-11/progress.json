@@ -40,8 +40,10 @@
   "published_commit": "48e2a12ab1b85f21660ffa683f1c1be49f63d017",
   "deployment": {
     "status": "success",
-    "run_id": 41948294057,
-    "secondary_run_id": 41948292803,
+    "run_id": 41948807181,
+    "secondary_run_id": 41948806544,
+    "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/41948807181",
+    "deployed_commit": "e420d445f26faa013ea79a4c4f20af6f08e8e2ab",
     "verified_date": "2026-11-05"
   },
   "public_page_check": {
@@ -52,11 +54,13 @@
     "horizontal_overflow": false,
     "viewport_css_px": 1363,
     "mobile_image_sizing": "inline max-width 100%, proportional height; browser does not expose viewport resizing; no device emulation claimed",
-    "verified_date": "2026-11-05"
+    "verified_date": "2026-11-05",
+    "final_endnote_heading": "Verified on deployed page after final layout commit"
   },
   "build_checks": {
     "pytest": "5 passed",
     "jekyll": "success",
     "site_links": "162 HTML files passed"
-  }
+  },
+  "layout_commit": "e420d445f26faa013ea79a4c4f20af6f08e8e2ab"
 }
