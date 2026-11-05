@@ -8,7 +8,7 @@ from pathlib import Path
 def count(path):
     source = Path(path).read_text()
     body = re.sub(r"\A---\s*\n.*?\n---\s*\n", "", source, count=1, flags=re.S)
-    body = body.split("## 主要资料与工作注释", 1)[0]
+    body = re.split(r"^## (?:主要资料与工作注释|资料与注释)", body, maxsplit=1, flags=re.M)[0]
     body = re.sub(r"<figure\b.*?</figure>", "", body, flags=re.S)
     body = "\n".join(line for line in body.splitlines()
                      if not line.lstrip().startswith(("#", "**文", "![", "[^")))

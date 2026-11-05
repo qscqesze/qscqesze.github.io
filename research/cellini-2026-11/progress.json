@@ -1,33 +1,29 @@
 {
   "person": "Benvenuto Cellini 切利尼",
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "draft": "_drafts/2026-11-04-benvenuto-cellini.md",
-  "status": "incomplete_draft",
+  "status": "publication_validation_pending",
   "completed": false,
   "published": false,
-  "body_hanzi": 7149,
+  "body_hanzi": 18740,
   "target_hanzi_min": 18000,
   "target_hanzi_max": 22000,
-  "remaining_to_minimum": 10851,
-  "images": 0,
-  "footnotes": 31,
-  "fact_review": "preliminary checks only; full independent review pending",
-  "language_review": "initial drafting only; full structural and paragraph review pending",
+  "remaining_to_minimum": 0,
+  "images": 6,
+  "footnotes": 76,
+  "fact_review": "completed; concrete corrections in audit-2026-11-05.md",
+  "language_review": "completed; structural and paragraph edits in audit-2026-11-05.md",
   "checks": {
     "author": "qscqesze",
     "draft_published_false": true,
-    "formal_post_created": false,
+    "formal_post_created": true,
     "continuous_notes": true,
     "narrative_count_excludes_front_matter_headings_author_notes": true
   },
   "blocking_gaps": [
-    "Complete 1529 onward: coins, killings, imprisonment and French court commissions",
-    "Expand return to Florence, Perseus, later works, criminal cases, family and final years",
-    "Independent corroboration and chronology, including death and marriage date conflicts",
-    "6-10 verified historical images; currently one licence-reviewed candidate, none adopted",
-    "18,000-22,000 narrative Han, two full editorial reviews and publication checks"
+    "Remote Jekyll build, repository link check, Pages deployment and public browser QA pending"
   ],
-  "next_action": "Continue THIS draft, starting with primary sources on 1529-1545 and independent records. Do not choose another person or publish this incomplete text.",
+  "next_action": "Verify this publication, then resume new biography research only after success.",
   "resume": "research/cellini-2026-11/README.md",
   "repository_repair": {
     "removed_site_commit": "197f367227a419560d27af71d4cf72b11ecf852c",
@@ -35,7 +31,12 @@
     "category_fix_commit": "723b7ede187aa73eea3ba7aad46cf09a72fde44e",
     "retained_kursk_blob_before_metadata_fix": "1360d6bc215918528500006cd53d0c67432db584",
     "deployment": "success",
-    "successful_workflows": [41751603638, 41751602275],
+    "successful_workflows": [
+      41751603638,
+      41751602275
+    ],
     "wallace_public_url_http_status": 200
-  }
+  },
+  "post": "_posts/2026-11-05-benvenuto-cellini.md",
+  "article_url": "https://qscqesze.github.io/posts/benvenuto-cellini/"
 }
