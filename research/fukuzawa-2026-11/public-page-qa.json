@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-06",
+  "url": "https://qscqesze.github.io/posts/fukuzawa-yukichi/",
+  "title": "福泽谕吉：书、学费与独立 - qscqesze",
+  "http_status": 200,
+  "browser": "public page inspected",
+  "images_loaded": 6,
+  "footnote_targets": 75,
+  "missing_targets": 0,
+  "missing_backlinks": 0,
+  "final_note": {
+    "hash": "#fn:75",
+    "top_px": 70.46875,
+    "viewport_height": 936
+  },
+  "viewport_width": 1363,
+  "document_scroll_width": 1348,
+  "rendered_image_dimensions": [
+    [
+      548.15625,
+      719.984375
+    ],
+    [
+      550,
+      389
+    ],
+    [
+      512,
+      672
+    ],
+    [
+      853,
+      692.75
+    ],
+    [
+      720,
+      720
+    ],
+    [
+      467,
+      631
+    ]
+  ],
+  "mobile_validation": "responsive image constraints statically verified; no separate emulated mobile viewport"
+}

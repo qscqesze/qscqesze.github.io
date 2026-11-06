@@ -1,6 +1,6 @@
 {
   "person": "福泽谕吉",
-  "status": "awaiting_deployment",
+  "status": "completed",
   "source": "_posts/2026-11-06-fukuzawa-yukichi.md",
   "draft": "_drafts/2026-11-06-fukuzawa-yukichi.md",
   "article_url": "https://qscqesze.github.io/posts/fukuzawa-yukichi/",
@@ -14,7 +14,28 @@
   "fact_review": "completed; concrete corrections in audit-2026-11-06.md",
   "language_review": "completed; concrete edits in audit-2026-11-06.md",
   "deployment": {
-    "status": "pending"
+    "status": "success",
+    "run_ids": [
+      42145560271,
+      42145560740
+    ],
+    "urls": [
+      "https://github.com/qscqesze/qscqesze.github.io/actions/runs/42145560271",
+      "https://github.com/qscqesze/qscqesze.github.io/actions/runs/42145560740"
+    ],
+    "verified_date": "2026-11-06"
   },
-  "published_commit": null
+  "published_commit": "8695376435eab61fe136e4c13ea7908ffe45d150",
+  "completed_date": "2026-11-06",
+  "checks": {
+    "pytest": "5 passed",
+    "jekyll": "success",
+    "site_validation": "passed for 164 HTML files",
+    "external_sources": "19 URLs HTTP 200",
+    "public_page": "HTTP 200; title and author verified",
+    "images": "6 loaded; proportional dimensions; 6 blob hashes match local bytes",
+    "footnotes": "75 targets, 0 missing forward targets, 0 missing backlinks; final note click verified",
+    "viewport": "1363 CSS pixels; document scrollWidth 1348; no horizontal overflow",
+    "mobile_images": "static constraints checked: all six max-width:100%, height:auto, no fixed minimum width; no separate device emulation"
+  }
 }

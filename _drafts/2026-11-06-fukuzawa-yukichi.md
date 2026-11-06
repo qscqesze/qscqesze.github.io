@@ -2,7 +2,7 @@
 title: "研究草稿：福泽谕吉的书、学费与独立"
 author: qscqesze
 published: false
-revision_status: awaiting_deployment
+revision_status: completed_archival_copy
 translate: false
 categories:
   - 历史与社会
