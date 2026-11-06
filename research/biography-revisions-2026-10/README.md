@@ -4,6 +4,9 @@
 
 ## 当前状态
 
+**2026-11-06：福泽谕吉篇已完成合稿与两轮审读，正文18,319汉字、六图、75注，正在提交与部署核验。** [研究与恢复入口](../fukuzawa-2026-11/README.md)，[真实进度](../fukuzawa-2026-11/progress.json)。未确认部署前不标completed，不另开新人物。
+
+
 **当前完成（2026-11-05）：切利尼篇已[发布](https://qscqesze.github.io/posts/benvenuto-cellini/)。** 正文18,740汉字、六幅本地历史图版、76条连续注释，署名qscqesze。发布提交48e2a12ab1b85f21660ffa683f1c1be49f63d017，Pages工作流41948294057与41948292803均成功；公开页六图加载、76注目标完整。详见[审读](../cellini-2026-11/audit-2026-11-05.md)和[进度](../cellini-2026-11/progress.json)。最终排版提交e420d445的部署41948807181、41948806544亦成功，末注标题已公开复核。原三篇completed记录保留。下次恢复新人物研究，不重复发表本篇。
 
 **当前完成（2026-11-03）：华莱士篇已[发布](https://qscqesze.github.io/posts/alfred-russel-wallace/)。** 正文18,268汉字、六幅历史图像、70条连续注释，署名qscqesze。发布提交`cc1ce6d24f048f11d15bc25a7deb7752b52dc7f7`，Pages工作流41560088500与41560087653均成功；公开页六图加载、70条注释目标完整。详见[审读](../alfred-russel-wallace-2026-11/audit-2026-11-03.md)与[进度](../alfred-russel-wallace-2026-11/progress.json)。下次恢复新人物研究，不重复发布本篇。

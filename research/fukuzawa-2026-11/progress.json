@@ -1,0 +1,20 @@
+{
+  "person": "福泽谕吉",
+  "status": "awaiting_deployment",
+  "source": "_posts/2026-11-06-fukuzawa-yukichi.md",
+  "draft": "_drafts/2026-11-06-fukuzawa-yukichi.md",
+  "article_url": "https://qscqesze.github.io/posts/fukuzawa-yukichi/",
+  "updated_date": "2026-11-06",
+  "body_hanzi": 18319,
+  "images": 6,
+  "footnotes": 75,
+  "target_hanzi_min": 18000,
+  "target_hanzi_max": 22000,
+  "count_method": "research/fukuzawa-2026-11/count_body.py; exclude front matter, headings, signature, figures and everything after biography-body-end marker",
+  "fact_review": "completed; concrete corrections in audit-2026-11-06.md",
+  "language_review": "completed; concrete edits in audit-2026-11-06.md",
+  "deployment": {
+    "status": "pending"
+  },
+  "published_commit": null
+}
