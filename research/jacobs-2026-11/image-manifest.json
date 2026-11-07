@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01-portrait",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gilbert_Studios_photograph_of_Harriet_Jacobs_-_Original.jpg/960px-Gilbert_Studios_photograph_of_Harriet_Jacobs_-_Original.jpg",
+    "width": 960,
+    "height": 1461,
+    "alt": "雅各布斯1894年肖像",
+    "caption": "Gilbert Studios（C. M. Gilbert），华盛顿，1894年。公版；采用原件的缩略尺寸，未用修复图。",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Gilbert_Studios_photograph_of_Harriet_Jacobs_-_Original.jpg",
+    "local_copy": false
+  },
+  {
+    "id": "02-advertisement",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ad-capture_of_Harriet_Jacobs.jpg",
+    "width": 710,
+    "height": 1050,
+    "alt": "1835年詹姆斯诺科姆追捕雅各布斯的广告",
+    "caption": "诺科姆署1835年6月30日的广告，7月4日刊于《美国灯塔报》。北卡罗来纳州档案馆N_87_10_3；机构标明无已知版权限制。",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ad-capture_of_Harriet_Jacobs.jpg",
+    "local_copy": false
+  },
+  {
+    "id": "03-titlepage",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/IncidentsInTheLifeOfASlaveGirl.jpg",
+    "width": 355,
+    "height": 575,
+    "alt": "1861年自传初版书名页",
+    "caption": "1861年波士顿初版书名页，署“由她本人写成”、蔡尔德编辑及“为作者出版”。北卡罗来纳大学DocSouth数字本；公版。",
+    "source_page": "https://commons.wikimedia.org/wiki/File:IncidentsInTheLifeOfASlaveGirl.jpg",
+    "local_copy": false
+  },
+  {
+    "id": "04-school",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Jacobs_Free_School%2C_founded_by_Harriet_Jacobs_-_Original.jpg/1280px-Jacobs_Free_School%2C_founded_by_Harriet_Jacobs_-_Original.jpg",
+    "width": 1280,
+    "height": 954,
+    "alt": "1864年雅各布斯学校师生合影",
+    "caption": "1864年亚历山德里亚学校合影，摄影者不详；X标记雅各布斯。Emory University，Robert Langmuir African American Photograph Collection；公版，原件缩略图。",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Jacobs_Free_School,_founded_by_Harriet_Jacobs_-_Original.jpg",
+    "local_copy": false
+  },
+  {
+    "id": "05-boardinghouse",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/HarrietJacobsHouse-Cambridge.jpg",
+    "width": 2048,
+    "height": 1536,
+    "alt": "雅各布斯在剑桥经营寄宿屋的建筑2008年照片",
+    "caption": "剑桥奥本山街与Story街街角的原寄宿屋，2008年9月现状，非十九世纪照片。Midnightdreary摄；CC BY-SA 3.0，未裁切。",
+    "source_page": "https://commons.wikimedia.org/wiki/File:HarrietJacobsHouse-Cambridge.jpg",
+    "local_copy": false
+  },
+  {
+    "id": "06-grave",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/HarrietJacobsGrave.jpg",
+    "width": 1536,
+    "height": 2048,
+    "alt": "雅各布斯墓碑2008年照片",
+    "caption": "奥本山公墓墓碑，2008年7月现状。Midnightdreary摄；CC BY-SA 3.0，未裁切。碑刻生年1815与正文据档案采用的1813不同。",
+    "source_page": "https://commons.wikimedia.org/wiki/File:HarrietJacobsGrave.jpg",
+    "local_copy": false
+  }
+]
