@@ -3,9 +3,9 @@
   "date": "2026-11-07",
   "source": "_posts/2026-11-07-harriet-jacobs.md",
   "article_url": "https://qscqesze.github.io/posts/harriet-jacobs/",
-  "status": "pending_deployment",
-  "completed": false,
-  "body_hanzi": 18333,
+  "status": "completed",
+  "completed": true,
+  "body_hanzi": 18275,
   "images": 6,
   "historical_original_images": 4,
   "modern_site_photographs": 2,
@@ -13,12 +13,45 @@
   "footnotes": 61,
   "target_hanzi_min": 18000,
   "target_hanzi_max": 22000,
-  "count_excludes": ["front matter", "headings", "signature", "figure captions", "timeline", "notes", "source appendices"],
+  "count_excludes": [
+    "front matter",
+    "headings",
+    "signature",
+    "figure captions",
+    "timeline",
+    "notes",
+    "source appendices"
+  ],
   "fact_review": "editorial-review.md",
   "language_review": "editorial-review.md",
   "image_manifest": "image-manifest.json",
   "image_limit": "Terminal download returned HTTP403; six legitimate external images visually checked in browser; portrait and school use provided thumbnails.",
-  "local_validation": {"body_count": "passed", "footnote_references": "61/61 matched", "figure_count": "passed", "pytest": "unavailable locally", "jekyll": "unavailable locally; use repository CI"},
-  "published_commit": null,
-  "deployment": {"status": "pending"}
+  "local_validation": {
+    "body_count": "passed",
+    "footnote_references": "61/61 matched",
+    "figure_count": "passed",
+    "pytest": "unavailable locally",
+    "jekyll": "unavailable locally; use repository CI"
+  },
+  "published_commit": "7ce9c04c8c4394bc6d6d76af66a7ffe99d0d8d07",
+  "deployment": {
+    "status": "success",
+    "run_ids": [
+      42324467312,
+      42324466277
+    ],
+    "build_tests": "5 passed",
+    "site_html_files": 166,
+    "verified_date": "2026-11-07"
+  },
+  "public_page_validation": {
+    "images_loaded": 6,
+    "footnote_targets": 61,
+    "missing_footnote_targets": 0,
+    "narrow_viewport_css_width": 340,
+    "document_scroll_width": 337,
+    "all_image_widths": 305,
+    "all_image_parent_widths": 305,
+    "method": "Native browser zoom 400%; actual read-only DOM measurements, not device emulation."
+  }
 }
