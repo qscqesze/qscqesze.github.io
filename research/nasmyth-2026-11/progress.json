@@ -5,7 +5,7 @@
   "author": "qscqesze",
   "article_url": "https://qscqesze.github.io/posts/james-nasmyth/",
   "date": "2026-11-09",
-  "status": "reviewed_pending_deployment",
+  "status": "completed",
   "body_hanzi": 18483,
   "images": 7,
   "notes": 63,
@@ -20,6 +20,39 @@
   "images_local": 4,
   "images_external": 3,
   "deployment": {
-    "status": "pending"
+    "status": "success",
+    "verified_date": "2026-11-09",
+    "runs": [
+      {
+        "id": 42545458868,
+        "name": "Deploy site to GitHub Pages",
+        "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/42545458868",
+        "conclusion": "success"
+      },
+      {
+        "id": 42545458597,
+        "name": "pages build and deployment",
+        "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/42545458597",
+        "conclusion": "success"
+      }
+    ],
+    "tests_passed": 5,
+    "html_files_checked": 169
+  },
+  "published_commit": "8f8e044096d360bc24b0994c05e16011e74187ab",
+  "completed_date": "2026-11-09",
+  "public_page_check": {
+    "rendered_body_hanzi": 18483,
+    "images_loaded": 7,
+    "footnotes": 63,
+    "missing_footnote_targets": 0,
+    "byline": "文 / qscqesze",
+    "date": "2026-11-09T09:00:00+08:00",
+    "desktop_viewport": 1363,
+    "desktop_document_width": 1348,
+    "narrow_viewport": 340,
+    "narrow_document_width": 337,
+    "narrow_test": "Browser zoom 400%; not device emulation; all seven image widths below parent width 320.78125",
+    "verified_date": "2026-11-09"
   }
 }

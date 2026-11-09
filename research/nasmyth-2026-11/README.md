@@ -44,8 +44,12 @@ S5 NASA, “Moon Craters”, https://science.nasa.gov/moon/lunar-craters/ ，采
 
 2026-11-09 SSH读远端仍因/etc/ssh/ssh_config.d/20-systemd-ssh-proxy.conf权限错误失败；不改系统或origin，不索取凭据。遵用户授权用连接GitHub写入接口。提交只列本次路径，基于真实远端tree，避免覆盖并行战役文章。
 
-当前仍为研究/写作中，尚未发布，完整统计及审读、部署结果以progress.json后续实测为准。
+已完成并发布，正文18,483汉字、7图、63注。发布提交8f8e044096d360bc24b0994c05e16011e74187ab，两条Pages流水线均成功；完整统计及公开页结果见progress.json。
 
 另读Joseph Wickham Roe, English and American Tool Builders, 1916初版、1926再印本，https://www.gutenberg.org/cache/epub/72046/pg72046-images.html ，第VIII章Nasmyth传记相关段及注100，作为承接自传的旧研究，未把重复叙述计作独立互证。
 
 完整初稿与两轮审读已完成，统计、发布与公开页结果以progress.json及audit更新为准。
+
+## 完成与下次恢复
+
+正式文章：https://qscqesze.github.io/posts/james-nasmyth/ 。原三篇completed记录未改。公开页正文18,483与脚本计数一致；7图加载、63注目标完整；400%浏览器缩放下有效视口340、文档337，无横向溢出。169个HTML链接检查、5项测试及Jekyll构建通过。具体两轮修订见audit-2026-11-09.md。草稿标completed-archive。下次选择新人物；不要重做旧三篇、雅各布斯或纳斯密斯。原任务周期保持，不创建任务。

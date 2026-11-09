@@ -4,7 +4,7 @@ date: 2026-11-09 09:00:00 +0800
 permalink: /posts/james-nasmyth/
 author: qscqesze
 published: false
-revision_status: writing
+revision_status: completed-archive
 excerpt: "从爱丁堡的模型生意到曼彻斯特的机器工厂，从英法之间的蒸汽锤争议到日光下拍摄的月面模型。"
 categories:
   - 历史与社会
