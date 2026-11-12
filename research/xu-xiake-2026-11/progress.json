@@ -1,37 +1,25 @@
 {
   "person": "徐霞客（徐弘祖）",
-  "status": "draft_in_progress",
+  "status": "publication_pending",
   "completed": false,
   "published": false,
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "draft": "_drafts/2026-11-11-xu-xiake.md",
-  "article_path": null,
-  "body_hanzi": 10060,
-  "images": 0,
-  "notes": 53,
+  "article_path": "_posts/2026-11-12-xu-xiake.md",
+  "article_url": "https://qscqesze.github.io/posts/xu-xiake/",
+  "body_hanzi": 18415,
+  "images": 6,
+  "notes": 86,
   "target_hanzi_min": 18000,
   "target_hanzi_max": 22000,
-  "remaining_to_min": 7940,
-  "chronological_coverage": "家庭与早期游历，1636出发至1638三里停留；部分中间行程待补",
-  "fact_review": "partial; concrete corrections in audit-2026-11-11.md; full review not complete",
-  "language_review": "partial; full manuscript and review not complete",
-  "images_status": "none adopted; one historical edition candidate catalog checked, image pages not yet inspected",
-  "missing": [
-    "贵州、云南主要行程及鸡足山",
-    "晚年、归乡、去世与稿本保存",
-    "丁文江年谱、近同时墓志及独立研究补核",
-    "6—10幅许可可核图像与显示检查",
-    "完整初稿、事实审读、结构和逐段编辑",
-    "最终年表、书目与史料说明",
-    "正式文章构建、部署与公开页检查"
-  ],
-  "next_action": "先恢复本稿及README证据清单，补读黔游、滇游、季梦良和李寄原文；继续徐霞客，勿换人或发布半稿",
+  "audit": "research/xu-xiake-2026-11/audit-2026-11-12.md",
   "old_three_revisions": "remain completed; unchanged",
   "validation": {
     "body_count": "passed",
-    "footnote_definitions": 53,
     "missing_note_targets": 0,
-    "local_site_build": "not available: Ruby/Jekyll absent",
-    "article_deployment": "not published; checkpoint CI is not article publication"
-  }
+    "local_site_build": "Jekyll 3.10 passed; 151 HTML files passed link validation in local baseline build",
+    "images": "six local WebP files checked against source, dimensions and declared license",
+    "article_deployment": "pending Pages and public page verification"
+  },
+  "next_action": "确认远端 Pages 构建、实际部署与公开文章的图像和尾注，再标记完成"
 }
