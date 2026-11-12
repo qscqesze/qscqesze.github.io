@@ -1,8 +1,8 @@
 {
   "person": "徐霞客（徐弘祖）",
-  "status": "publication_pending",
-  "completed": false,
-  "published": false,
+  "status": "completed",
+  "completed": true,
+  "published": true,
   "updated": "2026-11-12",
   "draft": "_drafts/2026-11-11-xu-xiake.md",
   "article_path": "_posts/2026-11-12-xu-xiake.md",
@@ -19,7 +19,24 @@
     "missing_note_targets": 0,
     "local_site_build": "Jekyll 3.10 passed; 151 HTML files passed link validation in local baseline build",
     "images": "six local WebP files checked against source, dimensions and declared license",
-    "article_deployment": "pending Pages and public page verification"
+    "article_deployment": "success; public page and each image verified",
+    "narrow_figure_layout": "six rendered figures fit 340px check",
+    "local_tests": "5 passed"
   },
-  "next_action": "确认远端 Pages 构建、实际部署与公开文章的图像和尾注，再标记完成"
+  "next_action": "保留原发布周期；下一次恢复新人物研究，不重复发表本篇",
+  "published_commit": "716319538d0ea2e6fcc347d6f2407d4c37995ef0",
+  "deployment": {
+    "status": "success",
+    "run_id": 43134018848,
+    "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/43134018848",
+    "companion_run_id": 43134017723,
+    "verified_date": "2026-11-12"
+  },
+  "public_page_check": {
+    "title": "徐霞客：行囊里的书与山中的水",
+    "images_loaded": 6,
+    "footnotes": 86,
+    "missing_footnote_targets": 0,
+    "verified_date": "2026-11-12"
+  }
 }
