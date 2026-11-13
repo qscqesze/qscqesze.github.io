@@ -38,3 +38,9 @@
 | pullman.webp | [美国铁路工会集会传单，1894-05-22](https://commons.wikimedia.org/wiki/File:Pullman_Strike_Mass_Meeting_Broadside.jpg)，纽伯里图书馆；公版。 |
 | wage.webp | [赫尔馆工资图第一幅，1895](https://commons.wikimedia.org/wiki/File:WAGEMAP1.pdf)，Holbrook等，据西北大学扫描；公版。 |
 | ship.webp | [诺尔丹号上的代表，1915年4月](https://commons.wikimedia.org/wiki/File:Noordam-delegates-1915.jpg)，贝恩新闻社，国会图书馆；公版。 |
+
+## 构建和部署
+
+本地 Jekyll 3.10 基线构建与151页站内链接、5项测试通过。六幅 WebP 逐图解码，340像素图版布局无横向溢出。外链中两篇 JAMA 旧文对命令行客户端返回403，可由公开页面索引打开并读到相关节录；Google Books 旧版书目发生重定向，其著录也可由伊利诺伊大学出版社再版书目互核。
+
+发布提交 `7dcd80d1ee2fce00529f0dec8b275886f6e555e3`；两项 Pages 工作流 43344534373、43344533539 成功。公开页实际重数18,341汉字、84注目标完整，六幅图片可解码且与提交的文件一致。

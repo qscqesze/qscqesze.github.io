@@ -1,8 +1,8 @@
 {
   "person": "简·亚当斯",
-  "status": "publication_pending",
-  "completed": false,
-  "published": false,
+  "status": "completed",
+  "completed": true,
+  "published": true,
   "updated": "2026-11-13",
   "article_path": "_posts/2026-11-13-jane-addams.md",
   "article_url": "https://qscqesze.github.io/posts/jane-addams/",
@@ -18,7 +18,22 @@
     "local_site_build": "Jekyll 3.10 passed; 151 HTML files passed local link validation",
     "notes": "84; no missing targets",
     "image_layout": "six local WebP images decoded; 340px figure layout passed",
-    "article_deployment": "pending"
+    "article_deployment": "success; public page and images verified"
   },
-  "next_action": "验证 GitHub Pages 和公开页，再写入完成状态"
+  "next_action": "沿原周期恢复新人物研究，不重复发表本篇",
+  "published_commit": "7dcd80d1ee2fce00529f0dec8b275886f6e555e3",
+  "deployment": {
+    "status": "success",
+    "run_id": 43344534373,
+    "companion_run_id": 43344533539,
+    "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/43344534373",
+    "verified_date": "2026-11-13"
+  },
+  "public_page_check": {
+    "title": "简·亚当斯：赫尔馆的门与谈判桌",
+    "body_hanzi": 18341,
+    "images_loaded": 6,
+    "footnotes": 84,
+    "missing_footnote_targets": 0
+  }
 }
