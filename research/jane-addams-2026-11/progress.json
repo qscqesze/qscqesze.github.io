@@ -1,0 +1,24 @@
+{
+  "person": "简·亚当斯",
+  "status": "publication_pending",
+  "completed": false,
+  "published": false,
+  "updated": "2026-11-13",
+  "article_path": "_posts/2026-11-13-jane-addams.md",
+  "article_url": "https://qscqesze.github.io/posts/jane-addams/",
+  "author": "qscqesze",
+  "body_hanzi": 18341,
+  "images": 6,
+  "notes": 84,
+  "target_hanzi_min": 18000,
+  "target_hanzi_max": 22000,
+  "audit": "research/jane-addams-2026-11/README.md",
+  "validation": {
+    "local_tests": "5 passed",
+    "local_site_build": "Jekyll 3.10 passed; 151 HTML files passed local link validation",
+    "notes": "84; no missing targets",
+    "image_layout": "six local WebP images decoded; 340px figure layout passed",
+    "article_deployment": "pending"
+  },
+  "next_action": "验证 GitHub Pages 和公开页，再写入完成状态"
+}
