@@ -5,7 +5,20 @@
   "body_hanzi": 18243,
   "images": 8,
   "notes": 63,
-  "status": "awaiting_deployment",
+  "status": "completed",
   "fact_review": "completed",
-  "language_review": "completed"
+  "language_review": "completed",
+  "published_commit": "a2bca7f31dd276bfe5528b8405a4258b4646bdbb",
+  "deployment": {
+    "status": "success",
+    "run_id": 43540400726,
+    "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/43540400726",
+    "verified_date": "2026-11-14"
+  },
+  "public_page": {
+    "images": 8,
+    "notes": 63,
+    "note_references_checked": 314
+  },
+  "local_build_html_files": 151
 }
