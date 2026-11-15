@@ -7,5 +7,18 @@
   "notes": 35,
   "fact_review": "completed",
   "language_review": "completed",
-  "status": "awaiting_deployment"
+  "status": "completed",
+  "published_commit": "c427be522b1416f152d3e101c9d59cd026677dca",
+  "deployment": {
+    "status": "success",
+    "run_id": 43662705379,
+    "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/43662705379",
+    "verified_date": "2026-11-15"
+  },
+  "public_page": {
+    "images": 6,
+    "notes": 35,
+    "note_references_checked": 334
+  },
+  "local_build_html_files": 151
 }
