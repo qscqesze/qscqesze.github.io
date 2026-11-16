@@ -1,9 +1,15 @@
 {
-  "status": "awaiting_deployment",
+  "status": "completed",
   "post": "_posts/2026-11-16-michael-faraday.md",
   "permalink": "/posts/michael-faraday/",
   "author": "qscqesze",
   "body_hanzi": 18028,
   "figures": 6,
-  "notes": 48
+  "notes": 48,
+  "publication_commit": "c83d13a70a02fdbf346c5ee21cec3e1b2dbcd82c",
+  "pages": [
+    "https://github.com/qscqesze/qscqesze.github.io/actions/runs/43785948292",
+    "https://github.com/qscqesze/qscqesze.github.io/actions/runs/43785947430"
+  ],
+  "live_verified": true
 }
