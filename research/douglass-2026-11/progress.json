@@ -1,0 +1,24 @@
+{
+  "status": "draft_ready_unpublished",
+  "draft": "_drafts/2026-11-17-frederick-douglass.md",
+  "proposed_post": "_posts/2026-11-17-frederick-douglass.md",
+  "permalink": "/posts/frederick-douglass/",
+  "author": "qscqesze",
+  "body_hanzi": 18124,
+  "figures": 6,
+  "notes": 41,
+  "validation": {
+    "jekyll": true,
+    "site_link_check": true,
+    "rendered_han_count": 18124,
+    "layout_widths_px": [
+      360,
+      768,
+      1440
+    ]
+  },
+  "deployment": {
+    "status": "not_started",
+    "reason": "default-branch ref update rejected by automatic approval review"
+  }
+}
