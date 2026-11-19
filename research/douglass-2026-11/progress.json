@@ -4,21 +4,40 @@
   "proposed_post": "_posts/2026-11-17-frederick-douglass.md",
   "permalink": "/posts/frederick-douglass/",
   "author": "qscqesze",
-  "body_hanzi": 18124,
+  "body_hanzi": 18308,
   "figures": 6,
   "notes": 41,
   "validation": {
     "jekyll": true,
     "site_link_check": true,
-    "rendered_han_count": 18124,
+    "rendered_han_count": 18308,
     "layout_widths_px": [
       360,
       768,
       1440
-    ]
+    ],
+    "checked_date": "2026-11-19",
+    "local_html_files": 182,
+    "image_decode": true,
+    "note_targets": true,
+    "layout_check": "six images in the site content styles at 360, 768, 1440 px; no overflow and preserved ratios"
   },
   "deployment": {
     "status": "not_started",
-    "reason": "default-branch ref update rejected by automatic approval review"
+    "reason": "prior automatic approval review rejected default-branch publication of the new biography; this revision stays on the unpublished draft branch"
+  },
+  "last_review_date": "2026-11-19",
+  "review": {
+    "fact_review": "chronology, return passage letter, bank loan repayment versus deposits, sons regiments corrected",
+    "language_review": "separate pass corrected touring sentence and removed several abstract editorial instructions",
+    "record": "research/douglass-2026-11/README.md#2026-11-19-再审"
+  },
+  "repository_check": {
+    "master_sha": "8f5e8df71798532171ad84995296226c9e77478f",
+    "old_revisions": "all three published blobs unchanged and completed",
+    "current_master_pages_run": 44227839245,
+    "current_master_pages_status": "success",
+    "draft_ref": "draft/frederick-douglass-2026-11-17",
+    "checked_date": "2026-11-19"
   }
 }
