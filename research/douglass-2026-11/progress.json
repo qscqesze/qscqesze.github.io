@@ -1,5 +1,5 @@
 {
-  "status": "ready_for_publication",
+  "status": "completed",
   "draft": "_drafts/2026-11-17-frederick-douglass.md",
   "proposed_post": "_posts/2026-11-20-frederick-douglass.md",
   "permalink": "/posts/frederick-douglass/",
@@ -24,7 +24,16 @@
     "tests_passed": 5
   },
   "deployment": {
-    "status": "pending"
+    "status": "success",
+    "run_ids": [
+      44651237929,
+      44651236163
+    ],
+    "verified_date": "2026-11-20",
+    "urls": [
+      "https://github.com/qscqesze/qscqesze.github.io/actions/runs/44651237929",
+      "https://github.com/qscqesze/qscqesze.github.io/actions/runs/44651236163"
+    ]
   },
   "last_review_date": "2026-11-20",
   "review": {
@@ -45,5 +54,17 @@
     "status": "not_started",
     "reason": "prior automatic approval review rejected default-branch publication of the new biography; this revision stays on the unpublished draft branch"
   },
-  "post": "_posts/2026-11-20-frederick-douglass.md"
+  "post": "_posts/2026-11-20-frederick-douglass.md",
+  "published_commit": "8ce12fe14730c11f6f0f6432cf67ffc26af50d01",
+  "published_date": "2026-11-20",
+  "article_url": "https://qscqesze.github.io/posts/frederick-douglass/",
+  "public_page_check": {
+    "body_hanzi": 18333,
+    "figures_loaded": 6,
+    "notes": 41,
+    "missing_note_targets": 0,
+    "author": "qscqesze",
+    "published_date": "2026-11-20",
+    "verified_date": "2026-11-20"
+  }
 }
