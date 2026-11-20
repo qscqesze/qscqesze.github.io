@@ -1,0 +1,49 @@
+{
+  "status": "ready_for_publication",
+  "draft": "_drafts/2026-11-17-frederick-douglass.md",
+  "proposed_post": "_posts/2026-11-20-frederick-douglass.md",
+  "permalink": "/posts/frederick-douglass/",
+  "author": "qscqesze",
+  "body_hanzi": 18333,
+  "figures": 6,
+  "notes": 41,
+  "validation": {
+    "jekyll": true,
+    "site_link_check": true,
+    "rendered_han_count": 18333,
+    "layout_widths_px": [
+      360,
+      768,
+      1440
+    ],
+    "checked_date": "2026-11-20",
+    "local_html_files": 184,
+    "image_decode": true,
+    "note_targets": true,
+    "layout_check": "six images in the site content styles at 360, 768, 1440 px; no overflow and preserved ratios",
+    "tests_passed": 5
+  },
+  "deployment": {
+    "status": "pending"
+  },
+  "last_review_date": "2026-11-20",
+  "review": {
+    "fact_review": "chronology, return passage letter, bank loan repayment versus deposits, sons regiments corrected",
+    "language_review": "separate pass corrected touring sentence and removed several abstract editorial instructions",
+    "record": "research/douglass-2026-11/README.md#2026-11-19-再审",
+    "publication_review": "2026-11-20: Anna free status and postwar newspaper duration corrected; Assing relationship attributed; further prose cuts recorded in README"
+  },
+  "repository_check": {
+    "master_sha": "a97befa7578aa705b0124fd46cd88efc7bb3d81f",
+    "old_revisions": "all three published blobs unchanged and completed",
+    "current_master_pages_run": 44227839245,
+    "current_master_pages_status": "success",
+    "draft_ref": "draft/frederick-douglass-2026-11-17",
+    "checked_date": "2026-11-20"
+  },
+  "prior_publication_attempt": {
+    "status": "not_started",
+    "reason": "prior automatic approval review rejected default-branch publication of the new biography; this revision stays on the unpublished draft branch"
+  },
+  "post": "_posts/2026-11-20-frederick-douglass.md"
+}
