@@ -28,7 +28,8 @@
   },
   "deployment": {
     "status": "not_started",
-    "article_published": false
+    "article_published": false,
+    "reason": "unfinished draft: default-branch update rejected by automatic approval review; saved on non-deploying draft branch"
   },
   "next_steps": [
     "Read remaining Hoskin paper and obtain an independent long study where possible",
@@ -37,5 +38,10 @@
     "Complete 6–10 sourced historical figures",
     "Perform separate factual and language review, then build/link/layout checks",
     "Only then move to _posts, commit and confirm Pages"
-  ]
+  ],
+  "repository_save": {
+    "branch": "draft/caroline-herschel-2026-11-21",
+    "content_commit": "6e6d11318fdf700588bc83ba6b1c7205de976c2e",
+    "default_branch_updated": false
+  }
 }
