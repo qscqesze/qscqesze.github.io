@@ -1,0 +1,41 @@
+{
+  "status": "research_draft_unpublished",
+  "completed": false,
+  "draft": "_drafts/2026-11-21-caroline-herschel.md",
+  "author": "qscqesze",
+  "body_hanzi": 10222,
+  "figures": 3,
+  "notes": 16,
+  "target_hanzi_min": 18000,
+  "target_hanzi_max": 22000,
+  "last_updated": "2026-11-21",
+  "research": {
+    "memoir_1876": "selected passages in chapters I–VII and dated letters/diaries, not full-book reading",
+    "hoskin_2005": "scanned paper obtained via NASA ADS; pages 373–381 read; remaining pages not yet read",
+    "winterburn_2015": "publisher preview only; full text inaccessible in this run; not claimed as read"
+  },
+  "review": {
+    "fact_review": "not completed; preliminary corrections recorded in README",
+    "language_review": "not completed"
+  },
+  "validation": {
+    "body_count_script": true,
+    "front_matter_unpublished": true,
+    "notes_continuous": true,
+    "image_decode_and_dimensions": true,
+    "site_build": "not yet run for this unpublished draft",
+    "mobile_layout": "not yet checked"
+  },
+  "deployment": {
+    "status": "not_started",
+    "article_published": false
+  },
+  "next_steps": [
+    "Read remaining Hoskin paper and obtain an independent long study where possible",
+    "Expand actual work process and post-1798 life to 18000–22000 Han without repeating arguments",
+    "Check original 1798 catalogue, eight comet identifications and priority, catalogue completion and awards",
+    "Complete 6–10 sourced historical figures",
+    "Perform separate factual and language review, then build/link/layout checks",
+    "Only then move to _posts, commit and confirm Pages"
+  ]
+}

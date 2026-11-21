@@ -1,0 +1,23 @@
+[
+  {
+    "source": "https://digital.library.upenn.edu/women/herschel/memoir/front-page.jpeg",
+    "path": "images/biographies/caroline-herschel/caroline-portrait.webp",
+    "width": 488,
+    "height": 851,
+    "bytes": 65922
+  },
+  {
+    "source": "https://digital.library.upenn.edu/women/herschel/memoir/29.jpeg",
+    "path": "images/biographies/caroline-herschel/forty-foot-telescope.webp",
+    "width": 573,
+    "height": 679,
+    "bytes": 51676
+  },
+  {
+    "source": "https://digital.library.upenn.edu/women/herschel/memoir/118.jpeg",
+    "path": "images/biographies/caroline-herschel/william-portrait.webp",
+    "width": 510,
+    "height": 941,
+    "bytes": 40188
+  }
+]
