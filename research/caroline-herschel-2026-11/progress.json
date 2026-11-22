@@ -1,7 +1,6 @@
 {
-  "status": "validated_pending_deployment",
-  "completed": false,
-  "draft": "_drafts/2026-11-21-caroline-herschel.md",
+  "status": "completed",
+  "completed": true,
   "author": "qscqesze",
   "body_hanzi": 18378,
   "figures": 6,
@@ -30,25 +29,37 @@
     "site_links": "passed: 186 HTML files",
     "repository_tests": "5 passed",
     "translation_cache": "passed",
-    "mobile_layout": "passed: six images fit at 360, 768, 1440 CSS px; aspect ratios retained"
+    "mobile_layout": "passed: six images fit at 360, 768, 1440 CSS px; aspect ratios retained",
+    "external_sources": "11 distinct article URLs returned HTTP 200"
   },
   "deployment": {
-    "status": "not_started",
-    "article_published": false,
-    "reason": "All publication checks passed; awaiting remote commit and Pages deployment"
+    "status": "success",
+    "article_published": true,
+    "article_url": "https://qscqesze.github.io/posts/caroline-herschel/",
+    "content_commit": "280a15f347368fcefac216ffe6fd5de4db1868b5",
+    "confirmed_workflow_runs": [
+      {
+        "id": 44970609237,
+        "conclusion": "success",
+        "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/44970609237"
+      },
+      {
+        "id": 44970608550,
+        "conclusion": "success",
+        "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/44970608550"
+      }
+    ]
   },
-  "next_steps": [
-    "Read remaining Hoskin paper and obtain an independent long study where possible",
-    "Expand actual work process and post-1798 life to 18000–22000 Han without repeating arguments",
-    "Check original 1798 catalogue, eight comet identifications and priority, catalogue completion and awards",
-    "Complete 6–10 sourced historical figures",
-    "Perform separate factual and language review, then build/link/layout checks",
-    "Only then move to _posts, commit and confirm Pages"
-  ],
+  "next_steps": [],
   "repository_save": {
     "branch": "draft/caroline-herschel-2026-11-21",
     "content_commit": "6e6d11318fdf700588bc83ba6b1c7205de976c2e",
-    "default_branch_updated": false
+    "default_branch_updated": true
   },
-  "article": "_posts/2026-11-22-caroline-herschel.md"
+  "article": "_posts/2026-11-22-caroline-herschel.md",
+  "draft_origin": {
+    "path": "_drafts/2026-11-21-caroline-herschel.md",
+    "branch": "draft/caroline-herschel-2026-11-21",
+    "status": "superseded by completed formal article"
+  }
 }
