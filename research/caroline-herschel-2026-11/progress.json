@@ -1,0 +1,54 @@
+{
+  "status": "validated_pending_deployment",
+  "completed": false,
+  "draft": "_drafts/2026-11-21-caroline-herschel.md",
+  "author": "qscqesze",
+  "body_hanzi": 18378,
+  "figures": 6,
+  "notes": 30,
+  "target_hanzi_min": 18000,
+  "target_hanzi_max": 22000,
+  "last_updated": "2026-11-22",
+  "research": {
+    "memoir_1876": "Selected passages in all chapters and dated diary/letters; Nov22 reread Bath, Datchet, 1790, 1797–1801, 1824–1828, 1836–1846; not full-book reading",
+    "hoskin_2005": "Pages 373–396 actually read; notes 397–406 not read",
+    "winterburn_2015": "publisher preview only; full text inaccessible in this run; not claimed as read",
+    "catalogue_1798": "Original title, introductions, index explanation, errata explanation and selected entries read; not every table recalculated",
+    "comet_report_1787": "Original pages 1–3 and William Herschel 14 December 1786 note read"
+  },
+  "review": {
+    "fact_review": "completed in separate phase; specific corrections in review-2026-11-22.md",
+    "language_review": "completed after fact review; repetitions removed and final narrative reread"
+  },
+  "validation": {
+    "body_count_script": true,
+    "rendered_body_count": 18378,
+    "notes_continuous": true,
+    "image_decode_and_dimensions": true,
+    "figures": 6,
+    "site_build": "passed: github-pages 232, Jekyll 3.10.0",
+    "site_links": "passed: 186 HTML files",
+    "repository_tests": "5 passed",
+    "translation_cache": "passed",
+    "mobile_layout": "passed: six images fit at 360, 768, 1440 CSS px; aspect ratios retained"
+  },
+  "deployment": {
+    "status": "not_started",
+    "article_published": false,
+    "reason": "All publication checks passed; awaiting remote commit and Pages deployment"
+  },
+  "next_steps": [
+    "Read remaining Hoskin paper and obtain an independent long study where possible",
+    "Expand actual work process and post-1798 life to 18000–22000 Han without repeating arguments",
+    "Check original 1798 catalogue, eight comet identifications and priority, catalogue completion and awards",
+    "Complete 6–10 sourced historical figures",
+    "Perform separate factual and language review, then build/link/layout checks",
+    "Only then move to _posts, commit and confirm Pages"
+  ],
+  "repository_save": {
+    "branch": "draft/caroline-herschel-2026-11-21",
+    "content_commit": "6e6d11318fdf700588bc83ba6b1c7205de976c2e",
+    "default_branch_updated": false
+  },
+  "article": "_posts/2026-11-22-caroline-herschel.md"
+}
