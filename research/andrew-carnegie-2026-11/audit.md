@@ -41,3 +41,7 @@
 - 提交前master为bc737fc8ef7f925fd1c64fa411247834a4fc0cee，递归树无2026-11-23文章和Carnegie同题；原三篇旧文未改。构建检查使用同一master快照加本篇。
 - SSH只读探测因系统代理配置文件权限失败；未改origin，未索取凭据，后续按用户授权用GitHub写入接口。
 - 尚未提交时progress.completed保持false，部署实际成功后再写completed。
+
+## 远端交付结果
+
+正文提交d1bd9433fdf76c41a8650d8d7dbbc145cf49eb15已到master；Pages工作流45095656272、45095655550均completed/success。公开页HTTP 200，正文18458汉字，六图HTTP 200并可解码，37注目标完整，author=qscqesze。此后才将progress.completed改为true。实际复算三篇旧文为18088、18219、18377汉字，均6图，未改其原文件和completed记录。没有新建或关闭任务。

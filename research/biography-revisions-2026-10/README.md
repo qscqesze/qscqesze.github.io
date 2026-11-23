@@ -4,6 +4,9 @@
 
 ## 当前状态
 
+**当前完成（2026-11-23）：[《安德鲁·卡内基：钢厂、合伙人与图书馆》](https://qscqesze.github.io/posts/andrew-carnegie/)已发布。** 正文18,458汉字、6幅本地历史图版、37条连续注释，署名qscqesze。正文提交d1bd9433fdf76c41a8650d8d7dbbc145cf49eb15，Pages工作流45095656272与45095655550均success；公开页正文、6图、37注已复核。5项测试、188页站内链接、14个外部来源及三种文章宽度检查通过。详见[研究与审读](../andrew-carnegie-2026-11/README.md)和[真实进度](../andrew-carnegie-2026-11/progress.json)。本次另复算三篇旧文，仍为18,088、18,219、18,377汉字、各6图，原文件与completed记录未改；原有周期保留，下次继续新人物，不重复发表本篇。
+
+
 **当前完成（2026-11-20）：[《弗雷德里克·道格拉斯：从船坞到报馆》](https://qscqesze.github.io/posts/frederick-douglass/)已发布。** 正文18,333汉字、6幅本地历史图像、41条连续注释，署名qscqesze。发布提交8ce12fe14730c11f6f0f6432cf67ffc26af50d01，Pages工作流44651237929、44651236163均成功；公开页正文、六图与尾注目标已复核。详见[研究与审读](../douglass-2026-11/README.md)和[完成进度](../douglass-2026-11/progress.json)。原三篇completed记录保留；下一次沿原周期继续新人物，不重复发布此篇。
 
 **当前完成（2026-11-12）：[《徐霞客：行囊里的书与山中的水》](https://qscqesze.github.io/posts/xu-xiake/)已发布。** 正文18,415汉字、六幅本地历史图像、86注，署名qscqesze。发布提交716319538d0ea2e6fcc347d6f2407d4c37995ef0，Pages工作流43134018848与43134017723均成功，公开页六图和尾注已复核。详见[审读](../xu-xiake-2026-11/audit-2026-11-12.md)和[进度](../xu-xiake-2026-11/progress.json)。原三篇completed记录保留；后续沿原周期恢复新人物，不重复发布。

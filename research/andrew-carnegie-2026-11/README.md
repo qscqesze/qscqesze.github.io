@@ -1,5 +1,7 @@
 # 安德鲁·卡内基传记研究（2026-11-23）
 
+**已完成并部署。** [正式文章](https://qscqesze.github.io/posts/andrew-carnegie/)正文18458汉字、6幅本地历史图像、37条连续注释，署名qscqesze。正文提交d1bd9433fdf76c41a8650d8d7dbbc145cf49eb15；Pages工作流45095656272与45095655550均success。公开页正文计数与脚本一致，6图加载、37注目标均已复核。详见progress.json、audit.md、live-check.json。后续沿原有周期研究下一人物，不重复发表本篇。
+
 旧文优先事项已恢复核验：远端 master bc737fc8ef7f925fd1c64fa411247834a4fc0cee 的 research/biography-revisions-2026-10/progress.json 三项均 completed，正文分别 18088、18219、18377 汉字，均 6 图，均记录成功部署。2026-11-22 卡罗琳·赫歇尔篇也已完成。未新建或关闭周期任务。
 
 新篇核心问题：卡内基怎样取得、保持企业控制权，并怎样在捐出财富时规定受助方的义务。不要预设“慈善抵偿剥削”或单线成功结论。

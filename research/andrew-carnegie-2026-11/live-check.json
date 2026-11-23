@@ -1,0 +1,56 @@
+{
+  "url": "https://qscqesze.github.io/posts/andrew-carnegie/",
+  "http_status": 200,
+  "title": "安德鲁·卡内基：钢厂、合伙人与图书馆 - qscqesze",
+  "body_hanzi": 18458,
+  "images": [
+    {
+      "url": "https://qscqesze.github.io/assets/images/biographies/andrew-carnegie/carnegie-1893.jpg",
+      "status": 200,
+      "width": 488,
+      "height": 760,
+      "bytes": 31074
+    },
+    {
+      "url": "https://qscqesze.github.io/assets/images/biographies/andrew-carnegie/anderson-bookplate.jpg",
+      "status": 200,
+      "width": 591,
+      "height": 972,
+      "bytes": 33058
+    },
+    {
+      "url": "https://qscqesze.github.io/assets/images/biographies/andrew-carnegie/frick-1893.jpg",
+      "status": 200,
+      "width": 503,
+      "height": 767,
+      "bytes": 34590
+    },
+    {
+      "url": "https://qscqesze.github.io/assets/images/biographies/andrew-carnegie/homestead-landing-1893.jpg",
+      "status": 200,
+      "width": 767,
+      "height": 503,
+      "bytes": 67702
+    },
+    {
+      "url": "https://qscqesze.github.io/assets/images/biographies/andrew-carnegie/chatham-square-plans.jpg",
+      "status": 200,
+      "width": 591,
+      "height": 972,
+      "bytes": 62339
+    },
+    {
+      "url": "https://qscqesze.github.io/assets/images/biographies/andrew-carnegie/flatbush-readers.jpg",
+      "status": 200,
+      "width": 591,
+      "height": 972,
+      "bytes": 65401
+    }
+  ],
+  "footnotes": 37,
+  "missing_targets": 0,
+  "author_meta": "qscqesze",
+  "date_published": "2026-11-23T09:00:00+08:00",
+  "publication_commit": "d1bd9433fdf76c41a8650d8d7dbbc145cf49eb15",
+  "verified_date": "2026-11-23"
+}

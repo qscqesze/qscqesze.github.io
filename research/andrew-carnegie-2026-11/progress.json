@@ -1,9 +1,9 @@
 {
-  "status": "ready_for_publication",
-  "completed": false,
+  "status": "completed",
+  "completed": true,
   "person": "Andrew Carnegie / 安德鲁·卡内基",
   "source": "_posts/2026-11-23-andrew-carnegie.md",
-  "draft": "_drafts/2026-11-23-andrew-carnegie.md (local working copy; publication commits formal article only)",
+  "draft": "_drafts/2026-11-23-andrew-carnegie.md (local working archive; published source is the _posts file)",
   "article_url": "https://qscqesze.github.io/posts/andrew-carnegie/",
   "date": "2026-11-23",
   "author": "qscqesze",
@@ -26,13 +26,38 @@
     "footnote_targets": "37 distinct; 0 missing"
   },
   "publication": {
-    "status": "not_yet_committed",
-    "deployment": "not_yet_run"
+    "status": "published",
+    "commit": "d1bd9433fdf76c41a8650d8d7dbbc145cf49eb15",
+    "deployment": "success",
+    "runs": [
+      {
+        "id": 45095656272,
+        "name": "Deploy site to GitHub Pages",
+        "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/45095656272",
+        "status": "success"
+      },
+      {
+        "id": 45095655550,
+        "name": "pages build and deployment",
+        "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/45095655550",
+        "status": "success"
+      }
+    ],
+    "verified_date": "2026-11-23"
   },
   "priority_recovery": {
     "october_revisions": "all three completed in remote progress.json; original files untouched",
     "previous_biography": "Caroline Herschel completed 2026-11-22; not republished"
   },
   "schedule": "unchanged; no tasks created or disabled",
-  "transport": "SSH ls-remote blocked by owner/permissions on system proxy config; using user-authorized GitHub write API"
+  "transport": "SSH ls-remote blocked by owner/permissions on system proxy config; using user-authorized GitHub write API",
+  "public_page": {
+    "http_status": 200,
+    "body_hanzi": 18458,
+    "images_loaded": 6,
+    "footnotes": 37,
+    "missing_targets": 0,
+    "author": "qscqesze",
+    "verified_date": "2026-11-23"
+  }
 }
