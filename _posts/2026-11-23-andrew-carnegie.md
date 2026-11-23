@@ -24,7 +24,7 @@ translate: false
 
 <figure>
   <img src="/assets/images/biographies/andrew-carnegie/carnegie-1893.jpg" alt="安德鲁·卡内基肖像" width="488" height="760" loading="lazy" style="width:auto;max-width:100%;height:auto;display:block;margin:0 auto;">
-  <figcaption>图1：1893年《霍姆斯特德》所刊卡内基肖像，原摄影者未署名。匹兹堡大学藏本，公版。<a href="https://archive.org/details/homesteadcomplet00burg">来源</a>。</figcaption>
+  <figcaption>图1：1893年《霍姆斯特德》所刊卡内基肖像，原作者未署名。匹兹堡大学藏本，公版。<a href="https://archive.org/details/homesteadcomplet00burg">来源</a>。</figcaption>
 </figure>
 
 ## 邓弗姆林留下的织机
