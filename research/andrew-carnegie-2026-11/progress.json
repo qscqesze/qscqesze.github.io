@@ -1,0 +1,38 @@
+{
+  "status": "ready_for_publication",
+  "completed": false,
+  "person": "Andrew Carnegie / 安德鲁·卡内基",
+  "source": "_posts/2026-11-23-andrew-carnegie.md",
+  "draft": "_drafts/2026-11-23-andrew-carnegie.md (local working copy; publication commits formal article only)",
+  "article_url": "https://qscqesze.github.io/posts/andrew-carnegie/",
+  "date": "2026-11-23",
+  "author": "qscqesze",
+  "body_hanzi": 18458,
+  "images": 6,
+  "notes": 37,
+  "target_hanzi_min": 18000,
+  "target_hanzi_max": 22000,
+  "count_method": "count_body.py: narrative only; front matter, headings, byline, figure blocks and all material after biography-body-end excluded",
+  "fact_review": "completed; see audit.md",
+  "language_review": "completed after fact review; see audit.md",
+  "checks": {
+    "jekyll_build": "passed Jekyll 3.10.0 / github-pages 232",
+    "site_links": "passed 188 HTML files",
+    "pytest": "5 passed",
+    "translation_cache": "passed; article translate:false",
+    "external_links": "14 unique HTTPS URLs returned HTTP 200",
+    "layout": "6 images loaded without overflow at 360 / 768 / 1440 in static article fixture; see validation.json",
+    "rendered_hanzi": 18458,
+    "footnote_targets": "37 distinct; 0 missing"
+  },
+  "publication": {
+    "status": "not_yet_committed",
+    "deployment": "not_yet_run"
+  },
+  "priority_recovery": {
+    "october_revisions": "all three completed in remote progress.json; original files untouched",
+    "previous_biography": "Caroline Herschel completed 2026-11-22; not republished"
+  },
+  "schedule": "unchanged; no tasks created or disabled",
+  "transport": "SSH ls-remote blocked by owner/permissions on system proxy config; using user-authorized GitHub write API"
+}

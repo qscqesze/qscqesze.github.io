@@ -1,0 +1,120 @@
+{
+  "body_hanzi_rendered": 18458,
+  "figures": 6,
+  "unique_footnotes": 37,
+  "missing_targets": [],
+  "image_layout": [
+    {
+      "viewport": 360,
+      "loaded_images": 6,
+      "overflow": false,
+      "images": [
+        {
+          "x": 16.0,
+          "width": 328.0,
+          "height": 510.82
+        },
+        {
+          "x": 16.0,
+          "width": 328.0,
+          "height": 539.45
+        },
+        {
+          "x": 16.0,
+          "width": 328.0,
+          "height": 500.15
+        },
+        {
+          "x": 16.0,
+          "width": 328.0,
+          "height": 215.1
+        },
+        {
+          "x": 16.0,
+          "width": 328.0,
+          "height": 539.45
+        },
+        {
+          "x": 16.0,
+          "width": 328.0,
+          "height": 539.45
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "loaded_images": 6,
+      "overflow": false,
+      "images": [
+        {
+          "x": 16.0,
+          "width": 488.0,
+          "height": 760.0
+        },
+        {
+          "x": 16.0,
+          "width": 591.0,
+          "height": 972.0
+        },
+        {
+          "x": 16.0,
+          "width": 503.0,
+          "height": 767.0
+        },
+        {
+          "x": 16.0,
+          "width": 736.0,
+          "height": 482.67
+        },
+        {
+          "x": 16.0,
+          "width": 591.0,
+          "height": 972.0
+        },
+        {
+          "x": 16.0,
+          "width": 591.0,
+          "height": 972.0
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "loaded_images": 6,
+      "overflow": false,
+      "images": [
+        {
+          "x": 16.0,
+          "width": 488.0,
+          "height": 760.0
+        },
+        {
+          "x": 16.0,
+          "width": 591.0,
+          "height": 972.0
+        },
+        {
+          "x": 16.0,
+          "width": 503.0,
+          "height": 767.0
+        },
+        {
+          "x": 16.0,
+          "width": 767.0,
+          "height": 503.0
+        },
+        {
+          "x": 16.0,
+          "width": 591.0,
+          "height": 972.0
+        },
+        {
+          "x": 16.0,
+          "width": 591.0,
+          "height": 972.0
+        }
+      ]
+    }
+  ],
+  "scope": "文章内容、实际主样式与原图内联约束的宽度夹具；WeasyPrint静态渲染，不冒充浏览器JS验证"
+}

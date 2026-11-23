@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://archive.org/details/autobiographyofa00carn",
+    "status": 200,
+    "final_url": "https://archive.org/details/autobiographyofa00carn"
+  },
+  {
+    "url": "https://archive.org/details/bookofcarnegieli00koch",
+    "status": 200,
+    "final_url": "https://archive.org/details/bookofcarnegieli00koch"
+  },
+  {
+    "url": "https://archive.org/details/homesteadcomplet00burg",
+    "status": 200,
+    "final_url": "https://archive.org/details/homesteadcomplet00burg"
+  },
+  {
+    "url": "https://carnegie.org/about/andrew-carnegie-story/",
+    "status": 200,
+    "final_url": "https://carnegie.org/about/andrew-carnegie-story/"
+  },
+  {
+    "url": "https://carnegie.org/article/andrew-carnegie-to-try-and-make-the-world-in-some-way-better/",
+    "status": 200,
+    "final_url": "https://carnegie.org/article/andrew-carnegie-to-try-and-make-the-world-in-some-way-better/"
+  },
+  {
+    "url": "https://electricscotland.com/history/other/carnegie02.pdf",
+    "status": 200,
+    "final_url": "https://electricscotland.com/history/other/carnegie02.pdf"
+  },
+  {
+    "url": "https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/february-17-1900-534895/fulltext",
+    "status": 200,
+    "final_url": "https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/february-17-1900-534895/fulltext"
+  },
+  {
+    "url": "https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/march-17-1900-534901/fulltext",
+    "status": 200,
+    "final_url": "https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/march-17-1900-534901/fulltext"
+  },
+  {
+    "url": "https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/march-24-1900-534902/fulltext",
+    "status": 200,
+    "final_url": "https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/march-24-1900-534902/fulltext"
+  },
+  {
+    "url": "https://guides.loc.gov/chronicling-america-andrew-carnegie",
+    "status": 200,
+    "final_url": "https://guides.loc.gov/chronicling-america-andrew-carnegie"
+  },
+  {
+    "url": "https://media.carnegie.org/filer_public/82/1e/821e3089-cb1d-4c7d-be2f-03f56f028ab5/the_gospel_of_wealth-ebook-082415-fin-3.pdf",
+    "status": 200,
+    "final_url": "https://media.carnegie.org/filer_public/82/1e/821e3089-cb1d-4c7d-be2f-03f56f028ab5/the_gospel_of_wealth-ebook-082415-fin-3.pdf"
+  },
+  {
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/99000627_text",
+    "status": 200,
+    "final_url": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/99000627_text"
+  },
+  {
+    "url": "https://www.nps.gov/articles/carnegie-libraries-the-future-made-bright-teaching-with-historic-places.htm",
+    "status": 200,
+    "final_url": "https://www.nps.gov/articles/carnegie-libraries-the-future-made-bright-teaching-with-historic-places.htm"
+  },
+  {
+    "url": "https://www.russellsage.org/sites/default/files/Fitch_Steel%20Workers_0.pdf",
+    "status": 200,
+    "final_url": "https://www.russellsage.org/sites/default/files/Fitch_Steel%20Workers_0.pdf"
+  }
+]
