@@ -100,5 +100,7 @@
   ],
   "layout_method": "WeasyPrint static article fixtures using generated theme CSS, 16px side padding; not a JavaScript browser test",
   "site_links": "passed; 192 HTML files",
-  "external_links": "9 unique URLs verified: 8 HTTP200; Kroeger HTTP202 challenge to downloader, full article accessible/read via web retrieval"
+  "external_links": "9 unique URLs verified: 8 HTTP200; Kroeger HTTP202 challenge to downloader, full article accessible/read via web retrieval",
+  "final_jekyll_build": "passed;12.4s after final caption/source-link edits",
+  "public_page_check": "passed; live-check.json"
 }

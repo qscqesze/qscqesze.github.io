@@ -38,4 +38,4 @@
 
 ## 当前阶段
 
-材料与篇幅规划完成；正文已定稿4,611汉字、3幅本地图像、12注。事实与文字两轮审读完成，具体修改见audit.md；构建、5项测试、192页链接及三种文章宽度检查见validation.json。发布状态按progress.json记录。
+材料与篇幅规划完成；正文已定稿4,611汉字、3幅本地图像、12注。事实与文字两轮审读完成，具体修改见audit.md；构建、5项测试、192页链接及三种文章宽度检查见validation.json。已发布并完成部署。文章：https://qscqesze.github.io/posts/nellie-bly/ 。提交117846e97dfc9bbd52fa966bfe2aadd87c580bc8；Pages运行45303937729、45303936693均success。公开页正文4,611汉字、3图逐幅HTTP200且SHA256与仓库文件相同、12注目标完整，署名和日期已核。详见live-check.json及progress.json。原任务原周期保留，后续另选未写人物。

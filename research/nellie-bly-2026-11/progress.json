@@ -8,15 +8,43 @@
   "body_hanzi": 4611,
   "images": 3,
   "notes": 12,
-  "status": "ready_for_publication",
-  "completed": false,
+  "status": "completed",
+  "completed": true,
   "fact_review": "completed; see audit.md",
   "language_review": "completed; see audit.md",
   "deployment": {
-    "status": "not_started"
+    "status": "success",
+    "publication_commit": "117846e97dfc9bbd52fa966bfe2aadd87c580bc8",
+    "verified_date": "2026-11-24",
+    "runs": [
+      {
+        "id": 45303937729,
+        "name": "Deploy site to GitHub Pages",
+        "conclusion": "success",
+        "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/45303937729"
+      },
+      {
+        "id": 45303936693,
+        "name": "pages build and deployment",
+        "conclusion": "success",
+        "url": "https://github.com/qscqesze/qscqesze.github.io/actions/runs/45303936693"
+      }
+    ]
   },
-  "next_action": "提交已审定文章；确认Pages与公开页后更新completed",
+  "next_action": "沿原周期继续新人物，先检查文章和研究目录以免重复；不再重发布莱篇。",
   "schedule": "原任务原周期保留",
   "validation": "passed; validation.json",
-  "images_local": 3
+  "images_local": 3,
+  "published_commit": "117846e97dfc9bbd52fa966bfe2aadd87c580bc8",
+  "public_page_check": {
+    "status": 200,
+    "body_hanzi": 4611,
+    "images_loaded": 3,
+    "image_sha256_matches": 3,
+    "footnotes": 12,
+    "missing_footnote_targets": 0,
+    "author": "qscqesze",
+    "published_time": "2026-11-24T09:00:00+08:00",
+    "report": "research/nellie-bly-2026-11/live-check.json"
+  }
 }

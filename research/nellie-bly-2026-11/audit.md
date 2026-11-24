@@ -20,3 +20,7 @@
 - 全文复读完成：临时住所→Bellevue→上岛→律师离院→大陪审团复访顺序无跳接；出发后才在香港获悉竞争，时间与行程一致；晚年简叙承接回归报馆。
 
 最终正文统计及构建见validation.json；部署成功之前progress.json保持completed=false。
+
+## 发布复核
+
+发布提交117846e97dfc9bbd52fa966bfe2aadd87c580bc8；两项Pages工作流45303937729与45303936693均success。公开页HTTP200、正文4,611汉字、3幅图片HTTP200且SHA256一致、12注无缺失。署名qscqesze，日期2026-11-24T09:00:00+08:00。未改动周期任务或旧篇completed记录。

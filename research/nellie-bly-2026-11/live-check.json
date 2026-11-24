@@ -1,0 +1,43 @@
+{
+  "url": "https://qscqesze.github.io/posts/nellie-bly/",
+  "verified_commit": "117846e97dfc9bbd52fa966bfe2aadd87c580bc8",
+  "http_status": 200,
+  "title": "内莉·布莱：收容院里的十天，环球路上的七十二天",
+  "body_hanzi": 4611,
+  "images": [
+    {
+      "url": "https://qscqesze.github.io/assets/images/biographies/nellie-bly/judge-1887.jpg",
+      "status": 200,
+      "dimensions": [
+        338,
+        421
+      ],
+      "bytes": 55247,
+      "local_sha256_match": true
+    },
+    {
+      "url": "https://qscqesze.github.io/assets/images/biographies/nellie-bly/hall-1887.jpg",
+      "status": 200,
+      "dimensions": [
+        388,
+        325
+      ],
+      "bytes": 47621,
+      "local_sha256_match": true
+    },
+    {
+      "url": "https://qscqesze.github.io/assets/images/biographies/nellie-bly/world-game-1890.jpg",
+      "status": 200,
+      "dimensions": [
+        1400,
+        1666
+      ],
+      "bytes": 761018,
+      "local_sha256_match": true
+    }
+  ],
+  "notes": 12,
+  "missing_note_targets": 0,
+  "author": "qscqesze",
+  "published_time": "2026-11-24T09:00:00+08:00"
+}
