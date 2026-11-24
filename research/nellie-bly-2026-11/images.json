@@ -1,0 +1,59 @@
+[
+  {
+    "file": "assets/images/biographies/nellie-bly/judge-1887.jpg",
+    "source_url": "https://digital.library.upenn.edu/women/bly/madhouse/26.gif",
+    "date": "1887",
+    "title": "Nellie Before Judge Duffy",
+    "author": "未署名",
+    "institution": "宾夕法尼亚大学Celebration of Women Writers，Norman L. Munro原书图版",
+    "rights": "Public domain: originally published in the United States in 1887/1890; copyright expired",
+    "rights_evidence": "1887原版版权页，宾大原书全文可核；未采用现代新增插图",
+    "dimensions": [
+      338,
+      421
+    ],
+    "bytes": 55247,
+    "sha256": "f94888828e89a4a9d09b6cd0f3b2c6b308d964fd68d0c0b580010d08c191b3c9",
+    "crop": "none",
+    "processing": "RGB JPEG, proportional resize only for large game scan; no reconstruction",
+    "viewed": true
+  },
+  {
+    "file": "assets/images/biographies/nellie-bly/hall-1887.jpg",
+    "source_url": "https://digital.library.upenn.edu/women/bly/madhouse/68.gif",
+    "date": "1887",
+    "title": "An Insane Hall",
+    "author": "未署名",
+    "institution": "宾夕法尼亚大学Celebration of Women Writers，Norman L. Munro原书图版",
+    "rights": "Public domain: originally published in the United States in 1887/1890; copyright expired",
+    "rights_evidence": "1887原版版权页，宾大原书全文可核；未采用现代新增插图",
+    "dimensions": [
+      388,
+      325
+    ],
+    "bytes": 47621,
+    "sha256": "07ed87c902f129a5f1d12d516b657468d20024780e9734d8aa26aa8d598ca71c",
+    "crop": "none",
+    "processing": "RGB JPEG, proportional resize only for large game scan; no reconstruction",
+    "viewed": true
+  },
+  {
+    "file": "assets/images/biographies/nellie-bly/world-game-1890.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Round_the_world_with_Nellie_Bly_1890.jpg",
+    "date": "1890-01-26",
+    "title": "Round the world with Nellie Bly—The Worlds globe circler",
+    "author": "未署名",
+    "institution": "Library of Congress，LC-DIG-ppmsca-02918；Wikimedia Commons数字副本",
+    "rights": "Public domain: originally published in the United States in 1887/1890; copyright expired",
+    "rights_evidence": "https://commons.wikimedia.org/wiki/File:Round_the_world_with_Nellie_Bly_1890.jpg",
+    "dimensions": [
+      1400,
+      1666
+    ],
+    "bytes": 761018,
+    "sha256": "4ed3b376e5fa9bc5d04ca3f63397ee86d74acf8408e5a2d696e63398cb6f294b",
+    "crop": "none",
+    "processing": "RGB JPEG, proportional resize only for large game scan; no reconstruction",
+    "viewed": true
+  }
+]

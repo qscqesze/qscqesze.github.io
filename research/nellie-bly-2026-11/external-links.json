@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://digital.library.upenn.edu/women/bly/madhouse/madhouse.html",
+    "status": 200,
+    "bytes": 210709,
+    "content_type": "text/html; charset=UTF-8",
+    "resolved_url": "https://digital.library.upenn.edu/women/bly/madhouse/madhouse.html"
+  },
+  {
+    "url": "https://digital.library.upenn.edu/women/bly/world/world.html",
+    "status": 200,
+    "bytes": 359734,
+    "content_type": "text/html; charset=UTF-8",
+    "resolved_url": "https://digital.library.upenn.edu/women/bly/world/world.html"
+  },
+  {
+    "url": "https://www.womenshistory.org/education-resources/biographies/nellie-bly-0",
+    "status": 200,
+    "bytes": 86904,
+    "content_type": "text/html; charset=UTF-8",
+    "resolved_url": "https://www.womenshistory.org/education-resources/biographies/nellie-bly-0"
+  },
+  {
+    "url": "https://www.pbs.org/wgbh/americanexperience/features/world-nellie-and-other-19th-century-writers/",
+    "status": 200,
+    "bytes": 197527,
+    "content_type": "text/html; charset=utf-8",
+    "resolved_url": "https://www.pbs.org/wgbh/americanexperience/features/world-nellie-and-other-19th-century-writers/"
+  },
+  {
+    "url": "https://brookekroeger.com/nellie-bly-she-did-it-all/",
+    "status": 202,
+    "bytes": 196,
+    "content_type": "text/html",
+    "resolved_url": "https://brookekroeger.com/nellie-bly-she-did-it-all/",
+    "verification": "HTTP202 browser verification page on direct downloader; complete article opened and read through web retrieval, including archival citations. Link resolves and is not a 404."
+  },
+  {
+    "url": "https://guides.loc.gov/chronicling-america-nellie-bly",
+    "status": 200,
+    "bytes": 34181,
+    "content_type": "text/html; charset=UTF-8",
+    "resolved_url": "https://guides.loc.gov/chronicling-america-nellie-bly"
+  },
+  {
+    "url": "https://www.nps.gov/people/nellie-bly.htm",
+    "status": 200,
+    "bytes": 43559,
+    "resolved_url": "https://www.nps.gov/people/nellie-bly.htm"
+  },
+  {
+    "url": "https://ahcwyo.org/2023/04/10/the-fascinating-life-of-nellie-bly/",
+    "status": 200,
+    "bytes": 164754,
+    "content_type": "text/html; charset=UTF-8",
+    "resolved_url": "https://ahcwyo.org/2023/04/10/the-fascinating-life-of-nellie-bly/"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Round_the_world_with_Nellie_Bly_1890.jpg",
+    "status": 200,
+    "bytes": 101814,
+    "content_type": "text/html; charset=UTF-8",
+    "resolved_url": "https://commons.wikimedia.org/wiki/File:Round_the_world_with_Nellie_Bly_1890.jpg"
+  }
+]

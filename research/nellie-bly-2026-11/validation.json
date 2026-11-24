@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-24",
+  "body_hanzi": 4611,
+  "images": [
+    {
+      "src": "/assets/images/biographies/nellie-bly/judge-1887.jpg",
+      "dimensions": [
+        338,
+        421
+      ],
+      "bytes": 55247
+    },
+    {
+      "src": "/assets/images/biographies/nellie-bly/hall-1887.jpg",
+      "dimensions": [
+        388,
+        325
+      ],
+      "bytes": 47621
+    },
+    {
+      "src": "/assets/images/biographies/nellie-bly/world-game-1890.jpg",
+      "dimensions": [
+        1400,
+        1666
+      ],
+      "bytes": 761018
+    }
+  ],
+  "notes": 12,
+  "missing_note_targets": 0,
+  "author": "qscqesze",
+  "jekyll_build": "passed; github-pages232/Jekyll3.10,14.3s",
+  "pytest": "5 passed",
+  "translation_cache": "current",
+  "layout": [
+    {
+      "viewport_px": 360,
+      "image_bounds": [
+        [
+          16.0,
+          344.0,
+          408.54
+        ],
+        [
+          16.0,
+          344.0,
+          274.74
+        ],
+        [
+          16.0,
+          344.0,
+          390.32
+        ]
+      ],
+      "horizontal_image_overflow": false
+    },
+    {
+      "viewport_px": 768,
+      "image_bounds": [
+        [
+          16.0,
+          354.0,
+          421.0
+        ],
+        [
+          16.0,
+          404.0,
+          325.0
+        ],
+        [
+          16.0,
+          752.0,
+          875.84
+        ]
+      ],
+      "horizontal_image_overflow": false
+    },
+    {
+      "viewport_px": 1440,
+      "image_bounds": [
+        [
+          16.0,
+          354.0,
+          421.0
+        ],
+        [
+          16.0,
+          404.0,
+          325.0
+        ],
+        [
+          16.0,
+          1416.0,
+          1666.0
+        ]
+      ],
+      "horizontal_image_overflow": false
+    }
+  ],
+  "layout_method": "WeasyPrint static article fixtures using generated theme CSS, 16px side padding; not a JavaScript browser test",
+  "site_links": "passed; 192 HTML files",
+  "external_links": "9 unique URLs verified: 8 HTTP200; Kroeger HTTP202 challenge to downloader, full article accessible/read via web retrieval"
+}

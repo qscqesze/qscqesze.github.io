@@ -1,0 +1,22 @@
+{
+  "person": "内莉·布莱",
+  "date": "2026-11-24",
+  "source": "_posts/2026-11-24-nellie-bly.md",
+  "article_url": "https://qscqesze.github.io/posts/nellie-bly/",
+  "target_hanzi_min": 4500,
+  "target_hanzi_max": 5500,
+  "body_hanzi": 4611,
+  "images": 3,
+  "notes": 12,
+  "status": "ready_for_publication",
+  "completed": false,
+  "fact_review": "completed; see audit.md",
+  "language_review": "completed; see audit.md",
+  "deployment": {
+    "status": "not_started"
+  },
+  "next_action": "提交已审定文章；确认Pages与公开页后更新completed",
+  "schedule": "原任务原周期保留",
+  "validation": "passed; validation.json",
+  "images_local": 3
+}
