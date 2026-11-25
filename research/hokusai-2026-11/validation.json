@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-25",
+  "body_hanzi": 4697,
+  "images": [
+    {
+      "src": "/assets/images/biographies/hokusai/manga-1834.jpg",
+      "dimensions": [
+        969,
+        1500
+      ],
+      "bytes": 292026
+    },
+    {
+      "src": "/assets/images/biographies/hokusai/great-wave.jpg",
+      "dimensions": [
+        1400,
+        941
+      ],
+      "bytes": 329153
+    },
+    {
+      "src": "/assets/images/biographies/hokusai/cooper-and-fuji.jpg",
+      "dimensions": [
+        1400,
+        950
+      ],
+      "bytes": 259230
+    },
+    {
+      "src": "/assets/images/biographies/hokusai/red-zhong-kui-1846.jpg",
+      "dimensions": [
+        1125,
+        1500
+      ],
+      "bytes": 249499
+    }
+  ],
+  "notes": 12,
+  "missing_note_targets": 0,
+  "author": "qscqesze",
+  "jekyll_build": "passed;github-pages232/Jekyll3.10,14.591s",
+  "pytest": "5 passed",
+  "translation_cache": "current",
+  "layout": [
+    {
+      "viewport_px": 360,
+      "image_bounds": [
+        [
+          16.0,
+          344.0,
+          507.74
+        ],
+        [
+          16.0,
+          344.0,
+          220.46
+        ],
+        [
+          16.0,
+          344.0,
+          222.57
+        ],
+        [
+          16.0,
+          344.0,
+          437.33
+        ]
+      ],
+      "horizontal_image_overflow": false
+    },
+    {
+      "viewport_px": 768,
+      "image_bounds": [
+        [
+          16.0,
+          752.0,
+          1139.32
+        ],
+        [
+          16.0,
+          752.0,
+          494.7
+        ],
+        [
+          16.0,
+          752.0,
+          499.43
+        ],
+        [
+          16.0,
+          752.0,
+          981.33
+        ]
+      ],
+      "horizontal_image_overflow": false
+    },
+    {
+      "viewport_px": 1440,
+      "image_bounds": [
+        [
+          16.0,
+          985.0,
+          1500.0
+        ],
+        [
+          16.0,
+          1416.0,
+          941.0
+        ],
+        [
+          16.0,
+          1416.0,
+          950.0
+        ],
+        [
+          16.0,
+          1141.0,
+          1500.0
+        ]
+      ],
+      "horizontal_image_overflow": false
+    }
+  ],
+  "layout_method": "WeasyPrint static article fixtures using generated theme CSS and16px padding; not a JavaScript browser test",
+  "site_links": "passed;196 HTML files",
+  "external_links": "15 unique source URLs; all HTTP200"
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb403463948",
+    "status": 200,
+    "bytes": 77489,
+    "resolved_url": "https://catalogue.bnf.fr/ark:/12148/cb403463948"
+  },
+  {
+    "url": "https://ci.nii.ac.jp/ncid/BA71038073",
+    "status": 200,
+    "bytes": 54421,
+    "resolved_url": "https://ci.nii.ac.jp/ncid/BA71038073"
+  },
+  {
+    "url": "https://hokusai-museum.jp/modules/Page/pages/view/401?lang=ja",
+    "status": 200,
+    "bytes": 84739,
+    "resolved_url": "https://hokusai-museum.jp/modules/Page/pages/view/401?lang=ja"
+  },
+  {
+    "url": "https://hokusai-museum.jp/modules/Page/pages/view/402?lang=ja",
+    "status": 200,
+    "bytes": 114380,
+    "resolved_url": "https://hokusai-museum.jp/modules/Page/pages/view/402?lang=ja"
+  },
+  {
+    "url": "https://www.academia.edu/105488030/Between_the_Lines_Hokusai_in_His_Letters",
+    "status": 200,
+    "bytes": 276990,
+    "resolved_url": "https://www.academia.edu/105488030/Between_the_Lines_Hokusai_in_His_Letters"
+  },
+  {
+    "url": "https://www.britishmuseum.org/blog/hokusai-and-oi-art-runs-family",
+    "status": 200,
+    "bytes": 181112,
+    "resolved_url": "https://www.britishmuseum.org/blog/hokusai-and-oi-art-runs-family"
+  },
+  {
+    "url": "https://www.britishmuseum.org/blog/hokusai-old-master",
+    "status": 200,
+    "bytes": 175511,
+    "resolved_url": "https://www.britishmuseum.org/blog/hokusai-old-master"
+  },
+  {
+    "url": "https://www.britishmuseum.org/blog/technique-making-good-impression",
+    "status": 200,
+    "bytes": 178133,
+    "resolved_url": "https://www.britishmuseum.org/blog/technique-making-good-impression"
+  },
+  {
+    "url": "https://www.britishmuseum.org/sites/default/files/2021-09/Hokusai_The_Great_Picture_Book_of_Everything_Large_Print_Guide.pdf",
+    "status": 200,
+    "bytes": 600171,
+    "resolved_url": "https://www.britishmuseum.org/sites/default/files/2021-09/Hokusai_The_Great_Picture_Book_of_Everything_Large_Print_Guide.pdf"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/36500",
+    "status": 200,
+    "bytes": 181181,
+    "resolved_url": "https://www.metmuseum.org/art/collection/search/36500"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/45434",
+    "status": 200,
+    "bytes": 224648,
+    "resolved_url": "https://www.metmuseum.org/art/collection/search/45434"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/45818",
+    "status": 200,
+    "bytes": 178341,
+    "resolved_url": "https://www.metmuseum.org/art/collection/search/45818"
+  },
+  {
+    "url": "https://www.metmuseum.org/art/collection/search/57805",
+    "status": 200,
+    "bytes": 191312,
+    "resolved_url": "https://www.metmuseum.org/art/collection/search/57805"
+  },
+  {
+    "url": "https://www.metmuseum.org/ja/met-publications/hokusai-the-metropolitan-museum-of-art-bulletin-v-43-no-1-summer-1985",
+    "status": 200,
+    "bytes": 252861,
+    "resolved_url": "https://www.metmuseum.org/ja/met-publications/hokusai-the-metropolitan-museum-of-art-bulletin-v-43-no-1-summer-1985"
+  },
+  {
+    "url": "https://fr.wikisource.org/wiki/Hokousa%C3%AF_(Goncourt)/Texte_entier",
+    "status": 200,
+    "bytes": 766038,
+    "resolved_url": "https://fr.wikisource.org/wiki/Hokousa%C3%AF_(Goncourt)/Texte_entier"
+  }
+]

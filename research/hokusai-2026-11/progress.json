@@ -1,0 +1,22 @@
+{
+  "person": "葛饰北斋",
+  "date": "2026-11-25",
+  "source": "_posts/2026-11-25-katsushika-hokusai.md",
+  "article_url": "https://qscqesze.github.io/posts/katsushika-hokusai/",
+  "target_hanzi_min": 4500,
+  "target_hanzi_max": 5500,
+  "body_hanzi": 4697,
+  "images": 4,
+  "notes": 12,
+  "images_local": 4,
+  "status": "ready_for_publication",
+  "completed": false,
+  "fact_review": "completed; see audit.md",
+  "language_review": "completed; see audit.md",
+  "deployment": {
+    "status": "not_started"
+  },
+  "schedule": "原任务与周期保留",
+  "next_action": "提交审定正文与图像，确认Pages及公开页后标completed",
+  "validation": "passed; validation.json"
+}
