@@ -9,14 +9,28 @@
   "images": 4,
   "notes": 12,
   "images_local": 4,
-  "status": "ready_for_publication",
-  "completed": false,
+  "status": "completed",
+  "completed": true,
   "fact_review": "completed; see audit.md",
   "language_review": "completed; see audit.md",
   "deployment": {
-    "status": "not_started"
+    "status": "success",
+    "runs": [
+      {
+        "id": 45525699774,
+        "name": "Deploy site to GitHub Pages",
+        "conclusion": "success"
+      },
+      {
+        "id": 45525698319,
+        "name": "pages build and deployment",
+        "conclusion": "success"
+      }
+    ]
   },
   "schedule": "原任务与周期保留",
-  "next_action": "提交审定正文与图像，确认Pages及公开页后标completed",
-  "validation": "passed; validation.json"
+  "next_action": "沿原周期继续未写人物；本篇已完成，不重复发布。原任务保留。",
+  "validation": "passed; validation.json",
+  "published_commit": "5667c3a3374cba09cf5a62062b0553e6791f2279",
+  "live_check": "passed; live-check.json"
 }

@@ -123,5 +123,19 @@
   ],
   "layout_method": "WeasyPrint static article fixtures using generated theme CSS and16px padding; not a JavaScript browser test",
   "site_links": "passed;196 HTML files",
-  "external_links": "15 unique source URLs; all HTTP200"
+  "external_links": "15 unique source URLs; all HTTP200",
+  "publication_commit": "5667c3a3374cba09cf5a62062b0553e6791f2279",
+  "deployment_runs": [
+    {
+      "id": 45525699774,
+      "name": "Deploy site to GitHub Pages",
+      "conclusion": "success"
+    },
+    {
+      "id": 45525698319,
+      "name": "pages build and deployment",
+      "conclusion": "success"
+    }
+  ],
+  "public_page": "passed; live-check.json"
 }

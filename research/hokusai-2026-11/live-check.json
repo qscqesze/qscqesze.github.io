@@ -1,0 +1,37 @@
+{
+  "url": "https://qscqesze.github.io/posts/katsushika-hokusai/",
+  "publication_commit": "5667c3a3374cba09cf5a62062b0553e6791f2279",
+  "http_status": 200,
+  "body_hanzi": 4697,
+  "images": [
+    {
+      "src": "/assets/images/biographies/hokusai/manga-1834.jpg",
+      "status": 200,
+      "sha256": "871fd51cd89a112b6432642084a0fdb7a4c1ba0f4fd24d8ecab8249fdf561727",
+      "bytes": 292026
+    },
+    {
+      "src": "/assets/images/biographies/hokusai/great-wave.jpg",
+      "status": 200,
+      "sha256": "31ca79809f1edd16afd7194940674fa7d036f9a447a7d41826c0c63cc8b913b4",
+      "bytes": 329153
+    },
+    {
+      "src": "/assets/images/biographies/hokusai/cooper-and-fuji.jpg",
+      "status": 200,
+      "sha256": "d1d8a92b904beedf9e59e6622926aa5845e72efc870b84421bbe82394bcf7089",
+      "bytes": 259230
+    },
+    {
+      "src": "/assets/images/biographies/hokusai/red-zhong-kui-1846.jpg",
+      "status": 200,
+      "sha256": "2a51884f440192ad94125c92f739ba10364c49f84227337a97c6b1cb63fd2a83",
+      "bytes": 249499
+    }
+  ],
+  "notes": 12,
+  "missing_note_targets": 0,
+  "author": "qscqesze",
+  "published_time": "2026-11-25T09:00:00+08:00",
+  "result": "passed"
+}

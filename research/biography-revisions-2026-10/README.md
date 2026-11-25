@@ -6,6 +6,8 @@
 
 ## 当前状态
 
+**当前完成（2026-11-25）：[《葛饰北斋：画稿与书商》](https://qscqesze.github.io/posts/katsushika-hokusai/)已发布。** 正文4,697汉字、4幅本地公版图像、12条注释，署名qscqesze。发布提交5667c3a3374cba09cf5a62062b0553e6791f2279；Pages工作流45525699774与45525698319均success。公开页计数、四图文件哈希、注释目标及署名日期通过；构建、5项测试、196页站内链接和15个外部来源链接检查通过。详见[研究与审读](../hokusai-2026-11/README.md)和[完成进度](../hokusai-2026-11/progress.json)。原三篇completed记录保留，下次沿原周期继续未写人物。
+
 **当前完成（2026-11-24）：[《内莉·布莱：收容院里的十天，环球路上的七十二天》](https://qscqesze.github.io/posts/nellie-bly/)已发布。** 按新标准正文4,611汉字、3幅本地历史图像、12注，署名qscqesze。发布提交117846e97dfc9bbd52fa966bfe2aadd87c580bc8；Pages工作流45303937729与45303936693均success。公开页计数、三图与注释目标、署名和发布日期已核；5项测试、192页链接检查及构建通过。详见[研究与审读](../nellie-bly-2026-11/README.md)和[完成进度](../nellie-bly-2026-11/progress.json)。原三篇completed状态保留；下次沿原周期继续未写人物，不重复发表布莱篇。
 
 **当前完成（2026-11-23）：[《安德鲁·卡内基：钢厂、合伙人与图书馆》](https://qscqesze.github.io/posts/andrew-carnegie/)已发布。** 正文18,458汉字、6幅本地历史图版、37条连续注释，署名qscqesze。正文提交d1bd9433fdf76c41a8650d8d7dbbc145cf49eb15，Pages工作流45095656272与45095655550均success；公开页正文、6图、37注已复核。5项测试、188页站内链接、14个外部来源及三种文章宽度检查通过。详见[研究与审读](../andrew-carnegie-2026-11/README.md)和[真实进度](../andrew-carnegie-2026-11/progress.json)。本次另复算三篇旧文，仍为18,088、18,219、18,377汉字、各6图，原文件与completed记录未改；原有周期保留，下次继续新人物，不重复发表本篇。

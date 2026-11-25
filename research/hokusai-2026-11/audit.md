@@ -22,4 +22,4 @@
 
 ## 检查与发布
 
-构建、链接与布局检查记入validation.json；部署成功并核对公开页以后，progress.json才标completed。原周期与任务保持；旧三篇completed记录未改。
+构建、链接与布局检查记入validation.json。发布提交5667c3a3374cba09cf5a62062b0553e6791f2279，两个Pages工作流均success；公开页计数、四图SHA256、12注目标、署名与日期通过，见live-check.json。progress.json已标completed。原周期与任务保持；旧三篇completed记录未改。
