@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-26",
+  "body_hanzi": 4601,
+  "hanzi_rule": "CJK unified/extensions A/compatibility ideographs and U+3007; exclude apparatus, headings, figures and byline",
+  "images": [
+    {
+      "src": "/assets/images/biographies/seacole/balaklava-1855.jpg",
+      "dimensions": [
+        1024,
+        822
+      ],
+      "bytes": 150293
+    },
+    {
+      "src": "/assets/images/biographies/seacole/british-hotel-1857.jpg",
+      "dimensions": [
+        700,
+        611
+      ],
+      "bytes": 195170
+    },
+    {
+      "src": "/assets/images/biographies/seacole/russell-preface-1857.jpg",
+      "dimensions": [
+        1086,
+        1500
+      ],
+      "bytes": 188000
+    }
+  ],
+  "notes": 11,
+  "missing_note_targets": 0,
+  "author": "qscqesze",
+  "jekyll_build": "passed; github-pages232/Jekyll3.10",
+  "pytest": "5 passed",
+  "translation_cache": "current",
+  "layout": [
+    {
+      "viewport_px": 360,
+      "image_bounds": [
+        [
+          16.0,
+          344.0,
+          263.3
+        ],
+        [
+          16.0,
+          344.0,
+          286.3
+        ],
+        [
+          16.0,
+          344.0,
+          453.04
+        ]
+      ],
+      "horizontal_image_overflow": false
+    },
+    {
+      "viewport_px": 768,
+      "image_bounds": [
+        [
+          16.0,
+          752.0,
+          590.81
+        ],
+        [
+          16.0,
+          716.0,
+          611.0
+        ],
+        [
+          16.0,
+          752.0,
+          1016.57
+        ]
+      ],
+      "horizontal_image_overflow": false
+    },
+    {
+      "viewport_px": 1440,
+      "image_bounds": [
+        [
+          16.0,
+          1040.0,
+          822.0
+        ],
+        [
+          16.0,
+          716.0,
+          611.0
+        ],
+        [
+          16.0,
+          1102.0,
+          1500.0
+        ]
+      ],
+      "horizontal_image_overflow": false
+    }
+  ],
+  "layout_method": "WeasyPrint static article fixtures with generated theme CSS and16px padding; no JavaScript browser claim",
+  "site_links": "passed;199 HTML files",
+  "build_seconds": 13.217,
+  "external_links": "8 existing URLs HTTP200;1 DOI resolves to Wiley, batch403/full-text opened via web retrieval;1 new research directory pending post-commit verification",
+  "mobile_visual_review": "360px proof inspected; readable Chinese; three image bounds checked"
+}

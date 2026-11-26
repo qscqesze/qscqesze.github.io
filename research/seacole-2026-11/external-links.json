@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://digital.library.upenn.edu/women/seacole/adventures/adventures.html",
+    "status": 200,
+    "resolved_url": "https://digital.library.upenn.edu/women/seacole/adventures/adventures.html"
+  },
+  {
+    "url": "https://doi.org/10.1002/nop2.32",
+    "status": 403,
+    "resolved_url": "https://onlinelibrary.wiley.com/doi/10.1002/nop2.32",
+    "verification": "Wiley full-text independently opened in web retrieval;title,author,3(1),5–18,2015 online publication verified; batch403 not a missing link"
+  },
+  {
+    "url": "https://github.com/GITenberg/Wonderful-Adventures-of-Mrs.-Seacole-in-Many-Lands_23031",
+    "status": 200,
+    "resolved_url": "https://github.com/GITenberg/Wonderful-Adventures-of-Mrs.-Seacole-in-Many-Lands_23031"
+  },
+  {
+    "url": "https://github.com/qscqesze/qscqesze.github.io/tree/master/research/seacole-2026-11",
+    "result": "new research path; verify after publication"
+  },
+  {
+    "url": "https://hotems.enl.uoa.gr/mrs-seacoles-british-hotels-1855/",
+    "status": 200,
+    "resolved_url": "https://hotems.enl.uoa.gr/mrs-seacoles-british-hotels-1855/"
+  },
+  {
+    "url": "https://www.english-heritage.org.uk/visit/blue-plaques/mary-seacole/",
+    "status": 200,
+    "resolved_url": "https://www.english-heritage.org.uk/visit/blue-plaques/mary-seacole/"
+  },
+  {
+    "url": "https://www.loc.gov/pictures/collection/ftncnw/item/2001698812/",
+    "status": 200,
+    "resolved_url": "https://www.loc.gov/pictures/collection/ftncnw/item/2001698812/"
+  },
+  {
+    "url": "https://www.npg.org.uk/collections/search/personExtended/mp70879/mary-jane-seacole-nee-grant?tab=biography",
+    "status": 200,
+    "resolved_url": "https://www.npg.org.uk/collections/search/personExtended/mp70879/mary-jane-seacole-nee-grant?tab=biography"
+  },
+  {
+    "url": "https://www.npg.org.uk/collections/search/personExtended/mp70879/mary-jane-seacole-nee-grant?tab=iconography",
+    "status": 200,
+    "resolved_url": "https://www.npg.org.uk/collections/search/personExtended/mp70879/mary-jane-seacole-nee-grant?tab=iconography"
+  },
+  {
+    "url": "https://www.smithsonianmag.com/history/a-historians-quest-to-unravel-the-secrets-of-mary-seacole-an-innovative-long-overlooked-black-nurse-180980527/",
+    "status": 200,
+    "resolved_url": "https://www.smithsonianmag.com/history/a-historians-quest-to-unravel-the-secrets-of-mary-seacole-an-innovative-long-overlooked-black-nurse-180980527/"
+  }
+]

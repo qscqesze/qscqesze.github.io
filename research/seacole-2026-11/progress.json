@@ -1,0 +1,22 @@
+{
+  "person": "玛丽·西科尔",
+  "date": "2026-11-26",
+  "source": "_posts/2026-11-26-mary-seacole.md",
+  "article_url": "https://qscqesze.github.io/posts/mary-seacole/",
+  "target_hanzi_min": 4500,
+  "target_hanzi_max": 5500,
+  "body_hanzi": 4601,
+  "images": 3,
+  "notes": 11,
+  "images_local": 3,
+  "status": "ready_for_publication",
+  "completed": false,
+  "fact_review": "completed; audit.md",
+  "language_review": "completed; audit.md",
+  "deployment": {
+    "status": "not_started"
+  },
+  "validation": "passed;validation.json",
+  "next_action": "提交正文、图像和研究记录，核对Pages与公开页，再标completed",
+  "schedule": "原任务与发布周期保留"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "file": "british-hotel-1857.jpg",
+    "title": "Mrs. Seacole’s Hotel in the Crimea",
+    "creator": "未署名；NPG目录认为可能为Henry George Hine",
+    "date": "1857",
+    "collection": "Wonderful Adventures, James Blackwood, London,1857；Gutenberg/GITenberg数字书影",
+    "license": "Public domain; anonymous 1857 publication, expired copyright",
+    "source_page": "https://www.npg.org.uk/collections/search/personExtended/mp70879/mary-jane-seacole-nee-grant?tab=iconography",
+    "original_url": "https://raw.githubusercontent.com/GITenberg/Wonderful-Adventures-of-Mrs.-Seacole-in-Many-Lands_23031/master/23031-h/images/seacole01.png",
+    "path": "assets/images/biographies/seacole/british-hotel-1857.jpg",
+    "dimensions": [
+      700,
+      611
+    ],
+    "bytes": 195170,
+    "sha256": "3413001803ec84fb1faa2ebdead761f7bdd049004f1b3bdae5a77b130984d0f2",
+    "processing": "等比缩小并转JPEG；无裁切、修复、补画或生成内容"
+  },
+  {
+    "file": "balaklava-1855.jpg",
+    "title": "The town of Balaklava",
+    "creator": "Roger Fenton (1819–1869)",
+    "date": "1855",
+    "collection": "Library of Congress, PH - Fenton (R.), no.93; LC-USZC4-9211",
+    "license": "No known restrictions on publication; public domain",
+    "source_page": "https://www.loc.gov/item/2001698812/",
+    "original_url": "https://cdn.loc.gov/service/pnp/cph/3g00000/3g09000/3g09200/3g09211v.jpg",
+    "path": "assets/images/biographies/seacole/balaklava-1855.jpg",
+    "dimensions": [
+      1024,
+      822
+    ],
+    "bytes": 150293,
+    "sha256": "b3a249770d9e22db3e2d7fc56bed14080cc78ce1c57472fb8fed1f4010e83adb",
+    "processing": "等比缩小并转JPEG；无裁切、修复、补画或生成内容"
+  },
+  {
+    "file": "russell-preface-1857.jpg",
+    "title": "To the Reader,序言首页",
+    "creator": "W.H.Russell, text; James Blackwood, publisher",
+    "date": "1857",
+    "collection": "Wonderful Adventures,1857,原版页vii，GITenberg f005.png",
+    "license": "Public domain; 1857 print and expired author copyright",
+    "source_page": "https://github.com/GITenberg/Wonderful-Adventures-of-Mrs.-Seacole-in-Many-Lands_23031/tree/master/23031-page-images",
+    "original_url": "https://raw.githubusercontent.com/GITenberg/Wonderful-Adventures-of-Mrs.-Seacole-in-Many-Lands_23031/master/23031-page-images/f005.png",
+    "path": "assets/images/biographies/seacole/russell-preface-1857.jpg",
+    "dimensions": [
+      1086,
+      1500
+    ],
+    "bytes": 188000,
+    "sha256": "140dc9ba4e3fdc0d5adee39f1dfcca5b89d15a34377e5834f09a643f37136c9c",
+    "processing": "等比缩小并转JPEG；无裁切、修复、补画或生成内容"
+  }
+]
