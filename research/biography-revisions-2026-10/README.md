@@ -6,6 +6,8 @@
 
 ## 当前状态
 
+**当前完成（2026-11-26）：[《玛丽·西科尔：战地旅店的账与药箱》](https://qscqesze.github.io/posts/mary-seacole/)已发布。** 正文4,601汉字、3幅本地公版图像、11组连续注释，署名qscqesze。发布提交06008eb5b6e8cfbaa8b2df01656903b525453814；Pages工作流45734679721与45734680343均success。公开页正文、三图SHA256、注释目标及署名日期已核对；构建、5项测试、199页站内链接与三种文章宽度检查通过。详见[研究与审读](../seacole-2026-11/README.md)和[完成进度](../seacole-2026-11/progress.json)。原三篇completed记录保留，下次沿原周期继续未写人物。
+
 **当前完成（2026-11-25）：[《葛饰北斋：画稿与书商》](https://qscqesze.github.io/posts/katsushika-hokusai/)已发布。** 正文4,697汉字、4幅本地公版图像、12条注释，署名qscqesze。发布提交5667c3a3374cba09cf5a62062b0553e6791f2279；Pages工作流45525699774与45525698319均success。公开页计数、四图文件哈希、注释目标及署名日期通过；构建、5项测试、196页站内链接和15个外部来源链接检查通过。详见[研究与审读](../hokusai-2026-11/README.md)和[完成进度](../hokusai-2026-11/progress.json)。原三篇completed记录保留，下次沿原周期继续未写人物。
 
 **当前完成（2026-11-24）：[《内莉·布莱：收容院里的十天，环球路上的七十二天》](https://qscqesze.github.io/posts/nellie-bly/)已发布。** 按新标准正文4,611汉字、3幅本地历史图像、12注，署名qscqesze。发布提交117846e97dfc9bbd52fa966bfe2aadd87c580bc8；Pages工作流45303937729与45303936693均success。公开页计数、三图与注释目标、署名和发布日期已核；5项测试、192页链接检查及构建通过。详见[研究与审读](../nellie-bly-2026-11/README.md)和[完成进度](../nellie-bly-2026-11/progress.json)。原三篇completed状态保留；下次沿原周期继续未写人物，不重复发表布莱篇。

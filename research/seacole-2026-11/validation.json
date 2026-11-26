@@ -102,6 +102,20 @@
   "layout_method": "WeasyPrint static article fixtures with generated theme CSS and16px padding; no JavaScript browser claim",
   "site_links": "passed;199 HTML files",
   "build_seconds": 13.217,
-  "external_links": "8 existing URLs HTTP200;1 DOI resolves to Wiley, batch403/full-text opened via web retrieval;1 new research directory pending post-commit verification",
-  "mobile_visual_review": "360px proof inspected; readable Chinese; three image bounds checked"
+  "external_links": "8 existing URLs HTTP200;1 DOI verified through Wiley full-text web retrieval despite batch403;new research directory HTTP200 after commit",
+  "mobile_visual_review": "360px proof inspected; readable Chinese; three image bounds checked",
+  "publication_commit": "06008eb5b6e8cfbaa8b2df01656903b525453814",
+  "deployment_runs": [
+    {
+      "id": 45734679721,
+      "name": "pages build and deployment",
+      "conclusion": "success"
+    },
+    {
+      "id": 45734680343,
+      "name": "Deploy site to GitHub Pages",
+      "conclusion": "success"
+    }
+  ],
+  "public_page": "passed;live-check.json"
 }

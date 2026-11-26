@@ -1,0 +1,32 @@
+{
+  "url": "https://qscqesze.github.io/posts/mary-seacole/",
+  "checked_commit": "06008eb5b6e8cfbaa8b2df01656903b525453814",
+  "http_status": 200,
+  "body_hanzi": 4601,
+  "images": [
+    {
+      "src": "/assets/images/biographies/seacole/balaklava-1855.jpg",
+      "status": 200,
+      "sha256": "b3a249770d9e22db3e2d7fc56bed14080cc78ce1c57472fb8fed1f4010e83adb",
+      "bytes": 150293
+    },
+    {
+      "src": "/assets/images/biographies/seacole/british-hotel-1857.jpg",
+      "status": 200,
+      "sha256": "3413001803ec84fb1faa2ebdead761f7bdd049004f1b3bdae5a77b130984d0f2",
+      "bytes": 195170
+    },
+    {
+      "src": "/assets/images/biographies/seacole/russell-preface-1857.jpg",
+      "status": 200,
+      "sha256": "140dc9ba4e3fdc0d5adee39f1dfcca5b89d15a34377e5834f09a643f37136c9c",
+      "bytes": 188000
+    }
+  ],
+  "notes": 11,
+  "missing_note_targets": 0,
+  "author": "qscqesze",
+  "published_time": "2026-11-26T09:00:00+08:00",
+  "research_directory_status": 200,
+  "result": "passed"
+}
