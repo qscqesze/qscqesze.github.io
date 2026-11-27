@@ -1,0 +1,40 @@
+{
+  "article_url": "https://qscqesze.github.io/posts/thomas-paine/",
+  "status": 200,
+  "body_hanzi": 4595,
+  "author": "qscqesze",
+  "date": "2026-11-27",
+  "images": [
+    {
+      "src": "/assets/images/biographies/paine/common-sense-1776.jpg",
+      "status": 200,
+      "dimensions": [
+        490,
+        800
+      ],
+      "sha256": "dc8fe9cb8f61a9d140052534994e51c90f6e0fa38ec4ffbe634281099073ca0b"
+    },
+    {
+      "src": "/assets/images/biographies/paine/rights-of-man-1791.jpg",
+      "status": 200,
+      "dimensions": [
+        1000,
+        1696
+      ],
+      "sha256": "3263c7e287a1e686f1bbbc584af30e3d3732811cf26eceb7f2039199127d7f73"
+    },
+    {
+      "src": "/assets/images/biographies/paine/paine-sharp-1793.jpg",
+      "status": 200,
+      "dimensions": [
+        821,
+        1024
+      ],
+      "sha256": "fc1efd8d411b5d0ceae53815797db1c40e88440c579da82500bdf15e1308d888"
+    }
+  ],
+  "notes": 13,
+  "missing_note_targets": 0,
+  "publication_commit": "153a7e04006922acbd305be0e294034c6a75bdc3",
+  "result": "passed"
+}

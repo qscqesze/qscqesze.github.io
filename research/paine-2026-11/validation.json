@@ -77,5 +77,19 @@
   "layout_method": "WeasyPrint static article fixtures with generated theme CSS, not a JavaScript browser test",
   "external_links": "7 normal GET200;7 TPHA native batch403 but actual full-text web retrieval successful;see external-links.json",
   "site_links": "passed;203 HTML files",
-  "mobile_visual_review": "360px proof inspected; Chinese readable, image bounds verified at360/768/1440; rendered body count4595"
+  "mobile_visual_review": "360px proof inspected; Chinese readable, image bounds verified at360/768/1440; rendered body count4595",
+  "publication_commit": "153a7e04006922acbd305be0e294034c6a75bdc3",
+  "deployment_runs": [
+    {
+      "id": 45921505567,
+      "name": "Deploy site to GitHub Pages",
+      "conclusion": "success"
+    },
+    {
+      "id": 45921504654,
+      "name": "pages build and deployment",
+      "conclusion": "success"
+    }
+  ],
+  "public_page": "passed;live-check.json"
 }
