@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-27",
+  "body_hanzi": 4595,
+  "images": 3,
+  "notes": 13,
+  "hanzi_rule": "CJK unified/extensions A/compatibility and U+3007; excludes frontmatter, headings, figures/captions, byline, notes/bibliography via body-end marker",
+  "author": "qscqesze",
+  "missing_note_targets": 0,
+  "jekyll_build": "passed; github-pages232 / Jekyll3.10;15.732 seconds",
+  "pytest": "5 passed",
+  "translation_cache": "current",
+  "layout": [
+    {
+      "viewport_px": 360,
+      "image_bounds": [
+        [
+          16.0,
+          344.0,
+          535.51
+        ],
+        [
+          16.0,
+          344.0,
+          556.29
+        ],
+        [
+          16.0,
+          344.0,
+          409.1
+        ]
+      ],
+      "horizontal_image_overflow": false
+    },
+    {
+      "viewport_px": 768,
+      "image_bounds": [
+        [
+          16.0,
+          506.0,
+          800.0
+        ],
+        [
+          16.0,
+          752.0,
+          1248.26
+        ],
+        [
+          16.0,
+          752.0,
+          917.98
+        ]
+      ],
+      "horizontal_image_overflow": false
+    },
+    {
+      "viewport_px": 1440,
+      "image_bounds": [
+        [
+          16.0,
+          506.0,
+          800.0
+        ],
+        [
+          16.0,
+          1016.0,
+          1696.0
+        ],
+        [
+          16.0,
+          837.0,
+          1024.0
+        ]
+      ],
+      "horizontal_image_overflow": false
+    }
+  ],
+  "layout_method": "WeasyPrint static article fixtures with generated theme CSS, not a JavaScript browser test",
+  "external_links": "7 normal GET200;7 TPHA native batch403 but actual full-text web retrieval successful;see external-links.json",
+  "site_links": "passed;203 HTML files",
+  "mobile_visual_review": "360px proof inspected; Chinese readable, image bounds verified at360/768/1440; rendered body count4595"
+}

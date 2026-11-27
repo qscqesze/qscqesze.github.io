@@ -1,0 +1,79 @@
+[
+  {
+    "url": "https://collections.libraries.indiana.edu/lilly/exhibitions/items/show/1778",
+    "status": 200,
+    "bytes": 12895
+  },
+  {
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "status": 200,
+    "bytes": 37890
+  },
+  {
+    "url": "https://plato.stanford.edu/entries/paine/",
+    "status": 200,
+    "bytes": 76816
+  },
+  {
+    "url": "https://press-pubs.uchicago.edu/founders/documents/a1_8_4_citizenships11.html",
+    "status": 200,
+    "bytes": 11428
+  },
+  {
+    "url": "https://thomaspaine.org/biographies/life-of-thomas-paine-vol-i-by-moncure-conway/",
+    "status": 403,
+    "bytes": 2460,
+    "alternate_verification": "Full text successfully opened through web retrieval 2026-11-27; source was also downloaded/read before batch check; native batch403 is client-specific access restriction, no bypass attempted"
+  },
+  {
+    "url": "https://thomaspaine.org/biographies/life-of-thomas-paine-vol-ii-by-moncure-conway/",
+    "status": 403,
+    "bytes": 2460,
+    "alternate_verification": "Full text successfully opened through web retrieval 2026-11-27; source was also downloaded/read before batch check; native batch403 is client-specific access restriction, no bypass attempted"
+  },
+  {
+    "url": "https://thomaspaine.org/french-revolution/reasons-for-preserving-the-life-of-louis-capet/",
+    "status": 403,
+    "bytes": 2460,
+    "alternate_verification": "Full text successfully opened through web retrieval 2026-11-27; source was also downloaded/read before batch check; native batch403 is client-specific access restriction, no bypass attempted"
+  },
+  {
+    "url": "https://thomaspaine.org/letters/to-james-monroe-october-13-1794/",
+    "status": 403,
+    "bytes": 2460,
+    "alternate_verification": "Full text successfully opened through web retrieval 2026-11-27; source was also downloaded/read before batch check; native batch403 is client-specific access restriction, no bypass attempted"
+  },
+  {
+    "url": "https://thomaspaine.org/letters/to-james-monroe-september-14-1794/",
+    "status": 403,
+    "bytes": 2460,
+    "alternate_verification": "Full text successfully opened through web retrieval 2026-11-27; source was also downloaded/read before batch check; native batch403 is client-specific access restriction, no bypass attempted"
+  },
+  {
+    "url": "https://thomaspaine.org/major-works/common-sense/",
+    "status": 403,
+    "bytes": 2460,
+    "alternate_verification": "Full text successfully opened through web retrieval 2026-11-27; source was also downloaded/read before batch check; native batch403 is client-specific access restriction, no bypass attempted"
+  },
+  {
+    "url": "https://thomaspaine.org/major-works/letter-to-george-washington/",
+    "status": 403,
+    "bytes": 2460,
+    "alternate_verification": "Full text successfully opened through web retrieval 2026-11-27; source was also downloaded/read before batch check; native batch403 is client-specific access restriction, no bypass attempted"
+  },
+  {
+    "url": "https://www.loc.gov/pictures/collection/pga/item/93504024/",
+    "status": 200,
+    "bytes": 33271
+  },
+  {
+    "url": "https://www.luminarium.org/renascence-editions/reason1.html",
+    "status": 200,
+    "bytes": 155197
+  },
+  {
+    "url": "https://wythepedia.wm.edu/index.php?title=File:PaineRightsofMan1791.jpg",
+    "status": 200,
+    "bytes": 21528
+  }
+]

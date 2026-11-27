@@ -1,0 +1,22 @@
+{
+  "person": "托马斯·潘恩",
+  "date": "2026-11-27",
+  "source": "_posts/2026-11-27-thomas-paine.md",
+  "article_url": "https://qscqesze.github.io/posts/thomas-paine/",
+  "target_hanzi_min": 4500,
+  "target_hanzi_max": 5500,
+  "body_hanzi": 4595,
+  "images": 3,
+  "notes": 13,
+  "images_local": 3,
+  "status": "ready_for_publication",
+  "completed": false,
+  "fact_review": "completed;audit.md",
+  "language_review": "completed;audit.md",
+  "validation": "passed;validation.json",
+  "deployment": {
+    "status": "pending"
+  },
+  "schedule": "原任务与发布周期保留",
+  "next_action": "提交达标稿，确认Pages和公开页后更新completed"
+}

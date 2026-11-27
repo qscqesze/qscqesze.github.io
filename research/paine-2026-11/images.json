@@ -1,0 +1,56 @@
+[
+  {
+    "file": "common-sense-1776.jpg",
+    "title": "Common Sense书名页",
+    "creator": "Thomas Paine；Robert Bell印行",
+    "date": "1776",
+    "collection": "Indiana University Lilly Library, JC178 .B713 Vault",
+    "license": "Public domain original; faithful two-dimensional reproduction of 1776 print",
+    "source_page": "https://collections.libraries.indiana.edu/lilly/exhibitions/items/show/1778",
+    "original_url": "https://collections.libraries.indiana.edu/lilly/exhibitions/files/fullsize/ee73d8e55f800d9b625145acd89a60e7.jpg",
+    "path": "assets/images/biographies/paine/common-sense-1776.jpg",
+    "dimensions": [
+      490,
+      800
+    ],
+    "bytes": 78684,
+    "sha256": "dc8fe9cb8f61a9d140052534994e51c90f6e0fa38ec4ffbe634281099073ca0b",
+    "processing": "原比例，无裁切补画或生成；两图JPEG优化压缩，Rights书影保留已压缩原文件"
+  },
+  {
+    "file": "rights-of-man-1791.jpg",
+    "title": "Rights of Man第一部第八版书名页",
+    "creator": "Thomas Paine；J.S.Jordan印行",
+    "date": "1791",
+    "collection": "William & Mary, Wolf Law Library, George Wythe Collection",
+    "license": "Public domain underlying print; source website CC BY-NC-SA3.0, image retained under same license; attribution and license link in caption",
+    "source_page": "https://wythepedia.wm.edu/index.php?title=File:PaineRightsofMan1791.jpg",
+    "original_url": "https://wythepedia.wm.edu/images/9/93/PaineRightsofMan1791.jpg",
+    "path": "assets/images/biographies/paine/rights-of-man-1791.jpg",
+    "dimensions": [
+      1000,
+      1696
+    ],
+    "bytes": 59337,
+    "sha256": "3263c7e287a1e686f1bbbc584af30e3d3732811cf26eceb7f2039199127d7f73",
+    "processing": "原比例，无裁切补画或生成；两图JPEG优化压缩，Rights书影保留已压缩原文件"
+  },
+  {
+    "file": "paine-sharp-1793.jpg",
+    "title": "Thomas Paine",
+    "creator": "William Sharp, after George Romney",
+    "date": "1793-04-20",
+    "collection": "Library of Congress, LC-DIG-pga-12728",
+    "license": "No known restrictions on publication; original public domain",
+    "source_page": "https://www.loc.gov/pictures/collection/pga/item/93504024/",
+    "original_url": "https://cdn.loc.gov/service/pnp/pga/12700/12728v.jpg",
+    "path": "assets/images/biographies/paine/paine-sharp-1793.jpg",
+    "dimensions": [
+      821,
+      1024
+    ],
+    "bytes": 285254,
+    "sha256": "fc1efd8d411b5d0ceae53815797db1c40e88440c579da82500bdf15e1308d888",
+    "processing": "原比例，无裁切补画或生成；两图JPEG优化压缩，Rights书影保留已压缩原文件"
+  }
+]
