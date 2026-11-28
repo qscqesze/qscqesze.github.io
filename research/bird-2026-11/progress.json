@@ -1,0 +1,22 @@
+{
+  "person": "伊莎贝拉·伯德",
+  "date": "2026-11-28",
+  "source": "_posts/2026-11-28-isabella-bird.md",
+  "article_url": "https://qscqesze.github.io/posts/isabella-bird/",
+  "target_hanzi_min": 4500,
+  "target_hanzi_max": 5500,
+  "body_hanzi": 4578,
+  "images": 3,
+  "images_local": 3,
+  "notes": 11,
+  "status": "ready_for_publication",
+  "completed": false,
+  "fact_review": "completed;audit.md",
+  "language_review": "completed;audit.md",
+  "validation": "passed;validation.json",
+  "deployment": {
+    "status": "pending"
+  },
+  "schedule": "原任务与发布周期保留",
+  "next_action": "提交达标稿，确认Pages及公开页后更新completed"
+}

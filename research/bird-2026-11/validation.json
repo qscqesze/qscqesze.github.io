@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-28",
+  "body_hanzi": 4578,
+  "images": 3,
+  "notes": 11,
+  "rendered_hanzi": 4578,
+  "hanzi_rule": "CJK unified/extensions A/compatibility and U+3007; exclude frontmatter/headings/byline/figures/captions/notes/bibliography using body-end marker",
+  "author": "qscqesze",
+  "images_local": 3,
+  "missing_note_targets": 0,
+  "jekyll_build": "passed;github-pages232/Jekyll3.10",
+  "pytest": "5 passed",
+  "translation_cache": "current",
+  "external_links": "8 existing source URLs HTTP200;new research directory to be checked after commit",
+  "site_links": "passed;206 HTML files",
+  "layout": [
+    {
+      "viewport_px": 360,
+      "image_bounds": [
+        [
+          16.0,
+          344.0,
+          220.85
+        ],
+        [
+          16.0,
+          344.0,
+          559.84
+        ],
+        [
+          16.0,
+          344.0,
+          191.06
+        ]
+      ],
+      "horizontal_image_overflow": false
+    },
+    {
+      "viewport_px": 768,
+      "image_bounds": [
+        [
+          16.0,
+          752.0,
+          495.57
+        ],
+        [
+          16.0,
+          752.0,
+          1256.22
+        ],
+        [
+          16.0,
+          752.0,
+          428.72
+        ]
+      ],
+      "horizontal_image_overflow": false
+    },
+    {
+      "viewport_px": 1440,
+      "image_bounds": [
+        [
+          16.0,
+          1424.0,
+          948.05
+        ],
+        [
+          16.0,
+          954.0,
+          1601.0
+        ],
+        [
+          16.0,
+          1424.0,
+          820.16
+        ]
+      ],
+      "horizontal_image_overflow": false
+    }
+  ],
+  "layout_method": "WeasyPrint static article fixtures with generated theme CSS; no JavaScript browser claim",
+  "mobile_visual_review": "360px proof inspected;Chinese readable;three images fit360/768/1440 widths",
+  "build_seconds": 20.752
+}

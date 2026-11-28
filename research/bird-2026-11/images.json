@@ -1,0 +1,63 @@
+[
+  {
+    "file": "bird-before-marriage.jpg",
+    "title": "Isabella Lucy Bird just before her Marriage",
+    "creator": "J. Moffat, Edinburgh; photogravure reproduction",
+    "date": "circa1881; published1906",
+    "collection": "Wellcome Collection M8130, Stoddart The Life of Isabella Bird, London:John Murray,1906, 138 facing",
+    "license": "Public Domain Mark1.0",
+    "source_page": "https://wellcomecollection.org/works/naz96mkj",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "manifest": "https://iiif.wellcomecollection.org/presentation/v2/b31358962",
+    "original_url": "https://iiif.wellcomecollection.org/image/b31358962_0183.jp2/full/!1600,1600/0/default.jpg",
+    "path": "assets/images/biographies/bird/bird-before-marriage.jpg",
+    "dimensions": [
+      938,
+      1601
+    ],
+    "bytes": 148196,
+    "sha256": "07081cbea57cef73aeadccaaedb5607c60bdcbe08c71c0f5b35a3daf1751111d",
+    "processing": "整页等比请求并JPEG优化；无裁切补画。队伍页顺时针90度转正，其余未旋转。"
+  },
+  {
+    "file": "asia-map-1906.jpg",
+    "title": "Part of Asia",
+    "creator": "John Bartholomew & Co.; John Murray, publisher",
+    "date": "1906 publication",
+    "collection": "Wellcome Collection M8130, Stoddart The Life of Isabella Bird, London:John Murray,1906, end map",
+    "license": "Public Domain Mark1.0",
+    "source_page": "https://wellcomecollection.org/works/naz96mkj",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "manifest": "https://iiif.wellcomecollection.org/presentation/v2/b31358962",
+    "original_url": "https://iiif.wellcomecollection.org/image/b31358962_0513.jp2/full/!1600,1600/0/default.jpg",
+    "path": "assets/images/biographies/bird/asia-map-1906.jpg",
+    "dimensions": [
+      1601,
+      1078
+    ],
+    "bytes": 383425,
+    "sha256": "3d120cac747275c4bdf4dad0b283318c5236269abe99cdca913e86cb5649a834",
+    "processing": "整页等比请求并JPEG优化；无裁切补画。队伍页顺时针90度转正，其余未旋转。"
+  },
+  {
+    "file": "travelling-party.jpg",
+    "title": "Mrs. Bishop’s Travelling Party",
+    "creator": "Isabella L. Bird (photographer);1906 print reproduction",
+    "date": "Korea,circa1894–1895;1906 reproduction",
+    "collection": "Wellcome Collection M8130, Stoddart The Life of Isabella Bird, London:John Murray,1906, 306 facing",
+    "license": "Public Domain Mark1.0",
+    "source_page": "https://wellcomecollection.org/works/naz96mkj",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "manifest": "https://iiif.wellcomecollection.org/presentation/v2/b31358962",
+    "original_url": "https://iiif.wellcomecollection.org/image/b31358962_0379.jp2/full/!1600,1600/0/default.jpg",
+    "path": "assets/images/biographies/bird/travelling-party.jpg",
+    "dimensions": [
+      1600,
+      932
+    ],
+    "bytes": 278480,
+    "sha256": "01f8dab975cb0e9fd2eb92c4ca169a3691253c9345981d354425aa349b2f2a59",
+    "processing": "整页等比请求并JPEG优化；无裁切补画。队伍页顺时针90度转正，其余未旋转。",
+    "identification_source": "Burglind Jungmann,2023,Chosŏn Entering the International Arena,p8,fig2;Stoddart1906 p306 Korean-party account"
+  }
+]

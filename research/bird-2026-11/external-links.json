@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://archive.org/details/b31358962",
+    "status": 200,
+    "bytes": 272253
+  },
+  {
+    "url": "https://archive.org/details/unbeatentracksin00birdiala",
+    "status": 200,
+    "bytes": 259230
+  },
+  {
+    "url": "https://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-718-0/978-88-6969-718-0-ch-01_07LQruX.pdf",
+    "status": 200,
+    "bytes": 3824888
+  },
+  {
+    "url": "https://github.com/qscqesze/qscqesze.github.io/tree/master/research/bird-2026-11",
+    "status": "pending_publication",
+    "reason": "new directory will be created by publication commit"
+  },
+  {
+    "url": "https://npshistory.com/series/berkeley/rensch3/rensch3f.htm",
+    "status": 200,
+    "bytes": 11655
+  },
+  {
+    "url": "https://raw.githubusercontent.com/GITenberg/A-Lady-s-Life-in-the-Rocky-Mountains_755/master/755.txt",
+    "status": 200,
+    "bytes": 438651
+  },
+  {
+    "url": "https://wellcomecollection.org/works/naz96mkj",
+    "status": 200,
+    "bytes": 111015
+  },
+  {
+    "url": "https://www.japanesestudies.org.uk/articles/2008/Elliott.html",
+    "status": 200,
+    "bytes": 69821
+  },
+  {
+    "url": "https://www.rgs.org/schools/resources-for-schools/gender-inequality-and-women-in-geography",
+    "status": 200,
+    "bytes": 236891
+  }
+]
