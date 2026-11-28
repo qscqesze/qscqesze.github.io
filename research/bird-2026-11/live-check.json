@@ -1,0 +1,40 @@
+{
+  "article_url": "https://qscqesze.github.io/posts/isabella-bird/",
+  "status": 200,
+  "body_hanzi": 4578,
+  "author": "qscqesze",
+  "date": "2026-11-28",
+  "images": [
+    {
+      "src": "/assets/images/biographies/bird/asia-map-1906.jpg",
+      "status": 200,
+      "dimensions": [
+        1601,
+        1078
+      ],
+      "sha256": "3d120cac747275c4bdf4dad0b283318c5236269abe99cdca913e86cb5649a834"
+    },
+    {
+      "src": "/assets/images/biographies/bird/bird-before-marriage.jpg",
+      "status": 200,
+      "dimensions": [
+        938,
+        1601
+      ],
+      "sha256": "07081cbea57cef73aeadccaaedb5607c60bdcbe08c71c0f5b35a3daf1751111d"
+    },
+    {
+      "src": "/assets/images/biographies/bird/travelling-party.jpg",
+      "status": 200,
+      "dimensions": [
+        1600,
+        932
+      ],
+      "sha256": "01f8dab975cb0e9fd2eb92c4ca169a3691253c9345981d354425aa349b2f2a59"
+    }
+  ],
+  "notes": 11,
+  "missing_note_targets": 0,
+  "publication_commit": "d0ec2b809f878098559d7e19ec9b44c595cc2731",
+  "result": "passed"
+}

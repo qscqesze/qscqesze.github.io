@@ -11,7 +11,7 @@
   "jekyll_build": "passed;github-pages232/Jekyll3.10",
   "pytest": "5 passed",
   "translation_cache": "current",
-  "external_links": "8 existing source URLs HTTP200;new research directory to be checked after commit",
+  "external_links": "9 URLs HTTP200, including published GitHub research directory",
   "site_links": "passed;206 HTML files",
   "layout": [
     {
@@ -80,5 +80,19 @@
   ],
   "layout_method": "WeasyPrint static article fixtures with generated theme CSS; no JavaScript browser claim",
   "mobile_visual_review": "360px proof inspected;Chinese readable;three images fit360/768/1440 widths",
-  "build_seconds": 20.752
+  "build_seconds": 20.752,
+  "publication_commit": "d0ec2b809f878098559d7e19ec9b44c595cc2731",
+  "deployment_runs": [
+    {
+      "id": 46092726185,
+      "name": "Deploy site to GitHub Pages",
+      "conclusion": "success"
+    },
+    {
+      "id": 46092725141,
+      "name": "pages build and deployment",
+      "conclusion": "success"
+    }
+  ],
+  "public_page": "passed;live-check.json"
 }
